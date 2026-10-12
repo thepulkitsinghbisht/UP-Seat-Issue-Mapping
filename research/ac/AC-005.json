@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Saharanpur",
   "region": "Paschim UP",
-  "summary": "Sourced local evidence is thin: the only district-specific complaints found are unpaid sugarcane dues and a demand for a better cane price, while most civic complaints (water, drains, power, roads) are unverified inference.",
+  "summary": "Sourced Deoband evidence now covers monsoon flooding of roads and the government hospital, power tripping in the industrial area, and district-level cane dues, while town-level jams, low voltage and bazaar life remain unverified inference.",
   "identity_source": "https://en.wikipedia.org/wiki/Deoband_Assembly_constituency",
   "positives": [
     {
@@ -13,11 +13,25 @@
       "english": "*Darul Uloom's name keeps Deoband known across the country",
       "hindi": "*दारुल उलूम से देवबंद की पहचान देश-विदेश तक है",
       "inference": true,
-      "basis": "Inference: no source opened for this claim; Darul Uloom's presence in Deoband is well known but was not verified in this session.",
+      "basis": "Inference: no source opened for the reputation claim. The Amar Ujala 23 Aug 2026 Deoband report does confirm that Darul Uloom is in Deoband (it names 'दारुल उलूम की सड़कें'), but says nothing about its reputation.",
       "sources": []
     },
     {
       "rank": 2,
+      "english": "Saharanpur's sports college, stalled since 2011, is now complete and admitting athletes",
+      "hindi": "सहारनपुर का खेल कॉलेज, जो 2011 से अधूरा था, अब बन गया",
+      "inference": false,
+      "basis": "District-level (Saharanpur city, not Deoband town), dated 1 July 2026: the college, 'pending since 2011', was completed; 80 seats reserved for athletes; 'Its academic session has started from 2026-27.' Free Press Journal, a national outlet.",
+      "sources": [
+        {
+          "outlet": "Free Press Journal",
+          "date": "2026-07-01",
+          "url": "https://www.freepressjournal.in/uttar-pradesh/uttar-pradesh-cm-yogi-adityanath-highlights-rapid-development-push-in-saharanpur-launches-education-drive-and-sports-college-expansion"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "english": "*Local bazaar and shops stay open and busy through the day",
       "hindi": "*देवबंद का बाज़ार दिनभर खुला रहता है, दुकानें चलती रहती हैं",
       "inference": true,
@@ -25,19 +39,11 @@
       "sources": []
     },
     {
-      "rank": 3,
+      "rank": 4,
       "english": "*Students come from far away to study in Deoband's schools",
       "hindi": "*दूर-दूर से छात्र यहाँ पढ़ने आते हैं, शिक्षा का नाम है",
       "inference": true,
       "basis": "Inference: no source opened for this claim; linked to the Darul Uloom profile of the town, not verified.",
-      "sources": []
-    },
-    {
-      "rank": 4,
-      "english": "*Municipal board claims it supplies water and sewage to homes",
-      "hindi": "*नगर पालिका का दावा है कि घरों तक नल और नाली की सुविधा है",
-      "inference": true,
-      "basis": "Inference: the Wikipedia Deoband page says Deoband Nagar Palika Parishad 'supplies basic amenities like water and sewage' (tagged [citation needed]); this is a claim, not a voter-recognised improvement.",
       "sources": []
     },
     {
@@ -55,7 +61,7 @@
       "english": "Sugar mills still owe cane growers money, when will payment come?",
       "hindi": "चीनी मिलों पर गन्ना किसानों का बकाया है, पैसा कब मिलेगा?",
       "inference": false,
-      "basis": "District-level (Saharanpur), dated 3 June 2021: mills paid Rs 100.34 crore that day, Deoband mill's share Rs 19 crore, and 'जिले की शुगर मिलों पर अभी भी 630 करोड़ रुपये गन्ना मूल्य के बकाया हैं'. Old (2021), not a 2024-2026 source.",
+      "basis": "District-level (Saharanpur), dated 3 June 2021, verified: mills paid Rs 100.34 crore that day, Deoband mill's share Rs 19 crore, and 'जिले की शुगर मिलों पर अभी भी 630 करोड़ रुपये गन्ना मूल्य के बकाया हैं'. Names the Deoband mill, but the 2021 figure is old; no 2024-2026 Deoband mill dues report was found.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -66,10 +72,24 @@
     },
     {
       "rank": 2,
+      "english": "Every monsoon Deoband's roads and drains go under water, residents say",
+      "hindi": "बरसात में देवबंद की सड़कें-नाले पानी में डूब जाते हैं",
+      "inference": false,
+      "basis": "Deoband town, dated 23 Aug 2026, verified: about one hour of rain flooded main roads including Mohalla Nechalgarh, Bhayla Road, Ravidas Marg, Shikshak Nagar and roads near Darul Uloom; the government hospital on Railway Road had about 2.5 feet of water. Residents said it happens every year and blamed poor pre-monsoon drain cleaning ('बरसात से पहले नालों की उचित सफाई ... नहीं की जाती').",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/deoband-inundated-after-an-hour-of-rain-residents-struggled-with-waterlogging-saharanpur-news-c-30-1-smrt1023-182233-2026-08-23"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "english": "Farmers want cane price of Rs 600 per quintal, or farming won't pay",
       "hindi": "गन्ने का भाव 600 रुपये क्विंटल हो, तभी खेती का गुज़ारा होगा",
       "inference": false,
-      "basis": "District-level (Saharanpur), dated 7 January 2023: BKU (Verma) workers submitted a memorandum to DM Akhilesh Singh in Saharanpur demanding 'गन्ना मूल्य 600 रुपये प्रति क्विंटल घोषित' (headline: 'गन्ना मूल्य 600 रुपये क्विंटल घोषित हो'). Not Deoband-town-specific; 2023, not 2024-2026.",
+      "basis": "District-level (Saharanpur), dated 7 January 2023, verified: BKU (Verma) demanded 'गन्ना मूल्य 600 रुपये प्रति क्विंटल घोषित' in a memorandum to DM Akhilesh Singh. Not Deoband-town-specific; 2023, not 2024-2026.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -79,29 +99,33 @@
       ]
     },
     {
-      "rank": 3,
-      "english": "*Drains and water supply in the town are poor, complaints go unheard",
-      "hindi": "*नल और नाली की व्यवस्था ठीक नहीं, शिकायत कौन सुने",
-      "inference": true,
-      "basis": "Inference: the Wikipedia Deoband page says Deoband Nagar Palika Parishad 'supplies basic amenities like water and sewage' (tagged [citation needed]). No Deoband complaint report was found or opened; the complaint itself is unverified.",
-      "sources": []
-    },
-    {
       "rank": 4,
-      "english": "*Low voltage and power cuts stop fans and coolers from working",
-      "hindi": "*बिजली कटौती और कम वोल्टेज से पंखे-कूलर ठीक से नहीं चलते",
-      "inference": true,
-      "basis": "Inference: no Deoband-specific source found. Low-voltage complaints surfaced only for Bihar and other UP towns (Raebareli, Fatehpur), not this AC.",
-      "sources": []
+      "english": "Factories in Deoband keep facing power tripping, when will a separate feeder come?",
+      "hindi": "फैक्ट्रियों में बार-बार बिजली ट्रिप होती है, अलग फीडर कब लगेगा",
+      "inference": false,
+      "basis": "Deoband industrial area, dated 21 Sep 2026, verified: Indian Industries Association entrepreneurs in Deoband submitted a memorandum for 'औद्योगिक क्षेत्र के लिए अलग से फीडर'; chapter chairman said factories' load is tied to a nearby colony's supply, so 'ट्रिपिंग की समस्या बनी रहती है'. Industry complaint, not household; household low-voltage complaints for Deoband were not found.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-21",
+          "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/the-corporation-should-install-a-dedicated-power-feeder-in-the-deoband-industrial-area-saharanpur-news-c-30-1-smrt1023-184150-2026-09-21"
+        }
+      ]
     },
     {
       "rank": 5,
       "english": "*Encroachment and traffic jams on town roads are a daily trouble",
       "hindi": "*सड़क पर अतिक्रमण और दुकानों के आगे जाम रोज़ की परेशानी है",
       "inference": true,
-      "basis": "Inference: no Deoband-specific source found. Encroachment-related jam reports were from other UP towns (Siddharthnagar, Muzaffarnagar), not this AC.",
+      "basis": "Inference: no Deoband-specific source found in 2024-2026 searches. Encroachment-related jam reports were from other UP towns (Siddharthnagar, Muzaffarnagar, Jalaun) and a Saharanpur city bridge jam (Mar 2025, Hindon bridge), not Deoband.",
       "sources": []
     }
   ],
-  "notes": "Search budget was exhausted mid-research (WebSearch limit reached), so coverage is incomplete. Only 2 negatives are backed by opened, district-level sources (both Saharanpur district, not Deoband-town-specific; the 2021 and 2023 dates are older than the 2024-2026 preference). The brief requires at least 3 of 5 negatives to be AC/district-specific; that is NOT met with verified sources. Negative 3 is Deoband-named but its complaint is inference. All positives are inference with no opened source. Not verified: current Deoband water, drain, road, power, and cane-dues situation for 2024-2026; Hindi local outlets (Amar Ujala/Dainik Jagran/Hindustan Saharanpur editions) were not successfully searched for Deoband-specific civic news. Searches for Deoband roads/water/electricity/jams returned only other towns. Identity confirmed from Wikipedia: AC No. 5, Deoband, Saharanpur district, reserved status None, parent Lok Sabha Saharanpur. MLA name conflicts between sources (Wikipedia: Brijesh Singh, BJP, 2017; Patrika 2022 profile: Brijesh Rawat, BJP, 2017) and was not used. Patrika (31 Jan 2022) mentions an ATS commando centre announced for Deoband; it is politically framed, so it was excluded. Field check recommended: Deoband Nagar Palika water/drain status, Saharanpur sugar mill cane dues 2025-26 (Deoband mill), UPPCL low-voltage complaints for Deoband, and traffic/encroachment in Deoband bazaar."
+  "round2": {
+    "verified_sources": 5,
+    "removed_sources": 0,
+    "ac_specific_negatives": 3,
+    "changes": "Verified both existing Amar Ujala sources (2021 and 2023 content and dates confirmed, kept) and the Wikipedia identity page (AC 5, Deoband, Saharanpur, reserved None). Replaced inference negative 'drains and water' with sourced Amar Ujala 23 Aug 2026 Deoband flooding report. Replaced inference negative 'low voltage' with sourced Amar Ujala 21 Sep 2026 Deoband industrial-area power tripping report (industry, not household). Replaced inference positive 'municipal water claim' (based on an uncited Wikipedia line) with sourced Saharanpur sports college (Free Press Journal, 1 Jul 2026, district-level). Dropped an unconfirmed Deoband 325-project claim from the same Free Press Journal page (no second source). Re-ranked negatives by likely impact."
+  },
+  "notes": "Round 2 status: negatives sourced 4 of 5 (3 are Deoband-named or Deoband industry: flooding, power feeder, and the 2021 sugar dues article naming the Deoband mill; cane price is district-level). Positives sourced 1 of 5, and that one is district-level (Saharanpur city sports college), not Deoband. Still inference: Darul Uloom reputation, bazaar, students, Delhi distance, and encroachment/jams. Searches in Hindi and English for Deoband 2024-2026 jams, Deoband mill dues, household low voltage, hospital services, and Deoband completed roads or bridges returned no Deoband-specific reports. The 2026 flood report names the Railway Road government hospital as flooded, but hospital services were not reviewed. Sugar and cane-price sources are 2021 and 2023, outside the 2024-2026 preference. Field check recommended: Deoband Nagar Palika drain cleaning and water supply, Deoband mill 2025-26 dues, UPPCL household voltage complaints, Deoband bazaar traffic and encroachment, and Deoband government hospital status."
 }
