@@ -1,0 +1,116 @@
+{
+  "ac_no": 8,
+  "ac_name": "Kairana",
+  "ac_name_hindi": "कैराना",
+  "reserved": "None",
+  "district": "Shamli",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on unpaid sugarcane dues and on officials who are hard to reach after incidents, while appreciation is limited to partial mill payments and action against unapproved colonies.",
+  "identity_source": "https://en.wikipedia.org/wiki/Kairana_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Shamli sugar mill paid farmers Rs 32 crore in three instalments this season",
+      "hindi": "शामली चीनी मिल ने इस सीज़न में तीन किस्तों में किसानों को 32 करोड़ दिए",
+      "inference": false,
+      "basis": "Amar Ujala (6 Dec 2025, Shamli desk) reports, in its 'other context' section, that Shamli Cheeni Mill has released Rs 32 crore to farmers in three installments this season. District-level, not Kairana-specific.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Authorities demolished an unapproved colony near Kairana and promised stricter action on plotting",
+      "hindi": "कैराना में अवैध कॉलोनी ध्वस्त हुई, प्लॉटिंग करने वालों पर सख्ती की बात",
+      "inference": false,
+      "basis": "Amar Ujala (26 Sep 2025) reports the Muzaffarnagar Development Authority demolished a colony running without an approved map near the Panipat-Khatima bypass in the Kairana area, and said action against illegal colonies and plotting will continue. The article reports no resident complaint.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-09-26", "url": "https://www.amarujala.com/uttar-pradesh/shamli/colony-news-shamli-news-c-26-1-sal1002-150447-2025-09-26"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Police reached the spot after firing in Jahanpura and took the injured to a government hospital",
+      "hindi": "कैराना के जहानपुरा में गोली चली, पुलिस पहुंची और घायलों को अस्पताल ले गई",
+      "inference": false,
+      "basis": "Amar Ujala (26 May 2024) reports that after a volleyball dispute in Jahanpura village in the Kairana area, police reached the spot on information and took the five injured to a government hospital. Incident-level, not a systemic claim.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-05-26", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-bullets-fired-in-jahanpura-over-dispute-over-playing-volleyball-five-injured-including-two-women-2024-05-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Cane payment reached farmers' bank accounts directly through the cane committee",
+      "hindi": "गन्ने का पैसा गन्ना समिति के ज़रिए सीधे किसानों के खाते में पहुंचा",
+      "inference": false,
+      "basis": "Amar Ujala (6 Dec 2025): Un Cheeni mill sent Rs 7.39 crore to farmers' accounts through the cane committee as the first instalment for six days of crushing (9-14 Nov), against Rs 21.09 crore calculated for that period. The positive is limited: the first instalment covers about a third of the amount calculated. District-level.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "* Power came back as soon as the storm stopped",
+      "hindi": "* तूफ़ान थमते ही बिजली लौट आई",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (12 Oct 2026, Shamli) says power supply was disrupted during the wind-and-rain storm and resumed once the rain stopped; two 33 kV lines (Adarsh Mandi, Khedi Karmu) were switched off. The source does not give outage duration or say supply was good in Kairana. District-level, unverified for the AC.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/shamli/it-rained-for-an-hour-with-strong-winds-and-hail-shamli-news-c-26-1-sal1002-175903-2026-10-12"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sugarcane dues stay unpaid and farmers struggle to pay children's school fees",
+      "hindi": "गन्ने का पैसा मिल में अटका है, बच्चों की फीस कैसे भरें",
+      "inference": false,
+      "basis": "ChiniMandi (19 Jun 2026, as summarised by Ground News) says Bhaisana mill in Budhana and mills in Shamli, Thana Bhawan and Unnao owe farmers Rs 339.65 crore combined, and that farmers face difficulty paying children's fees for the new session. Summary is truncated; no per-mill split. District-level. Amar Ujala (6 Dec 2025) adds that Thana Bhawan mill still owed about Rs 95 crore of old and new dues.",
+      "sources": [
+        {"outlet": "ChiniMandi via Ground News", "date": "2026-06-19", "url": "https://ground.news/article/uttar-pradesh-delay-in-sugarcane-payments-by-sugar-mills-leaves-farmers-in-financial-trouble"},
+        {"outlet": "Amar Ujala", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "A leopard killed a girl in Mandawar, and villagers say officials' phones were switched off",
+      "hindi": "मंडावर में तेंदुए ने बच्ची की जान ली, अफ़सरों के फ़ोन बंद मिले",
+      "inference": false,
+      "basis": "Amar Ujala (10 Jun 2024), datelined Kairana: a leopard attacked a four-year-old girl in Mandawar village; villagers alleged that regional and district forest officials' phones were switched off. The article does not state villagers' demands. Mandawar is datelined Kairana; its exact AC membership is not stated in the source.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-06-10", "url": "https://www.amarujala.com/uttar-pradesh/meerut/kairana-leopard-killed-a-four-year-old-girl-in-mandawar-2024-06-10"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Even a small dispute in Kairana can end in gunfire, and people feel unsafe",
+      "hindi": "कैराना में छोटे झगड़े पर भी गोली चल जाती है, डर बना रहता है",
+      "inference": false,
+      "basis": "Amar Ujala (26 May 2024): a fight during volleyball in Jahanpura village in the Kairana area led to firing; five people were injured, including two women. The 'people feel unsafe' line is an extrapolation from the incident, not a quoted complaint.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-05-26", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-bullets-fired-in-jahanpura-over-dispute-over-playing-volleyball-five-injured-including-two-women-2024-05-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Storm cut power and flattened the standing paddy crop in Shamli",
+      "hindi": "आंधी-बारिश में बिजली बंद रही, खड़ी धान की फसल भी बिछ गई",
+      "inference": false,
+      "basis": "Amar Ujala (12 Oct 2026, Shamli): wind and hail flattened ripe standing paddy; waterlogging put urad, potato, cauliflower and newly planted garlic at risk; power supply was disrupted with two 33 kV lines switched off. Covers Thanabhawan, Jalalabad, Oon and Jhinjhana, not Kairana itself. District-level.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/shamli/it-rained-for-an-hour-with-strong-winds-and-hail-shamli-news-c-26-1-sal1002-175903-2026-10-12"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "* Plots bought in unapproved colonies now face the risk of demolition",
+      "hindi": "* अवैध कॉलोनी में प्लॉट लिया, अब ध्वस्तीकरण का डर है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (26 Sep 2025) reports an unapproved colony in the Kairana area was demolished near the Panipat-Khatima bypass and that the authority will act against unapproved colonies district-wide. The source records no buyer or resident complaint; the voter sentiment is my inference, not a finding.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-09-26", "url": "https://www.amarujala.com/uttar-pradesh/shamli/colony-news-shamli-news-c-26-1-sal1002-150447-2025-09-26"}
+      ]
+    }
+  ],
+  "notes": "Kairana-specific coverage for 2025-26 is thin. The search tool hit its per-turn limit mid-research, so further searching was not possible; no Kairana town civic items (roads, drains, water, hospital, stray cattle, electricity) were found, and these need a field check. AC-specific negatives (ranks 2, 3, 5) rest on 2024-2025 Amar Ujala items; rank 5 is inference-flagged. Most sugarcane and power items are district-level (Shamli, Thanabhawan, Budhana), and the Kairana AC is not confirmed to be served by those mills. ChiniMandi figures are from a truncated Ground News summary and should be checked against the original article. The Amar Ujala 6 Dec 2025 article is cited at its spidertest.amarujala.com address, which is the URL that was opened; the canonical amarujala.com URL was not confirmed. The Wire article 'shamli sugar mill dues case registered' was not cited because no date or figures could be read. A 2021 Amar Ujala sugarcane article was opened but not used as stale. Communal items (2016 exodus claims, 2025 Hanuman Chalisa alert in Kairana) were deliberately excluded as outside the lived-experience focus. Suggested field checks: Kairana town roads and drainage, Kairana CHC, Yamuna-side issues, Kairana sugar cane supply centre, and stray cattle."
+}
