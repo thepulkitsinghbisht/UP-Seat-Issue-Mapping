@@ -20,7 +20,7 @@ def n_inf(d):
 
 
 def local_negs(d):
-    return d.get("round2", {}).get("ac_specific_negatives")
+    return d.get("round2", {}).get("ac_specific_negatives", d.get("ac_specific_negatives"))
 
 
 def status(d):

@@ -53,3 +53,18 @@ Write exactly one JSON file at the path you are given, UTF-8, this shape:
 }
 Validate it is valid JSON (e.g. python3 -c "import json;json.load(open('PATH'))") before finishing.
 Reply with just: the file path, and a 2-line summary.
+
+## Lessons from ACs 1-20 (apply from AC 21 on)
+- Confirm every named place is INSIDE this AC before using it: use the AC's Wikipedia page "extent"
+  (tehsils, kanungo circles, nagar panchayats), or a news report that names the vidhan sabha. Police
+  station areas and tehsils do not equal AC boundaries. If unsure, say "AC membership unconfirmed" in basis.
+- Never cite mirror/aggregator URLs if the original opens: spidertest.amarujala.com -> www.amarujala.com;
+  Ground News / public.app / CropGPT -> find the original outlet. Read the article itself, not a headline.
+- A positive must be something voters appreciate (a delivered benefit, a completed or started project,
+  a fixed problem) - not a geography/heritage fact, a forecast, or an official announcement alone.
+- Write as a voter speaks: no "विभाग का कहना है", no headline style, no full stops. Allegations stay
+  allegations ("आरोप है"). Do not add facts the source does not state.
+- Add "ac_specific_negatives": N (count only sourced, non-inference negatives whose place is confirmed
+  inside the AC) at top level.
+- Run python3 /home/user/UP-Seat-Issue-Mapping/scripts/check_ac.py <your file> and fix until it prints OK.
+- Do not say "Draft (sourced)" yourself; just be honest in notes.
