@@ -1,0 +1,115 @@
+{
+  "ac_no": 2,
+  "ac_name": "Nakur",
+  "ac_name_hindi": "नकुड़",
+  "reserved": "None",
+  "district": "Saharanpur",
+  "region": "Paschim UP",
+  "summary": "Available sources point to illegal sand transport on the Shahjahanpur Road, crime and police action in Nakur town, and sugarcane dues tied to the Sarsawa mill, while water, road and power complaints could not be verified for this AC.",
+  "identity_source": "https://en.wikipedia.org/wiki/Nakur_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Nakur police got a victim's money returned to him",
+      "hindi": "नकुड़ पुलिस ने पीड़ित की रकम वापस दिलवाई",
+      "inference": false,
+      "basis": "Nakur news feed headline dated 20 Feb 2026: 'नकुड: नकुड़ पुलिस ने अध्याना निवासी पीड़ित की धनराशि कराई वापस' (police recovered money for a victim from Adhyana). Outlet not identified; aggregator page.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-02-20", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Police arrested suspects after an encounter in Nakur, showing they act on criminals",
+      "hindi": "मुठभेड़ के बाद नकुड़ पुलिस ने बदमाश पकड़े, पुलिस सक्रिय है",
+      "inference": false,
+      "basis": "Nakur news feed headline dated 29 Jul 2026: 'मुठभेड के बाद पुलिस ने किये तीन आरोपी बदमाश किये गिरफ्तार' (police arrested three accused after an encounter). The source reports arrests only, not voter satisfaction.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-07-29", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The Sarsawa sugar mill has paid cane farmers before",
+      "hindi": "सरसावा मिल ने किसानों का गन्ना भुगतान किया है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (3 Jun 2021, district-level) lists a Rs 25.01 crore payment to the Sarsawa mill among Rs 100.34 crore paid that day. This is 2021 data, not 2024-26; no recent Sarsawa payment report was found.",
+      "sources": [
+        {"outlet": "Amar Ujala (Saharanpur, district-level)", "date": "2021-06-03", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/district-sugar-mills-paid-100-crores-saharanpur-news-mrt541117065"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Nakur town has local shops and a market that keep daily life going",
+      "hindi": "नकुड़ कस्बे में बाज़ार और दुकानें रोज़ चलती हैं, रोज़गार मिलता है",
+      "inference": true,
+      "basis": "Inference: Wikipedia confirms Nakur is a town, tehsil and municipal board in Nakur tehsil; no source on markets or jobs was found.",
+      "sources": [
+        {"outlet": "Wikipedia (Nakur Assembly constituency)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Nakur_Assembly_constituency"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Nakur, Sarsawa and Sultanpur have municipal bodies that run local civic work",
+      "hindi": "नकुड़, सरसावा और सुल्तानपुर में नगर पालिकाएं शहर की व्यवस्था देखती हैं",
+      "inference": true,
+      "basis": "Inference: Wikipedia lists the Nakur and Sarsawa NPPs and the Chilkana Sultanpur NP inside the AC. Whether civic work is effective was not verified.",
+      "sources": [
+        {"outlet": "Wikipedia (Nakur Assembly constituency)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Nakur_Assembly_constituency"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sugarcane farmers wait months for dues from the mills",
+      "hindi": "गन्ने का पैसा मिलों से महीनों देर से मिलता है, किसान परेशान",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (3 Jun 2021, district-level) says the district's mills still owed farmers Rs 630 crore after paying Rs 100.34 crore that day, with Sarsawa and Nanauta mills named. This is 2021 data; no 2024-26 Saharanpur or Nakur dues report was found, so current arrears are unverified.",
+      "sources": [
+        {"outlet": "Amar Ujala (Saharanpur, district-level)", "date": "2021-06-03", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/district-sugar-mills-paid-100-crores-saharanpur-news-mrt541117065"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Sand trucks without papers run on the Shahjahanpur Road in Nakur",
+      "hindi": "बिना कागज़ात के रेत के ट्रक शाहजहांपुर रोड पर दौड़ते हैं",
+      "inference": true,
+      "basis": "Inference: Nakur news feed (20 Feb 2026) reports police and revenue officials seized a sand-laden truck on the Shahjahanpur Road that lacked documents. The source reports the seizure, not a voter complaint; road damage and safety concerns are not stated.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-02-20", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Fear of criminals in Nakur, with frequent encounters and arrests",
+      "hindi": "नकुड़ में बदमाशों का डर, मुठभेड़ और गिरफ्तारी की खबरें आती रहती हैं",
+      "inference": true,
+      "basis": "Inference: Nakur news feed shows an encounter and arrest of three accused (29 Jul 2026) and a dowry-harassment case earlier in 2026 (not fetched separately). Voter fear of crime is not stated in the source.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-07-29", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Water supply in Nakur is irregular and handpumps often do not work",
+      "hindi": "नकुड़ में पानी की सप्लाई अनियमित है, हैंडपंप भी ठीक से नहीं चलते",
+      "inference": true,
+      "basis": "Inference: no Nakur-specific water report was found. The Nakur news feed for Feb-Jul 2026 lists no water items. Water complaints in this AC are unverified and need a field check.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-07-29", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Roads in Nakur, Sarsawa and Sultanpur are in poor shape and power cuts are frequent",
+      "hindi": "सड़कें टूटी हैं और बिजली बार-बार कटती है",
+      "inference": true,
+      "basis": "Inference: no Nakur or Sarsawa road or power report was found. The Nakur news feed for Feb-Jul 2026 lists no road or power items. The complaint is a guess and needs a field check.",
+      "sources": [
+        {"outlet": "Public App (Nakur city news feed; underlying Hindi outlet not identified)", "date": "2026-07-29", "url": "https://public.app/city/news-in-nakur"}
+      ]
+    }
+  ],
+  "notes": "Identity confirmed from the Wikipedia AC page (AC No. 2, Nakur, Saharanpur district, reserved status None). The Election Commission list was not checked directly. The Hindi name 'नकुड़' is taken from local-news spelling because the Wikipedia page gives no Hindi name. Research is incomplete: the web search budget for this session ran out after about 13 WebSearch calls, so the 15+ target was not met and several planned Hindi queries (water, electricity, roads, stray cattle, Sarsawa and Nakur hospital, Nakur sugar dues 2025-26) were not run. Only four source URLs were opened: the Wikipedia AC page, the Amar Ujala 2021 sugar-dues article, and the Public App Nakur news feed (headlines quoted from that page, outlets not identified). The Public App feed is an aggregator, so the underlying Hindi outlets should be checked before publishing. Positives 3-5 and negatives 4-5 are inference with no AC-specific evidence. Electoral data (vote counts, margins, MLA result details) was left out per the brief. Field check recommended: Amar Ujala and Dainik Jagran Saharanpur pages for नकुड़, सरसावा, सुल्तानपुर and चिलकाना on water, power, roads, cane dues (2025-26) and stray cattle; Nakur sand-mining complaints on the Krishni river; the Nakur CHC; and the 2023 Gurjar rally internet suspension, which appeared in search results but was not opened."
+}

@@ -1,0 +1,115 @@
+{
+  "ac_no": 15,
+  "ac_name": "Khatauli",
+  "ac_name_hindi": "खतौली",
+  "reserved": "None",
+  "district": "Muzaffarnagar",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on delayed sugarcane dues, erratic power supply, a municipal sanitation dispute and a dilapidated bridge on the Khatauli-Nawala route, while the strongest positives are the sugar mill and NH-58 trade links.",
+  "identity_source": "https://en.wikipedia.org/wiki/Khatauli_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Our sugar mill is said to be the largest in Asia, and cane work runs through it",
+      "hindi": "हमारी चीनी मिल एशिया में सबसे बड़ी बताई जाती है, गन्ने का काम इसी से चलता है",
+      "inference": false,
+      "basis": "Wikipedia (Khatauli AC/town page): Triveni's sugar mill, operating since 1933, is described as 'the largest in Asia in terms of production and storage capacity'. This is a source fact, not a voter quote.",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "undated", "url": "https://en.wikipedia.org/wiki/Khatauli"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "National Highway 58 makes Khatauli an important trade route",
+      "hindi": "राष्ट्रीय राजमार्ग 58 से खतौली व्यापार का अहम रास्ता बना हुआ है",
+      "inference": false,
+      "basis": "Wikipedia (Khatauli town page): National Highway 58 is described as 'an important route for trade and commerce'.",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "undated", "url": "https://en.wikipedia.org/wiki/Khatauli"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The 8.3 km Khatauli-Jeevna road is being built",
+      "hindi": "खतौली से जीवना तक 8.3 किलोमीटर सड़क बन रही है",
+      "inference": false,
+      "basis": "Amar Ujala (Meerut bureau), headline 'सड़क निर्माण शुरू, जर्जर पुल की नहीं ली गई सुध': PWD XEN Neeraj Kumar said the road is 8.3 km long, costs ₹436.53 crore and runs from Khatauli to Jeevna. Report is from 2022; current completion status not verified.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2022-11-10", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/road-construction-started-the-dilapidated-bridge-was-not-taken-care-of-muzaffarnagar-news-mrt6130776194"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Khatauli is on the Delhi-Saharanpur railway line",
+      "hindi": "खतौली दिल्ली-सहारनपुर रेल लाइन से जुड़ा शहर है",
+      "inference": false,
+      "basis": "Wikipedia (Khatauli town page): the town is on the Delhi-Saharanpur (via Meerut) railway line. Recorded as a fact, not a voiced appreciation.",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "undated", "url": "https://en.wikipedia.org/wiki/Khatauli"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Khatauli has been a tehsil since 2007 and sits about 100 km from Delhi in the NCR",
+      "hindi": "खतौली 2007 से तहसील है और दिल्ली से लगभग 100 किलोमीटर दूर है",
+      "inference": false,
+      "basis": "Wikipedia (Khatauli town page): 'Declared a tehsil in 2007'; a nagar palika about 100 km from New Delhi and part of the National Capital Region. Recorded as a fact; no voter appreciation found.",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "undated", "url": "https://en.wikipedia.org/wiki/Khatauli"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sugarcane payments are delayed and mills keep farmers' dues pending",
+      "hindi": "गन्ने का पैसा समय पर नहीं मिलता, मिलें किसानों का बकाया दबाए बैठी हैं",
+      "inference": false,
+      "basis": "The Wire, headline: 'Angry Farmers Block Railway Tracks in Muzaffarnagar Over Unpaid Sugarcane Dues'. District-level (Muzaffarnagar), not Khatauli-specific; fetched text was headline only, so date and amounts are unverified. Khatauli is not named.",
+      "sources": [
+        {"outlet": "The Wire", "date": "undated", "url": "https://thewire.in/agriculture/angry-farmers-block-railway-tracks-in-muzaffarnagar-over-unpaid-sugarcane-dues"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Power vanishes for hours, coming back only for a few minutes at a time",
+      "hindi": "बिजली घंटों गायब रहती है, कुछ मिनट आकर फिर चली जाती है",
+      "inference": false,
+      "basis": "Dainik Bhaskar via Ground News, dated 27 July 2026: power supply disrupted for nearly a week in Muzaffarnagar; 'would come on for a few minutes and then disappear for hours'. District-level; Khatauli is not named in the text.",
+      "sources": [
+        {"outlet": "Dainik Bhaskar (via Ground News)", "date": "2026-07-27", "url": "https://ground.news/article/unannounced-power-cuts-leave-muzaffarnagar-in-tears-heat-and-humidity-continue-to-plague-residents-throughout-the-night-muzaffarnagar-news"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Sanitation workers are on strike and the municipal body is in open conflict with them",
+      "hindi": "कूड़ा उठाने वाले हड़ताल पर हैं, नगर पालिका और सफाई कर्मी आमने-सामने हैं",
+      "inference": false,
+      "basis": "Patrika: in the Khatauli nagar palika area, sanitation workers dumped about 50 quintals of garbage outside a Congress leader's house over a tax dispute (about Rs 4 lakh unpaid); police lathicharged protesters and workers went on strike. Article updated 5 May 2026.",
+      "sources": [
+        {"outlet": "Patrika", "date": "2026-05-05", "url": "https://www.patrika.com/muzaffarnagar-news/muzaffarnagar-sanitation-workers-dump-garbage-at-congress-leader-house-clash-with-police-20555286"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The old bridge over the Bhainsi nala is in bad shape, yet farmers' tractors cross it daily",
+      "hindi": "भैंसी नाले का पुल जर्जर है, फिर भी गन्ने के ट्रैक्टर रोज़ इसी से गुज़रते हैं",
+      "inference": false,
+      "basis": "Amar Ujala (10 Nov 2022): the bridge on the Khatauli-Nawala road over the Bhainsi nala is dilapidated and propped with iron girders; farmers taking cane to the mill use it daily; bridge work stalled while road work started. Local and AC-specific, but 2022; current status not verified.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2022-11-10", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/road-construction-started-the-dilapidated-bridge-was-not-taken-care-of-muzaffarnagar-news-mrt6130776194"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Roads flood when it rains, and drains are not cleaned properly",
+      "hindi": "*बारिश में सड़कों पर पानी भर जाता है, नालियां ठीक से साफ नहीं होतीं",
+      "inference": true,
+      "basis": "Inference: no fetched Khatauli source on waterlogging was found. The closest evidence is the May 2026 Patrika report of a sanitation and tax dispute in the Khatauli nagar palika area, which does not mention flooding.",
+      "sources": [
+        {"outlet": "Patrika", "date": "2026-05-05", "url": "https://www.patrika.com/muzaffarnagar-news/muzaffarnagar-sanitation-workers-dump-garbage-at-congress-leader-house-clash-with-police-20555286"}
+      ]
+    }
+  ],
+  "notes": "Identity confirmed from Wikipedia (Constituency No. 15, Khatauli, Muzaffarnagar, reserved status 'None'). Region set to Paschim UP by assignment because the Wikipedia infobox only says 'North India'. Current MLA per Wikipedia: Madan Bhaiya (RLD, elected in 2022 bypoll); a Bharatpedia page still lists Vikram Singh Saini, which predates the bypoll. Search budget for this turn ran out after about 17 WebSearch calls, so coverage is thin: only two Khatauli-specific local items were found (the sanitation dispute and the bridge). Sugarcane dues and power cuts are district-level (Muzaffarnagar), not Khatauli-specific, and the Wire item was read from its headline only. Positives 1, 2, 4 and 5 are facts from Wikipedia rather than voter appreciation; positive 3 is a 2022 project report. Items to check in the field: current status of the Bhainsi nala bridge and Khatauli-Jeevna road; Triveni mill-wise cane dues for Khatauli; municipal garbage collection and tax dispute since May 2026; local power-cut hours for Khatauli feeders; waterlogging (negative 5 is an inference). Source dates conflict for the Patrika article: the fetched page says 5 May 2026 but the URL slug and a search snippet show 4 Aug 2026; the fetched date is used. Consumercomplaints.in and Telangana Today items were seen in search results but not fetched, so they are not cited. Political items (MLA-related) were excluded per the brief."
+}

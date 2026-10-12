@@ -1,0 +1,115 @@
+{
+  "ac_no": 20,
+  "ac_name": "Dhampur",
+  "ac_name_hindi": "धामपुर",
+  "reserved": "None",
+  "district": "Bijnor",
+  "region": "Paschim UP",
+  "summary": "Voters in Dhampur mostly cite unresolved water supply, monsoon waterlogging on roads, incomplete Jal Nigam water tanks and sugarcane payment delays, while acknowledging that a fair amount of work has been done.",
+  "identity_source": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "A lot of work has been done here, and some changes are visible.",
+      "hindi": "यहां काफी काम हुआ है, कुछ बदलाव साफ दिखते हैं।",
+      "inference": false,
+      "basis": "Voter Rachit Kumar said a lot of work has been done; voter Pritkumar Chauhan said some things have changed (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The MLA and the chairman have done work where it was expected.",
+      "hindi": "विधायक और चेयरमैन ने जहां उम्मीद थी, वहां काम किया है।",
+      "inference": false,
+      "basis": "Voter Shahreen praised the MLA and the chairman for work done where it was expected (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The college has good sports facilities and teachers motivate students.",
+      "hindi": "कॉलेज में खेल सुविधाएं अच्छी हैं, टीचर बच्चों को अच्छे से प्रेरित करते हैं।",
+      "inference": false,
+      "basis": "Voter Matiha Zaidi praised the teachers' motivation and the college's sports facilities (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "There is no major trouble with the state government here.",
+      "hindi": "प्रदेश सरकार से यहां कोई बड़ी परेशानी नहीं है।",
+      "inference": false,
+      "basis": "Dr. N.P. Singh said there was no trouble with the state government (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice view, not a survey.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Our next election will be fought on the face of CM Yogi.",
+      "hindi": "अगला चुनाव मुख्यमंत्री योगी के चेहरे पर ही लड़ा जाएगा।",
+      "inference": false,
+      "basis": "Voter Narendra Kumar Rajput praised CM Yogi Adityanath and said the next election would be fought on his face (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice view.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "There is still a water problem here despite the work done.",
+      "hindi": "काफी काम हुआ, पर यहां पानी की समस्या आज भी बनी हुई है।",
+      "inference": false,
+      "basis": "Voter Rachit Kumar said there is a water problem even though a lot of work has been done (Dhampur town reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Sugarcane payments are late, so we will not give cane to mills that don't pay.",
+      "hindi": "चीनी मिल समय पर भुगतान नहीं करेगी तो हम उसे गन्ना नहीं देंगे।",
+      "inference": false,
+      "basis": "District-level, not Dhampur-specific: Amar Ujala (Bijnor, 4 Oct 2026) reports BKU (Arajneeti)'s 'no payment, no cane' campaign against the Bilai sugar mill in Bijnor district, and a demand to reallocate its cane area to mills that pay on time. The dues amount is not stated in that article.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-04", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/farmers-will-not-give-sugarcane-to-sugar-mills-that-do-not-pay-digambar-singh-bijnor-news-c-27-1-smrt1008-191928-2026-10-04"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Roads get waterlogged in the monsoon and transport gets disrupted.",
+      "hindi": "बरसात में सड़कों पर पानी भर जाता है, आवागमन में दिक्कत होती है।",
+      "inference": false,
+      "basis": "Voter Rachit Kumar said roads were waterlogged in the last two monsoons, causing transport trouble (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The Jal Nigam water tank is broken down and no village tank is complete.",
+      "hindi": "जल निगम की टंकी जर्जर है, किसी गांव में टंकी पूरी नहीं हुई है।",
+      "inference": false,
+      "basis": "Voter Chaudhary Kaviraj said a Jal Nigam water tank is dilapidated and no tank in any village has been completed so far (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "There is a shortage of fertiliser and farmers are struggling.",
+      "hindi": "खाद की किल्लत है, किसान परेशान हैं।",
+      "inference": false,
+      "basis": "Voter Mahendra Pal Singh raised a shortage of fertiliser (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice view.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/satta-ka-sangram-how-satisfied-are-people-of-dhampur-with-performance-of-government-and-mla-2026-08-31"}
+      ]
+    }
+  ],
+  "notes": "Identity: Wikipedia's constituency list row 20 gives Dhampur, reserved status None (district column blank on the fetched extract). District Bijnor confirmed by the Amar Ujala article ('Dhampur assembly constituency, Bijnor district') and by the Wikipedia Dhampur town page ('a city and a municipal board in Bijnor district'). Evidence base is thin: one fetched Amar Ujala Dhampur piece with about 10 brief voter interviews (small, non-representative sample), plus one Bijnor district sugarcane article. The Dhampur Sugar Mill (Bhaskar, 24 Jul 2026) and the Dhampur Bio Organics Mirganj claim (ChiniMandi, Apr 2026) were fetched but not used: the first is a mill pledge, not a voter concern, and the Mirganj unit is in Bareilly, not Dhampur. Bilai mill arrears (Rs 41.98 crore, Amar Ujala 10 Oct 2026 and ChiniMandi) appeared only in search snippets and were not fetched, so no amount is stated. Search budget ran out after about 7 WebSearch calls, so the research is under the 15-search target. Field check recommended: Dhampur water supply and Jal Nigam tank status, monsoon drainage in the town, fertiliser availability at the local cooperative, and whether the college in question has any reported issues. Positives 4 and 5 are single-voice statements and are weak on local specificity; the Yogi statement is not local."
+}
