@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Moradabad",
   "region": "Rohilkhand",
-  "summary": "Kundarki complaints centre on waterlogged roads and drains, contaminated or low-pressure tap water and weak CHC services, while the Rs 3.65 crore road and drain works started in June 2026 are the main visible development.",
+  "summary": "Kundarki complaints centre on waterlogged roads and drains, contaminated or low-pressure tap water and weak CHC services, while the Rs 3.65 crore road and drain works whose foundation stones were laid in June 2026 are the main visible development.",
   "identity_source": "https://en.wikipedia.org/wiki/Kundarki_Assembly_constituency",
   "positives": [
     {
@@ -13,29 +13,29 @@
       "english": "Road and drain works worth Rs 3.65 crore got their foundation stone in Kundarki",
       "hindi": "कुंदरकी में सड़क और नाले के कामों का शिलान्यास हो गया है",
       "inference": false,
-      "basis": "MLA Ramveer Singh performed bhoomi pujan and shilanyas for projects worth Rs 3 crore 65 lakh on Monday (article dated 9 June 2026): Banhpur to Alirajapur road Rs 61.21 lakh, Masebi Rasulpur to Tahrpur Doyam and Basera Khas link road Rs 74.97 lakh, Moradabad-Ganwa-Bulandshahr road drain and special repairs Rs 229.40 lakh. Article gives no completion date.",
+      "basis": "Verified: MLA Ramveer Singh performed bhoomi pujan and shilanyas for works totalling Rs 3 crore 65 lakh on Monday 8 June 2026 (article dated 9 June 2026): Banhpur village road Rs 61.21 lakh, Masebi Rasulpur to Taharpur Doyam and Basera Khas link road Rs 74.97 lakh, Moradabad-Ganwa-Bulandshahr road km 1-10 drain and special repair Rs 229.40 lakh. Article says construction was formally started and gives no completion date. Village membership in the AC is not separately confirmed; works are attributed to the MLA of Kundarki.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-06-09", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/several-roads-will-be-built-in-kundarki-at-a-cost-of-rs-365-crore-bilari-news-c-307-1-smbd1005-106863-2026-06-09"}
       ]
     },
     {
       "rank": 2,
-      "english": "Branches cut from the high-tension line, so the fear of a breakdown is somewhat less",
-      "hindi": "हाईटेंशन लाइन की टहनियां कटीं, तार टूटने का डर कुछ कम हुआ",
+      "english": "Clinics and a pathology lab running without registration were sealed",
+      "hindi": "बिना पंजीकरण चल रहे क्लीनिक और लैब पर सील लगी",
       "inference": false,
-      "basis": "Maintenance on the 132 kV line from Bhaisod power station to Kundarki and Jaitwara substations (article dated 4 Oct 2026, outage on Saturday 3 Oct for five and a half hours): tree branches near the line trimmed to prevent breakdown in storms. Junior engineer Jayveer Singh says breakdown risk has greatly reduced. Article does not say voters appreciated it.",
+      "basis": "Verified: health team led by Kundarki CHC Chief Medical Superintendent Dr Saurabh Bartariya sealed four facilities (article dated 17 Sep 2026): two unregistered clinics at Mohanpur village crossroads, one maternity centre in Kundarki town, and one pathology lab in Dingarpur village. Operators could not show valid papers. Official enforcement; no resident reaction is reported. Mohanpur and Dingarpur AC membership not confirmed (Kundarki town facility is in the AC by name).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-04", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/power-supply-remained-suspended-for-five-and-a-half-hours-due-to-maintenance-work-thakurdwara-news-c-307-1-smbd1005-107587-2026-10-04"}
+        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/three-unregistered-hospitals-and-one-pathology-lab-sealed-in-kundarki-thakurdwara-news-c-307-1-smbd1005-107500-2026-09-17"}
       ]
     },
     {
       "rank": 3,
-      "english": "Clinics and a pathology lab running without registration were sealed",
-      "hindi": "बिना पंजीकरण चल रहे क्लीनिक और लैब पर सील लगी",
-      "inference": false,
-      "basis": "Health team led by Kundarki CHC medical superintendent Dr Saurabh Bartariya sealed two unregistered clinics (Mohanpur village, Kundarki block), a maternity centre in Kundarki town and a pathology lab in Dingarpur village; operators could not show valid papers (article dated 17 Sep 2026). Mohanpur and Dingarpur membership in the AC not confirmed.",
+      "english": "*Branches cut from the high-tension line, so the risk of a wire breakdown is greatly reduced",
+      "hindi": "*हाईटेंशन लाइन की टहनियां कटीं, तार टूटने का खतरा काफी कम",
+      "inference": true,
+      "basis": "Inference: the 4 Oct 2026 Amar Ujala article reports that during the 3 Oct maintenance outage (about five and a half hours) tree branches near the 132 kV line were trimmed to prevent a breakdown in storms. Junior engineer Jayveer Singh says breakdown risk has greatly reduced. This is an official claim; no source records voters appreciating it. Line membership in the AC not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/three-unregistered-hospitals-and-one-pathology-lab-sealed-in-kundarki-thakurdwara-news-c-307-1-smbd1005-107500-2026-09-17"}
+        {"outlet": "Amar Ujala", "date": "2026-10-04", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/power-supply-remained-suspended-for-five-and-a-half-hours-due-to-maintenance-work-thakurdwara-news-c-307-1-smbd1005-107587-2026-10-04"}
       ]
     },
     {
@@ -43,7 +43,7 @@
       "english": "*PM SHRI composite school runs in Ward 8 of Kundarki nagar panchayat",
       "hindi": "*कुंदरकी नगर में पीएम श्री कंपोजिट स्कूल चल रहा है",
       "inference": true,
-      "basis": "Inference: the 17 Jul 2026 Amar Ujala article names the PM Shri Composite School as one of the landmarks in Ward 8, Nagar Panchayat Kundarki. No source shows residents praising the school; this is listed only as an existing public facility.",
+      "basis": "Inference: the 17 Jul 2026 Amar Ujala article (verified) names the PM SHRI Composite School among the landmarks of Ward 8, Nagar Panchayat Kundarki. The article does not report on the school's quality; no source shows residents praising it. Listed only as an existing public facility.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-07-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/contaminated-drinking-water-is-reaching-homes-in-ward-8-of-kundarki-bilari-news-c-307-1-smbd1005-107088-2026-07-17"}
       ]
@@ -53,7 +53,7 @@
       "english": "*OPD runs at Kundarki CHC and medicines are available",
       "hindi": "*सीएचसी में ओपीडी चलती है और दवा मिल जाती है",
       "inference": true,
-      "basis": "Inference: the 8 Sep 2026 Amar Ujala article reports officials saying medicines are sufficient and doctors sit in OPD on time. This is an official claim, not resident praise, and the same article reports serious gaps (see negatives).",
+      "basis": "Inference: the 8 Sep 2026 Amar Ujala article (verified) reports officials saying adequate medicine is available at the CHC and all PHCs and doctors hold OPD on time. This is an official claim, not resident praise, and the same article reports serious gaps (see negatives).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-08", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/patients-appeared-distressed-as-x-ray-services-were-unavailable-at-the-kundarki-chc-kanth-news-c-307-1-smbd1005-107451-2026-09-08"}
       ]
@@ -63,54 +63,60 @@
     {
       "rank": 1,
       "english": "For four years contaminated water has reached household tanks, and it is not fit to drink",
-      "hindi": "चार साल से घरों की टंकियों में दूषित पानी आ रहा है, पीने लायक नहीं",
+      "hindi": "चार साल से घरों की टंकियों में दूषित पानी, पीने लायक नहीं",
       "inference": false,
-      "basis": "Ward 8 of Nagar Panchayat Kundarki, over 5,000 residents: main problem is contaminated drinking water supply, reaching household tanks for four years; residents say officials' assurances have not solved it (article dated 17 Jul 2026). No official action is quoted.",
+      "basis": "Verified (article dated 17 Jul 2026): Ward 8 of Nagar Panchayat Kundarki, over 5,000 residents; main problem is contaminated supply reaching household tanks for four years; residents say officials' assurances have not solved it. No official action is quoted.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-07-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/contaminated-drinking-water-is-reaching-homes-in-ward-8-of-kundarki-bilari-news-c-307-1-smbd1005-107088-2026-07-17"}
       ]
     },
     {
       "rank": 2,
-      "english": "No X-ray at the CHC, no eye doctor for two years, and patients keep wandering",
-      "hindi": "सीएचसी पर एक्स-रे नहीं, दो साल से आंख के डॉक्टर नहीं, मरीज भटकते हैं",
+      "english": "No X-ray at the CHC and no eye doctor for two years",
+      "hindi": "सीएचसी पर एक्स-रे नहीं, दो साल से आंख के डॉक्टर नहीं मिलते",
       "inference": false,
-      "basis": "Kundarki CHC (article dated 8 Sep 2026): X-ray technician absent because he was sent to Bilari CHC for three days of duty; no eye specialist for two years, transferred to Sambhal; specialist doctor, pharmacist and health worker posts vacant. Administration says a request for an eye specialist was already sent to higher officials.",
+      "basis": "Verified: Kundarki CHC (article dated 8 Sep 2026): the X-ray technician was posted to Bilari CHC for three days of duty, so no X-ray that Monday; the CHC has had no eye specialist for two years, the previous one transferred to Sambhal; specialist doctor, pharmacist and health worker posts vacant. Officials say a letter requesting an eye specialist was already sent to senior officers. Patients appeared distressed (headline).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-08", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/patients-appeared-distressed-as-x-ray-services-were-unavailable-at-the-kundarki-chc-kanth-news-c-307-1-smbd1005-107451-2026-09-08"}
       ]
     },
     {
       "rank": 3,
-      "english": "Kundarki-Haryana link road gets waterlogged in rain, and potholes injure bike riders",
-      "hindi": "कुंदरकी-हरियाणा संपर्क मार्ग पर बारिश में पानी और कीचड़, गड्ढों में गिरकर चोट",
-      "inference": false,
-      "basis": "Kundarki-Haryana link road (article dated 26 Aug 2026): poor drainage causes waterlogging and mud, deep potholes have formed, bike riders have fallen and been injured, farmers wade through dirty water. Road links 12 villages to Kundarki town; the article names 11 of them. A nagar panchayat councillor says PWD was asked for road construction and no action has been taken. Village membership in the AC not confirmed.",
-      "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-kundarki-haryana-connecting-road-bilari-news-c-307-1-smbd1005-107362-2026-08-26"}
-      ]
-    },
-    {
-      "rank": 4,
       "english": "Tap water pressure is weak in ward nine, and handpump water is dirty",
-      "hindi": "वार्ड नौ में नल में पानी का प्रेशर कम, हैंडपंप से गंदा पानी आता है",
+      "hindi": "वार्ड नौ में नल का प्रेशर कम, हैंडपंप से गंदा पानी आता है",
       "inference": false,
-      "basis": "Ward 9 of Nagar Panchayat Kundarki (article dated 18 Jul 2026): supply in most homes arrives at low pressure so chores go unfinished and supply cuts out; handpumps give dirty water; lanes are narrow and pothole-filled; no response from officials or the nagar panchayat reported.",
+      "basis": "Verified (Ward 9 of Nagar Panchayat Kundarki, article dated 18 Jul 2026): supply in most homes arrives at low pressure so chores go unfinished and supply cuts out; handpumps give dirty water; lanes are narrow and pothole-filled. No response from officials or the nagar panchayat is reported.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-07-18", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/low-water-pressure-issue-in-ward-9-of-kundarki-bilari-news-c-307-1-smbd1005-107093-2026-07-18"}
       ]
     },
     {
-      "rank": 5,
-      "english": "Rain floods the power station yard, a wall has collapsed and transformers are exposed",
-      "hindi": "बारिश में बिजलीघर परिसर में पानी भरा, दीवार टूटी, ट्रांसफार्मर खुले पड़े हैं",
+      "rank": 4,
+      "english": "Kundarki-Haryana link road gets waterlogged in rain, and potholes injure bike riders",
+      "hindi": "कुंदरकी-हरियाणा संपर्क मार्ग पर बारिश में पानी और कीचड़, गड्ढों में गिरकर चोट",
       "inference": false,
-      "basis": "Kundarki power station (article dated 28 Aug 2026): yard is lower than the ground around it, so rain stays; water collects near the SDO office, JE office and cash counter; one side of the boundary wall collapsed and is not rebuilt, leaving high-capacity transformers exposed. SDO Satish Kumar says a permanent fix is possible only after the rains end. Power station is in Kundarki town; AC boundary check not separately confirmed.",
+      "basis": "Verified (article dated 26 Aug 2026): poor drainage causes waterlogging and mud, deep potholes, bike riders fall and get hurt, farmers wade through dirty water. The article says the road links 12 villages to Kundarki town and names 10 of them (plus Haryana as the far end). A nagar panchayat councillor (Nazim Usmani) says PWD was asked to build the road and no action has been taken. AC MEMBERSHIP UNCONFIRMED: no source places these villages in the Kundarki AC, so this item is not counted in ac_specific_negatives.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-kundarki-haryana-connecting-road-bilari-news-c-307-1-smbd1005-107362-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Rain floods the power station yard, a wall has collapsed and transformers are at risk",
+      "hindi": "बारिश में बिजलीघर परिसर में पानी भरा, दीवार टूटी, ट्रांसफार्मर खतरे में",
+      "inference": false,
+      "basis": "Verified (Kundarki power station, article dated 28 Aug 2026): yard sits lower than the ground around it so rain stays; water collects at the SDO office, JE office and cash counter entrances; one side of the boundary wall collapsed and is not rebuilt, so high-capacity transformers in the yard are at risk. SDO Satish Kumar says a permanent fix is possible only after the rains end. Power station is in Kundarki town, the seat's namesake.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-08-28", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/rain-turns-kundarki-power-station-premises-into-a-pond-bilari-news-c-307-1-smbd1005-107373-2026-08-28"}
       ]
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "Identity (AC 29, Kundarki, Moradabad, general seat) confirmed from the Wikipedia AC page, which lists no extent. Wikipedia and the EC-linked pages give no tehsil or village list, and the IndiaStat Kundarki Factbook PDF could not be read. Village-level sources conflict on whether some Bilari tehsil villages belong to Kundarki or Bilari, so the 12 villages on the Kundarki-Haryana road are unconfirmed. The Jul 8 2026 Amar Ujala article quotes the MLA saying Kundarki has only one nagar panchayat in the assembly, which supports treating Nagar Panchayat Kundarki (Wards 2, 3, 8, 9, 10 named in local reports) as inside the AC. Ward-level MLA demands from 8 Jul 2026 (CC roads and drains at five spots in Wards 3 and 10, 13 roads demanded on 21 Aug 2026, Rs 50 lakh for Valmiki Mohalla pond in Ward 2) are not used as negatives because they are demands, not confirmed facts. Positives 4 and 5 are flagged inference because no source records residents appreciating them. The 5 Sep 2026 fever death in Pandiya village was left out because the village's AC membership is unconfirmed. Water and electricity items are drawn from single Amar Ujala reports; a field check of Ward 8 water tanks, the power station yard and the Kundarki-Haryana road would confirm current status. Local Hindi searches for Kundarki stray cattle, sugarcane dues and schools returned nothing Kundarki-specific, so no negatives were drawn from them."
+  "round2": {
+    "verified_sources": 10,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Opened all 10 source entries (8 distinct Amar Ujala URLs), all support their claims; no URL removed. Recounted AC-specific negatives honestly: 4 (ward 8, ward 9, Kundarki CHC, Kundarki power station, all in Kundarki town/nagar panchayat); the Kundarki-Haryana road (item 4) is sourced but its 12 villages are unconfirmed, so it is excluded from the count and flagged. Negative 2 Hindi no longer says patients wander (not in source). Negative 5 Hindi changed from transformers lying open to transformers at risk, matching the source. Negative 1 Hindi shortened. Positive 1 basis notes that works are attributed to the MLA of Kundarki and village membership is not separately confirmed. Positive 2 is enforcement with no resident reaction reported. Positive 3 (branch trimming, previously sourced) changed to inference: official claim only, no voter appreciation in source; its Hindi says 'greatly reduced' per the JE, not 'somewhat'. Positives 4 and 5 kept as inference. Ranks re-ordered. Searched for completed local projects (roads, lokarpan, Kundarki nagar panchayat relief) in Hindi and English: no sourced Kundarki positive found, so positives 3-5 remain inference. Dropped the unverified claim about a 8 Jul 2026 MLA article from notes."
+  },
+  "notes": "Identity (AC 29, Kundarki, Moradabad, general seat) from the Wikipedia AC page, which lists no extent. Hindi Wikipedia and English Wikipedia name no villages, tehsil or nagar panchayat list for the constituency; the Census/Factbook village lists could not be read, so AC membership of any village is unconfirmed. Searches for the 12 Kundarki-Haryana road villages (Bhaisod, Khajra, Chittupur, Shekhupur Khas, Saray Panju, Sandalpur, Hathipur Chandu, Surajpur Kalyan, Kadalpur Masti) returned no source naming them against the Kundarki constituency, so that road's negative is excluded from the count. The Kundarki town items (nagar panchayat wards 8 and 9, CHC, power station) are counted as inside the AC because the seat takes the town's name; ward-level boundaries were not separately confirmed. Ward-level MLA demands are not used as negatives because they are demands, not confirmed facts. Positives 3-5 are inference because no source records residents appreciating them. Water and electricity items come from single Amar Ujala reports; a field check of Ward 8 water tanks, the power station yard and the Kundarki-Haryana road would confirm current status. The 5 Sep 2026 fever death in Pandiya village is left out because its AC membership is unconfirmed. Local Hindi searches for Kundarki stray cattle, sugarcane dues and schools returned nothing Kundarki-specific."
 }
