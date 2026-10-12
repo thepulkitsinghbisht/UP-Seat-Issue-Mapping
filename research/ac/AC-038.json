@@ -1,0 +1,156 @@
+{
+  "ac_no": 38,
+  "ac_name": "Milak",
+  "ac_name_hindi": "मिलक",
+  "reserved": "SC",
+  "district": "Rampur",
+  "region": "Rohilkhand",
+  "summary": "Voters in Milak mostly raise broken village roads, a 2025 shop demolition on Bilaspur Road in the town, highway danger, and leopard fear, while the appreciation found is limited to government camps and foundation-stone events.",
+  "identity_source": "https://en.wikipedia.org/wiki/Milak_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "We got Ayushman cards and housing sanction at the camp",
+      "hindi": "शिविर में आयुष्मान कार्ड और आवास की मंजूरी मिली",
+      "inference": false,
+      "basis": "At the Sewa Sankalp camp on 27 Sep 2026 in Milak block, five beneficiaries received Ayushman cards and five received Awas Yojana sanction letters; 493 applications under various schemes were approved that day (Amar Ujala, 28 Sep 2026).",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/foundation-stone-laid-for-development-projects-worth-180-crore-rampur-news-c-282-1-smbd1027-181077-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "A cheque under the farmers accident relief scheme was given to us, five lakh rupees",
+      "hindi": "किसान दुर्घटना योजना का चेक मिला, पांच लाख रुपये",
+      "inference": false,
+      "basis": "Five beneficiaries received cheques totalling Rs 5 lakh under the Mukhyamantri Krishak Durghatna Kalyan Yojana at the same Milak block camp on 27 Sep 2026 (Amar Ujala, 28 Sep 2026). Only the total is stated, not each cheque.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/foundation-stone-laid-for-development-projects-worth-180-crore-rampur-news-c-282-1-smbd1027-181077-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "102 projects were inaugurated and foundation laid in Milak and Bilaspur",
+      "hindi": "मिलक-बिलासपुर में 102 परियोजनाओं का लोकार्पण और शिलान्यास हुआ",
+      "inference": false,
+      "basis": "India Daily (article updated 30 Jun 2026) reports 102 projects of more than Rs 690 crore inaugurated or foundation-stoned in the Milak and Bilaspur assembly constituencies by the CM. No breakdown of completed versus future projects, and no project named.",
+      "sources": [
+        {
+          "outlet": "India Daily",
+          "date": "2026-06-30",
+          "url": "https://www.theindiadaily.com/state/uttar-pradesh/cm-yogi-adityanath-lay-foundation-stones-for-102-projects-690-crore-in-milak-and-bilaspur-of-rampur-news-125755"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Development works worth about Rs 1.80 crore got foundation stones in Milak",
+      "hindi": "मिलक में करीब 1.80 करोड़ के विकास कार्यों का शिलान्यास हुआ",
+      "inference": false,
+      "basis": "Agriculture State Minister Baldev Singh Aulakh laid foundation stones for development projects worth about Rs 1.80 crore in Milak block on 27 Sep 2026; individual projects not listed and completion not stated (Amar Ujala, 28 Sep 2026).",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/foundation-stone-laid-for-development-projects-worth-180-crore-rampur-news-c-282-1-smbd1027-181077-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The camp gave us information on government schemes, many people came",
+      "hindi": "शिविर में सरकारी योजनाओं की जानकारी मिली, काफी लोग आए",
+      "inference": false,
+      "basis": "The Sewa Sankalp camp offered information on government schemes and benefits; 1,560 people took part that day (Amar Ujala, 28 Sep 2026). Information is not a delivered benefit, so this is a weak positive.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/foundation-stone-laid-for-development-projects-worth-180-crore-rampur-news-c-282-1-smbd1027-181077-2026-09-28"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "The main road to our village is full of potholes and mud",
+      "hindi": "हमारे गांव की मुख्य सड़क गड्ढों और कीचड़ से भरी है",
+      "inference": false,
+      "basis": "Milak Bhure Khan village main road (dateline Swar): potholes fill with water and mud in rain; narrow road forces one vehicle into fields when two meet; villagers say an elderly man died after the road delayed transport to hospital; MLA Shafiq Ahmad Ansari said the road is in a proposal and work starts only after approval and funds (Amar Ujala, 30 Aug 2026). AC membership unconfirmed: dateline is Swar and the village is not in the Wikipedia extent list.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/main-road-of-milak-bhure-khan-in-a-dilapidated-state-potholes-and-mud-all-over-the-road-rampur-news-c-282-1-smbd1029-178966-2026-08-30"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Our shops on Bilaspur Road were demolished without any other arrangement, it is alleged",
+      "hindi": "बिलासपुर रोड की दुकानें बिना दूसरा इंतजाम किए तोड़ी गईं, आरोप है",
+      "inference": false,
+      "basis": "PWD demolished 23 shops on Bilaspur Road, Milak kasba, with bulldozers on 20 Jan 2025, after a one-day notice. Shopkeepers alleged no alternative arrangement was made; the administration said it acted under a government order (Amar Ujala, 20 Jan 2025). Shopkeepers' statements are reporter paraphrase, not direct quotes. Milak kasba is inside the AC (Milak MB is listed in the Wikipedia extent). Dated 2025.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/rampur-bulldozers-run-on-23-shops-in-milak-cemetery-committee-had-prepared-them-25-years-ago-2025-01-20"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Buses collided on the highway near Milak and three people died",
+      "hindi": "मिलक के पास हाईवे पर बसें टकराईं, तीन लोगों की मौत",
+      "inference": false,
+      "basis": "Two buses collided near the Bhairav Baba shrine in Milak on the Lucknow-Delhi highway at about 4 AM; at least three killed including the driver and 49 injured (Daily Jagran, 22 Jul 2024). Cause not stated. Dated 2024, and the article notes the highway was one-way because of Kanwar Yatra.",
+      "sources": [
+        {
+          "outlet": "Daily Jagran",
+          "date": "2024-07-22",
+          "url": "https://www.thedailyjagran.com/uttar-pradesh/rampur-three-dead-49-injured-after-two-buses-collide-near-bhairav-baba-shrine-in-milak-lucknow-delhi-highway-accident-10175109"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "There is fear of a leopard in Milak Kazi, people want a cage installed",
+      "hindi": "मिलक काजी में तेंदुए का डर है, पिंजरा लगाने की मांग है",
+      "inference": false,
+      "basis": "A dog was killed in a sugarcane field in Milak Kazi and villagers believe a leopard did it; villagers are in panic and asked the forest department to patrol and install a cage (Amar Ujala, 25 Jun 2026, dateline Swar). AC membership of Milak Kazi unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-25",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/leopard-preys-on-dog-in-milak-kazi-panic-rises-rampur-news-c-282-1-smbd1029-174053-2026-06-25"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "It is alleged that a tempo driver was beaten after asking for a parked Bolero to be moved",
+      "hindi": "आरोप है कि गाड़ी हटाने को कहने पर टेंपो चालक की पिटाई हुई",
+      "inference": false,
+      "basis": "In Kyorar village in Milak, a tempo driver asked for a Bolero blocking the village road to be moved and was allegedly beaten with sticks; police registered a case (Amar Ujala, 5 Sep 2026). Kyorar AC membership unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/tempo-driver-assaulted-over-moving-bolero-in-milak-rampur-news-c-282-1-smbd1027-179309-2026-09-05"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 2,
+  "notes": "Identity: Wikipedia's Milak Assembly constituency page confirms constituency No. 38, reserved SC, district Rampur, and lists Milak MB (Milak tehsil) and Milak KC villages including Param, Ramnagar, Dhamora, Puraina, Ainchora, Larhpur, Bhainsori, Jalif Nagla, Vikrampur, Khutia, Kripyapanday. The page's extent line says Shahabad tehsil, which conflicts with the Milak MB and Milak KC entries; the constituency name and number are not in doubt. Region Rohilkhand is by district. Search coverage: about 30 WebSearch and WebFetch queries in Hindi and English. Local Milak news on water, power, electricity, hospital (CHC), drains and sugarcane dues returned nothing sourced for 2025-2026. Excluded: Milak Bhure Khan road is kept as a district-level negative only, since the dateline is Swar and AC membership is not confirmed; Milak Khanam pressure-centre shooting (10 Oct 2026) is in Milak Khanam police station area, AC not confirmed; truck and highway jam near Loha village (16-17 Jan 2026) is in the 'Milak area' but Loha is not confirmed inside AC; Param village snakebite deaths reported in The Week are dated 2016 and not used; Dhamora overbridge fatal accident and Surajpur village drain waterlogging could not be verified or placed in the AC. Weak positives: P2 (foundation stones only, projects and completion not listed), P3 (announcement with no breakdown), P4 (information camp, not a delivered benefit). Milak Ayushman camp and cheques all come from one 28 Sep 2026 article. Milak Jan Aushadhi centres and Annapurna Bhawan (May 2026) are future announcements and were not used. Field check needed: Milak kasba water supply and drains, Milak Bhure Khan and other village roads, Milak CHC services, Param and Jalif Nagla issues, leopard status at Milak Kazi, highway safety at Bhairav Baba crossing, Bilaspur Road shopkeepers' current status, and sugarcane dues at the local mill."
+}
