@@ -1,0 +1,117 @@
+{
+  "ac_no": 43,
+  "ac_name": "Siwalkhas",
+  "ac_name_hindi": "सिवालखास",
+  "reserved": "None",
+  "district": "Meerut",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on waterlogged, potholed village roads and power cuts in the Sardhana belt, while appreciation centres on MLA-inaugurated interlocking roads and a temple tourism project.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Interlocking roads were inaugurated in Kalind, Mainaputhi and Harra villages.",
+      "hindi": "कालंद, मैनापुठी और हर्रा में इंटरलॉकिंग रास्तों का उद्घाटन हुआ",
+      "inference": false,
+      "basis": "Siwalkhas MLA Haji Gulam Mohammad inaugurated about Rs 61.45 lakh of works: interlocking-tile roads in Kalind (Rs 27.31 lakh), Mainaputhi (Rs 16.96 lakh) and Harra (Rs 17.18 lakh). The report names the Siwalkhas assembly seat, so the villages are inside AC 43 per the report.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Roads in Kalind and Pithlokar villages were inaugurated from the MLA's constituency fund.",
+      "hindi": "कालंद और पिठलोकर में विधायक निधि से रास्तों का लोकार्पण हुआ",
+      "inference": false,
+      "basis": "Siwalkhas MLA inaugurated about Rs 20 lakh of schemes in Kalind and Pithlokar in Sarurpur block: an interlocking road from one house to the main road in Kalind (Rs 10 lakh, MLA fund) and a road in Pithlokar. The article is dated 20 Aug 2025.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-08-20", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-siwalkhas-mla-inaugurated-development-schemes-prepared-at-a-cost-of-rs-20-lakh-2025-08-20"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Tourism development work at the Pandeshwar Mahadev temple in Puthkhas was inaugurated.",
+      "hindi": "पूठखास के पांडेश्वर महादेव मंदिर का पर्यटन विकास कार्य लोकार्पित हुआ",
+      "inference": false,
+      "basis": "Tourism minister Jaiveer Singh inaugurated the tourism development work at the Pandeshwar Mahadev temple in village Puthkhas, Rohta development block, assembly constituency Siwalkhas, costing Rs 58.10 lakh. Article dated 14 Mar 2026 (event on 13 Mar 2026). This was a state minister's event, not the MLA's.",
+      "sources": [
+        {"outlet": "ETV Bharat", "date": "2026-03-14", "url": "https://www.etvbharat.com/hi/state/meerut-tourism-minister-gifts-projects-worth-rs-33-crore-to-meerut-uttar-pradesh-news-ups26031400458"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Five of Meerut's six sugar mills cleared cane dues of Rs 229 crore for the 2025-26 season.",
+      "hindi": "मेरठ की पांच चीनी मिलों ने 229 करोड़ का गन्ना भुगतान किया",
+      "inference": false,
+      "basis": "District-level, not AC-specific. ChiniMandi (2 Dec 2025): five of six Meerut district mills cleared dues totalling Rs 229 crore for 2025-26 (Daurala 87.99, Mawana 75.83, Nanglamal 36.10, Mohiuddinpur 15.76, Sakhoti 13.30 crore), covering cane procured up to 22 Nov. No percentages given. The one lagging mill is Kinauni.",
+      "sources": [
+        {"outlet": "ChiniMandi", "date": "2025-12-02", "url": "https://www.chinimandi.com/meerut-five-sugar-mills-clear-on-time-sugarcane-payments/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Interlocking village roads may make it easier to move around inside the villages.",
+      "hindi": "*इंटरलॉकिंग रास्तों से गांव के अंदर आना-जाना आसान हो सकता है",
+      "inference": true,
+      "basis": "Inference: no source records residents' reaction to the interlocking roads. The point is drawn from the Oct 2026 and Aug 2025 inaugurations of interlocking roads in Kalind, Mainaputhi, Harra and Pithlokar, which were reported without any resident quote.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "The main road in Pithlokar village has been waterlogged for ten years with no drainage.",
+      "hindi": "पिठलोकर में मुख्य रास्ते पर दस साल से जलभराव, निकासी नहीं",
+      "inference": false,
+      "basis": "Villagers (Zulfiqar, Haroon, Anwar and others) say the main road has been waterlogged for about ten years because there is no proper drainage and no cleaning. Walking is hard in the rain. They say they complained to the gram pradhan and the Siwalkhas MLA several times. Sarurpur block. The article names the Siwalkhas assembly, so AC membership is confirmed by the report.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-23", "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-problem-for-ten-years-passing-through-the-main-road-is-difficult-meerut-news-c-44-1-smrt1055-113694-2026-09-23"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Potholes on the Sardhana-Binauli road at Harra fill with water, so drivers cannot judge depth and risk accidents.",
+      "hindi": "हर्रा में सरधना-बिनौली सड़क के गड्ढों में पानी भरा, हादसे का डर",
+      "inference": false,
+      "basis": "Amar Ujala (29 Sep 2026): Baghpat MP Rajkumar Sangwan inspected the Sardhana-Binauli road at the outer edge of Harra town. Locals said waterlogging there is long-running and worsens after rain. Water in the potholes hides their depth, risking accidents. Also encroachment and parking complaints. The MP directed PWD to fix it immediately. The Sep article itself does not name the AC; Harra is inside AC 43 per the Amar Ujala 11 Oct 2026 report on the Siwalkhas MLA's works in Harra.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mp-furious-over-waterlogging-and-potholes-in-harra-meerut-news-c-73-1-mct1008-108865-2026-09-29"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Kinauni sugar mill is still lagging in paying farmers' cane dues.",
+      "hindi": "किनौनी चीनी मिल का गन्ना बकाया अभी बाकी है",
+      "inference": false,
+      "basis": "District-level, not AC-specific. ChiniMandi (2 Dec 2025) quotes District Cane Officer B.K. Patel: in Meerut district only Kinauni Sugar Mill is lagging, and notices have been issued. ChiniMandi (2 Sep 2026): BKU-led farmers protested at Commissioner's Chowk in Meerut over pending dues and a fair price. No Kinauni figures given in either report. Location of the mill relative to AC 43 not confirmed.",
+      "sources": [
+        {"outlet": "ChiniMandi", "date": "2025-12-02", "url": "https://www.chinimandi.com/meerut-five-sugar-mills-clear-on-time-sugarcane-payments/"},
+        {"outlet": "ChiniMandi", "date": "2026-09-02", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-protest-in-meerut-over-sugarcane-dues-frp-and-farm-issues/"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Frequent cuts and low voltage in the Sardhana belt have stopped farmers from irrigating their fields.",
+      "hindi": "सरधना इलाके में कटौती और कम वोल्टेज से खेतों की सिंचाई रुकी",
+      "inference": false,
+      "basis": "District/tehsil-level, not AC-specific. Amar Ujala (24 May 2026): Samajwadi Party delegation led by Seema Pradhan submitted a memorandum to the PVVNL MD on 23 May 2026 about excessive cuts and low voltage in Sardhana, Phalauda, Daurala, Lawad and nearby villages. Farmers cannot irrigate. Transformers are burning out in the heat. Sardhana town itself is in AC 44, so AC 43 membership of the affected villages is not confirmed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-24", "url": "https://www.amarujala.com/uttar-pradesh/meerut/sp-workers-enraged-over-power-crisis-surrounded-md-meerut-news-c-72-1-mct1004-153742-2026-05-24"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Ganga khadar village Bastaura Narang has no cremation ground, and access roads sink in floods.",
+      "hindi": "गंगा खादर के गांव में श्मशान घाट नहीं, बाढ़ में रास्ते डूबते हैं",
+      "inference": false,
+      "basis": "Amar Ujala (29 Sep 2026): in Bastaura Narang, flood-prone khadar village near the Ganga, an 80-year-old woman's funeral procession waded through 2-3 feet of water. The village has no cremation ground, so last rites were held about 10 km away in Hastinapur. Access roads are damaged every year in rain and floods. The article does not name the tehsil, block or assembly constituency. AC membership is unconfirmed; this is a Meerut district item only.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-dire-situation-in-this-meerut-village-water-levels-have-reached-two-feet-2026-09-29"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 2,
+  "notes": "AC 43 Siwalkhas (None, Meerut district) is confirmed from the Wikipedia list and the Siwalkhas constituency article; the extent covers Meerut tehsil (Rohta and Jani Khurd KCs, Siwalkhas NP) and Sardhana tehsil (Saroorpur KC, Karnawal NP). Only 2 negatives are confirmed inside AC 43 (Pithlokar, Harra). Negatives 3-5 are district or tehsil level and are labelled so; negative 5 is AC-unconfirmed. Searches found no Siwalkhas-specific 2026 reporting on drinking water, drainage in Siwalkhas NP, schools or health facilities, so these were not used. Sardhana town waterlogging and power reports belong to AC 44 and were excluded. Positive 3 is a state minister's inauguration, not the MLA's. Positive 5 is an inference, flagged with *. The Aug 2026 AIMIM accusation against the MLA is political and was not used. The Hindi AC name is taken from Amar Ujala usage; the Wikipedia list page did not show a Hindi name. Field check suggested: Pithlokar main road drainage, Harra Sardhana-Binauli stretch, and whether Kalind/Mainaputhi/Harra works are complete."
+}

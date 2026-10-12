@@ -1,0 +1,156 @@
+{
+  "ac_no": 41,
+  "ac_name": "Amroha",
+  "ac_name_hindi": "अमरोहा",
+  "reserved": "None",
+  "district": "Amroha",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on power cuts and transformer failures that stop water tanks, stray dog bites, and clogged drains and potholes in Amroha city, while appreciation is thin and limited to a village getting electricity after 2014, a Joya-Manauta road repair that has started, and funds sanctioned for a few roads.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 41: Amroha, district Amroha, reservation None); https://en.wikipedia.org/wiki/Amroha_Assembly_constituency (district Amroha, reservation None)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Work has started on the 14 km Joya to Manauta road",
+      "hindi": "जोया से मनौटा तक 14 किलोमीटर सड़क का काम शुरू हो गया है",
+      "inference": false,
+      "basis": "District-level, AC membership unconfirmed (Joya not confirmed inside AC 41): PWD says repair work on the 14 km stretch from Joya crossing to Manauta has begun after rain halted it; carriageway being widened from 5.5 m to 7 m; about Rs 19 crore; completion still pending",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/widening-work-stalled-during-the-rains-will-now-pick-up-pace-again-work-has-commenced-jpnagar-news-c-284-1-jpn1023-174931-2026-10-08"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Darana Nagar village got electricity after 2014, now there is light",
+      "hindi": "दारानगर गांव में 2014 के बाद बिजली आई, अब रोशनी है",
+      "inference": false,
+      "basis": "District-level ground report, AC membership of Darana Nagar unconfirmed: resident Mangat Singh says there was no light before 2014 and work began after that; article calls the village a solar village; the claim is the resident's, not independently verified",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/basic-amenities-to-dholak-trade-locals-share-ground-reality-of-development-in-amroha-ground-report-2026-09-05"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "*First instalment has come for the Faraspura-Afzalpur road, work to start soon",
+      "hindi": "*फरासपुरा-अफजलपुर सड़क की पहली किस्त आ गई, काम जल्द शुरू होगा",
+      "inference": true,
+      "basis": "Inference: funds and approval only, work not started. Article (23 Sep 2026) explicitly names the Amroha Assembly constituency: Mukhyamantri Gramin Sadak Yojana, about 1.5 km, Rs 1.19 crore, from Faraspura link road through Naseerpur bypass to Afzalpur road; PWD says first instalment released and work to start soon with no date. Treated as a weak positive pending field check",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/two-roads-in-the-amroha-assembly-constituency-will-be-constructed-at-a-cost-of-125-crore-jpnagar-news-c-284-1-jpn1023-173698-2026-09-23"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Rs 6 crore has come for the wards added to the municipality, drains to be built",
+      "hindi": "*नगर पालिका में जुड़े वार्डों के लिए छह करोड़ मिले, नालियां बनेंगी",
+      "inference": true,
+      "basis": "Inference: the Executive Officer confirms about Rs 6 crore received for the newly added wards of Amroha municipality (drains in waterlogged areas, roads, street lights planned). Article says work has not started and gives no start date; wards not named. Weak positive pending field check",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/development-work-will-be-done-in-the-villages-included-in-the-municipality-with-an-expenditure-of-rs-6-crore-jpnagar-news-c-284-1-jpn1023-160844-2026-04-05"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Roads have got better and travel has become easier, says a trader",
+      "hindi": "*सड़कें पहले से अच्छी हुई हैं, आना-जाना आसान हुआ है",
+      "inference": true,
+      "basis": "Inference: one dholak trader's view in a district-level ground report (Hemlata Handicraft Firm, Deepak Agarwal), no road or stretch named and no dates given. Presented as opinion, not verified",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/basic-amenities-to-dholak-trade-locals-share-ground-reality-of-development-in-amroha-ground-report-2026-09-05"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Transformer failed, Pirgarh mohalla without power for 36 hours, water tanks dry",
+      "hindi": "ट्रांसफार्मर खराब, पीरगढ़ में 36 घंटे बिजली गुल, टंकियां भी खाली",
+      "inference": false,
+      "basis": "Amroha city mohalla Pirgarh; AC membership unconfirmed (city not listed in AC 40 extent, AC 41 extent text not retrieved). Article: 400 kVA transformer failed in storm on Friday 9 Oct; about 36 hours without power; article gives about 250 people in the lead and about 250 families in the SDO quote (not reconciled); residents say empty water tanks cause drinking water shortage and demand repair or new transformer; SDO says new one will be installed",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/people-have-been-without-electricity-for-36-hours-due-to-a-faulty-transformer-jpnagar-news-c-284-1-jpn1023-175211-2026-10-11"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Stray dogs bit 17 people in Amroha city, eight of them children",
+      "hindi": "शहर में कुत्तों ने 17 लोगों को काटा, इनमें आठ बच्चे भी शामिल",
+      "inference": false,
+      "basis": "Amroha city mohallas (Pirzada, Mullana, Chahmullana, Jhanda Shaheed); AC membership unconfirmed. Attacks on Saturday 10 Oct 2026: 8 children and 9 others bitten; victims given anti-rabies vaccine at district hospital; residents fear a rabid dog; article reports no official response",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/dog-menace-in-the-city-17-people-including-eight-children-bitten-jpnagar-news-c-284-1-smbd1013-175305-2026-10-12"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "When power goes the tank stops, five Amroha neighbourhoods go without water",
+      "hindi": "बिजली जाते ही टंकी बंद, पांच मोहल्लों में पानी को तरसे लोग",
+      "inference": false,
+      "basis": "Five Amroha city mohallas (Mehmadi Sarai, Laxman Wali Madhaiya, Chunni Wali Madhaiya, Madhaiya Husainpura, Imli Wali Madhaiya); AC membership unconfirmed. Residents say tanks run on electricity so supply stops during cuts, and they petitioned the municipal chairman for solar lights and a generator; EO Dinesh Kumar says a generator-based supply will be set up in the area",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/power-outage-leaves-residents-of-five-neighborhoods-desperate-for-even-a-drop-of-water-jpnagar-news-c-284-1-jpn1023-174534-2026-10-03"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Drains choked with filth, rain floods roads, and cleaning is only half done",
+      "hindi": "नाले गंदगी से भरे, बारिश में सड़कों पर पानी, सफाई आधी-अधूरी",
+      "inference": false,
+      "basis": "Amroha city, named places Chhebra, Beriyan, Katkui Nai Basti, Atrasi Road, Kailsa Road, Bijnor Road, Mangalvar Bazar, Joya Road, Gandhi Murti crossing; AC membership unconfirmed (Kailsa is a KC of AC 40, so Kailsa Road stretches need care). Residents say cleaning is a formality and drains are only partly cleaned; municipality's Rs-lakh cleaning claims were washed away by light rain; article has no official response",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/lakhs-spent-on-cleaning-claims-drowned-in-drains-filled-with-filth-jpnagar-news-c-284-1-smbd1013-162982-2026-05-05"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Potholes and standing water on Subodh Nagar road, bikers fall and get hurt",
+      "hindi": "सुबोध नगर मार्ग पर गड्ढे और भरा पानी, बाइक सवार गिरकर घायल",
+      "inference": false,
+      "basis": "Subodh Nagar and Pushkar Nagar link road from Bambugarh bypass toward Kailsa; AC membership unconfirmed (Kailsa KC is in AC 40). Residents say water stays on the road near a primary school, several bike riders have fallen and been injured, and repair demands were ignored; article reports no official response",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/subodh-nagar-road-in-bad-condition-waterlogging-and-potholes-trouble-commuters-jpnagar-news-c-284-1-jpn1023-164858-2026-05-31"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 0,
+  "notes": "AC confirmed as No. 41 Amroha, district Amroha, reservation None (Wikipedia list row 41 and AC page). Amroha AC extent text (KCs/PCs/wards) could not be retrieved: the English AC page has no extent section, the Hindi Wikipedia page returned 404, and electionpandit returned 503. The Naugawan Sadat page lists the Amroha tehsil KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP as AC 40, so Kailsa-side places are excluded from AC 41; Amroha city is not named in AC 40's extent but is not confirmed in AC 41 either. All Amroha city items are therefore sourced to the city/district with AC membership unconfirmed, and ac_specific_negatives is 0. Excluded: Kalali Road (Amar Ujala 16 Jun 2026, Dhanaura-Chandpur road and Kalali village, Dhanaura AC 39 territory); Nawada ward 2 drains and Pushkarnagar unpaved lanes (Amar Ujala 18 May and 3 May 2026, ward/mohalla membership unconfirmed, usable as backup negatives); Gajraula, Hasanpur, Mandi Dhanaura and Dhanaura items; Amroha district hospital ultrasound and radiologist shortage (2025 report, date and status not current). Transformer article gives 250 people and 250 families for the same outage, unreconciled. Sugarcane dues: no Amroha-specific report found, only Bareilly, Moradabad and Shamli items. Positive 3 names the Amroha Assembly constituency explicitly but is only a funds-released approval, so flagged as inference. Positives 4 and 5 are weak inferences. Field check recommended: confirm the AC 41 extent (kanungo circles or wards) from the UP assembly delimitation or the district NIC site, whether Pirgarh, Pirzada and the five Madhaiya mohallas are inside AC 41, the Joya-Manauta road alignment, the Darana Nagar village AC, and whether the Faraspura-Afzalpur road work has begun."
+}
