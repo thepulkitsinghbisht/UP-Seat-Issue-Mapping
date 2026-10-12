@@ -1,0 +1,161 @@
+{
+  "ac_no": 21,
+  "ac_name": "Nehtaur",
+  "ac_name_hindi": "नेहटौर",
+  "reserved": "SC",
+  "district": "Bijnor",
+  "region": "Paschim UP",
+  "summary": "Voters in Nehtaur mostly credit recent gains in roads, a girls' school upgrade, safety and housing, ration and farmer card benefits, while the main complaints are the repeatedly closed Nahtaur railway gate, a dilapidated bus stand, and district-level power cuts and stray cattle.",
+  "identity_source": "https://en.wikipedia.org/wiki/Nehtaur_Assembly_constituency",
+  "ac_specific_negatives": 2,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "My relative got a house, and ration and farmer cards have also been made",
+      "hindi": "मेरे रिश्तेदार को मकान मिला है, राशन और किसान कार्ड भी बने हैं",
+      "inference": false,
+      "basis": "An unnamed Nehtaur resident said a relative received a house and that ration and farmer cards were issued (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). Benefit delivered; the speaker is not named.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Roads have also improved",
+      "hindi": "सड़कों में भी सुधार हुआ है",
+      "inference": false,
+      "basis": "A trader said roads have improved (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). No specific road is named in the article.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The girls' school building was in bad shape earlier, and now it has been improved",
+      "hindi": "बालिका विद्यालय की इमारत पहले खराब थी, अब सुधार हुआ है",
+      "inference": false,
+      "basis": "A trader said education has improved, citing a girls' school building that was dilapidated and has been upgraded (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). The school is not named in the article; the quote is cut short in the source.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The security situation has become better",
+      "hindi": "सुरक्षा की स्थिति बेहतर हुई है",
+      "inference": false,
+      "basis": "A trader said the security situation has improved; another trader said traders now feel secure carrying cash, where they used to feel unsafe (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026).",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Our MLA is good and comes among the people",
+      "hindi": "हमारे विधायक अच्छे हैं, लोगों के बीच आते हैं",
+      "inference": false,
+      "basis": "An unnamed local resident said the MLA is good and mingles with people; a trader said the MLA stays available to the public (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). Praise of the MLA's accessibility only, not of a named project.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "The Nahtaur railway gate has been closed for many days and people are very troubled",
+      "hindi": "नहटौर का रेल फाटक कई दिन से बंद है, लोग बहुत परेशान हैं",
+      "inference": false,
+      "basis": "The Nahtaur road railway gate was closed for about 15 days in March 2026 for track repair, and residents said it had not reopened after the announced date; people face a long diversion to the overbridge or Jaitra gate to reach offices in Dhampur tehsil (Amar Ujala, 22 Mar 2026). In April 2026 the gate was reported fully closed for 20 more days, and residents said it had been shut again since early April (Amar Ujala, 27 Apr 2026). Railway officials said work was on a war footing.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-03-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nahtaur-road-railway-gate-closed-for-15-days-bijnor-news-c-27-1-smrt1025-175165-2026-03-22"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-27",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nahtaur-railway-gate-closed-for-20-days-commuters-troubled-bijnor-news-c-27-1-smrt1025-178044-2026-04-27"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The bus stand is very dilapidated",
+      "hindi": "नहटौर का बस स्टैंड बहुत जर्जर हो गया है",
+      "inference": false,
+      "basis": "Amar Ujala describes the Nahtaur bus stand as dilapidated (जर्जर हालत); the government plans a PPP-model redevelopment (DBFOT) with a waiting hall, commercial complex, CCTV and parking, with no start or completion date given (9 Apr 2026). No resident is quoted; the complaint is the reporter's description.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-09",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nahtaur-bus-stand-will-be-rejuvenated-modern-terminal-will-be-built-through-ppp-model-bijnor-news-c-27-1-bij1007-176527-2026-04-09"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Power is cut too often for no reason, so it should be stopped",
+      "hindi": "बिना वजह बिजली बहुत कटती है, इसे रोका जाए",
+      "inference": false,
+      "basis": "District-level, not Nehtaur-specific: Bharatiya Kisan Union (Tikait) workers submitted a memorandum to the Dhampur tehsildar on 10 Jun 2026 demanding that indiscriminate power cuts be stopped; the article names no Nehtaur village or town.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-10",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/demand-to-stop-power-cuts-and-send-stray-animals-to-cow-shelters-bijnor-news-c-27-1-smrt1025-181822-2026-06-10"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Stray animals should be caught and sent to cow shelters",
+      "hindi": "आवारा पशुओं को पकड़कर गोशाला भिजवाया जाए",
+      "inference": false,
+      "basis": "District-level, not Nehtaur-specific: the same BKU memorandum to the Dhampur tehsildar (10 Jun 2026) demanded catching stray animals and sending them to cow shelters; no Nehtaur place is named.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-10",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/demand-to-stop-power-cuts-and-send-stray-animals-to-cow-shelters-bijnor-news-c-27-1-smrt1025-181822-2026-06-10"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "A leopard kept roaming near the village and people stayed scared",
+      "hindi": "गांव के पास गुलदार घूमता रहा, लोग डरे रहे",
+      "inference": false,
+      "basis": "A leopard roamed near Sadaruddinagar village for several days and villagers feared a sudden encounter; the forest department set a cage and trapped it after about five days (Aaj Tak, 6 Sep 2026). The article places the village in the Nahtaur area only; AC membership unconfirmed, so not counted in ac_specific_negatives.",
+      "sources": [
+        {
+          "outlet": "Aaj Tak",
+          "date": "2026-09-06",
+          "url": "https://www.aajtak.in/uttar-pradesh/story/bijnor-leopard-trapped-forest-department-sadaruddinagar-nahaur-lcla-strc-2637278-2026-09-06"
+        }
+      ]
+    }
+  ],
+  "notes": "Identity confirmed from the Wikipedia AC page: No. 21, Nehtaur, SC-reserved, Bijnor district, Nagina Lok Sabha; extent lists Bijnor and Dhampur tehsils, with Nehtaur municipal board in Dhampur tehsil and Haldaur municipal board in Bijnor tehsil. Local Hindi spelling in Amar Ujala is नहटौर; the Dhampur dateline on the railway-gate stories is the tehsil town, and the gate itself is on the Nahtaur road. Dhampur town is a separate AC (AC-020) and its items were not used. Positives all come from one anonymous-speaker article (1 Sep 2026); speakers are unnamed traders and residents and the article contains no complaints about civic services, so the positives are thin and worth a field check. Negatives 3 and 4 are district-level (BKU memorandum). Negative 5 is sourced but AC membership is unconfirmed. Not used: Hamidpur village road video (13 Jan 2025, Nahtaur block, Harpur gram panchayat; block is not AC and membership unconfirmed); Amar Ujala 29 Jul 2025 municipal expansion article (about 8 unnamed villages to join Nehtaur municipal board, no complaints). Not cited because fetch failed: NewsClick doctors-absent article (403) and shuru.co.in Nehtaur news page (404). No sourced Nehtaur-specific item found on water supply, drains and waterlogging, sugarcane dues, jobs, prices, CHC or hospital staffing, or schools beyond the trader quote, despite Hindi and English searches. These are the main field-check gaps. The Dec 2019 CAA-protest killings in Nehtaur were not used because they are old and not a current voter issue."
+}
