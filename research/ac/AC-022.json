@@ -14,7 +14,7 @@
       "english": "Road connectivity has improved a lot",
       "hindi": "सड़कों की कनेक्टिविटी काफी अच्छी हुई है",
       "inference": false,
-      "basis": "Local resident Neeraj, quoted in Amar Ujala's Bijnor Vidhan Sabha issues feature, says roads connectivity has improved well; bridges, highway and road building eased travel (Bijnor city feature, not a road-by-road report)",
+      "basis": "Local resident Neeraj, quoted in Amar Ujala's Bijnor Vidhan Sabha issues feature, says road connectivity has improved well; bridges, highway and road building eased travel (Bijnor city feature, not a road-by-road report)",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -25,15 +25,15 @@
     },
     {
       "rank": 2,
-      "english": "Health facilities have improved a lot",
-      "hindi": "स्वास्थ्य सुविधाओं में काफी सुधार हुआ है",
+      "english": "Nine of the district's ten sugar mills have paid cane dues on time",
+      "hindi": "दस में से नौ चीनी मिलों ने गन्ना भुगतान कर दिया",
       "inference": false,
-      "basis": "Resident Faheem, quoted in the same Amar Ujala feature, says health facilities have improved considerably (general statement, no named facility)",
+      "basis": "District-level, not AC-specific: Amar Ujala says nine of the district's ten sugar mills have paid cane prices on time; only Bilai mill is still owing, making partial payments",
       "sources": [
         {
           "outlet": "Amar Ujala",
-          "date": "2026-08-31",
-          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/local-opinions-on-issues-that-will-influence-voter-choices-in-2027-bijnor-assembly-election-of-uttar-pradesh-2026-08-31"
+          "date": "2026-10-10",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/outstanding-sugarcane-payments-of-4198-crore-against-bilai-sugar-mill-bijnor-news-c-27-1-smrt1008-192465-2026-10-10"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "english": "Chowks in the city have been beautified",
       "hindi": "शहर के चौराहे अब चमक गए हैं",
       "inference": false,
-      "basis": "Amar Ujala reports Bijnor's intersections have been beautified (headline: 'चमक गए चौराहे'); the same report says the roads leading to them are still damaged",
+      "basis": "Amar Ujala (9 Sep 2026) reports Shastri, Jaji and Kisan chowks in Bijnor city redone and beautified (headline 'चमक गए चौराहे'); the same report says the roads leading to them are still damaged",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -53,29 +53,29 @@
     },
     {
       "rank": 4,
-      "english": "Local issues are raised by the MLA and some development has happened",
-      "hindi": "विधायक ने क्षेत्र के मुद्दे ऊपर तक उठाए, कुछ काम भी हुए",
+      "english": "137 health sub-centres in the district have got the NQAS quality certificate",
+      "hindi": "137 स्वास्थ्य उपकेंद्रों को गुणवत्ता प्रमाण पत्र मिला",
       "inference": false,
-      "basis": "In the Amar Ujala feature, an unnamed resident says the MLA raised local issues at state level and development work followed; other residents said some work is still pending",
+      "basis": "District-level, not AC-specific: Amar Ujala (16 Jul 2026) says 137 health sub-centres in Bijnor district received the NQAS certificate; district ranked 4th in state and 1st in division; CMO Dr Kaushalendra Singh named",
       "sources": [
         {
           "outlet": "Amar Ujala",
-          "date": "2026-08-31",
-          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/local-opinions-on-issues-that-will-influence-voter-choices-in-2027-bijnor-assembly-election-of-uttar-pradesh-2026-08-31"
+          "date": "2026-07-16",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/bijnor-ranked-fourth-in-the-state-in-nqas-certification-bijnor-news-c-27-1-bij1027-185118-2026-07-16"
         }
       ]
     },
     {
       "rank": 5,
-      "english": "Nine of the district's ten sugar mills have paid cane dues on time",
-      "hindi": "जिले की दस में से नौ चीनी मिलों ने भुगतान कर दिया है",
+      "english": "Local issues are raised by the MLA and some development has happened",
+      "hindi": "विधायक ने क्षेत्र के मुद्दे ऊपर तक उठाए, कुछ काम भी हुए",
       "inference": false,
-      "basis": "District-level: Amar Ujala says nine of the district's ten sugar mills have paid; only Bilai mill is still owing (positive for farmers, not AC-specific)",
+      "basis": "In the Amar Ujala feature, an unnamed resident says the MLA raised local issues at state level and development work followed; other residents said some work is still pending (single feature, vague claim)",
       "sources": [
         {
           "outlet": "Amar Ujala",
-          "date": "2026-10-10",
-          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/outstanding-sugarcane-payments-of-4198-crore-against-bilai-sugar-mill-bijnor-news-c-27-1-smrt1008-192465-2026-10-10"
+          "date": "2026-08-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/local-opinions-on-issues-that-will-influence-voter-choices-in-2027-bijnor-assembly-election-of-uttar-pradesh-2026-08-31"
         }
       ]
     }
@@ -86,7 +86,7 @@
       "english": "Sugarcane dues of Rs 41.98 crore are still pending at Bilai sugar mill",
       "hindi": "बिलाई चीनी मिल पर 41.98 करोड़ गन्ना भुगतान बकाया है",
       "inference": false,
-      "basis": "District-level, not AC-specific: Amar Ujala says Bilai mill owes Rs 41.98 crore and is making partial payments; farmers plan a sit-in and affidavits. Mill location and whether it lies in AC 22 is not stated in the source",
+      "basis": "District-level, not AC-specific: Amar Ujala says Bilai mill owes Rs 41.98 crore and is making partial payments; farmers plan a sit-in from 15 Oct and have collected affidavits. The source places the mill only in Bijnor district; whether it lies in AC 22 is unconfirmed",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -102,10 +102,10 @@
     },
     {
       "rank": 2,
-      "english": "Potholes and broken divider on Nagina Road, Chakkar Road and Jaji Chowk make driving dangerous",
-      "hindi": "नगीना रोड और चक्कर रोड पर गड्ढे, जजी चौक का डिवाइडर टूटा, हादसे हो रहे हैं",
+      "english": "Potholes on Nagina Road and Chakkar Road and broken Jaji Chowk divider make driving dangerous",
+      "hindi": "नगीना और चक्कर रोड पर गड्ढे, जजी चौक का डिवाइडर टूटा",
       "inference": false,
-      "basis": "Bijnor city: Amar Ujala reports the Nagina Road is badly potholed up to WKIT, Chakkar Road potholes so deep bricks were dumped, and Shastri to Jaji Chowk divider broken with vehicles climbing it at night causing accidents; EE Hemant Pratap Singh said Nagina and Chakkar roads will be repaired after rains",
+      "basis": "Bijnor city (Bijnor MB, inside AC extent): Amar Ujala reports Nagina Road badly potholed, Chakkar Road potholes filled with bricks, and Shastri to Jaji Chowk divider broken with vehicles climbing it at night; EE Hemant Pratap Singh said Nagina and Chakkar roads will be repaired after rains",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -116,10 +116,10 @@
     },
     {
       "rank": 3,
-      "english": "Awas Vikas, Nai Basti and Post Office area get waterlogged in rain",
-      "hindi": "आवास विकास, नई बस्ती और पोस्ट ऑफिस में बारिश में पानी भर जाता है",
+      "english": "Awas Vikas and Nai Basti get waterlogged in rain",
+      "hindi": "बारिश में आवास विकास और नई बस्ती में पानी भर जाता है",
       "inference": false,
-      "basis": "Bijnor city: Amar Ujala reports waterlogging in Awas Vikas, Nai Basti, Post Office area and other places left people troubled; residents say they have faced waterlogging for 30 years; EO Megha Gupta said water is being pumped out",
+      "basis": "Bijnor city (inside AC extent): Amar Ujala reports Awas Vikas and Nai Basti waterlogged in rain; EO Megha Gupta said water is being pumped out. The article's '30 years' waterlogging remark refers to Kiratpur and is not used here",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -131,7 +131,7 @@
     {
       "rank": 4,
       "english": "Bijnor to Daranagar Ganj road widening is stuck for want of bitumen",
-      "hindi": "बिजनौर से दारानगर गंज तक सड़क चौड़ीकरण तारकोल न मिलने से अटका है",
+      "hindi": "दारानगर गंज की सड़क चौड़ीकरण तारकोल न मिलने से अटका",
       "inference": false,
       "basis": "Bijnor to Daranagar Ganj stretch (about 10 km, 7 m to 10 m widening, about Rs 18 crore); Dara Nagar is named in the AC extent on Wikipedia. Amar Ujala says Executive Engineer Hemant Pratap Singh said work stopped for lack of bitumen, pits dug on both sides are troubling drivers",
       "sources": [
@@ -144,10 +144,10 @@
     },
     {
       "rank": 5,
-      "english": "Newly built drains in Mandawar collapsed, residents allege poor quality",
-      "hindi": "मंडावर में लाखों की नालियां ढह गईं, घटिया सामग्री का आरोप है",
+      "english": "A newly built drain in Mandawar collapsed, residents allege poor quality",
+      "hindi": "मंडावर में नई नाली ढह गई, घटिया निर्माण का आरोप है",
       "inference": false,
-      "basis": "Mandawar Nagar Panchayat (named in AC extent on Wikipedia): about 14 drains costing roughly Rs 1 crore under urban drainage scheme; one drain near Bijli Ghar collapsed, residents allege substandard material and blame the contractor and NP officials; SDM Smriti Mishra said an inquiry will be done (allegation, not proven)",
+      "basis": "Mandawar NP (KC Mandawar and Mandawar NP are in AC extent per Wikipedia): about 14 drains costing roughly Rs 1 crore under urban drainage scheme; one drain near Bijli Ghar fully collapsed; residents allege substandard material; SDM Smriti Mishra said an inquiry will be conducted (allegation, not proven)",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -157,5 +157,11 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from Wikipedia list (No. 22 Bijnor, reserved None, district Bijnor); AC extent per Wikipedia: Bijnor tehsil, Bijnor MB, Mandawar NP, Jhalu NP, Dara Nagar, KC Mandawar. Search snippets said Nagina is a district sub-division, not the AC name. Positives are thin: 4 of 5 come from one Amar Ujala feature (31 Aug 2026) and the 9/10 mill payment figure is district-level. Bilai sugar mill location not stated in any source fetched; AC membership unconfirmed. Kadrabad-Hidayatpur-Pattharwala road (Amar Ujala, 5 Oct 2026, 30-year potholes) left out of the list because its membership in AC 22 is not confirmed; a field check could add it. Nurpur (Dhelli Ahir) and Jaleelpur/Bahsuma-Thakurdwara, Sherkot and Kiratpur reports are outside this AC and were not used. Field check suggested: Bijnor-Daranagar Ganj road status after rains, Mandawar drain inquiry outcome, Shastri to Jaji divider. Electors figure on Wikipedia (317,824) is from 2012 and not used."
+  "notes": "Round 2: AC 22 Bijnor (unreserved, Bijnor district) confirmed from Wikipedia list row and AC extent (KC Mandawar, Bijnor, Dara Nagar, Mandawar NP, Jhalu NP, Bijnor MB, Bijnor tehsil). Mandawar is inside AC 22 (confirmed by extent; Barhapur not relevant). Bilai sugar mill: the 10 Oct source says only 'Bijnor district'; a separate Amar Ujala search hit places the sugar-centre dispute at Batpura village in Haldaur police area, but that article was not fetched or used, and AC membership of Bilai mill remains unconfirmed. Excluded: Kadrabad-Hidayatpur-Pattharwala road (AC membership unconfirmed); Gangan bridge at Jasmora (Nahtaur area, outside AC 22 extent); Kiratpur and Sherkot waterlogging (other ACs). Positives: the Aug 31 feature still supports two items (road connectivity, MLA development); the rest are independent. Positive 2 and 4 are district-level. Field check: Bijnor-Daranagar Ganj road after rains, Mandawar drain inquiry outcome, Nagina and Chakkar repairs after rains, Bilai mill location and 15 Oct dharna outcome.",
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Opened and checked all 7 original Amar Ujala URLs; all support their items. Corrected: Sep 6 waterlogging item no longer uses the '30 years' remark (it refers to Kiratpur); Oct 4 is cited for affidavits only (no dues figure in it); Mandawar drain line now says one drain collapsed. Replaced the Faheem health item (same Aug 31 feature) with an independent Jul 16 2026 district NQAS report; mill payment item marked district-level; Mandawar and Dara Nagar confirmed inside AC extent on Wikipedia; Hindi lines shortened to 13 words or fewer; positives re-ranked (only 2 of 5 now from the Aug 31 feature)."
+  }
 }
