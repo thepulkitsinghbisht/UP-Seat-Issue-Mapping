@@ -10,7 +10,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "A Vande Bharat train now stops at Najibabad, making travel easier.",
+      "english": "A Vande Bharat train now stops at Najibabad, making travel easier",
       "hindi": "नजीबाबाद में वंदे भारत रुकने लगी, अब सफर आसान है",
       "inference": false,
       "basis": "Dehradun-Lucknow Vande Bharat Express now halts at Najibabad (Najibabad Junction); it was flagged off by Uttarakhand Legislative Assembly Speaker Ritu Khanduri at the Najibabad Junction event. Article dated 10 Dec 2024.",
@@ -24,7 +24,7 @@
     },
     {
       "rank": 2,
-      "english": "EWS houses and plots on Kotdwar Road in Najibabad have been completed.",
+      "english": "EWS houses and plots on Kotdwar Road in Najibabad have been completed",
       "hindi": "कोटद्वार रोड पर ईडब्ल्यूएस मकान और प्लॉट बनकर तैयार हो गए",
       "inference": false,
       "basis": "UP RERA registry entry shown on an aggregator: 'Kotdwar Road Yojna No-01, Najibabad 3rd Phase', promoter U.P. Awas Evam Vikas Parishad, taluka Najibabad, 111 residential plots and 100 EWS houses, status 'Completed', completion date 31 Oct 2025. This is a registry record, not a news report. Allotment and handover to beneficiaries are not confirmed. Tehsil-level, AC membership not confirmed.",
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "A Bijnor women's herbal tea business has drawn franchise demand from abroad.",
-      "hindi": "बिजनौर की महिलाओं की विदुर हर्बल टी का कारोबार बढ़ा, विदेश से मांग",
+      "english": "Bijnor women's herbal tea has drawn franchise demand from abroad",
+      "hindi": "बिजनौर की महिलाओं की हर्बल टी की विदेश से फ्रेंचाइज़ी मांग आई है",
       "inference": false,
       "basis": "District-level, not this AC: the group is in Tanda Maidas Lakhi Wala village, Kotwali block of Bijnor. Started with a Rs 1 lakh loan under NRLM. The article says the US, England, Germany and France have sent franchise demand or are planned franchise targets; it does not confirm exports. Article dated 14 Jul 2026.",
       "sources": [
@@ -52,7 +52,7 @@
     },
     {
       "rank": 4,
-      "english": "* Free ration and Ujjwala gas schemes have reached villages.",
+      "english": "* Free ration and Ujjwala gas schemes have reached villages",
       "hindi": "* गरीबों के लिए राशन और उज्ज्वला गैस जैसी योजनाएं गांव तक पहुंची हैं",
       "inference": true,
       "basis": "Inference: statewide welfare schemes. No Najibabad or Bijnor report on delivery of these schemes in this AC was found in 2024-26 searches. Field check needed before use.",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 5,
-      "english": "* Government hospital treatment and medicines are available to people.",
+      "english": "* Government hospital treatment and medicines are available to people",
       "hindi": "* सरकारी अस्पताल में इलाज और दवा की सुविधा मिल रही है",
       "inference": true,
       "basis": "Inference: no Najibabad hospital or health-facility report from 2024-26 was found; the hospital search returned only other cities. Unverified; field check needed.",
@@ -70,8 +70,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Leopard attacks keep happening and the forest department is not acting.",
-      "hindi": "गुलदार आता है, जान जाती है, वन विभाग कुछ नहीं करता",
+      "english": "A leopard killed a woman, and the forest department is not acting",
+      "hindi": "गुलदार ने जान ले ली, वन विभाग कुछ नहीं करता",
       "inference": false,
       "basis": "Alopur village (the article says 'Jalalabad area', Bijnor district; its block and whether it falls in this AC are not confirmed): Babita Devi, 40, was taken by a leopard around 6 a.m. on 10 Sep 2026. Villagers refused to move the body until a case was registered against forest staff. BKU workers blocked the road at the Double Phatak flyover in Najibabad town (in this AC). The SDM, CO and deputy ranger came to the spot. One incident in the article; the 'repeated attacks' point is not verified from the page.",
       "sources": [
@@ -84,7 +84,7 @@
     },
     {
       "rank": 2,
-      "english": "Heavy rain floods our lanes and homes.",
+      "english": "Heavy rain floods our lanes and homes",
       "hindi": "बारिश हुई तो मोहल्ले की गलियां और घर पानी में डूब जाते हैं",
       "inference": false,
       "basis": "Rain on Mon 4 Aug 2025 in Najibabad town: in Mohalla Mughlushah and Maqbara area, many access roads and houses had two to three feet of water; dozens of houses flooded in the Thatheron wali mosque area of Mughlushah; heavy waterlogging on Ajmal Khan Road; students had trouble reaching school. This is one event; no 2026 report found.",
@@ -98,7 +98,7 @@
     },
     {
       "rank": 3,
-      "english": "The forest department destroyed our crops and exploits farmers.",
+      "english": "The forest department destroyed our crops and exploits farmers",
       "hindi": "वन विभाग फसल उजाड़ रहा है, किसानों का शोषण हो रहा है",
       "inference": false,
       "basis": "Fri 9 Jan 2026: Bharatiya Kisan Union (Tikait) farmers marched on foot from the Bijnor DFO office to the tehsil premises (headline names Najibabad). Farmers said the forest department destroyed their crops and that the department is exploiting farmers. District-level (Bijnor DFO), not AC-only.",
@@ -112,7 +112,7 @@
     },
     {
       "rank": 4,
-      "english": "* Sugarcane payments from the mills stay stuck for years and the mills keep delaying.",
+      "english": "* Sugarcane payments from the mills stay stuck for years and the mills keep delaying",
       "hindi": "* गन्ने का पैसा सालों से अटका है, मिलें टालती रहती हैं",
       "inference": true,
       "basis": "Inference: no Najibabad or Bijnor cane-dues report from 2024-26 was found. The sources are old or not specific: Gaon Connection, 13 Sep 2019, UP-wide (ISMA says UP mills owe farmers Rs 6,480 crore; the CM's 31 Aug payment promise was missed); The Quint, 27 Sep 2019, Bijnor farmers say about nine mills owe 'Rs 500 crore' 'since 2018' (farmers' claim, not verified); Amar Ujala, 30 Dec 2022, Bilai Chini Mill, Bijnor district (farmers met the District Cane Officer; mill promised Rs 1.7 crore a day; mill's tehsil not stated). Persistence to 2026 not confirmed.",
@@ -136,7 +136,7 @@
     },
     {
       "rank": 5,
-      "english": "* Drains in Najibabad stay dirty and rainwater does not drain away.",
+      "english": "* Drains in Najibabad stay dirty and rainwater does not drain away",
       "hindi": "* नजीबाबाद के नाले गंदे रहते हैं, बारिश में पानी निकलता नहीं",
       "inference": true,
       "basis": "Inference: no 2024-26 report on Najibabad drain condition was found. Based on the Aug 2025 Mughlushah waterlogging (negative 2) and the absence of any drain-cleaning report found. Field check needed. This is the one AC-town negative with no source.",

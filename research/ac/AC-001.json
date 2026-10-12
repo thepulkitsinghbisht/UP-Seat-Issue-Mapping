@@ -11,7 +11,7 @@
     {
       "rank": 1,
       "english": "Canal water reaches our fields, so the crops grow well",
-      "hindi": "नहर का पानी है, इसलिए यहां के खेतों में फसल अच्छी होती है",
+      "hindi": "नहर का पानी मिलता है, इसलिए खेतों में फसल अच्छी होती है",
       "inference": false,
       "basis": "Wikipedia (Behat town article, Economy section, undated): the Western Yamuna Canal 'irrigates most of the arable land in Behat'. Verified on 12 Oct 2026.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "Our local craftsmen make brass bells and wrought-iron goods",
-      "hindi": "पीतल की घंटियां और लोहे का सामान यहां के कारीगर बनाते हैं",
+      "english": "The brass bells and wrought-iron goods our craftsmen make are our pride",
+      "hindi": "हमारे कारीगरों की पीतल की घंटियां और लोहे का सामान, यही शान है",
       "inference": false,
       "basis": "Wikipedia (Behat town article, introduction, undated) names 'brass bells, and wrought iron handicrafts' as local products. Verified on 12 Oct 2026.",
       "sources": [
@@ -63,8 +63,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Officials take bribes and poor families lose their land in Behat tehsil",
-      "hindi": "तहसील में रिश्वत चलती है, गरीब की ज़मीन भू-माफिया के नाम चढ़ जाती है",
+      "english": "In the tehsil, money was taken and poor families' land given to a land mafia, they allege",
+      "hindi": "तहसील में पैसा लेकर गरीब परिवारों की ज़मीन भू-माफिया को दी, आरोप है",
       "inference": false,
       "basis": "Amar Ujala (21 Feb 2025, Dimple Sirohi): Dalit and Muslim women of village Begpur Naugaanwa, Behat tehsil, locked the tehsil gate. They say more than 100 families on about 14 bigha were evicted after the Naib Tehsildar and Halka Lekhpal allegedly took money from a land mafia. These are the women's allegations, not established findings. No official response appears in the text read. Verified on 12 Oct 2026.",
       "sources": [
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "Illegal mining in the Yamuna near Behat keeps happening, and cases are registered",
-      "hindi": "यमुना में अवैध खनन चलता है, बेहट थाने में केस दर्ज हुए हैं",
+      "english": "Illegal mining in the Yamuna is alleged, and a case was filed at Behat police station",
+      "hindi": "यमुना में अवैध खनन के आरोप लगे, बेहट थाने में केस दर्ज हुआ",
       "inference": false,
       "basis": "Tribune (5 Dec 2024): owners of six stone crushers and screening plants were booked for alleged illegal mining in the Yamuna on the UP side, at Pratap Pur and Alamgirpur Gurjar villages. The case was registered at Behat police station, Saharanpur. Allegations only. Not confirmed that these villages are inside the Behat AC boundary, and the article does not say which tehsil the police station serves. Verified on 12 Oct 2026.",
       "sources": [
@@ -83,8 +83,8 @@
     },
     {
       "rank": 3,
-      "english": "Behat has seen little development in seventy years",
-      "hindi": "बेहट में सत्तर सालों में विकास बहुत कम हुआ है",
+      "english": "The government has ignored this area, and Behat has barely moved forward in seventy years",
+      "hindi": "सरकार ने यहां ध्यान नहीं दिया, सत्तर सालों में बेहट आगे नहीं बढ़ा",
       "inference": false,
       "basis": "Wikipedia (Behat town article, History section, undated): 'the government has neglected the area; as a result, Behat has made little progress in last 70 years.' This is the article's editorial claim, not a voter statement. Verified on 12 Oct 2026.",
       "sources": [
@@ -93,8 +93,8 @@
     },
     {
       "rank": 4,
-      "english": "*Speeding vehicles on the highway near Behat put people at risk",
-      "hindi": "*बेहट के पास हाईवे पर तेज़ रफ़्तार गाड़ियां जान का खतरा बनी रहती हैं",
+      "english": "*Speeding vehicles on the highway near Behat put lives at risk",
+      "hindi": "*बेहट के पास हाईवे पर तेज़ गाड़ियों से जान का खतरा रहता है",
       "inference": true,
       "basis": "Inference: Amar Ujala (10 Dec 2021) reports a fatal three-bike collision on the Delhi-Yamunotri highway near Babail Bujurg, Behat. The report does not mention speed or road conditions, and it is from 2021, so it is not recent.",
       "sources": [

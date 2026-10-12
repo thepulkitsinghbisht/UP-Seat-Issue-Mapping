@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "The local MLA and chairman have done very good work so far.",
-      "hindi": "हमारे विधायक और चेयरमैन ने अब तक बहुत अच्छा काम किया है।",
+      "english": "The local MLA and chairman have done very good work so far",
+      "hindi": "हमारे विधायक और चेयरमैन ने अब तक बहुत अच्छा काम किया है",
       "inference": false,
       "basis": "Voter Shahreen (शहरीन) said the local MLA and chairman have done very good work so far (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice praise of leaders, not a named project.",
       "sources": [
@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "A lot of work has been done here, and some changes are visible.",
-      "hindi": "यहां काफी काम हुआ है, कुछ हद तक चीजें बदली हैं।",
+      "english": "A lot of work has been done here, and some changes are visible",
+      "hindi": "यहां काफी काम हुआ है, कुछ हद तक चीजें बदली हैं",
       "inference": false,
       "basis": "Voter Rachit Kumar said a lot of work has been done; voter Preet Kumar Chauhan said things have changed to some extent, though expectations were not fully met (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "The college's sports facilities are very good.",
-      "hindi": "हमारे कॉलेज का स्पोर्ट्स बहुत अच्छा है।",
+      "english": "The college's sports facilities are very good",
+      "hindi": "हमारे कॉलेज का स्पोर्ट्स बहुत अच्छा है",
       "inference": false,
       "basis": "Voter Matiha Zaidi said the sports facilities of her college are very good (Dhampur reporting, Amar Ujala, 31 Aug 2026). She also praised her teachers; that part is not quoted here.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "There is no major trouble with the state government here.",
-      "hindi": "उत्तर प्रदेश की सरकार से कोई परेशानी नहीं।",
+      "english": "There is no trouble with the state government",
+      "hindi": "उत्तर प्रदेश की सरकार से कोई परेशानी नहीं",
       "inference": false,
       "basis": "Dr. N.P. Singh said there is no trouble with the Uttar Pradesh government (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice view, not a survey, and not a delivered benefit.",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "Staff are appointed for a women's Sakhi one-stop centre in Dhampur, though it is not open yet.",
-      "hindi": "धामपुर में सखी वन स्टॉप सेंटर का स्टाफ तैनात हो चुका है।",
+      "english": "Staff are appointed for the Sakhi centre in Dhampur, but it is not open yet",
+      "hindi": "धामपुर में सखी सेंटर का स्टाफ तैनात है, पर अभी खुला नहीं",
       "inference": false,
       "basis": "Amar Ujala video report (25 Mar 2026): Sakhi One Stop Centre unit-2 at the 100-bed hospital campus on Nagina Road, Dhampur; five women appointed through outsourcing; centre not yet inaugurated, launch expected from April. Weakest positive: a sourced staffing step, not an open service, and no later report confirms it opened.",
       "sources": [
@@ -62,8 +62,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "There is still a water problem here despite the work done.",
-      "hindi": "काफी काम हुआ, पर यहां पानी की समस्या आज भी बनी हुई है।",
+      "english": "There is still a water problem here despite the work done",
+      "hindi": "काफी काम हुआ, पर यहां पानी की समस्या आज भी बनी हुई है",
       "inference": false,
       "basis": "Voter Rachit Kumar said there is a water problem even though a lot of work has been done (Dhampur town reporting, Amar Ujala, 31 Aug 2026). Dhampur Municipal Board also approved a Rs 1 crore drinking water pipeline as a planned item, not a completed one (Amar Ujala, 7 Jan 2026).",
       "sources": [
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "Sugarcane payments are late, so we will not give cane to mills that don't pay.",
-      "hindi": "चीनी मिल समय पर भुगतान नहीं करेगी तो हम उसे गन्ना नहीं देंगे।",
+      "english": "If a sugar mill does not pay on time, we will not give it our cane",
+      "hindi": "चीनी मिल समय पर भुगतान नहीं करेगी तो हम उसे गन्ना नहीं देंगे",
       "inference": false,
       "basis": "District-level, not Dhampur-specific: Amar Ujala (Bijnor, 4 Oct 2026) reports BKU (Arajneeti)'s 'no payment, no cane' campaign against the Bilai sugar mill in Bijnor district, and a demand that its cane area be allotted to mills that pay on time. The dues amount is not stated in that article. Bilai is not among the areas listed for Dhampur AC on Wikipedia.",
       "sources": [
@@ -83,8 +83,8 @@
     },
     {
       "rank": 3,
-      "english": "Roads get waterlogged in the monsoon and transport gets disrupted.",
-      "hindi": "बरसात में सड़कों पर पानी भर जाता है, आवागमन में दिक्कत होती है।",
+      "english": "Roads get waterlogged in the monsoon and transport gets disrupted",
+      "hindi": "बरसात में सड़कों पर पानी भर जाता है, आवागमन में दिक्कत होती है",
       "inference": false,
       "basis": "Voter Rachit Kumar said roads were waterlogged in this and the previous monsoon, causing transport trouble (Dhampur reporting, Amar Ujala, 31 Aug 2026).",
       "sources": [
@@ -93,8 +93,8 @@
     },
     {
       "rank": 4,
-      "english": "The Jal Nigam work here is dilapidated, and no village water tank has been completed.",
-      "hindi": "जल निगम का काम जर्जर, किसी गांव में टंकी पूरी नहीं।",
+      "english": "The Jal Nigam work here is dilapidated, and no village water tank has been completed",
+      "hindi": "जल निगम का काम जर्जर है, किसी गांव में टंकी पूरी नहीं हुई",
       "inference": false,
       "basis": "Voter Chaudhary Kaviraj said a structure dug by Jal Nigam is lying dilapidated and that no water tank has been completed in any village so far (Dhampur reporting, Amar Ujala, 31 Aug 2026). The article's wording is about a dug structure/drain linked to the tank; the tank itself is not described in detail.",
       "sources": [
@@ -103,8 +103,8 @@
     },
     {
       "rank": 5,
-      "english": "There is a shortage of fertiliser and farmers are struggling.",
-      "hindi": "खाद की किल्लत है, किसान परेशान हैं।",
+      "english": "There is a shortage of fertiliser and farmers are struggling",
+      "hindi": "खाद की किल्लत है, किसान परेशान हैं",
       "inference": false,
       "basis": "Farmer Mahendra Pal Singh raised a shortage of fertiliser (Dhampur reporting, Amar Ujala, 31 Aug 2026). Single-voice view, no place named, so not AC-specific.",
       "sources": [
@@ -112,7 +112,7 @@
       ]
     }
   ],
-  "notes": "Identity: Wikipedia's Dhampur Assembly constituency page confirms constituency 20, district Bijnor, reserved status None, and lists Dhampur MB, Dhampur KC, Seohara (Seohara KC, Seohara MB) and Sherkot (KC Sherkot, Sherkot MB) as Dhampur Tehsil areas in this AC. Barhapur, Nehtaur, Bilai and Mirganj are not listed. Verified: the Amar Ujala 31 Aug 2026 Dhampur piece (about 12 brief voter interviews, small and non-representative); the Amar Ujala 4 Oct 2026 Bijnor sugarcane article (Bilai mill, district-level, dues amount not stated); the Amar Ujala 7 Jan 2026 Dhampur municipal board report (approvals and plans only, nothing completed: 75 roads for Rs 3 crore, Amrit Sarovar beautification, Rs 1 crore drinking water pipeline, all in future tense); and the Amar Ujala 25 Mar 2026 Sakhi One Stop Centre video (not yet open). Excluded as not in this AC: Jasmora bridge over the Gangan river (Amar Ujala, 21 Sep 2026), which the article places in Nehtaur AC. Searched without a sourced result: completed Dhampur or Sherkot or Seohara roads, CHC/health upgrades, college facilities beyond the 31 Aug quote, Dhampur mill cane dues in 2026, Seohara bridges. Sherkot and Seohara have no sourced item yet, so the AC-specific negatives all come from Dhampur town reporting. Positives 1, 4 and 5 are weak: no delivered project in Dhampur is verified for 2024-2026, and the Sakhi centre is staffed but not open. The 2026 Dhampur municipal projects are plans, not completed work. A field check is still needed for Dhampur water supply and Jal Nigam tank status, monsoon drainage in the town, fertiliser at the local cooperative, and Sherkot/Seohara roads and water.",
+  "notes": "Identity: Wikipedia's Dhampur Assembly constituency page confirms constituency 20, district Bijnor, reserved status None, and lists Dhampur MB, Dhampur KC, Seohara (Seohara KC, Seohara MB) and Sherkot (KC Sherkot, Sherkot MB) as Dhampur Tehsil areas in this AC. Barhapur, Nehtaur, Bilai and Mirganj are not listed. Verified: the Amar Ujala 31 Aug 2026 Dhampur piece (about 12 brief voter interviews, small and non-representative); the Amar Ujala 4 Oct 2026 Bijnor sugarcane article (Bilai mill, district-level, dues amount not stated); the Amar Ujala 7 Jan 2026 Dhampur municipal board report (approvals and plans only, nothing completed: 75 roads for Rs 3 crore, Amrit Sarovar beautification, Rs 1 crore drinking water pipeline, all in future tense); and the Amar Ujala 25 Mar 2026 Sakhi One Stop Centre video (not yet open). Excluded as not in this AC: Jasmora bridge over the Gangan river (Amar Ujala, 21 Sep 2026), which the article places in Nehtaur AC. Searched without a sourced result: completed Dhampur or Sherkot or Seohara roads, CHC/health upgrades, college facilities beyond the 31 Aug quote, Dhampur mill cane dues in 2026, Seohara bridges. Sherkot and Seohara have no sourced item yet, so the AC-specific negatives all come from Dhampur town reporting. Positives 1, 4 and 5 are weak: no delivered project in Dhampur is verified for 2024-2026, and the Sakhi centre is staffed but not open. The 2026 Dhampur municipal projects are plans, not completed work. A field check is still needed for Dhampur water supply and Jal Nigam tank status, monsoon drainage in the town, fertiliser at the local cooperative, and Sherkot/Seohara roads and water. P4 weak positive: a single \"no trouble\" view of the state government, not a delivered benefit or named appreciation. P5 weak positive: a staffing step only; the centre is not open, so there is no service to appreciate.",
   "round2": {
     "verified_sources": 5,
     "removed_sources": 0,

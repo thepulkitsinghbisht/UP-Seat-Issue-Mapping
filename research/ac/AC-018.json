@@ -16,7 +16,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "* Sugarcane is grown on farms near the forest edge.",
+      "english": "* Sugarcane is grown on farms near the forest edge",
       "hindi": "* जंगल के पास के खेतों में गन्ना बोया जाता है",
       "inference": true,
       "basis": "Inference: the ICAR study of Najibabad forest division (Indian Journal of Animal Sciences) says sugarcane fields near the forest edge are raided by elephants more than rice, wheat or vegetables, so sugarcane is grown there. It does not say sugarcane is a main cash crop. District-level, not Nagina AC-specific.",
@@ -30,7 +30,7 @@
     },
     {
       "rank": 2,
-      "english": "* When a road is blocked, police and administration reach the spot quickly.",
+      "english": "* When a road is blocked, police and administration reach the spot quickly",
       "hindi": "* सड़क जाम हो तो प्रशासन और पुलिस जल्दी मौके पर पहुँचते हैं",
       "inference": true,
       "basis": "Inference: no Nagina AC source found. A 2018 Patrika report on a road blockade in Bijnor city shows officials came and cleared a jam, but Bijnor city is outside Nagina AC, so it is not cited. Needs a field check.",
@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "english": "* Government ration and schemes reach villages in the area.",
+      "english": "* Government ration and schemes reach villages in the area",
       "hindi": "* सरकारी राशन और योजनाएँ गाँव तक पहुँचती हैं",
       "inference": true,
       "basis": "Inference: no source found. Generic positive for a rural-town AC; needs a field check.",
@@ -46,7 +46,7 @@
     },
     {
       "rank": 4,
-      "english": "* Local shops and markets keep daily life going.",
+      "english": "* Local shops and markets keep daily life going",
       "hindi": "* छोटी दुकानें और बाज़ार रोज़मर्रा का काम चलाए रखते हैं",
       "inference": true,
       "basis": "Inference: no source found. Included only as a generic positive for a town constituency; needs a field check.",
@@ -54,8 +54,8 @@
     },
     {
       "rank": 5,
-      "english": "* Farmers use nearby canals and rivers to irrigate their fields.",
-      "hindi": "* किसान पास की नहर और नदी से खेतों की सिंचाई करते हैं",
+      "english": "* Fields get water from nearby canals and rivers",
+      "hindi": "* पास की नहर और नदी से खेतों को पानी मिल जाता है",
       "inference": true,
       "basis": "Inference: no source found. Included as a generic positive for a Ganga-belt farming area; needs a field check.",
       "sources": []
@@ -64,7 +64,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Wild elephants come up to village paths, and the forest team arrives late.",
+      "english": "Wild elephants come up to village paths, and the forest team arrives late",
       "hindi": "हाथी रास्ते तक आ जाते हैं, वन विभाग देर से आता है",
       "inference": false,
       "basis": "Rampur Chadha village (Mandawali area, Bhaguwala chowki), Bijnor district: on 1 May 2026 a woman was killed by a wild elephant on the path to fetch milk. Villagers said the forest team and chowki in-charge reached about two hours after they were informed, and demanded strong safety arrangements. District-level; Nagina AC membership of this village is not confirmed.",
@@ -78,7 +78,7 @@
     },
     {
       "rank": 2,
-      "english": "After flood water recedes, roads stay cut and villages stay surrounded.",
+      "english": "After flood water recedes, village roads are still closed",
       "hindi": "बाढ़ का पानी घटा, पर गाँवों की सड़कें अब भी बंद हैं",
       "inference": false,
       "basis": "Jaleelpur, Ganga khadar area, Bijnor district (Amar Ujala, 3 Aug 2026): after the water fell, bikes and cars still could not reach nine villages, tractor-trolleys were the only transport, and several connecting roads were damaged. District-level; Nagina AC membership of Jaleelpur is not confirmed.",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 3,
-      "english": "* Power goes off during rain, and inverters run out.",
+      "english": "* Power goes off during rain, and inverters run out",
       "hindi": "* बारिश में बिजली गुल, इन्वर्टर भी खत्म हो जाते हैं",
       "inference": true,
       "basis": "Inference: no Nagina AC source found. Power cuts after rain are reported for Bijnor city (Patrika, 4 Aug 2025), but Bijnor city is outside Nagina AC, so it is not cited. Needs a field check.",
@@ -100,8 +100,8 @@
     },
     {
       "rank": 4,
-      "english": "Elephants raid sugarcane fields near the forest edge.",
-      "hindi": "जंगल के किनारे गन्ने के खेत हाथी उजाड़ जाते हैं",
+      "english": "Elephants raid sugarcane fields near the forest edge",
+      "hindi": "जंगल के किनारे हाथी गन्ने के खेत उजाड़ जाते हैं",
       "inference": false,
       "basis": "Najibabad forest division study, Bijnor district (Indian Journal of Animal Sciences, Vol. 90 No. 8, 2020; online listing 2025-09-09): elephant is the most problematic crop raider, followed by nilgai; sugarcane fields closer to the forest edge are raided more by elephants than rice, wheat or vegetables. District-level academic study; villages not named.",
       "sources": [
@@ -114,8 +114,8 @@
     },
     {
       "rank": 5,
-      "english": "Wood craft workers face shortage of raw wood, money and markets.",
-      "hindi": "लकड़ी के कारीगरों को कच्चा माल, पैसा और बाज़ार की दिक्कत",
+      "english": "Wood craft workers struggle with raw material, money and markets",
+      "hindi": "लकड़ी के कारीगरों को कच्चे माल, पैसे और बाज़ार की दिक्कत है",
       "inference": false,
       "basis": "Bijnor district wood handicraft study (MBA thesis, Acharya Narendra Deva University of Agriculture and Technology, hosted on Shodhganga; no date, data to 2023-24): abstract says raw material shortages, financial constraints and market barriers persist, though units grew from 510 (2009-10) to 1,050 (2023-24). District-level; the abstract does not name Nagina, so the Nagina link is not verified.",
       "sources": [
@@ -127,5 +127,5 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from Wikipedia: AC 18, Nagina, Bijnor district, SC reserved. Composition per Wikipedia: KCs Akbarabad, Kiratpur and Kiratpur MB of Najibabad tehsil; KC Nagina and Nagina MB of Nagina tehsil. Wikipedia does not list individual villages, so village membership is unconfirmed for all cited places. Hindi name not on the cited page. No item is confirmed as Nagina AC-specific, so the brief's 3-of-5 AC-specific rule is not met; four negatives are Bijnor-district level. Positives 2-5 and negative 3 are inferences with no usable source. Removed as outside Nagina AC: Bijnor city (Nagina Road blockade, Awas Vikas power), Najibabad city (Mughlushah, Maqbara), Afzalgarh (Bhikkawala), Dhampur area (Harevali, Mirzapur, Kaliya Wala). Unconfirmed AC, removed: Gauspur (Ganga erosion, 2021). Unverified leads for field checks: (1) Lok Sabha zero-hour remarks dated 10 Feb 2023 on the dilapidated Nagina CHC women's hospital building and no woman doctor (seen in search snippet only; eparlib.nic.in not reachable, so not cited); (2) 2024 campaign reports of Nagina issues (monsoon floods, groundwater quality, stray cattle, unemployment and cottage-industry jobs for women), seen only in a search snippet of a Deccan Herald interview (403) and a Hindu page (403); (3) Bani Ramdas village in Nagina tehsil has no drainage system and drain water goes into water bodies (census-based directory, undated, AC membership unconfirmed); (4) Nagina woodcraft raw-material and sales problems in Hindi press (yourstory Hindi article returned 403). Searches for Nagina town roads, drains, hospital, sugar mill dues and Kiratpur village issues returned no local 2024-26 reports. The web search tool returned a rate-limit error earlier in the run and was budget-limited, so the Nagina pass is incomplete."
+  "notes": "Identity confirmed from Wikipedia: AC 18, Nagina, Bijnor district, SC reserved. Composition per Wikipedia: KCs Akbarabad, Kiratpur and Kiratpur MB of Najibabad tehsil; KC Nagina and Nagina MB of Nagina tehsil. Wikipedia does not list individual villages, so village membership is unconfirmed for all cited places. Hindi name not on the cited page. No item is confirmed as Nagina AC-specific, so the brief's 3-of-5 AC-specific rule is not met; four negatives are Bijnor-district level. Positives 2-5 and negative 3 are inferences with no usable source. Removed as outside Nagina AC: Bijnor city (Nagina Road blockade, Awas Vikas power), Najibabad city (Mughlushah, Maqbara), Afzalgarh (Bhikkawala), Dhampur area (Harevali, Mirzapur, Kaliya Wala). Unconfirmed AC, removed: Gauspur (Ganga erosion, 2021). Unverified leads for field checks: (1) Lok Sabha zero-hour remarks dated 10 Feb 2023 on the dilapidated Nagina CHC women's hospital building and no woman doctor (seen in search snippet only; eparlib.nic.in not reachable, so not cited); (2) 2024 campaign reports of Nagina issues (monsoon floods, groundwater quality, stray cattle, unemployment and cottage-industry jobs for women), seen only in a search snippet of a Deccan Herald interview (403) and a Hindu page (403); (3) Bani Ramdas village in Nagina tehsil has no drainage system and drain water goes into water bodies (census-based directory, undated, AC membership unconfirmed); (4) Nagina woodcraft raw-material and sales problems in Hindi press (yourstory Hindi article returned 403). Searches for Nagina town roads, drains, hospital, sugar mill dues and Kiratpur village issues returned no local 2024-26 reports. The web search tool returned a rate-limit error earlier in the run and was budget-limited, so the Nagina pass is incomplete. P1 weak positive: a geography fact (sugarcane grown near the forest edge), not an appreciation; the basis gives no delivered benefit to praise. P5 was reworded from an irrigation fact into a water-access benefit; it stays an unsourced inference."
 }

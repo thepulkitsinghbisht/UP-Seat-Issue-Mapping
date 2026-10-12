@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Sarsawa airport was inaugurated in October 2024",
-      "hindi": "सरसावा में एयरपोर्ट बनकर तैयार हुआ, उद्घाटन हो चुका है",
+      "english": "An airport is now built in Sarsawa, and that is a matter of pride for us",
+      "hindi": "सरसावा में एयरपोर्ट बन गया, यह हमारे लिए गर्व की बात है",
       "inference": false,
       "basis": "Indian Infrastructure (21 Oct 2024): Saharanpur airport inaugurated on 20 Oct 2024 with Rewa and Ambikapur, under UDAN. Wikipedia places Sarsawa Airport in Sarsawa (civil enclave at Sarsawa Air Force Station), and Sarsawa is inside Nakur AC. Flight operations are not confirmed in sources. The Ministry of Civil Aviation page cited in search (Rs 54.56 crore) could not be opened and is not used.",
       "sources": [
@@ -21,8 +21,8 @@
     },
     {
       "rank": 2,
-      "english": "Nakur police got a victim's money returned to him",
-      "hindi": "नकुड़ पुलिस ने पीड़ित की रकम वापस दिलवाई",
+      "english": "Nakur police got a victim's money returned, and they did good work",
+      "hindi": "नकुड़ पुलिस ने पीड़ित की रकम वापस दिलवाई, अच्छा काम किया",
       "inference": false,
       "basis": "Nakur news feed (aggregator) headline dated 20 Feb 2026: 'नकुड: नकुड़ पुलिस ने अध्याना निवासी पीड़ित की धनराशि कराई वापस' (Nakur police recovered money for a victim from Adhyana). Underlying Hindi outlet not identified; opened and checked this round.",
       "sources": [
@@ -31,8 +31,8 @@
     },
     {
       "rank": 3,
-      "english": "Police arrested suspects after an encounter in Nakur, showing they act on criminals",
-      "hindi": "मुठभेड़ के बाद नकुड़ पुलिस ने बदमाश पकड़े, पुलिस सक्रिय है",
+      "english": "After an encounter, Nakur police arrested suspects, and that is a good thing",
+      "hindi": "मुठभेड़ के बाद नकुड़ पुलिस ने बदमाश पकड़े, अच्छी बात है",
       "inference": false,
       "basis": "Nakur news feed (aggregator) headline dated 29 Jul 2026: 'मुठभेड के बाद पुलिस ने किये तीन आरोपी बदमाश किये गिरफ्तार' (police arrested three accused after an encounter). The source reports arrests only, not voter satisfaction.",
       "sources": [
@@ -41,8 +41,8 @@
     },
     {
       "rank": 4,
-      "english": "The Sarsawa sugar mill has paid cane farmers before",
-      "hindi": "सरसावा मिल ने किसानों का गन्ना भुगतान किया है",
+      "english": "The Sarsawa sugar mill paid farmers for their cane, and that is good",
+      "hindi": "सरसावा मिल ने किसानों को गन्ने का पैसा दिया, यह अच्छा है",
       "inference": false,
       "basis": "Amar Ujala (3 Jun 2021, district-level, verified this round): the district's mills paid Rs 100.34 crore that day, including Rs 25.01 crore by the Sarsawa mill. This is 2021 data; no 2024-26 Sarsawa payment report was found.",
       "sources": [
@@ -63,8 +63,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "*Sugarcane farmers wait months for dues from the mills",
-      "hindi": "*गन्ने का पैसा मिलों से महीनों देर से मिलता है, किसान परेशान",
+      "english": "*Cane dues are still pending with the mills, when will the money come?",
+      "hindi": "*गन्ने का बकाया मिलों पर बाकी है, पैसा कब मिलेगा?",
       "inference": true,
       "basis": "Inference: Amar Ujala (3 Jun 2021, district-level, verified this round) says the district's mills still owed farmers Rs 630 crore after paying Rs 100.34 crore that day. Sarsawa and Nanauta mills appear in the article as payers (Rs 25.01 crore and Rs 50.09 crore), not as named defaulters. This is 2021 data; no 2024-26 Saharanpur or Nakur dues report was found, so current arrears are unverified.",
       "sources": [
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "Sand trucks without papers were caught on the Shahjahanpur Road in Nakur",
-      "hindi": "शाहजहांपुर रोड पर बिना कागज़ात के रेत के ट्रक पकड़े गए",
+      "english": "On the Shahjahanpur Road in Nakur, a sand truck without papers was caught",
+      "hindi": "शाहजहांपुर रोड पर बिना कागज़ात के रेत का ट्रक पकड़ा गया",
       "inference": false,
       "basis": "Nakur news feed (aggregator) headline dated 20 Feb 2026, verified this round: 'नकुड: शाहजहांपुर रोड पर पुलिस और राजस्व टीम ने बिना प्रपत्रों के रेत से भरा ट्रक पकड़ा, किया सीज' (police and revenue staff seized a sand-laden truck without papers on the Shahjahanpur Road). The source reports a seizure only; it does not record a voter complaint about road damage or safety.",
       "sources": [
@@ -83,8 +83,8 @@
     },
     {
       "rank": 3,
-      "english": "*Fear of criminals in Nakur, with frequent encounters and arrests",
-      "hindi": "*नकुड़ में बदमाशों का डर, मुठभेड़ और गिरफ्तारी की खबरें आती रहती हैं",
+      "english": "*Fear of criminals in Nakur, with encounters and arrests happening often",
+      "hindi": "*नकुड़ में बदमाशों का डर है, मुठभेड़ और गिरफ्तारी होती रहती हैं",
       "inference": true,
       "basis": "Inference: the Nakur news feed (verified this round) shows an encounter and arrest of three accused on 29 Jul 2026, and a Mahashivratri feast item. Voter fear of crime is not stated in any source. The earlier dowry-harassment reference was removed because the feed does not show it.",
       "sources": [
@@ -112,7 +112,7 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from the Wikipedia AC page (verified this round: AC No. 2, Nakur, Saharanpur district, reserved status None; NPPs at Nakur and Sarsawa and Chilkana Sultanpur NP inside the AC). The Election Commission list was not checked directly. The Hindi name 'नकुड़' is taken from local-news spelling. Round 2 changes: all cited URLs were opened. Amar Ujala 2021 and the Public App feed were verified against their text. The Public App feed is an aggregator; its underlying Hindi outlets were not identified, so the three feed-based items must be checked against the original Hindi articles before publishing. Removed: the dowry reference (not on the feed); the Wikipedia source for the 'markets' positive (no market source found, the item was dropped); the roads and power negative (no road or power source was found in any search, so the item was removed rather than kept as a guess). Several cited sources were not usable: the Ministry of Civil Aviation Sarsawa airport page and the Hindustan Times 2023 Gurjar-rally page returned HTTP 403, the UniIndia Ambheta/Didoli page returned HTTP 404, and a Saharanpur police PRP PDF (April 2026, Nakur police sand tractors on the Yamuna) could not be read as text, so none of them is cited. Patrika search-result dates of 2026 for the flood articles were page-banner dates; the articles are from 2018. Searches found no 2024-26 Nakur or Sarsawa report on sugarcane dues, roads, water, power, Krishni-river mining, or Nakur CHC, and 14 WebSearch calls were run this round and the search results were mostly from other districts. Field check recommended: Amar Ujala and Dainik Jagran Saharanpur pages for नकुड़, सरसावा, सुल्तानपुर and चिलकाना on water, power, roads, cane dues (2025-26), Yamuna flood status and embankment repair at Hathnikund, Krishni-river sand mining, and the Nakur CHC; verify the Public App headlines against the original Hindi outlets.",
+  "notes": "Identity confirmed from the Wikipedia AC page (verified this round: AC No. 2, Nakur, Saharanpur district, reserved status None; NPPs at Nakur and Sarsawa and Chilkana Sultanpur NP inside the AC). The Election Commission list was not checked directly. The Hindi name 'नकुड़' is taken from local-news spelling. Round 2 changes: all cited URLs were opened. Amar Ujala 2021 and the Public App feed were verified against their text. The Public App feed is an aggregator; its underlying Hindi outlets were not identified, so the three feed-based items must be checked against the original Hindi articles before publishing. Removed: the dowry reference (not on the feed); the Wikipedia source for the 'markets' positive (no market source found, the item was dropped); the roads and power negative (no road or power source was found in any search, so the item was removed rather than kept as a guess). Several cited sources were not usable: the Ministry of Civil Aviation Sarsawa airport page and the Hindustan Times 2023 Gurjar-rally page returned HTTP 403, the UniIndia Ambheta/Didoli page returned HTTP 404, and a Saharanpur police PRP PDF (April 2026, Nakur police sand tractors on the Yamuna) could not be read as text, so none of them is cited. Patrika search-result dates of 2026 for the flood articles were page-banner dates; the articles are from 2018. Searches found no 2024-26 Nakur or Sarsawa report on sugarcane dues, roads, water, power, Krishni-river mining, or Nakur CHC, and 14 WebSearch calls were run this round and the search results were mostly from other districts. Field check recommended: Amar Ujala and Dainik Jagran Saharanpur pages for नकुड़, सरसावा, सुल्तानपुर and चिलकाना on water, power, roads, cane dues (2025-26), Yamuna flood status and embankment repair at Hathnikund, Krishni-river sand mining, and the Nakur CHC; verify the Public App headlines against the original Hindi outlets. P5 weak positive: only says municipal bodies exist; whether civic work is effective is not verified.",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 2,

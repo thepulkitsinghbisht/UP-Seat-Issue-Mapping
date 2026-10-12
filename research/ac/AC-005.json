@@ -10,16 +10,16 @@
   "positives": [
     {
       "rank": 1,
-      "english": "*Darul Uloom's name keeps Deoband known across the country",
-      "hindi": "*दारुल उलूम से देवबंद की पहचान देश-विदेश तक है",
+      "english": "*Because of Darul Uloom, we are proud of Deoband",
+      "hindi": "*दारुल उलूम की वजह से देवबंद पर हमें गर्व है",
       "inference": true,
       "basis": "Inference: no source opened for the reputation claim. The Amar Ujala 23 Aug 2026 Deoband report does confirm that Darul Uloom is in Deoband (it names 'दारुल उलूम की सड़कें'), but says nothing about its reputation.",
       "sources": []
     },
     {
       "rank": 2,
-      "english": "Saharanpur's sports college, stalled since 2011, is now complete and admitting athletes",
-      "hindi": "सहारनपुर का खेल कॉलेज, जो 2011 से अधूरा था, अब बन गया",
+      "english": "Saharanpur's sports college, unfinished since 2011, is now built, and that is good",
+      "hindi": "सहारनपुर का खेल कॉलेज 2011 से अधूरा था, अब बन गया, अच्छा है",
       "inference": false,
       "basis": "District-level (Saharanpur city, not Deoband town), dated 1 July 2026: the college, 'pending since 2011', was completed; 80 seats reserved for athletes; 'Its academic session has started from 2026-27.' Free Press Journal, a national outlet.",
       "sources": [
@@ -58,8 +58,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Sugar mills still owe cane growers money, when will payment come?",
-      "hindi": "चीनी मिलों पर गन्ना किसानों का बकाया है, पैसा कब मिलेगा?",
+      "english": "Sugar mills owed cane growers money, when will payment come?",
+      "hindi": "चीनी मिलों पर गन्ना किसानों का बकाया था, पैसा कब मिलेगा?",
       "inference": false,
       "basis": "District-level (Saharanpur), dated 3 June 2021, verified: mills paid Rs 100.34 crore that day, Deoband mill's share Rs 19 crore, and 'जिले की शुगर मिलों पर अभी भी 630 करोड़ रुपये गन्ना मूल्य के बकाया हैं'. Names the Deoband mill, but the 2021 figure is old; no 2024-2026 Deoband mill dues report was found.",
       "sources": [
@@ -72,8 +72,8 @@
     },
     {
       "rank": 2,
-      "english": "Every monsoon Deoband's roads and drains go under water, residents say",
-      "hindi": "बरसात में देवबंद की सड़कें-नाले पानी में डूब जाते हैं",
+      "english": "Every monsoon, Deoband's roads and drains go under water",
+      "hindi": "बरसात में हर साल देवबंद की सड़कें-नाले पानी में डूब जाते हैं",
       "inference": false,
       "basis": "Deoband town, dated 23 Aug 2026, verified: about one hour of rain flooded main roads including Mohalla Nechalgarh, Bhayla Road, Ravidas Marg, Shikshak Nagar and roads near Darul Uloom; the government hospital on Railway Road had about 2.5 feet of water. Residents said it happens every year and blamed poor pre-monsoon drain cleaning ('बरसात से पहले नालों की उचित सफाई ... नहीं की जाती').",
       "sources": [
@@ -127,5 +127,5 @@
     "ac_specific_negatives": 3,
     "changes": "Verified both existing Amar Ujala sources (2021 and 2023 content and dates confirmed, kept) and the Wikipedia identity page (AC 5, Deoband, Saharanpur, reserved None). Replaced inference negative 'drains and water' with sourced Amar Ujala 23 Aug 2026 Deoband flooding report. Replaced inference negative 'low voltage' with sourced Amar Ujala 21 Sep 2026 Deoband industrial-area power tripping report (industry, not household). Replaced inference positive 'municipal water claim' (based on an uncited Wikipedia line) with sourced Saharanpur sports college (Free Press Journal, 1 Jul 2026, district-level). Dropped an unconfirmed Deoband 325-project claim from the same Free Press Journal page (no second source). Re-ranked negatives by likely impact."
   },
-  "notes": "Round 2 status: negatives sourced 4 of 5 (3 are Deoband-named or Deoband industry: flooding, power feeder, and the 2021 sugar dues article naming the Deoband mill; cane price is district-level). Positives sourced 1 of 5, and that one is district-level (Saharanpur city sports college), not Deoband. Still inference: Darul Uloom reputation, bazaar, students, Delhi distance, and encroachment/jams. Searches in Hindi and English for Deoband 2024-2026 jams, Deoband mill dues, household low voltage, hospital services, and Deoband completed roads or bridges returned no Deoband-specific reports. The 2026 flood report names the Railway Road government hospital as flooded, but hospital services were not reviewed. Sugar and cane-price sources are 2021 and 2023, outside the 2024-2026 preference. Field check recommended: Deoband Nagar Palika drain cleaning and water supply, Deoband mill 2025-26 dues, UPPCL household voltage complaints, Deoband bazaar traffic and encroachment, and Deoband government hospital status."
+  "notes": "Round 2 status: negatives sourced 4 of 5 (3 are Deoband-named or Deoband industry: flooding, power feeder, and the 2021 sugar dues article naming the Deoband mill; cane price is district-level). Positives sourced 1 of 5, and that one is district-level (Saharanpur city sports college), not Deoband. Still inference: Darul Uloom reputation, bazaar, students, Delhi distance, and encroachment/jams. Searches in Hindi and English for Deoband 2024-2026 jams, Deoband mill dues, household low voltage, hospital services, and Deoband completed roads or bridges returned no Deoband-specific reports. The 2026 flood report names the Railway Road government hospital as flooded, but hospital services were not reviewed. Sugar and cane-price sources are 2021 and 2023, outside the 2024-2026 preference. Field check recommended: Deoband Nagar Palika drain cleaning and water supply, Deoband mill 2025-26 dues, UPPCL household voltage complaints, Deoband bazaar traffic and encroachment, and Deoband government hospital status. P5 weak positive: a geography fact (distance from Delhi), not appreciation; road access is not verified. N1 Hindi is past tense because the only source is from 2021; current dues are unverified."
 }

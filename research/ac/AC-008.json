@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Shamli sugar mill has paid farmers Rs 32 crore in three instalments this season",
-      "hindi": "शामली मिल ने तीन किस्तों में किसानों को 32 करोड़ दिए",
+      "english": "The Shamli mill has given us farmers 32 crore rupees in three instalments",
+      "hindi": "शामली मिल ने तीन किस्तों में हम किसानों को 32 करोड़ रुपये दिए",
       "inference": false,
       "basis": "Amar Ujala (6 Dec 2025, Meerut Bureau, 'other context' section) states that Shamli Cheeni Mill has released Rs 32 crore to farmers this season in three instalments (Hindi: 'तीन किस्तों में जारी कर चुकी है'). District-level, not Kairana-specific.",
       "sources": [
@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "Authorities demolished an unapproved colony near Kairana and promised stricter action on plotting",
-      "hindi": "कैराना में अवैध कॉलोनी ध्वस्त हुई, प्लॉटिंग करने वालों पर सख्ती की बात",
+      "english": "An illegal colony in Kairana was demolished, and strict action on plotting will follow",
+      "hindi": "कैराना में अवैध कॉलोनी तोड़ दी गई, प्लॉटिंग करने वालों पर सख्ती होगी",
       "inference": false,
       "basis": "Amar Ujala (26 Sep 2025, Meerut Bureau) reports the Muzaffarnagar Development Authority demolished, on Thursday 25 Sep, a colony of about 60 bigha operating without an approved map near the Panipat-Khatima bypass in Kairana; the authority said the campaign will continue district-wide and strict action will follow against illegal colonies and plotting. No resident complaint is reported.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "Police arrested three absconding accused within eight days of the Jahanpura clash in which people were attacked",
-      "hindi": "जहानपुरा की जानलेवा मारपीट में पुलिस ने 3 फरार आरोपी पकड़े",
+      "english": "Police caught the absconding accused in the Jahanpura clash, and action was taken",
+      "hindi": "जहानपुरा मारपीट के फरार आरोपी पुलिस ने पकड़े, कार्रवाई हुई",
       "inference": false,
       "basis": "Shamli Police press release dated 01.09.2025 (uppolice.gov.in PDF): on 24.08.2025 two parties attacked each other in village Jahanpura, under Thana Kairana; a case was registered against 16 named and some unknown persons; Kairana police arrested three absconding accused on 01.09.2025; a separate accused, Rashid, had been arrested and sent to jail on 27.08.2025. Incident-level, police action only. Police-station jurisdiction is cited; Jahanpura's Kairana AC membership is not confirmed.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "Cane payment reached farmers' bank accounts directly through the cane committee",
-      "hindi": "गन्ने का पैसा गन्ना समिति के ज़रिए सीधे किसानों के खाते में पहुंचा",
+      "english": "The first cane instalment came into our bank accounts through the cane committee",
+      "hindi": "गन्ने की पहली किस्त समिति के ज़रिए हमारे खाते में आई",
       "inference": false,
       "basis": "Amar Ujala (6 Dec 2025): Un Cheeni mill sent Rs 7.39 crore to farmers' accounts through the cane committee as the first instalment for six days of crushing (9-14 Nov), against Rs 21.09 crore calculated for that period. The positive is limited: the first instalment covers about a third of the amount calculated. District-level.",
       "sources": [
@@ -62,7 +62,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Sugarcane dues stay unpaid and farmers struggle to pay children's school fees",
+      "english": "Our cane money is stuck in the mill, and how will we pay the children's fees?",
       "hindi": "गन्ने का पैसा मिल में अटका है, बच्चों की फीस कैसे भरें",
       "inference": false,
       "basis": "ChiniMandi (19 Jun 2026, Hindi original) gives a combined outstanding of Rs 339.65 crore owed by the Bhaisana (Budhana), Shamli, Thana Bhawan and Un mills, and says arranging children's fees for the new session is a major challenge for farmers. Figures verified against the original (the Ground News summary wrongly said 'Unnao'; the mill is 'Un'). Un town is listed in Kairana AC on Wikipedia, so the Un mill is counted as partly AC-linked; its exact location is not separately verified. Other mills are district-level. Amar Ujala (6 Dec 2025) says the Thana Bhawan mill still owed about Rs 95 crore of old and new dues.",
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "Kairana town's Chhadiyan mohalla has had no road or drain built for eight years, and sewage spills onto the road",
-      "hindi": "कैराना में आठ साल से सड़क-नाली नहीं बनी, गंदा पानी सड़कों पर",
+      "english": "No road or drain has been built in Kairana for eight years, and dirty water is on the roads",
+      "hindi": "कैराना में आठ साल से सड़क-नाली नहीं बनी, गंदा पानी सड़कों पर है",
       "inference": false,
       "basis": "Amar Ujala (31 Jul 2026, datelined Kairana): mohalla Chhadiyan, beyond the meat plant on Kandhla Road, 300+ families. Residents say no road or drain has been built for eight years; dirty water from homes fills the roads and potholes; complaints to the Nagar Palika went unresolved. The Nagar Palika Kairana executive officer said a budget would be passed soon. Kairana-specific (town, in AC).",
       "sources": [
@@ -83,8 +83,8 @@
     },
     {
       "rank": 3,
-      "english": "Kairana town had a six-hour power cut on 20 September 2026, and municipal drinking water also stopped",
-      "hindi": "कैराना में छह घंटे बिजली गई, नगर में पानी भी बंद रहा",
+      "english": "On 20 September, Kairana had no power for six hours, and water also stopped",
+      "hindi": "20 सितंबर को कैराना में छह घंटे बिजली गई, पानी भी बंद रहा",
       "inference": false,
       "basis": "Amar Ujala (21 Sep 2026, Shamli): supply was off for about six hours on Sunday 20 Sep while a 33/11 kV line from the Shamli Bypass substation was replaced; an official said some lines were badly worn and faulting repeatedly. Municipal drinking-water supply also stopped during the outage. Kairana town-specific.",
       "sources": [
@@ -93,8 +93,8 @@
     },
     {
       "rank": 4,
-      "english": "Storm cut power and flattened the standing paddy crop in Shamli",
-      "hindi": "आंधी-बारिश में बिजली बंद रही, खड़ी धान की फसल भी बिछ गई",
+      "english": "Storm cut the power, and our standing paddy crop was flattened",
+      "hindi": "आंधी-बारिश में बिजली बंद रही, हमारी खड़ी धान की फसल बिछ गई",
       "inference": false,
       "basis": "Amar Ujala (12 Oct 2026, Shamli): wind and hail flattened ripe standing paddy; waterlogging put urad, potato, cauliflower and newly planted garlic at risk; power supply was disrupted with two 33 kV lines switched off. Covers Thanabhawan, Jalalabad, Oon and Jhinjhana, not Kairana itself. District-level; Oon (Un) is named but the report is not a Kairana-town report.",
       "sources": [
@@ -103,8 +103,8 @@
     },
     {
       "rank": 5,
-      "english": "A volleyball quarrel in Jahanpura turned into gunfire, and five people were injured",
-      "hindi": "जहानपुरा में वॉलीबॉल पर झगड़े में फायरिंग, 5 लोग घायल हुए",
+      "english": "In Jahanpura, a volleyball quarrel led to firing, and five people were injured",
+      "hindi": "जहानपुरा में वॉलीबॉल पर झगड़े में फायरिंग हुई, पांच लोग घायल",
       "inference": false,
       "basis": "Amar Ujala (26 May 2024): late on Saturday night a volleyball-game dispute in Jahanpura village in the Kairana area led to firing by one side; five people, including two women, were injured. Shamli Police's 2025 release also places Jahanpura under Thana Kairana. Jahanpura's Kairana AC membership is not confirmed, so this is not counted as AC-specific. 2024 incident.",
       "sources": [
@@ -118,5 +118,5 @@
     "ac_specific_negatives": 3,
     "changes": "Replaced spidertest.amarujala.com with www.amarujala.com (opened, same content) for the 6 Dec 2025 article. Replaced Ground News aggregator with the original ChiniMandi Hindi article (opened; figures 339.65 crore match; corrected Unnao to Un mill). Removed the Mandawar leopard item (2024), as Mandawar's Kairana AC membership is not confirmed. Replaced the inference-only 'small dispute / unsafe' negative with a sourced Jahanpura incident line. Added Kairana town negatives: roads and drains (Amar Ujala 31 Jul 2026) and six-hour power cut with water halt (Amar Ujala 21 Sep 2026). Replaced positive 3 (Jahanpura police response, 2024) with the Shamli Police 1 Sep 2025 release on arrests in the Jahanpura clash (PDF opened). Rewrote Hindi lines to 11-13 words. Replaced the unsourced 'unapproved colony' inference negative with the sourced Kairana town civic items. Inference items: positive 5 only (power resumed after storm, district-level)."
   },
-  "notes": "Identity confirmed: Wikipedia lists Kairana as Constituency No. 8, Shamli district, reserved status None; the AC includes Un NP, Jhinjhana NP and Kairana NPP. Mandawar and Jahanpura are NOT confirmed as inside this AC: the Wikipedia AC page lists only urban bodies, and no source found names either village as an AC member. Shamli Police releases place both under Thana Kairana (police-station jurisdiction, which is not the same as the AC). Field check needed. Remaining gaps: no Kairana-specific item found on the CHC or hospital, stray cattle, or Yamuna flooding for 2025-26 (searches returned other districts only). Sugarcane and storm items are district-level; Un mill's exact location is not separately confirmed. Only 1 inference item remains (positive 5). Kairana AC-specific negatives: ranks 2 and 3 (town civic, sourced 2026), with rank 1 counted as partly AC-linked via the Un mill; the brief's threshold of 3 is met only with that partial count. Excluded as outside the lived-experience focus: communal items (2016 exodus claims, 2025 Hanuman Chalisa alert in Kairana). Suggested field checks: Kairana town roads and drains (Chhadiyan and Kandhla Road), Kairana power substation and water supply, Kairana CHC, stray cattle, Yamuna-side villages, and the Un mill's cane payments."
+  "notes": "Voice pass (round 3, text only): all positives 1 to 4 and negatives 1 to 5 reworded to voter voice, with English aligned to Hindi; the inference item (positive 5) is unchanged. Positive 3 comes from a Shamli Police press release (1 Sep 2025), so it states police action only; no resident feeling of safety is claimed because the basis does not state one. Positive 4 is a partial payment (first instalment, about a third of the amount calculated for 9-14 Nov). Negative 5 (Jahanpura, 2024) is not confirmed as inside this AC. Identity confirmed: Wikipedia lists Kairana as Constituency No. 8, Shamli district, reserved status None; the AC includes Un NP, Jhinjhana NP and Kairana NPP. Mandawar and Jahanpura are NOT confirmed as inside this AC: the Wikipedia AC page lists only urban bodies, and no source found names either village as an AC member. Shamli Police releases place both under Thana Kairana (police-station jurisdiction, which is not the same as the AC). Field check needed. Remaining gaps: no Kairana-specific item found on the CHC or hospital, stray cattle, or Yamuna flooding for 2025-26 (searches returned other districts only). Sugarcane and storm items are district-level; Un mill's exact location is not separately confirmed. Only 1 inference item remains (positive 5). Kairana AC-specific negatives: ranks 2 and 3 (town civic, sourced 2026), with rank 1 counted as partly AC-linked via the Un mill; the brief's threshold of 3 is met only with that partial count. Excluded as outside the lived-experience focus: communal items (2016 exodus claims, 2025 Hanuman Chalisa alert in Kairana). Suggested field checks: Kairana town roads and drains (Chhadiyan and Kandhla Road), Kairana power substation and water supply, Kairana CHC, stray cattle, Yamuna-side villages, and the Un mill's cane payments."
 }

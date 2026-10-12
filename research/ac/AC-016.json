@@ -10,7 +10,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Government work is good, some residents say, and they praise it.",
+      "english": "Government work is good, some residents say, and they praise it",
       "hindi": "सरकार का काम ठीक है, कुछ लोग इसकी तारीफ करते हैं",
       "inference": false,
       "basis": "Amar Ujala ground report: some people praised government work; one citizen called the BJP or BSP government's rule good.",
@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "Women's safety is better than before, though it can still improve.",
-      "hindi": "महिलाओं की सुरक्षा पहले से बेहतर हुई है, पर और सुधार हो",
+      "english": "Women's safety is better than before, but it should improve further",
+      "hindi": "महिलाओं की सुरक्षा पहले से बेहतर हुई है, पर और सुधार होना चाहिए",
       "inference": false,
       "basis": "Amar Ujala ground report: resident Ishita said women's safety is better than before but can improve further.",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "rank": 3,
-      "english": "The administration's security arrangements are good.",
+      "english": "The administration's security arrangements are good",
       "hindi": "प्रशासन के सुरक्षा इंतज़ाम अच्छे हैं",
       "inference": false,
       "basis": "Amar Ujala ground report: residents praised the administration's security arrangements (paraphrased in the report, not a direct quote).",
@@ -40,7 +40,7 @@
     },
     {
       "rank": 4,
-      "english": "*Young people are keen on education.",
+      "english": "*Young people are keen on education",
       "hindi": "*युवाओं में पढ़ाई को लेकर उत्साह दिखता है",
       "inference": true,
       "basis": "Inference: the Amar Ujala report records resident Faiz naming education as a key youth demand alongside ending unemployment. That is a demand, not evidence of improvement or enthusiasm, so this is a weak positive to verify in the field.",
@@ -50,7 +50,7 @@
     },
     {
       "rank": 5,
-      "english": "*Some families are getting benefits from government schemes.",
+      "english": "*Some families are getting benefits from government schemes",
       "hindi": "*कुछ परिवारों को सरकारी योजनाओं का फायदा मिल रहा है",
       "inference": true,
       "basis": "Inference only: no Meerapur-specific scheme or delivered benefit was found in any source checked in round 2. The Amar Ujala report's only related sourced point is the citizen praising the BJP or BSP government's rule. Replaces the round 1 item 'people speak openly about development', which was not a voter-appreciated benefit. Field check needed (ration, pension, housing or Ayushman coverage in Meerapur).",
@@ -62,7 +62,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Roads in Meerapur have potholes and need proper repair work.",
+      "english": "Roads in Meerapur have potholes and need proper repair work",
       "hindi": "मीरापुर में सड़कों पर गड्ढे हैं, मरम्मत होनी चाहिए",
       "inference": false,
       "basis": "Amar Ujala ground report (Meerapur series, 26 Aug 2026): Shreya Sharma wants better road quality and potholes fixed; farmers quoted in the report said road work should happen. The report labels these voices 'Morna area', but Morna is not in this AC's Wikipedia extent list, so the place name was dropped from the statement. The AC-level road complaint is what the source supports.",
@@ -72,7 +72,7 @@
     },
     {
       "rank": 2,
-      "english": "Sugarcane prices should go up for farmers.",
+      "english": "Sugarcane prices should go up, and farmers should get fair value for their hard work",
       "hindi": "गन्ने के दाम बढ़ने चाहिए, किसान की मेहनत का दाम मिले",
       "inference": false,
       "basis": "Amar Ujala ground report: farmers quoted in the report said sugarcane prices should rise. The report labels them 'Morna area', which is not confirmed as inside this AC, so this item is not counted as AC-specific. No Meerapur mill dues were found in round 2 searches.",
@@ -82,7 +82,7 @@
     },
     {
       "rank": 3,
-      "english": "Education and healthcare should be free.",
+      "english": "Education and healthcare should be free",
       "hindi": "शिक्षा और इलाज मुफ्त होने चाहिए",
       "inference": false,
       "basis": "Amar Ujala ground report: resident Sanjeev Kumar (labelled 'Morna area' in the report, which is not confirmed as inside this AC) said education and medical care should be free.",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 4,
-      "english": "Unemployment must end; youth need jobs.",
+      "english": "Unemployment must end; youth need jobs",
       "hindi": "बेरोजगारी खत्म होनी चाहिए, युवाओं को काम चाहिए",
       "inference": false,
       "basis": "Amar Ujala ground report: Faiz said the youth's biggest demands are education and ending unemployment. Mohit Dubey also wanted the MLA to focus on development and jobs.",
@@ -102,7 +102,7 @@
     },
     {
       "rank": 5,
-      "english": "Development is lacking in Meerapur; basic facilities need attention.",
+      "english": "Development is lacking in Meerapur; basic facilities need attention",
       "hindi": "मीरापुर में विकास की कमी दिखती है, बुनियादी सुविधाओं पर ध्यान चाहिए",
       "inference": false,
       "basis": "Amar Ujala ground report: residents voiced concern about lack of development and basic facilities in Meerapur (paraphrased in the report, not village-specific). Meerapur is the town and Nagar Panchayat inside this AC per the Wikipedia extent list.",
@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "notes": "Round 2. Identity re-verified: Wikipedia list row 16 Meerapur, None, Bijnor LS; Wikipedia AC page confirms the extent list. Morna is NOT in that extent list. A directory lists Morna as a village in Jansath tehsil, so it may fall in a neighbouring AC or in the Jansath-tehsil part of this AC. Unconfirmed, so Morna is kept out of the statements. The Amar Ujala article was checked through a summary fetch of the page, not a full-text read; its quotes match the summary. Only one AC-specific source exists (the 26 Aug 2026 Amar Ujala report). Only 2 of 5 negatives name a place inside this AC (Meerapur), short of the 3 required. Searches for Kakrauli, Bhopa, Dhansari, Bhokerheri, Meerapur Nagar Panchayat drains and roads, Ganga khadar flooding in Jansath/Meerapur, Morna sugar mill dues, and completed Meerapur projects found no usable local 2024-2026 report. One undated Amar Ujala khadar report naming Meerapur Sikri khadar villages (Dattiyana, Siyali, Jalalpur khadar, Raipur khadar) with waterlogged roads appeared in a search snippet, but its URL could not be retrieved, so it is not used. Positives 4 and 5 are flagged inferences. Field checks: Morna's AC membership, Meerapur Sikri and khadar road and flood status, Kakrauli and Bhopa power and water, Meerapur sugarcane mill payment status, Meerapur town drainage, and completed local projects for positives.",
+  "notes": "Round 2. Identity re-verified: Wikipedia list row 16 Meerapur, None, Bijnor LS; Wikipedia AC page confirms the extent list. Morna is NOT in that extent list. A directory lists Morna as a village in Jansath tehsil, so it may fall in a neighbouring AC or in the Jansath-tehsil part of this AC. Unconfirmed, so Morna is kept out of the statements. The Amar Ujala article was checked through a summary fetch of the page, not a full-text read; its quotes match the summary. Only one AC-specific source exists (the 26 Aug 2026 Amar Ujala report). Only 2 of 5 negatives name a place inside this AC (Meerapur), short of the 3 required. Searches for Kakrauli, Bhopa, Dhansari, Bhokerheri, Meerapur Nagar Panchayat drains and roads, Ganga khadar flooding in Jansath/Meerapur, Morna sugar mill dues, and completed Meerapur projects found no usable local 2024-2026 report. One undated Amar Ujala khadar report naming Meerapur Sikri khadar villages (Dattiyana, Siyali, Jalalpur khadar, Raipur khadar) with waterlogged roads appeared in a search snippet, but its URL could not be retrieved, so it is not used. Positives 4 and 5 are flagged inferences. Field checks: Morna's AC membership, Meerapur Sikri and khadar road and flood status, Kakrauli and Bhopa power and water, Meerapur sugarcane mill payment status, Meerapur town drainage, and completed local projects for positives. P4 weak positive: the basis records education as a youth demand, not evidence of enthusiasm; kept as an inference to verify in the field.",
   "round2": {
     "verified_sources": 3,
     "removed_sources": 0,

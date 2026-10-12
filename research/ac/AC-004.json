@@ -16,8 +16,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Department says action on the village drain is under way.",
-      "hindi": "विभाग का कहना है कि नाले पर कार्रवाई चल रही है",
+      "english": "We hear action is under way on the village drain, and that is good.",
+      "hindi": "सुना है नाले पर कार्रवाई चल रही है, यह अच्छा है",
       "inference": false,
       "basis": "District-level: PWD Executive Engineer Dharmendra Singh is quoted as saying action in the Hauzkheri drain matter is underway (\"मामले में कार्रवाई प्रचलित है\", wording unclear). The article gives no block or tehsil and does not name the Saharanpur Dehat seat, so seat membership is not confirmed.",
       "sources": [
@@ -101,7 +101,7 @@
     {
       "rank": 5,
       "english": "Sugarcane dues from last season and this one are still unpaid.",
-      "hindi": "गन्ने का पिछले और इस सीजन का बकाया भुगतान अब भी अटका है",
+      "hindi": "गन्ने का पिछले और इस सीजन का पैसा अब भी नहीं मिला",
       "inference": false,
       "basis": "District-level (Saharanpur): farmers protested at the Saharanpur Sugarcane Department over outstanding dues from the current and previous crushing seasons; no amount stated. Officials asked for time until 21 May, then until 1 June 2026, per farmer representatives. No mill named.",
       "sources": [
@@ -109,5 +109,5 @@
       ]
     }
   ],
-  "notes": "Identity confirmed: Wikipedia lists constituency No. 4 as 'Saharanpur' (reserved: None, district Saharanpur), and the AC article infobox gives the name 'Saharanpur Dehat'. No. 3 is Saharanpur Nagar (a different seat). Mohaddipur and Hauzkheri are not in the Wikipedia area list (Dabki Gujjar, Dara Ali, Dara Shivpuri, Harora, Manak Mau, Megh Chhapper, Pathanpur, Punwarka); Hauzkheri's seat is unconfirmed. Only 3 negatives are AC-specific, and all three come from one politically framed 4pm.co.in article (opposition-leaning, no government reply). Positives 2-5 are inference placeholders with no supporting source; positive 1 is the only sourced positive and is district-level. Jasmor/Shakumbhari appears to be in Behat (AC 1), so it was removed as a Dehat positive. Searches run this round (Hindi and English) on Hauzkheri's block, Mohaddipur's block, the Pathanpur/Harora/Punwarka roads, electricity, water, schools, health, Dehat development projects and Saharanpur mills found no usable local source; the Amar Ujala 2026 rural development items found were urban or undated. Not used: 4pm 'शिक्षा-स्वास्थ्य बदहाल' piece (not checked for Dehat), Amar Ujala 2026-08-04 Hindon road (Chhutmalpur, seat not confirmed), Amar Ujala overnight-rain piece (district-level, dropped as overlapping). Next steps for field or search: Dainik Jagran and Live Hindustan Saharanpur rural pages; Amar Ujala Saharanpur Dehat village coverage; Gram Panchayat and PWD notices for Mohaddipur and Hauzkheri to fix the block and seat; a mill-level report on cane dues; and sourced positives (roads, drainage, school, health, electricity, water) if any exist."
+  "notes": "Identity confirmed: Wikipedia lists constituency No. 4 as 'Saharanpur' (reserved: None, district Saharanpur), and the AC article infobox gives the name 'Saharanpur Dehat'. No. 3 is Saharanpur Nagar (a different seat). Mohaddipur and Hauzkheri are not in the Wikipedia area list (Dabki Gujjar, Dara Ali, Dara Shivpuri, Harora, Manak Mau, Megh Chhapper, Pathanpur, Punwarka); Hauzkheri's seat is unconfirmed. Only 3 negatives are AC-specific, and all three come from one politically framed 4pm.co.in article (opposition-leaning, no government reply). Positives 2-5 are inference placeholders with no supporting source; positive 1 is the only sourced positive and is district-level. Jasmor/Shakumbhari appears to be in Behat (AC 1), so it was removed as a Dehat positive. Searches run this round (Hindi and English) on Hauzkheri's block, Mohaddipur's block, the Pathanpur/Harora/Punwarka roads, electricity, water, schools, health, Dehat development projects and Saharanpur mills found no usable local source; the Amar Ujala 2026 rural development items found were urban or undated. Not used: 4pm 'शिक्षा-स्वास्थ्य बदहाल' piece (not checked for Dehat), Amar Ujala 2026-08-04 Hindon road (Chhutmalpur, seat not confirmed), Amar Ujala overnight-rain piece (district-level, dropped as overlapping). Next steps for field or search: Dainik Jagran and Live Hindustan Saharanpur rural pages; Amar Ujala Saharanpur Dehat village coverage; Gram Panchayat and PWD notices for Mohaddipur and Hauzkheri to fix the block and seat; a mill-level report on cane dues; and sourced positives (roads, drainage, school, health, electricity, water) if any exist. P2 weak positive: placeholder; no source says mills are operating, and it states a status rather than appreciation. P3 weak positive: placeholder; no source for local daily shopping, and the 4pm trader quotes point the other way. P5 weak positive: heritage fact; the Shakumbhari area is tied to Behat, not confirmed as Dehat, and no voter praise was found."
 }

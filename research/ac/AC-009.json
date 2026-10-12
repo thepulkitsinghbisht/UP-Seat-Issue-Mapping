@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Widening of the Thanabhawan-Charthawal road has started, so relief may come.",
-      "hindi": "थानाभवन-चरथावल मार्ग का चौड़ीकरण शुरू हो गया है, राहत मिलेगी।",
+      "english": "Widening of the Thanabhawan-Charthawal road has started, so relief may come",
+      "hindi": "थानाभवन-चरथावल मार्ग का चौड़ीकरण शुरू हो गया है, राहत मिल सकती है",
       "inference": false,
       "basis": "Amar Ujala (22 Jun 2026, Shamli dateline): PWD executive engineer confirms widening of the Thanabhawan-Charthawal-Muzaffarnagar road from 7 m to 10 m has started, estimated cost Rs 15 crore. This is work in progress, not a completed project. The road name is Thanabhawan-specific; the article does not say the whole stretch lies inside this AC.",
       "sources": [
@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "Funds have been released for five Thanabhawan roads, though tenders are still pending.",
-      "hindi": "थानाभवन की पांच सड़कों के लिए पैसा जारी हो गया है।",
+      "english": "Money has come for five Thanabhawan roads, but tenders are still pending",
+      "hindi": "थानाभवन की पांच सड़कों का पैसा आ गया, टेंडर अभी बाकी है",
       "inference": false,
       "basis": "Amar Ujala (28 Aug 2026, Shamli): government released funds for five roads in Thana Bhawan on the local MLA's proposal, for FY 2026-27. Roads named include Tapraana-Jhijhana (new construction), Bantikheda (new construction), and Gohrpur-Kudana link road. Article gives no amount for these five; tenders not yet issued.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "The cremation-ground road tender is done, and the work is awaited.",
-      "hindi": "श्मशान घाट सड़क का टेंडर हो गया, काम का इंतजार है।",
+      "english": "The cremation-ground road tender is done, and we are waiting for the work",
+      "hindi": "श्मशान घाट की सड़क का टेंडर हो गया, काम का इंतजार है",
       "inference": false,
       "basis": "Nayan Jagriti (page last updated 23 Aug 2026; status as of 22 Aug 2026): tender process for the Thanabhawan cremation-ground road was completed about a year earlier and a contractor was selected, but no work order has been issued. This is only a process positive; construction has not begun.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "The DM has warned the Thanabhawan sugar mill to clear the pending dues.",
-      "hindi": "डीएम ने थानाभवन चीनी मिल को बकाया भुगतान की चेतावनी दी।",
+      "english": "The DM has warned the Thanabhawan mill to clear the pending dues, which is right",
+      "hindi": "डीएम ने थानाभवन मिल को बकाया चुकाने की चेतावनी दी, यह सही है",
       "inference": false,
       "basis": "Amar Ujala (29 Sep 2026): DM Alok Yadav expressed displeasure at the Rs 81.37 crore cane price payment still pending at Thanabhawan mill and said strict action would follow if negligence continued. This is district administration action, not a completed fix on the ground.",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "Farmers can put their problems directly before officials at Kisan Diwas.",
-      "hindi": "*किसान दिवस में किसान अपनी समस्याएं अधिकारियों के सामने रख रहे हैं।",
+      "english": "* At Kisan Diwas we can put our problems directly before officials",
+      "hindi": "* किसान दिवस पर हम अपनी समस्याएं अधिकारियों के सामने रख सकते हैं",
       "inference": true,
       "basis": "Inference: Amar Ujala (17 Sep 2026) reports the Shamli district Kisan Diwas (held Wednesday, 16 Sep) where farmers raised Thanabhawan mill dues, stray cattle, soil mining and power line issues in front of officials. The forum exists; the article does not show any outcome. District-level, not AC-specific.",
       "sources": [
@@ -62,8 +62,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Thanabhawan mill still hasn't paid our sugarcane dues.",
-      "hindi": "थानाभवन मिल ने अभी तक हमारा गन्ना मूल्य बकाया नहीं दिया है।",
+      "english": "Thanabhawan mill still hasn't paid our sugarcane dues",
+      "hindi": "थानाभवन मिल ने अभी तक हमारा गन्ना मूल्य बकाया नहीं दिया है",
       "inference": false,
       "basis": "Amar Ujala (29 Sep 2026): review found Rs 81.37 crore cane price payment still pending at Thanabhawan sugar mill for the 2025-26 crushing season. Amar Ujala (17 Sep 2026): BKU youth district president Prabhat Malik says Thanabhawan mill has not paid farmers' dues.",
       "sources": [
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "Stray cattle are ruining our crops and we guard the fields all night.",
-      "hindi": "आवारा पशु फसल उजाड़ रहे हैं, रातभर खेत की रखवाली करनी पड़ती है।",
+      "english": "Stray animals are ruining crops, and we have to guard the fields all night",
+      "hindi": "आवारा पशु फसल उजाड़ रहे हैं, रातभर खेत की रखवाली करनी पड़ती है",
       "inference": false,
       "basis": "Amar Ujala (7 Jun 2026), Thanabhawan dateline: stray animals damage paddy, sugarcane, maize, sorghum, green fodder and vegetables in Nozal, Hasanpur, Khanpur, Chandenamal and surrounding villages. Farmers have to keep watch in their fields all night. Thanabhawan dateline is the AC-level link.",
       "sources": [
@@ -83,8 +83,8 @@
     },
     {
       "rank": 3,
-      "english": "The cremation-ground road turns to mud in rain, and still hasn't been built.",
-      "hindi": "श्मशान घाट का रास्ता बारिश में कीचड़ से भरा, सड़क नहीं बनी।",
+      "english": "The cremation-ground road turns to mud in rain, and still hasn't been built",
+      "hindi": "श्मशान घाट का रास्ता बारिश में कीचड़ से भरा, सड़क नहीं बनी",
       "inference": false,
       "basis": "Nayan Jagriti (updated 23 Aug 2026): the Thanabhawan cremation-ground road (ward 2, Nabipura) becomes waterlogged and muddy in rain, and funeral processions must pass through it. Tender completed about a year earlier, but construction has not started and no work order was issued. The Nagar Panchayat EO did not take the reporter's calls.",
       "sources": [
@@ -93,8 +93,8 @@
     },
     {
       "rank": 4,
-      "english": "Roads and lanes in Jalalabad get waterlogged, and vegetable fields are flooded.",
-      "hindi": "जलालाबाद में सड़कें और गलियां जलमग्न हो गईं।",
+      "english": "Water filled the roads, lanes and vegetable fields in Jalalabad",
+      "hindi": "जलालाबाद में सड़कों, गलियों और सब्जी के खेतों में पानी भर गया",
       "inference": false,
       "basis": "Amar Ujala (12 Oct 2026, Shamli dateline, Samvad agency): streets and lanes in Jalalabad's localities were flooded after an hour of rain, and vegetable fields there were waterlogged. Jalalabad is a nagar panchayat in Shamli tehsil and part of this AC per Wikipedia AC page.",
       "sources": [
