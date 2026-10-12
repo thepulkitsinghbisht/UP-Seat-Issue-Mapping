@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Foundation laid for a 100-bed government hospital in Civil Lines",
-      "hindi": "सिविल लाइंस में 100 बेड के सरकारी अस्पताल का शिलान्यास हुआ",
+      "english": "A 100-bed government hospital has started being built in Civil Lines",
+      "hindi": "सिविल लाइंस में 100 बेड का सरकारी अस्पताल बनने लगा है",
       "inference": false,
       "basis": "Royal Bulletin (23 Feb 2026): bhoomi pujan and foundation stone for a 100-bed government medical care hospital in the Civil Lines area, with construction start; the article names the Nagar MLA Ritesh Gupta as performing it. No completion date. Civil Lines is listed under Moradabad Rural in the BJP mandal report (31 Dec 2024), so the locality may be split between the two seats; the Nagar MLA link supports AC 28.",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "The Trishul Indian Defence Museum and Shri Ram Vatika in Buddhi Vihar opened in June 2026",
-      "hindi": "बुद्धि विहार में त्रिशूल रक्षा संग्रहालय और श्रीराम वाटिका जून में खुले",
+      "english": "The Trishul Defence Museum in Buddhi Vihar has opened, which is a good thing",
+      "hindi": "बुद्धि विहार का त्रिशूल रक्षा संग्रहालय खुल गया, अच्छी बात है",
       "inference": false,
       "basis": "Amar Ujala (27 Sep 2026): the Trishul Indian Defence Museum and Shri Ram Vatika in Buddhi Vihar were inaugurated in June 2026, with Bharatiya Khel Park and other projects dedicated on the same occasion. The article does not name the seat. Buddhi Vihar is named inside the Moradabad Nagar seat section of Amar Ujala's 20 Apr 2024 report (location evidence only; no electoral content used).",
       "sources": [
@@ -130,8 +130,8 @@
     },
     {
       "rank": 3,
-      "english": "A choked drain at Sitapuri Das Sarai troubles five thousand people",
-      "hindi": "सीतापुरी दस सराय में गंदा नाला जाम, पांच हजार लोग परेशान",
+      "english": "In Sitapuri Das Sarai the dirty drain is choked, and 5,000 people are troubled",
+      "hindi": "सीतापुरी दस सराय में गंदा नाला जाम है, पांच हजार लोग परेशान हैं",
       "inference": false,
       "basis": "Amar Ujala (7 Jun 2026): drain between Sitapuri Das Sarai and Chau ki Basti choked; the article says 5,000 people of three settlements suffer; residents say the Nagar Nigam made no drainage plan despite a CM portal complaint. AC membership: Das Sarai is named as a Nagar mandal in the BJP mandal report (Amrit Vichar, 31 Dec 2024); the drain article itself does not name the seat, so this is mandal-level evidence.",
       "sources": [
@@ -158,8 +158,8 @@
     },
     {
       "rank": 5,
-      "english": "Jams are common in the city with heavy vehicle pressure all day",
-      "hindi": "शहर में जाम लगना आम बात, दिनभर भारी भीड़ रहती है",
+      "english": "Jams are common in the city, with heavy vehicle pressure all day",
+      "hindi": "शहर में जाम आम बात है, दिनभर गाड़ियों का भारी दबाव रहता है",
       "inference": false,
       "basis": "Royal Bulletin (6 Oct 2026): the new SP Traffic says reducing city jams is the focus; places where vehicle pressure stays high through the day and jams recur are being identified. This is an official statement, no roads named. City-level, not a named AC location.",
       "sources": [
@@ -178,5 +178,5 @@
     "ac_specific_negatives": 3,
     "changes": "Fetched every cited URL and corrected claims the pages did not support: removed 'worst hit' (Patrika), 'only a visit' and 'patients told to buy outside' and 'full prescribed medicine not available' (Amar Ujala), and the 'residents' difficulties have grown' wording. Removed the MDA 24m Sector 15 road positive (page says Completed but its description says the road is being constructed) and the city-flooding negative (Amar Ujala 18 Aug 2026, not AC-specific). Added Amar Ujala 27 Sep 2026 (Buddhi Vihar museum and Shri Ram Vatika opened June 2026), Amar Ujala 15 and 17 Sep 2026 (Buddhi Vihar dug-up roads, new negative 2), and Amar Ujala 20 Apr 2024 as location evidence that names Line Par, Buddhi Vihar and Budh Bazar inside the Moradabad Nagar seat. Hospital item now cites the Nagar MLA named in the Royal Bulletin report. Negatives reordered: waterlogging, Buddhi Vihar roads, Das Sarai drain, district hospital medicines, city jams."
   },
-  "notes": "AC identity: Wikipedia constituency list (fetched) gives No. 28 Moradabad Nagar, reserved None, Moradabad district, Moradabad Lok Sabha seat; AC 27 is Moradabad Rural. Region Rohilkhand is my assignment. Could not fetch the 2008 Delimitation Order PDF on India Code (connection reset and 503 on repeated tries), so the official ward/mohalla extent is still unconfirmed. Wikipedia AC pages and the Moradabad Municipal Corporation page give no ward-to-seat mapping; searches for a ward list found none. AC membership therefore rests on (a) the BJP mandal report (Amrit Vichar, 31 Dec 2024), which names Nagar mandals Chandra Nagar, Lainpar, Das Sarai, Katghar, Madhya Nagar and Rural mandals Civil Lines, Ramganga Vihar, Diwan Ka Bazar, Sehal, Bhojpur, and (b) Amar Ujala 20 Apr 2024, which places Line Par, Buddhi Vihar, Ramganga Vihar and Budh Bazar in the Moradabad Nagar seat section. That report is an election story; only its location sentences are used. Conflicts to check in the field: Ramganga Vihar is a Rural mandal in the mandal report but named inside Nagar in the 2024 report, so it is not used as an AC-specific place; Civil Lines may be split between AC 27 and AC 28. Weakest AC-specific negative is Das Sarai (mandal-level only); if that is not accepted, ac_specific_negatives falls to 2. Positives remain weaker than negatives: most are MDA district-level items (undated page, AC membership unconfirmed). Budh Bazar is only in the 2024 locality list and not separately sourced. Royal Bulletin 2026 items are dated; Patrika date taken from the article text (5 Aug 2025), its page header shows a different date. The district medicines item and city jams item are not AC-specific."
+  "notes": "AC identity: Wikipedia constituency list (fetched) gives No. 28 Moradabad Nagar, reserved None, Moradabad district, Moradabad Lok Sabha seat; AC 27 is Moradabad Rural. Region Rohilkhand is my assignment. Could not fetch the 2008 Delimitation Order PDF on India Code (connection reset and 503 on repeated tries), so the official ward/mohalla extent is still unconfirmed. Wikipedia AC pages and the Moradabad Municipal Corporation page give no ward-to-seat mapping; searches for a ward list found none. AC membership therefore rests on (a) the BJP mandal report (Amrit Vichar, 31 Dec 2024), which names Nagar mandals Chandra Nagar, Lainpar, Das Sarai, Katghar, Madhya Nagar and Rural mandals Civil Lines, Ramganga Vihar, Diwan Ka Bazar, Sehal, Bhojpur, and (b) Amar Ujala 20 Apr 2024, which places Line Par, Buddhi Vihar, Ramganga Vihar and Budh Bazar in the Moradabad Nagar seat section. That report is an election story; only its location sentences are used. Conflicts to check in the field: Ramganga Vihar is a Rural mandal in the mandal report but named inside Nagar in the 2024 report, so it is not used as an AC-specific place; Civil Lines may be split between AC 27 and AC 28. Weakest AC-specific negative is Das Sarai (mandal-level only); if that is not accepted, ac_specific_negatives falls to 2. Positives remain weaker than negatives: most are MDA district-level items (undated page, AC membership unconfirmed). Budh Bazar is only in the 2024 locality list and not separately sourced. Royal Bulletin 2026 items are dated; Patrika date taken from the article text (5 Aug 2025), its page header shows a different date. The district medicines item and city jams item are not AC-specific. Voice pass (Round 3): P1 reworded to 'construction has started' (foundation laid, basis); P2 to 'opened' with appreciation wording; N3 and N5 made spoken, N5 now says vehicle pressure as in the basis (not crowds). P3 to P5, N1, N2, N4 unchanged in wording."
 }

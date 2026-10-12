@@ -11,16 +11,16 @@
   "positives": [
     {
       "rank": 1,
-      "english": "*Government ration and pension schemes reach some families here",
-      "hindi": "*सरकारी राशन और पेंशन योजनाओं का लाभ कई परिवारों को मिल रहा है",
+      "english": "*Government ration and pension schemes help some families here",
+      "hindi": "*सरकारी राशन और पेंशन योजना से कुछ परिवारों को मदद मिलती है",
       "inference": true,
       "basis": "Inference: no AC-specific report of a delivered scheme benefit was found in the sources searched. The Amar Ujala Moradabad Dehat report (28 Aug 2026) does not mention ration or pension schemes.",
       "sources": []
     },
     {
       "rank": 2,
-      "english": "Some farmers feel the MLA's work in the area is right",
-      "hindi": "कुछ किसानों की नजर में विधायक का काम सही है",
+      "english": "Some farmers say the MLA visits, and in their view the work is right",
+      "hindi": "कुछ किसान कहते हैं, विधायक आते हैं, उनकी नजर में काम सही है",
       "inference": false,
       "basis": "Amar Ujala report on Moradabad Dehat (28 Aug 2026): some farmers said the MLA visits and that in their view the work is correct (\"विधायक आते हैं और उनकी नजर में काम सही है\"). No project, road or village is named, so this is a weak, opinion-level positive.",
       "sources": [
@@ -33,7 +33,7 @@
     },
     {
       "rank": 3,
-      "english": "*Some farmers get government procurement and support price help",
+      "english": "*Farmers get some help from government procurement and the support price",
       "hindi": "*किसानों को सरकारी खरीद और समर्थन मूल्य से कुछ सहारा मिलता है",
       "inference": true,
       "basis": "Inference: no Moradabad Dehat-specific report on procurement benefits was found. Farmers in the seat raised fertiliser and price problems in the Amar Ujala report (28 Aug 2026), so this is not confirmed as a positive.",
@@ -41,16 +41,16 @@
     },
     {
       "rank": 4,
-      "english": "*Some villages have irrigation from canal and tubewells",
-      "hindi": "*कुछ गांवों में नहर और नलकूप से सिंचाई की सुविधा है",
+      "english": "*In some villages, fields get irrigated from the canal and tubewells",
+      "hindi": "*कुछ गांवों में नहर और नलकूप से खेत की सिंचाई हो जाती है",
       "inference": true,
       "basis": "Inference: no AC-specific source confirming canal or tubewell irrigation coverage was fetched. A June 2026 Amar Ujala snippet (Thakurdwara dateline, not fetched) mentions private tubewells, but it is not a government benefit and is not confirmed for this AC.",
       "sources": []
     },
     {
       "rank": 5,
-      "english": "*Drinking water comes from handpumps and water tanks in some places",
-      "hindi": "*कुछ जगहों पर हैंडपंप और पानी की टंकी से पीने का पानी मिल जाता है",
+      "english": "*In some places, drinking water is available from handpumps and tanks",
+      "hindi": "*कुछ जगहों पर हैंडपंप और टंकी से पीने का पानी मिल जाता है",
       "inference": true,
       "basis": "Inference: no AC-specific source on water supply coverage was found. Other Moradabad reports seen in search describe water not reaching homes in city localities, so this positive is weak and unconfirmed.",
       "sources": []
@@ -59,8 +59,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "A farmers' problem here is fertiliser shortage and rising prices",
-      "hindi": "खाद की कमी और बढ़ती महंगाई से किसान परेशान हैं",
+      "english": "We are troubled by the fertiliser shortage and rising prices",
+      "hindi": "हमें खाद की कमी और बढ़ती महंगाई से परेशानी है",
       "inference": false,
       "basis": "Amar Ujala report on Moradabad Dehat (28 Aug 2026): farmers named fertiliser shortage (खाद की उपलब्धता) and rising prices as their main concerns (\"खाद की कमी और बढ़ती महंगाई उनके मुख्य मुद्दे हैं\"). Seat-level, not a single village. Lived-experience content only.",
       "sources": [
@@ -73,8 +73,8 @@
     },
     {
       "rank": 2,
-      "english": "The road at Chakkar ki Milak is dilapidated",
-      "hindi": "चक्कर की मिलक पर सड़क जर्जर हो चुकी है",
+      "english": "In Chakkar ki Milak our road has become dilapidated, with potholes",
+      "hindi": "चक्कर की मिलक में हमारी सड़क जर्जर हो चुकी है, गड्ढे पड़े हैं",
       "inference": false,
       "basis": "Amar Ujala (13 Feb 2026): Ward 25, Chakkar ki Milak; a road built about a year earlier was dug up for sewer work and left with potholes and a broken surface. AC membership unconfirmed: the article names no vidhan sabha. Jan 2025 report: MLA Nasir Qureshi (Moradabad Dehat) raised the dilapidated road at Chakkar ki Milak in the Nagar Nigam board meeting as a problem of his assembly constituency.",
       "sources": [
@@ -93,7 +93,7 @@
     {
       "rank": 3,
       "english": "There are potholes on Balaji Mandir Road",
-      "hindi": "बालाजी मंदिर रोड पर सड़कों में गड्ढे हैं",
+      "hindi": "बालाजी मंदिर रोड पर गड्ढे हैं",
       "inference": false,
       "basis": "Amar Ujala (9 Jan 2025): MLA Nasir Qureshi raised potholes on Balaji Mandir Road at the Nagar Nigam board meeting, described as problems of his assembly constituency. AC membership rests on the MLA's statement; no independent source found. Article is about 21 months old; current state not confirmed.",
       "sources": [
@@ -120,8 +120,8 @@
     },
     {
       "rank": 5,
-      "english": "A garbage heap at Nawabpura chauraha has lain for years",
-      "hindi": "नवाबपुरा चौराहे पर वर्षों से कूड़े का ढेर लगा है",
+      "english": "A garbage heap has lain at Nawabpura chauraha for years",
+      "hindi": "नवाबपुरा चौराहे पर सालों से कूड़े का ढेर पड़ा है",
       "inference": false,
       "basis": "Amar Ujala (9 Jan 2025): MLA Nasir Qureshi raised the garbage heap at Nawabpura chauraha, described as lying there for years, at the Nagar Nigam board meeting. AC membership rests on the MLA's statement; no independent source found. Current state not confirmed.",
       "sources": [
@@ -133,7 +133,7 @@
       ]
     }
   ],
-  "notes": "AC identity confirmed from Wikipedia (No. 27, Moradabad Rural, Moradabad district, reserved: None). AC extent NOT confirmed: Wikipedia names no tehsils or villages for AC 27; Moradabad Nagar (AC 28) Wikipedia page has no extent section; moradabad.nic.in constituency page returned 503 and could not be read. Independent check of the four city localities: Chakkar ki Milak is Nagar Nigam ward 25 (Amar Ujala 13 Feb 2026), but that article names no vidhan sabha, and a Nagar Nigam ward does not establish AC membership (AC 28 could cover the same city wards). Jhabbu ka Nala is in the Nagphani area (Amar Ujala Sept 2025 drain-rebuild story seen only as a search snippet, not fetched; it names no AC). No source found for Balaji Mandir Road or Nawabpura chauraha. The four city negatives therefore rest on the MLA's statement in the Jan 2025 report, which names the seat. Field check still needed. Positives: no AC-specific delivered benefit confirmed. Candidates not used: (a) Amar Ujala/Aaj Tak 9 Sep 2026, Didori and Mangupura villages in Moradabad, paved roads now built, no AC or block named (https://www.aajtak.in/uttar-pradesh/story/muradabad-didori-mangu-pura-villages-swachh-bharat-mission-sanitation-road-improvement-ntcpvp-utrath-rptc-2639748-2026-09-09), needs an AC check before use; (b) Saahas Samachar 28 Jun 2026 preview of CM's Moradabad visit: 12 projects worth Rs 21.88 crore in Moradabad Dehat, no project named, announcement only, not used. Searches for village road or project completion in Moradabad Dehat in Hindi and English returned nothing else. Aug 2026 report used only for lived-experience items (roads, potholes, waterlogging, fertiliser, prices, farmers' MLA remark); no electoral data used. Field check needed for all positives.",
+  "notes": "AC identity confirmed from Wikipedia (No. 27, Moradabad Rural, Moradabad district, reserved: None). AC extent NOT confirmed: Wikipedia names no tehsils or villages for AC 27; Moradabad Nagar (AC 28) Wikipedia page has no extent section; moradabad.nic.in constituency page returned 503 and could not be read. Independent check of the four city localities: Chakkar ki Milak is Nagar Nigam ward 25 (Amar Ujala 13 Feb 2026), but that article names no vidhan sabha, and a Nagar Nigam ward does not establish AC membership (AC 28 could cover the same city wards). Jhabbu ka Nala is in the Nagphani area (Amar Ujala Sept 2025 drain-rebuild story seen only as a search snippet, not fetched; it names no AC). No source found for Balaji Mandir Road or Nawabpura chauraha. The four city negatives therefore rest on the MLA's statement in the Jan 2025 report, which names the seat. Field check still needed. Positives: no AC-specific delivered benefit confirmed. Candidates not used: (a) Amar Ujala/Aaj Tak 9 Sep 2026, Didori and Mangupura villages in Moradabad, paved roads now built, no AC or block named (https://www.aajtak.in/uttar-pradesh/story/muradabad-didori-mangu-pura-villages-swachh-bharat-mission-sanitation-road-improvement-ntcpvp-utrath-rptc-2639748-2026-09-09), needs an AC check before use; (b) Saahas Samachar 28 Jun 2026 preview of CM's Moradabad visit: 12 projects worth Rs 21.88 crore in Moradabad Dehat, no project named, announcement only, not used. Searches for village road or project completion in Moradabad Dehat in Hindi and English returned nothing else. Aug 2026 report used only for lived-experience items (roads, potholes, waterlogging, fertiliser, prices, farmers' MLA remark); no electoral data used. Field check needed for all positives. Voice pass (Round 3): P2 kept only to what the basis says (some farmers say the MLA visits and the work is right; no project named). P2 weak positive: opinion only, one report. P1 and P3 to P5 stay inference. N1, N2, N3, N5 reworded spoken; N4 unchanged.",
   "round2": {
     "verified_sources": 3,
     "removed_sources": 2,

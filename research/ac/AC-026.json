@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Moradabad-Thakurdwara four-lane work is underway and expected to finish by December",
-      "hindi": "मुरादाबाद-ठाकुरद्वारा फोरलेन का काम चल रहा है, दिसंबर तक पूरा होने की उम्मीद",
+      "english": "The Moradabad-Thakurdwara four-lane is half done and expected to finish by December",
+      "hindi": "मुरादाबाद-ठाकुरद्वारा फोरलेन का आधा काम हो गया, दिसंबर तक पूरा होने की उम्मीद",
       "inference": false,
       "basis": "NHAI Project Director Arvind Kumar, as reported: about 50% of the work is done and the four-lane is expected to finish by December; 48 km project, estimated about Rs 625 crore. District-level highway project, not AC-specific. The same article reports cracks on the new sections and potholes on the old highway.",
       "sources": [
@@ -24,7 +24,7 @@
     },
     {
       "rank": 2,
-      "english": "The Thakurdwara-Surjannagar road was repaired before Sawan",
+      "english": "At least the Thakurdwara-Surjannagar road got repaired before Sawan",
       "hindi": "सावन से पहले ठाकुरद्वारा-सुरजननगर सड़क की मरम्मत तो हुई",
       "inference": false,
       "basis": "Before Sawan, residents raised the road's condition because it is a Kanwar route, and PWD repaired it. The article says the repair lasted only a few days: potholes reappeared, and a PWD Assistant Engineer said rain had damaged the repaired road again. The repair happened; its durability did not.",
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "*Storm-hit farmers are due compensation on Monday, as announced, not yet confirmed paid",
-      "hindi": "*फसल गिरी, पर सोमवार को मुआवजा मिलने की बात है",
+      "english": "*Compensation is said to come on Monday, a relief if it actually arrives",
+      "hindi": "*सोमवार को मुआवजा मिलने की बात है, राहत मिले तो अच्छा",
       "inference": true,
       "basis": "Inference: the article (12 Oct 2026) says affected farmers will be given compensation on Monday; the CM will distribute it online and the DM will hand it to 25 farmers at the Collectorate. It describes this as scheduled, not as already paid, so it is an announcement and not a delivered benefit. Tehsil survey: about 400 farmers affected after the Sunday storm.",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "*The Thakurdwara-Surjannagar road is to be rebuilt, not just patched, once rains end and funds come",
-      "hindi": "*ठाकुरद्वारा-सुरजननगर सड़क अब मरम्मत नहीं, फिर से बनेगी",
+      "english": "*The Thakurdwara-Surjannagar road will now be rebuilt, not just repaired, which is good",
+      "hindi": "*ठाकुरद्वारा-सुरजननगर सड़क अब मरम्मत नहीं, फिर से बनेगी, अच्छा है",
       "inference": true,
       "basis": "Inference: the article (13 Sep 2026) quotes PWD JE Harvinder Singh saying the road will be rebuilt rather than repaired; an estimate has gone to the government and construction is expected after the rains once financial approval arrives. A plan, not completed work.",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "*Thakurdwara's roads have been moved to a World Bank repair section, with repairs promised",
-      "hindi": "*ठाकुरद्वारा की सड़कें विश्व बैंक अनुभाग में, मरम्मत होगी",
+      "english": "*Potholes will be repaired first and the road rebuilt afterwards, which is fine",
+      "hindi": "*पहले गड्ढों की मरम्मत होगी, फिर सड़क बनेगी, यह ठीक है",
       "inference": true,
       "basis": "Inference: PWD JE Anandpal Singh says all roads in the Thakurdwara assembly area are now under the World Bank section, with potholes to be repaired first and the road rebuilt afterward. This is a plan and an announcement; no completed work was found in sources.",
       "sources": [
@@ -82,7 +82,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "The Thakurdwara-Surjannagar road has had potholes for about five years and fills with water in rain",
+      "english": "The Thakurdwara-Surjannagar road has had potholes for five years and fills with water in rain",
       "hindi": "ठाकुरद्वारा-सुरजननगर सड़क पर पांच साल से गड्ढे, बारिश में पानी भर जाता है",
       "inference": false,
       "basis": "Amar Ujala (31 Aug 2026): road poor for about five years; rain filled the potholes; PWD repairs break up within days; a 10-metre widening announced about a year earlier is not implemented. Amar Ujala (13 Sep 2026): residents of about 100 villages are affected, problem for five years, PWD JE says the road will be rebuilt. The road starts at Thakurdwara town; Surjannagar's AC membership is not explicitly confirmed by the articles. Durations differ between articles (3 years in Jul, about 5 years in Aug and Sep).",
@@ -106,8 +106,8 @@
     },
     {
       "rank": 2,
-      "english": "The Thakurdwara-Jaspur road has deep potholes, no drain, and 10 villages struggle",
-      "hindi": "ठाकुरद्वारा-जसपुर सड़क पर गहरे गड्ढे, किनारे नाला नहीं, 10 गांव परेशान",
+      "english": "The Thakurdwara-Jaspur road has deep potholes, there is no drain, and 10 villages are troubled",
+      "hindi": "ठाकुरद्वारा-जसपुर सड़क पर गहरे गड्ढे, नाला नहीं है, 10 गांव परेशान हैं",
       "inference": false,
       "basis": "Amar Ujala (17 Sep 2026): deep potholes on the road from Thakurdwara town to Jaspur, worst stretch about 2 km; about 10 villages use it, and several schools and coaching centres are on the route; no drain beside the road so rainwater collects; road built about five years ago and not maintained. Assistant Engineer Anandpal Singh names the Thakurdwara assembly area. Villages named include Mastlipur, Sanyasiwala and Karnawala Khalsa.",
       "sources": [
@@ -120,8 +120,8 @@
     },
     {
       "rank": 3,
-      "english": "The Thakurdwara highway link road is dilapidated and its repair is still pending",
-      "hindi": "ठाकुरद्वारा-हाईवे लिंक सड़क खस्ताहाल, मरम्मत अभी बाकी",
+      "english": "The Thakurdwara highway link road is dilapidated and the repair is still pending",
+      "hindi": "ठाकुरद्वारा-हाईवे लिंक सड़क खस्ताहाल है, मरम्मत अभी बाकी है",
       "inference": false,
       "basis": "Amar Ujala (16 Sep 2026): about 5 km link road from the Thakurdwara-Moradabad highway to Aslempur Gopiwala, described as dilapidated (खस्ताहाल); built about four years ago; heavy mining dumper traffic from Uttarakhand damaged it. Villages quoted: Nirmalpur and Madhowala. Assistant Engineer Anandpal Singh says PWD's World Bank section has a repair estimate, and that the whole Thakurdwara assembly constituency is under that section. Waterlogging is not mentioned in this article.",
       "sources": [
@@ -134,8 +134,8 @@
     },
     {
       "rank": 4,
-      "english": "The three km road from Thakurdwara town to Faridnagar is badly broken and drain water flows on it",
-      "hindi": "ठाकुरद्वारा से फरीदनगर की तीन किमी सड़क बेहाल, नाले का पानी सड़क पर",
+      "english": "The three km Thakurdwara-Faridnagar road is badly broken and drain water flows over it",
+      "hindi": "ठाकुरद्वारा-फरीदनगर की तीन किमी सड़क बेहाल, नाले का पानी सड़क पर बहता है",
       "inference": false,
       "basis": "Amar Ujala (21 Sep 2026): about 3 km road from inside Thakurdwara town (Kashipur Chungi) to Faridnagar village; potholes in many places; in the town section, drain water keeps flowing over the road; built about 10 years ago, not maintained. PWD JE says it is now under the World Bank section. Faridnagar's AC membership is not separately confirmed, but the road starts inside the town.",
       "sources": [
@@ -148,8 +148,8 @@
     },
     {
       "rank": 5,
-      "english": "Rain and strong wind have knocked down paddy crops in the fields",
-      "hindi": "बारिश और तेज हवा से खेतों में धान की फसल गिरी",
+      "english": "Our paddy crop was knocked down by rain and strong wind",
+      "hindi": "हमारी धान की फसल बारिश और तेज हवा से गिर गई",
       "inference": false,
       "basis": "Amar Ujala (12 Oct 2026): storm on Sunday evening knocked down paddy and sugarcane in fields at Thakurdwara; tehsil survey found about 400 farmers affected, paddy worst hit; farmers Babblu Singh and Uday Pal said output would be hit. Tehsil-level report, Thakurdwara named as the area; not counted as AC-specific.",
       "sources": [
@@ -162,7 +162,7 @@
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed from Wikipedia: no. 26, Thakurdwara, Moradabad district, unreserved. The Wikipedia page has no extent section. AC membership: the Jaspur (17 Sep) and link-road (16 Sep) articles quote PWD Assistant Engineer Anandpal Singh naming the Thakurdwara assembly area and saying the whole constituency is under the World Bank section; that is the only AC-membership evidence and it is a PWD section statement, not a boundary. Surjannagar, Faridnagar, Nirmalpur and Madhowala are not named as AC members in any article and need a field check. No Thakurdwara-specific cane dues, electricity, water or hospital report was found in ~25 Hindi and English searches. The Bilari mill (Laxmi Ji Chini Mill, Rs 180.36 crore) article was removed as it does not name Thakurdwara. A degree-college campus road tender in Thakurdwara turned up in search but its page could not be opened, so it is not cited. Positives are thin: 3 of 5 are flagged inference (compensation scheduled, Surjannagar rebuild plan, World Bank section plan); only the four-lane and the pre-Sawan repair are delivered or in-progress sourced items. Storm item (12 Oct) is a fresh event; field check whether compensation was actually paid on Monday. Negative 5 is tehsil-level and not counted in ac_specific_negatives.",
+  "notes": "AC confirmed from Wikipedia: no. 26, Thakurdwara, Moradabad district, unreserved. The Wikipedia page has no extent section. AC membership: the Jaspur (17 Sep) and link-road (16 Sep) articles quote PWD Assistant Engineer Anandpal Singh naming the Thakurdwara assembly area and saying the whole constituency is under the World Bank section; that is the only AC-membership evidence and it is a PWD section statement, not a boundary. Surjannagar, Faridnagar, Nirmalpur and Madhowala are not named as AC members in any article and need a field check. No Thakurdwara-specific cane dues, electricity, water or hospital report was found in ~25 Hindi and English searches. The Bilari mill (Laxmi Ji Chini Mill, Rs 180.36 crore) article was removed as it does not name Thakurdwara. A degree-college campus road tender in Thakurdwara turned up in search but its page could not be opened, so it is not cited. Positives are thin: 3 of 5 are flagged inference (compensation scheduled, Surjannagar rebuild plan, World Bank section plan); only the four-lane and the pre-Sawan repair are delivered or in-progress sourced items. Storm item (12 Oct) is a fresh event; field check whether compensation was actually paid on Monday. Negative 5 is tehsil-level and not counted in ac_specific_negatives. Voice pass (Round 3): P1 uses the basis's about-half progress; P3 to P5 (inference) reworded as the voter's appreciation of announced or planned work, facts unchanged; N1 to N5 made spoken, N5 first-person. P2 weak positive: the repair happened but lasted only days (basis).",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 1,

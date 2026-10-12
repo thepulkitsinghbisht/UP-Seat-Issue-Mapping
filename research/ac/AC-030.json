@@ -11,8 +11,8 @@
  "positives": [
   {
    "rank": 1,
-   "english": "A police case was filed against the sugar mill owner over cane dues",
-   "hindi": "मिल मालिक पर गन्ना बकाये का मुकदमा दर्ज हुआ है",
+   "english": "A case was registered against the mill owner over cane dues, so at least some action was taken",
+   "hindi": "मिल मालिक पर गन्ना बकाये का मुकदमा दर्ज हुआ, कार्रवाई तो हुई",
    "inference": false,
    "basis": "Police case registered at Bilari police station against the owner of the Ayudhya sugar mill, Bilari, and two others over unpaid cane dues (Patrika, 4 Sep 2025). Weak positive: this is a case, not a payment; dues of Rs 39.91 crore were still outstanding in that report.",
    "sources": [
@@ -25,8 +25,8 @@
   },
   {
    "rank": 2,
-   "english": "After DM pressure, the sugar mill paid Rs 3 crore to farmers",
-   "hindi": "डीएम के दबाव में मिल ने 3 करोड़ रुपये दिए",
+   "english": "After DM pressure, the mill paid Rs 3 crore, so at least something came",
+   "hindi": "डीएम के दबाव से मिल ने 3 करोड़ रुपये दिए, कुछ तो मिला",
    "inference": false,
    "basis": "Bilari sugar mill paid Rs 3 crore after strong pressure from the District Magistrate; about Rs 18.92 crore still remained after that payment (Amar Ujala, Moradabad, 30 Oct 2024). Weak positive: partial payment, 2024, and the current status was not found.",
    "sources": [
@@ -39,8 +39,8 @@
   },
   {
    "rank": 3,
-   "english": "Underground pipelines have been laid, only the tank is still pending",
-   "hindi": "भूमिगत पाइपलाइन बिछ गई है, बस टंकी बाकी है",
+   "english": "At least the underground pipelines are laid, only the tank is still pending",
+   "hindi": "भूमिगत पाइपलाइन तो बिछ गई, बस टंकी बाकी है",
    "inference": false,
    "basis": "Villagers of Sherpur Maafi, Bilari block, said underground water pipelines were laid about two years ago, but no water tank has been built yet (Amar Ujala, Bilari dateline, 13 Jun 2026). Weak positive: the work is partly done and the source is a complaint. AC membership of Sherpur Maafi village unconfirmed.",
    "sources": [
@@ -61,8 +61,8 @@
   },
   {
    "rank": 5,
-   "english": "*Ujjwala gas connections have reduced smoke from stoves",
-   "hindi": "*उज्ज्वला गैस कनेक्शन से चूल्हे का धुआं कम हुआ है",
+   "english": "*Some households got Ujjwala gas connections",
+   "hindi": "*कुछ घरों को उज्ज्वला गैस कनेक्शन मिला है",
    "inference": true,
    "basis": "Inference: no Bilari-specific source found; a general UP-wide scheme assumed to reach some Bilari households. Not verified.",
    "sources": []
@@ -71,8 +71,8 @@
  "negatives": [
   {
    "rank": 1,
-   "english": "In Veer Nagar a life was lost to hanging wires, the power department is careless",
-   "hindi": "वीरनगर में लटके तारों से जान गई, बिजली निगम लापरवाह है",
+   "english": "In Veer Nagar a life was lost to hanging wires, councillors say the power department is negligent",
+   "hindi": "वीरनगर में लटके तारों से जान गई, पार्षद बोले बिजली विभाग लापरवाह है",
    "inference": false,
    "basis": "Young qawwal Babbu (Bablu) Masoodi died from touching low-hanging live wires at an empty plot in Veer Nagar mohalla, Bilari, on a Friday night. Councillors blamed the electricity department's gross negligence and residents protested (Amar Ujala, Bilari dateline, 11 Oct 2026). Allegation by councillors and residents.",
    "sources": [
@@ -85,8 +85,8 @@
   },
   {
    "rank": 2,
-   "english": "Farmers say about 40 crore rupees in cane dues is still owed by the sugar mill",
-   "hindi": "किसानों का करीब 40 करोड़ बकाया है चीनी मिल पर",
+   "english": "The sugar mill still owes farmers between 33 and 40 crore rupees in cane dues",
+   "hindi": "चीनी मिल पर किसानों का 33 से 40 करोड़ बकाया है",
    "inference": false,
    "basis": "Ayudhya sugar mill, Bilari: Rs 39.91 crore 'still due' as of 2 Sep 2025 per Patrika (4 Sep 2025); Amar Ujala (1 Oct 2025) gave the dues owed to cane farmers linked to the Bilari cooperative cane committee as Rs 33 crore. Figures differ by source; current status not found.",
    "sources": [
@@ -118,8 +118,8 @@
   },
   {
    "rank": 4,
-   "english": "The new colony has no paved road, and water collects in the rain",
-   "hindi": "नई कॉलोनी में पक्की सड़क नहीं बनी, बारिश में पानी भरता है",
+   "english": "In the new colony, several lanes still have no paved road",
+   "hindi": "नई कॉलोनी की कई गलियों में पक्की सड़क नहीं बनी है",
    "inference": false,
    "basis": "Ward 25 of Bilari Nagar Palika Parishad: several streets in a newly developed colony lack paved roads. The municipal road from Paint Bazaar via Sarkari Hospital Road to Shahabad Road is broken in places; tender completed but construction not started. Residents say the low PWD Shahabad Road floods in rain (Amar Ujala, 2 Aug 2026). MLA of Bilari constituency also raised broken roads in the rains (Amar Ujala, 6 Aug 2026).",
    "sources": [
@@ -150,7 +150,7 @@
    ]
   }
  ],
- "notes": "AC confirmed as No. 30 Bilari, Moradabad, reserved None (Wikipedia). Wikipedia says the constituency is split between Moradabad and Sambhal districts and gives no tehsil or village list. Bilari town membership is taken from the Amar Ujala 6 Aug 2026 report, which quotes the Bilari-constituency MLA asking for public toilets in Bilari town; Bilari Nagar Palika (Ward 25), Bilari sugar mill and Bilari Dehat power house are therefore treated as inside the AC. Sherpur Maafi (Bilari block) and the feeder villages in the 23 Apr 2026 report are not confirmed as inside the AC. Sugar dues differ by source: Rs 18.92 crore after a Rs 3 crore payment (Oct 2024), Rs 39.91 crore (Patrika, Sep 2025), Rs 33 crore (Amar Ujala, Oct 2025), about Rs 15 crore (Sherpur article, Jun 2026); current figure not found. Positives 1-3 are weak sourced items (a case, a partial payment, and partly laid pipelines). Positives 4-5 are unverified inferences, flagged. Searched without finding Bilari-specific sources: Bilari CHC/hospital services, transformer or substation upgrade completion, PMAY housing beneficiaries, Jal Jeevan tank completion, road or drain completion, MLA development foundation/inauguration. Excluded: Jan 2021 Amar Ujala report of Rs 14 crore paid by Bilari mill (too old); Bilari-Sirsi RCC drain (tender only, not finished); Ratanpur Kala road and Kundarki road foundation stones (Kundarki AC); Kanth CHC X-ray (Kanth AC); Thakurdwara plaque item (other town). An unfetched Patrika report on queues at the Bilari tehsil community centre (page dated 2 Aug 2026) may be a field lead for a CHC negative. Field check suggested: Veer Nagar wires, Sherpur Maafi tank, Bilari Dehat feeder, Nai Sadak and Shahabad Road drainage, sugar dues status.",
+ "notes": "AC confirmed as No. 30 Bilari, Moradabad, reserved None (Wikipedia). Wikipedia says the constituency is split between Moradabad and Sambhal districts and gives no tehsil or village list. Bilari town membership is taken from the Amar Ujala 6 Aug 2026 report, which quotes the Bilari-constituency MLA asking for public toilets in Bilari town; Bilari Nagar Palika (Ward 25), Bilari sugar mill and Bilari Dehat power house are therefore treated as inside the AC. Sherpur Maafi (Bilari block) and the feeder villages in the 23 Apr 2026 report are not confirmed as inside the AC. Sugar dues differ by source: Rs 18.92 crore after a Rs 3 crore payment (Oct 2024), Rs 39.91 crore (Patrika, Sep 2025), Rs 33 crore (Amar Ujala, Oct 2025), about Rs 15 crore (Sherpur article, Jun 2026); current figure not found. Positives 1-3 are weak sourced items (a case, a partial payment, and partly laid pipelines). Positives 4-5 are unverified inferences, flagged. Searched without finding Bilari-specific sources: Bilari CHC/hospital services, transformer or substation upgrade completion, PMAY housing beneficiaries, Jal Jeevan tank completion, road or drain completion, MLA development foundation/inauguration. Excluded: Jan 2021 Amar Ujala report of Rs 14 crore paid by Bilari mill (too old); Bilari-Sirsi RCC drain (tender only, not finished); Ratanpur Kala road and Kundarki road foundation stones (Kundarki AC); Kanth CHC X-ray (Kanth AC); Thakurdwara plaque item (other town). An unfetched Patrika report on queues at the Bilari tehsil community centre (page dated 2 Aug 2026) may be a field lead for a CHC negative. Field check suggested: Veer Nagar wires, Sherpur Maafi tank, Bilari Dehat feeder, Nai Sadak and Shahabad Road drainage, sugar dues status. Voice pass (Round 3): P1 weak positive: a police case, not a payment (basis). P2 weak positive: partial payment in 2024; about Rs 18.92 crore remained per basis. P3 weak positive: partly done; source is a villagers' complaint. N1 now attributes the negligence charge to councillors as an allegation. N2 gives the range of the two reported dues figures (33 and 39.91 crore) because sources differ. N4 narrowed to unpaved lanes in the colony; the waterlogging detail stays in N5. P4 and P5 remain inference.",
  "round2": {
   "verified_sources": 9,
   "removed_sources": 0,
