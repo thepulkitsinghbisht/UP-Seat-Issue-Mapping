@@ -1,0 +1,156 @@
+{
+  "ac_no": 34,
+  "ac_name": "Swar",
+  "ac_name_hindi": "स्वार",
+  "reserved": "None",
+  "district": "Rampur",
+  "region": "Rohilkhand",
+  "summary": "Repeated power cuts and line faults, unpaved and waterlogged lanes in Tanda, and complaints about Swar CHC dominate voter concerns, while the sanctioned seven-road budget and CHC heart-attack injection stock are the main appreciated items.",
+  "identity_source": "https://en.wikipedia.org/wiki/Suar_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Life-saving heart attack injection now available at Swar CHC",
+      "hindi": "स्वार सीएचसी पर हार्ट अटैक का जीवनरक्षक इंजेक्शन मिलने लगा है",
+      "inference": false,
+      "basis": "Amar Ujala 30 Aug 2026 (datelined Rampur): five tenecteplase injections kept at Swar CHC and four other CHCs for emergencies; CMO Dr Deepa Singh says it is meant for the golden hour",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/life-saving-injections-for-heart-attack-patients-will-now-be-administered-at-chcs-as-well-rampur-news-c-282-1-rmp1027-178990-2026-08-30"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Rs 7.9 crore sanctioned for seven roads in Swar constituency",
+      "hindi": "स्वार की सात सड़कों के लिए 7.9 करोड़ रुपये मंजूर हुए हैं",
+      "inference": false,
+      "basis": "Amar Ujala 4 Apr 2026: about Rs 7.9 crore approved for seven roads including Munshiganj village to Alinagar Jagir; MLA Shafiq Ahmad Ansari says budget sanctioned via PWD; article says construction expected to start soon, not begun. Approval stage only",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-04",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/79-crore-approved-for-construction-of-seven-roads-in-swar-rampur-news-c-282-1-smbd1029-167839-2026-04-04"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Power restored after about ten-hour outage in Swar town, residents relieved",
+      "hindi": "10 घंटे बाद बिजली लौटी तो लोगों ने राहत की सांस ली",
+      "inference": false,
+      "basis": "Amar Ujala 20 Aug 2026 (datelined Swar): 33 kV line fault fixed and supply fully restored around 11:30 AM Wednesday; article says people breathed a sigh of relief when power returned",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/due-to-repeated-breakdowns-in-the-33-kv-line-power-supply-was-disrupted-for-ten-hours-rampur-news-c-282-1-smbd1029-178210-2026-08-20"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Ayushman cards are being made fast in Rampur district, giving treatment support",
+      "hindi": "आयुष्मान कार्ड बनने से गरीब मरीजों को इलाज का सहारा मिल रहा है",
+      "inference": false,
+      "basis": "District-level: 1,79,000 Ayushman cards made in past year, 6,91,928 in total, Rampur ranked first in UP; Swar tehsil and Tanda tehsil beneficiaries named in the same report",
+      "sources": [
+        {
+          "outlet": "Mediasaheb",
+          "date": "2026-10-11",
+          "url": "https://mediasaheb.com/rampur-sets-record-issuing-1-79-lakh-ayushman-cards-in-one-year-ranks-first-in-uttar-pradesh/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Hope that sanctioned roads will make village travel easier",
+      "hindi": "*सड़कें बनीं तो गांवों का आना-जाना आसान होगा",
+      "inference": true,
+      "basis": "Inference: no completed road or other delivered project in Swar was found in sources; this rests on the sanctioned seven-road budget (rank 2), which has not started",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-04",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/79-crore-approved-for-construction-of-seven-roads-in-swar-rampur-news-c-282-1-smbd1029-167839-2026-04-04"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Constant power cuts in villages hurt farmers and traders",
+      "hindi": "गांवों में लगातार बिजली कटौती से किसान और व्यापारी परेशान हैं",
+      "inference": false,
+      "basis": "Amar Ujala 20 Sep 2026: BKU (Lok Shakti) protest at Swar tehsil power house; memorandum to rural JE; demands at least 18 hours rural supply, separate substation for Khempur and Narpatnagar, survey of overloaded feeders. Quote: ग्रामीण क्षेत्रों में लगातार बिजली कटौती से किसान, व्यापारी, विद्यार्थी और आम उपभोक्ता परेशान हैं. AC membership of the rural feeders and named villages unconfirmed",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/farmers-staged-a-protest-against-power-cuts-rampur-news-c-282-1-smbd1029-180442-2026-09-20"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Swar town lost power for ten hours after repeated 33 kV line faults",
+      "hindi": "स्वार में 33 केवी लाइन बार-बार खराब हुई, दस घंटे बिजली गुल रही",
+      "inference": false,
+      "basis": "Amar Ujala 20 Aug 2026 (datelined Swar): 33 kV line from Tanda faulted; Swar town and nearby areas without power about ten hours, Tuesday night to Wednesday afternoon; SDO Hari Deepak Yadav cites repeated night breakdowns; Rasulpur feeder also faulted",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/due-to-repeated-breakdowns-in-the-33-kv-line-power-supply-was-disrupted-for-ten-hours-rampur-news-c-282-1-smbd1029-178210-2026-08-20"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Tanda Hurmatnagar has unpaved lanes, waterlogging and tap water complaints",
+      "hindi": "टांडा हुरमतनगर में कच्चे रास्ते, जलभराव और नल में पानी न आने की शिकायत है",
+      "inference": false,
+      "basis": "Amar Ujala 27 Mar 2026: Ward 23 mohalla of Tanda nagar palika, about 6,000 residents; unpaved roads and monsoon waterlogging; residents say a pipeline laid about ten years ago has brought no water; councillor Shahin Jahan and EO Dr Nitin Kumar Gangwar quoted. AC membership: Tanda MB is in the AC extent per Wikipedia",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-03-27",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/lack-of-basic-amenities-in-tanda-hurmatnagar-people-troubled-by-unpaved-roads-and-waterlogging-rampur-news-c-15-1-mbd1062-863132-2026-03-27"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Complaints about arrangements at Swar CHC",
+      "hindi": "स्वार सीएचसी की व्यवस्थाओं पर शिकायतें हैं",
+      "inference": false,
+      "basis": "Amar Ujala 6 Apr 2026: MLA's son Umar Ansari inspected Swar CHC after complaints about hospital arrangements; CMO Dr Deepa Singh formed an inquiry team; article does not state specific findings",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/rampur-mla-son-inspects-swar-chc-sits-in-in-charge-s-chair-to-check-documents-2026-04-06"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Villagers fear crop damage and flooding from underpass water pumping",
+      "hindi": "अंडरपास का पानी निकालने से फसल खराब और बाढ़ का डर है",
+      "inference": false,
+      "basis": "Amar Ujala 25 May 2026: Swar Khurd villagers protested a railway underpass; villagers say pumps running continuously damage crops and could raise flood risk; no official response in article. AC membership unconfirmed: article places the village near Kamri area",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-25",
+          "url": "https://www.amarujala.com/uttar-pradesh/rampur/villagers-of-swar-khurd-again-got-angry-against-the-construction-of-underpass-rampur-news-c-282-1-rmp1013-171747-2026-05-25"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "Identity: Wikipedia lists the AC as Swar (also Suar), No. 34, Rampur district, general seat, Hindi name स्वार. Extent per Wikipedia: KCs Tanda and Swar, Forest Rudarapur range, Swar MB, Tanda MB, Maswasi NP, all in Swar tehsil. Positives are thin: only the CHC injection stock is a delivered AC-specific benefit; the seven-road item is a sanction (not started), the Ayushman item is district-level, and positive 5 is an inference forecast. Negative 1 (rural feeders, Khempur and Narpatnagar) and negative 5 (Swar Khurd, Kamri area) need AC membership check; Maswasi NP has no recent local item found. Many searches returned other Rampur places (Patwai/Surajpur, Shahabad/Rana Sugar Mill dues from Feb 2025, Saifni/Bairua on Ramganga, Milak and Bilaspur projects, Rampur HP) and these were excluded as outside the AC. No 2026 Swar-specific sugarcane dues item was found. Electoral and SIR voter-roll figures and past results were excluded per the brief. Field check suggested for Tanda Hurmatnagar ward membership, Swar rural feeders, and the Swar Khurd underpass."
+}
