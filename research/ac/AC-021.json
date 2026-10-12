@@ -5,7 +5,7 @@
   "reserved": "SC",
   "district": "Bijnor",
   "region": "Paschim UP",
-  "summary": "Voters in Nehtaur mostly credit recent gains in roads, a girls' school upgrade, safety and housing, ration and farmer card benefits, while the main complaints are the repeatedly closed Nahtaur railway gate, a dilapidated bus stand, and district-level power cuts and stray cattle.",
+  "summary": "Voters in Nehtaur mostly credit a house and ration and farmer cards for relatives, better roads, a girls' school repair, safety and restored bus service to Nehtaur, while the main complaints are the repeatedly closed Nahtaur railway gate and a dilapidated bus stand, with district-level power cuts and stray cattle also raised.",
   "identity_source": "https://en.wikipedia.org/wiki/Nehtaur_Assembly_constituency",
   "ac_specific_negatives": 2,
   "positives": [
@@ -67,15 +67,15 @@
     },
     {
       "rank": 5,
-      "english": "Our MLA is good and comes among the people",
-      "hindi": "हमारे विधायक अच्छे हैं, लोगों के बीच आते हैं",
+      "english": "Buses to Nehtaur from Balawali are running again",
+      "hindi": "बालावाली से नहटौर तक फिर बसें चलने लगी हैं",
       "inference": false,
-      "basis": "An unnamed local resident said the MLA is good and mingles with people; a trader said the MLA stays available to the public (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). Praise of the MLA's accessibility only, not of a named project.",
+      "basis": "Direct bus service was restored: 12 buses from Balawali to Nehtaur started on 24 Feb 2023 via Mandawar, Kiratpur and Shadipur; passengers change buses at Kiratpur because the Kiratpur market road is narrow (Amar Ujala, Bijnor, 24 Feb 2023). Only the ARTO is quoted; no resident is quoted. This is a 2023 source; continued operation after 2023 is not verified.",
       "sources": [
         {
           "outlet": "Amar Ujala",
-          "date": "2026-09-01",
-          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/nehtaur-vidhan-sabha-conversations-with-the-public-regarding-the-work-of-the-bjp-government-and-the-mla-2026-09-01"
+          "date": "2023-02-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/bijnor/12-buses-will-run-from-balawali-to-nehtaur-from-today-bijnor-news-c-14-1-130270-2023-02-24"
         }
       ]
     }
@@ -86,7 +86,7 @@
       "english": "The Nahtaur railway gate has been closed for many days and people are very troubled",
       "hindi": "नहटौर का रेल फाटक कई दिन से बंद है, लोग बहुत परेशान हैं",
       "inference": false,
-      "basis": "The Nahtaur road railway gate was closed for about 15 days in March 2026 for track repair, and residents said it had not reopened after the announced date; people face a long diversion to the overbridge or Jaitra gate to reach offices in Dhampur tehsil (Amar Ujala, 22 Mar 2026). In April 2026 the gate was reported fully closed for 20 more days, and residents said it had been shut again since early April (Amar Ujala, 27 Apr 2026). Railway officials said work was on a war footing.",
+      "basis": "Nahtaur road railway gate, inside the AC (Nehtaur municipal board per Wikipedia extent). On 22 Mar 2026 the gate had been shut for about 15 days for track repair; residents said it had not reopened after the first closure date of 12 March, and railway officials said work was on a war footing with no reopening date (Amar Ujala, Dhampur dateline, 22 Mar 2026). On 27 Apr 2026 it was reported fully closed for 20 days for track repair; residents said commuters must use the overbridge in the heat to reach SDM, CO, tehsil and other offices across the tracks, and railway officers gave no reopening date (Amar Ujala, Dhampur dateline, 27 Apr 2026).",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -105,7 +105,7 @@
       "english": "The bus stand is very dilapidated",
       "hindi": "नहटौर का बस स्टैंड बहुत जर्जर हो गया है",
       "inference": false,
-      "basis": "Amar Ujala describes the Nahtaur bus stand as dilapidated (जर्जर हालत); the government plans a PPP-model redevelopment (DBFOT) with a waiting hall, commercial complex, CCTV and parking, with no start or completion date given (9 Apr 2026). No resident is quoted; the complaint is the reporter's description.",
+      "basis": "Nahtaur town bus stand, inside the AC (Nehtaur municipal board; article datelined Nahtaur). Amar Ujala (9 Apr 2026) calls it dilapidated (जर्जर). The government plans PPP/DBFOT redevelopment with a waiting hall, commercial complex, CCTV, digital boards and parking, approved under a statewide 49-stand scheme; no start or completion date is given. No resident is quoted; the complaint is the reporter's description.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -119,7 +119,7 @@
       "english": "Power is cut too often for no reason, so it should be stopped",
       "hindi": "बिना वजह बिजली बहुत कटती है, इसे रोका जाए",
       "inference": false,
-      "basis": "District-level, not Nehtaur-specific: Bharatiya Kisan Union (Tikait) workers submitted a memorandum to the Dhampur tehsildar on 10 Jun 2026 demanding that indiscriminate power cuts be stopped; the article names no Nehtaur village or town.",
+      "basis": "District-level, not Nehtaur-specific: BKU (Tikait) workers' memorandum to the Dhampur tehsildar (Dhampur dateline, 10 Jun 2026) demanded stopping 'अंधाधुंध' (indiscriminate) power cuts. No Nehtaur village or town is named.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -133,7 +133,7 @@
       "english": "Stray animals should be caught and sent to cow shelters",
       "hindi": "आवारा पशुओं को पकड़कर गोशाला भिजवाया जाए",
       "inference": false,
-      "basis": "District-level, not Nehtaur-specific: the same BKU memorandum to the Dhampur tehsildar (10 Jun 2026) demanded catching stray animals and sending them to cow shelters; no Nehtaur place is named.",
+      "basis": "District-level, not Nehtaur-specific: the same BKU memorandum to the Dhampur tehsildar (10 Jun 2026) demanded catching stray animals and sending them to gaushalas. No Nehtaur place is named.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -147,7 +147,7 @@
       "english": "A leopard kept roaming near the village and people stayed scared",
       "hindi": "गांव के पास गुलदार घूमता रहा, लोग डरे रहे",
       "inference": false,
-      "basis": "A leopard roamed near Sadaruddinagar village for several days and villagers feared a sudden encounter; the forest department set a cage and trapped it after about five days (Aaj Tak, 6 Sep 2026). The article places the village in the Nahtaur area only; AC membership unconfirmed, so not counted in ac_specific_negatives.",
+      "basis": "Aaj Tak (Bijnor dateline, 6 Sep 2026): a leopard roamed Sadaruddinagar village, placed in the 'Nahtaur area' (नहटौर क्षेत्र), for several days; the forest department set a cage and trapped it about five days later. The village is not named in the Wikipedia extent text, so AC membership is unconfirmed and it is not counted in ac_specific_negatives.",
       "sources": [
         {
           "outlet": "Aaj Tak",
@@ -157,5 +157,11 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from the Wikipedia AC page: No. 21, Nehtaur, SC-reserved, Bijnor district, Nagina Lok Sabha; extent lists Bijnor and Dhampur tehsils, with Nehtaur municipal board in Dhampur tehsil and Haldaur municipal board in Bijnor tehsil. Local Hindi spelling in Amar Ujala is नहटौर; the Dhampur dateline on the railway-gate stories is the tehsil town, and the gate itself is on the Nahtaur road. Dhampur town is a separate AC (AC-020) and its items were not used. Positives all come from one anonymous-speaker article (1 Sep 2026); speakers are unnamed traders and residents and the article contains no complaints about civic services, so the positives are thin and worth a field check. Negatives 3 and 4 are district-level (BKU memorandum). Negative 5 is sourced but AC membership is unconfirmed. Not used: Hamidpur village road video (13 Jan 2025, Nahtaur block, Harpur gram panchayat; block is not AC and membership unconfirmed); Amar Ujala 29 Jul 2025 municipal expansion article (about 8 unnamed villages to join Nehtaur municipal board, no complaints). Not cited because fetch failed: NewsClick doctors-absent article (403) and shuru.co.in Nehtaur news page (404). No sourced Nehtaur-specific item found on water supply, drains and waterlogging, sugarcane dues, jobs, prices, CHC or hospital staffing, or schools beyond the trader quote, despite Hindi and English searches. These are the main field-check gaps. The Dec 2019 CAA-protest killings in Nehtaur were not used because they are old and not a current voter issue."
+  "notes": "Identity and extent confirmed from the Wikipedia AC page (No. 21, Nehtaur, SC, Bijnor district, Nagina Lok Sabha). Haldaur is inside the AC (Haldaur KC and municipal board, Bijnor tehsil); no Haldaur-specific sourced item was found. Jalalabad is not in the extent and was not used. Positives 1-4 all come from one Amar Ujala article (1 Sep 2026) whose speakers are unnamed traders and residents; the article contains no civic complaints, so these are thin and need a field check. Positive 5 is from 2023 and its continued operation is unverified. The MLA-praise item was dropped because it is not a delivered benefit. Only 2 of 5 negatives are AC-specific (railway gate and bus stand), short of the 3 required. Negatives 3-4 are district-level (BKU memorandum, Dhampur tehsil, no Nehtaur place named). Negative 5 is sourced but AC membership is unconfirmed. Not used: Hamidpur village road video (13 Jan 2025, Nahtaur block, Harpur gram panchayat; block is not AC and membership unconfirmed); Amar Ujala 29 Jul 2025 municipal expansion article (about 8 unnamed villages to join Nehtaur municipal board, no complaints); Patrika Bijnor flood article (dated 26 Aug 2018, district-level, Nahtaur not named); Bijnor bypass 92% headline (district-level, not Nehtaur-specific); Attewale Baba tourism tender in Nahtaur (tender notice, not a delivered benefit). Not cited because fetch failed earlier: NewsClick doctors-absent article (403) and shuru.co.in Nehtaur news page (404). Searched in Hindi and English (about 17 queries, plus Amar Ujala Bijnor section) with no sourced Nehtaur-specific item on water supply, drains or waterlogging, sugarcane dues or the local sugar mill, CHC or hospital staffing, Haldaur roads, or the Nahtaur overbridge. These are the main field-check gaps. The Dec 2019 CAA-protest killings in Nehtaur were not used because they are old and not a current voter issue.",
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 0,
+    "ac_specific_negatives": 2,
+    "changes": "Fetched all 7 article URLs and the Wikipedia AC page (identity and extent confirmed: Nehtaur KC with listed PCs and Nehtaur MB in Dhampur tehsil; Haldaur KC and Haldaur MB in Bijnor tehsil; Jalalabad is not in the extent). Negative 1 basis corrected: removed the unsupported 'shut again since early April' and '20 more days' claims and added the 27 Apr 2026 details. Negative 2 confirmed inside the AC. Negatives 3-4 labelled district-level with memorandum details. Negative 5 basis clarified, still unconfirmed. Positive 5 replaced: MLA praise (not a delivered benefit) swapped for restored Balawali-Nehtaur bus service (Amar Ujala, 24 Feb 2023). Summary and notes updated. No inference items."
+  }
 }
