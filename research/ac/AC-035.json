@@ -25,8 +25,8 @@
   },
   {
    "rank": 2,
-   "english": "The main polytechnic building in Chamraua is complete, classes to start in the new session",
-   "hindi": "चमरौआ पॉलीटेक्निक का भवन बनकर तैयार, नए सत्र से पढ़ाई होगी",
+   "english": "The main building of the Chamraua polytechnic is complete",
+   "hindi": "चमरौआ पॉलीटेक्निक का मुख्य भवन बन गया है",
    "inference": false,
    "basis": "Polytechnic building costing Rs 8.75 crore in Chamraua, Rampur: administrative, main academic and workshop buildings complete; hostels, guard room and generator room still pending (about Rs 6 crore proposal sent). Classes to begin from the new academic session; not yet started (Amar Ujala, 6 May 2026).",
    "sources": [
@@ -39,8 +39,8 @@
   },
   {
    "rank": 3,
-   "english": "Some people have received benefits from government schemes",
-   "hindi": "कुछ लोगों को सरकारी योजनाओं का लाभ मिला है",
+   "english": "We have also received benefits from government schemes",
+   "hindi": "हमें भी सरकारी योजनाओं का लाभ मिला है",
    "inference": false,
    "basis": "Some residents in the Chamraua constituency praised state schemes and said they had received benefits; no scheme is named (Amar Ujala, 3 Sep 2026). Weak, general positive.",
    "sources": [
@@ -53,8 +53,8 @@
   },
   {
    "rank": 4,
-   "english": "The testing unit building at PHC Chamraua is nearly ready",
-   "hindi": "पीएचसी चमरौआ में जांच यूनिट का भवन लगभग तैयार है",
+   "english": "The testing unit building at PHC Chamraua is nearly complete",
+   "hindi": "पीएचसी चमरौआ में जांच यूनिट का भवन लगभग बन गया है",
    "inference": false,
    "basis": "Block public health unit at PHC Chamraua (one of three units with CHC Milak and CHC Swar) under Ayushman Bharat infrastructure; construction described as nearly complete, planned lab, computer room and two halls, about Rs 39 lakh per unit. As of June 2025 lab technician recruitment was awaited, so this is a building, not a working service. Status may have changed since (Amar Ujala, 7 Jun 2025).",
    "sources": [
@@ -67,8 +67,8 @@
   },
   {
    "rank": 5,
-   "english": "Four thieves who stole bags near Chamraua station were arrested by GRP",
-   "hindi": "चमरौआ स्टेशन पर बैग चोर पकड़े गए, चार जेल भेजे गए",
+   "english": "Four accused in a theft were caught at Chamraua station",
+   "hindi": "चमरौआ स्टेशन पर चोरी के आरोपी चार पकड़े गए",
    "inference": false,
    "basis": "GRP arrested four accused near platform one at Chamraua station on the Rampur-Rudrapur route; cash from the sale of a stolen gold necklace (sold for Rs 72,000) recovered; earrings still with an absconding accused; a fifth accused is being sought (Amar Ujala, 16 Nov 2024). Station named Chamraua, which lies in KC Chamraua per Wikipedia extent. Weak positive: partial recovery only.",
    "sources": [
@@ -97,8 +97,8 @@
   },
   {
    "rank": 2,
-   "english": "Unemployment and inflation are a big worry for people",
-   "hindi": "बेरोजगारी और महंगाई से लोग परेशान हैं",
+   "english": "We are troubled by unemployment and inflation",
+   "hindi": "बेरोजगारी और महंगाई से हम परेशान हैं",
    "inference": false,
    "basis": "Article lists inflation (महंगाई) and unemployment (बेरोजगारी) as main issues for residents and for youth; not attributed to one speaker. Constituency-level, no place named (Amar Ujala, 3 Sep 2026).",
    "sources": [
@@ -125,8 +125,8 @@
   },
   {
    "rank": 4,
-   "english": "The National Public Inter College in Chamraua surrendered its recognition as student numbers kept falling",
-   "hindi": "चमरौआ का नेशनल पब्लिक इंटर कॉलेज मान्यता छोड़ गया, छात्र संख्या घटी",
+   "english": "Our National Public Inter College in Chamraua gave back its recognition",
+   "hindi": "हमारे चमरौआ का नेशनल पब्लिक इंटर कॉलेज मान्यता वापस कर गया",
    "inference": false,
    "basis": "National Public Inter College, Chamraua, Rampur surrendered its recognition (June 2026). District School Inspector Anjali Agarwal said it was because student numbers kept falling; the order by the council secretary covered more than 400 colleges statewide (Amar Ujala, 18 Jun 2026). No student or parent voice in the article; institutional story.",
    "sources": [
@@ -139,8 +139,8 @@
   },
   {
    "rank": 5,
-   "english": "Government land is being ploughed illegally and tehsil complaints get no inquiry",
-   "hindi": "सरकारी जमीन पर अवैध जुताई, तहसील की शिकायतों पर जांच नहीं हुई",
+   "english": "There is an allegation of illegal ploughing on government land; no inquiry into complaints",
+   "hindi": "सरकारी जमीन पर अवैध जुताई का आरोप है, शिकायतों पर जांच नहीं",
    "inference": false,
    "basis": "Gundu alleged illegal ploughing of government land in the Chamraua constituency and said three complaints filed at the tehsil drew no official visit or inquiry (Amar Ujala, 3 Sep 2026). Allegation by a resident, not verified by officials; land not named.",
    "sources": [
@@ -152,7 +152,7 @@
    ]
   }
  ],
- "notes": "Identity confirmed via Wikipedia (Chamraua Assembly constituency): AC 35, Rampur district, reserved status None; extent: KC Matkhera of Suar Tehsil; KCs Saidnagar and Chamraua of Rampur Tehsil. Wikipedia infobox Hindi name is चमरव्वा (apparent typo); Amar Ujala uses चमरौआ and चमरौवा; official ECI Hindi spelling still to be checked. Region set to Rohilkhand (Rampur division). Evidence is thin: only one constituency-level voter article (Amar Ujala, 3 Sep 2026) backs the voter complaints, and that article is cited for four negatives and two positives. Negatives 1, 2, 3 and 5 are constituency-level or unnamed-locality statements, so only negative 4 (NPIC, Chamraua town) counts as AC-specific by the place-name rule; the brief's target of 3 is not met. Negatives 3 and 5 both come from Gundu and repeat the tehsil-complaint point. Positives 3 (PHC unit) and 5 (GRP arrests) are weak and dated. No sourced complaints about water, electricity, roads, sugarcane or hospital services specific to Chamraua were found. Places rejected: Surajpur village (Patwai area, Amar Ujala 28 Mar 2026) because the article names no constituency; Pranpur village (Saidnagar block, Kosi water report not found); Patrika Agapur Road (2018, Rampur city, not this AC); Milak CHC (Milak is a separate area). Field check suggested: Saidnagar and Matkhera drains and roads, PHC Chamraua lab staffing, opening of Chamraua polytechnic classes, sugarcane dues in the area, the NPIC Chamraua closure, and the Gundu tehsil complaints.",
+ "notes": "Identity confirmed via Wikipedia (Chamraua Assembly constituency): AC 35, Rampur district, reserved status None; extent: KC Matkhera of Suar Tehsil; KCs Saidnagar and Chamraua of Rampur Tehsil. Wikipedia infobox Hindi name is चमरव्वा (apparent typo); Amar Ujala uses चमरौआ and चमरौवा; official ECI Hindi spelling still to be checked. Region set to Rohilkhand (Rampur division). Evidence is thin: only one constituency-level voter article (Amar Ujala, 3 Sep 2026) backs the voter complaints, and that article is cited for four negatives and two positives. Negatives 1, 2, 3 and 5 are constituency-level or unnamed-locality statements, so only negative 4 (NPIC, Chamraua town) counts as AC-specific by the place-name rule; the brief's target of 3 is not met. Negatives 3 and 5 both come from Gundu and repeat the tehsil-complaint point. Positives 3 (PHC unit) and 5 (GRP arrests) are weak and dated. No sourced complaints about water, electricity, roads, sugarcane or hospital services specific to Chamraua were found. Places rejected: Surajpur village (Patwai area, Amar Ujala 28 Mar 2026) because the article names no constituency; Pranpur village (Saidnagar block, Kosi water report not found); Patrika Agapur Road (2018, Rampur city, not this AC); Milak CHC (Milak is a separate area). Field check suggested: Saidnagar and Matkhera drains and roads, PHC Chamraua lab staffing, opening of Chamraua polytechnic classes, sugarcane dues in the area, the NPIC Chamraua closure, and the Gundu tehsil complaints. P2 weak positive: a building only, classes not yet started. P3 weak positive: general, no scheme named. P4 weak positive: building only; as of June 2025 lab technician recruitment was awaited. P5 weak positive: partial recovery only (Nov 2024), one accused still absconding. N4 reason per district school inspector: student numbers kept falling; institutional item, no student or parent voice in the source.",
  "round2": {
   "verified_sources": 6,
   "removed_sources": 0,

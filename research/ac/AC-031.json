@@ -30,8 +30,8 @@
     },
     {
       "rank": 2,
-      "english": "The municipality has installed four rainwater harvesting systems in the town",
-      "hindi": "शहर में चार जगह वॉटर हार्वेस्टिंग सिस्टम लगाए गए हैं",
+      "english": "Four rainwater harvesting systems have been put up at places in the town",
+      "hindi": "शहर में चार जगह वॉटर हार्वेस्टिंग सिस्टम लग गए हैं",
       "inference": false,
       "basis": "Amar Ujala (11 Aug 2026, Chandausi dateline): Chandausi EO Satyendra Prakash said the municipality has installed four water-harvesting systems and is working on the waterlogging problem; the same report says the civic body blames old drainage and silt.",
       "sources": [
@@ -44,8 +44,8 @@
     },
     {
       "rank": 3,
-      "english": "Drains were cleaned before the monsoon, though some drains stay blocked by encroachment",
-      "hindi": "बारिश से पहले नालों की सफाई हुई थी",
+      "english": "Drains were cleaned before the rains, that much was done",
+      "hindi": "बारिश से पहले नालों की सफाई तो हुई थी",
       "inference": false,
       "basis": "Amar Ujala (11 Aug 2026, Chandausi): EO said drains were cleaned before the rains, but encroachment made cleaning difficult in some places and some drains are narrow. This is the municipality's own claim, reported in the same article that describes flooding.",
       "sources": [
@@ -58,8 +58,8 @@
     },
     {
       "rank": 4,
-      "english": "Residents welcomed clearing of encroachment from the road",
-      "hindi": "सड़क से अतिक्रमण हटा तो लोगों ने स्वागत किया",
+      "english": "It was good that encroachment was cleared from the road",
+      "hindi": "सड़क से अतिक्रमण हटा, यह अच्छा हुआ",
       "inference": false,
       "basis": "Organiser (15 Jan 2026): drive on 14 Jan 2026 reclaimed nearly 19 bighas (1.239 hectares) of public land on Chandausi Road; local residents welcomed it as improving traffic flow; affected families raised rehabilitation gaps. The article places the road in Sambhal tehsil, so AC membership unconfirmed.",
       "sources": [
@@ -72,7 +72,7 @@
     },
     {
       "rank": 5,
-      "english": "66 Sambhal and Chandausi projects worth Rs 569 crore were inaugurated (combined district figure, not Chandausi-only)",
+      "english": "66 projects in Sambhal and Chandausi were inaugurated",
       "hindi": "संभल और चंदौसी की 66 परियोजनाओं का लोकार्पण हुआ",
       "inference": false,
       "basis": "ETV Bharat Hindi (18 Jul 2026): CM Yogi Adityanath inaugurated and laid foundation stones for 66 projects worth Rs 569 crore for Sambhal and Chandausi constituencies combined; the article names no Chandausi-only project and gives no separate Chandausi figure. Weak candidate, kept only as the last positive.",
@@ -130,8 +130,8 @@
     },
     {
       "rank": 4,
-      "english": "The station's foot overbridge has been lying unfinished for six months",
-      "hindi": "स्टेशन का फुट ओवरब्रिज छह महीने से अधूरा पड़ा है",
+      "english": "The station's foot overbridge had been lying unfinished for six months",
+      "hindi": "स्टेशन का फुट ओवरब्रिज छह महीने से अधूरा पड़ा था",
       "inference": false,
       "basis": "Amar Ujala (25 Feb 2026, Chandausi): 12-metre-wide foot overbridge sections (about Rs 3.25 crore, made at Lucknow workshop) have lain at Chandausi station for six months without being joined under the Amrit Bharat station scheme; no completion date given, railway ADEN says soon. Station upgrade promised within one year is more than two years late. Status after Feb 2026 not checked.",
       "sources": [
@@ -144,7 +144,7 @@
     },
     {
       "rank": 5,
-      "english": "Medicines cost many times more at Sambhal private hospital pharmacies",
+      "english": "A cannula costs Rs 20 outside but Rs 234 at the hospital",
       "hindi": "बाहर बीस रुपये का कैनुला अस्पताल में 234 रुपये का मिलता है",
       "inference": false,
       "basis": "Amar Ujala (9 Oct 2026, Sambhal/Chandausi dateline): district-level, not Chandausi-specific (Sambhal city hospital). Cannula about Rs 20 outside vs Rs 234 at hospital pharmacy; antibiotic injection Rs 200 vs Rs 882; outside shops offer 20-30 percent discounts. Complainant Asim of Sirsi village.",
@@ -157,7 +157,7 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from the Wikipedia list (31 Chandausi, district Sambhal, SC reserved). The Wikipedia Chandausi AC page names no tehsils or nagar palika, so Chandausi town (the AC's namesake seat) is treated as inside the AC; a field check of the Nagar Palika boundary is advisable. Positives remain thin: item 5 is a combined Sambhal-plus-Chandausi figure with no Chandausi project named; item 4 is on a road the report places in Sambhal tehsil (AC membership unconfirmed). Item 1 is supported by ETV Bharat for the start; Amar Ujala says work was yet to be directed. Removed: the 51-foot Ram statue (heritage landmark, not a service benefit). Searches for other completed Chandausi-specific projects (roads, drains, substations) in 2026 found nothing sourced. Not used: Amar Ujala traders' memorandum of 26 Apr 2026 (wedding zones, thela/rehri encroachment) is a good field-check candidate; Chandausi bus stand (budget sanctioned May 2026, work not started) excluded; sugarcane dues, stray cattle and hospital items found no Chandausi-specific 2026 report. Electoral figures from search summaries were deliberately not used. Overbridge at railway station: the Feb 2026 status should be re-checked since no later report was found.",
+  "notes": "Identity confirmed from the Wikipedia list (31 Chandausi, district Sambhal, SC reserved). The Wikipedia Chandausi AC page names no tehsils or nagar palika, so Chandausi town (the AC's namesake seat) is treated as inside the AC; a field check of the Nagar Palika boundary is advisable. Positives remain thin: item 5 is a combined Sambhal-plus-Chandausi figure with no Chandausi project named; item 4 is on a road the report places in Sambhal tehsil (AC membership unconfirmed). Item 1 is supported by ETV Bharat for the start; Amar Ujala says work was yet to be directed. Removed: the 51-foot Ram statue (heritage landmark, not a service benefit). Searches for other completed Chandausi-specific projects (roads, drains, substations) in 2026 found nothing sourced. Not used: Amar Ujala traders' memorandum of 26 Apr 2026 (wedding zones, thela/rehri encroachment) is a good field-check candidate; Chandausi bus stand (budget sanctioned May 2026, work not started) excluded; sugarcane dues, stray cattle and hospital items found no Chandausi-specific 2026 report. Electoral figures from search summaries were deliberately not used. Overbridge at railway station: the Feb 2026 status should be re-checked since no later report was found. P3 weak positive: the drain-cleaning claim is the municipality's own (EO), and the same report describes flooding and blocked drains. P5 weak positive: combined Sambhal-Chandausi figure (Rs 569 crore), no Chandausi-only project named; kept last. N5 is district-level (Sambhal hospital), not Chandausi-specific.",
   "round2": {
     "verified_sources": 9,
     "removed_sources": 1,

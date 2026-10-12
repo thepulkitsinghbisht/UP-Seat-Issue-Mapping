@@ -10,7 +10,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Life-saving heart attack injection now available at Swar CHC",
+      "english": "The life-saving heart attack injection is now available at Swar CHC",
       "hindi": "स्वार सीएचसी पर हार्ट अटैक का जीवनरक्षक इंजेक्शन मिलने लगा है",
       "inference": false,
       "basis": "Amar Ujala 30 Aug 2026 (Rampur dateline): five tenecteplase injections kept at each of five CHCs (Swar, Bilaspur, Shahabad, Milak, Tanda) for emergencies; CMO Dr Deepa Singh says timely treatment is meant for the golden hour; Meerut expert team decides on use after ECG",
@@ -24,7 +24,7 @@
     },
     {
       "rank": 2,
-      "english": "Rs 7.9 crore sanctioned for seven roads in Swar constituency",
+      "english": "Rs 7.9 crore has been sanctioned for seven roads in Swar",
       "hindi": "स्वार की सात सड़कों के लिए 7.9 करोड़ रुपये मंजूर हुए हैं",
       "inference": false,
       "basis": "Amar Ujala 4 Apr 2026 (Swar dateline): about Rs 7.9 crore approved for seven works in Swar constituency, via PWD under the Economic Development Scheme; MLA Shafiq Ahmad Ansari confirms the sanction; article says work will start soon, not begun. Approval stage only, not a completed or started project",
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "Power restored after about ten-hour outage in Swar town, residents relieved",
-      "hindi": "10 घंटे बाद बिजली लौटी तो लोगों ने राहत की सांस ली",
+      "english": "Power came back after ten hours, and that was a relief",
+      "hindi": "10 घंटे बाद बिजली आई, चलो राहत मिली",
       "inference": false,
       "basis": "Amar Ujala 20 Aug 2026 (Swar dateline): 33 kV line fault from Tanda repaired and Swar town supply fully restored around 11:30 AM Wednesday; article says people breathed a sigh of relief when power returned. Restoration of a fault, not a new supply",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "Ayushman cards are being made fast in Rampur district, giving treatment support",
-      "hindi": "आयुष्मान कार्ड बनने से गरीब मरीजों को इलाज का सहारा मिल रहा है",
+      "english": "Ayushman cards being made are giving patients support for treatment",
+      "hindi": "आयुष्मान कार्ड बनने से मरीजों को इलाज का सहारा मिल रहा है",
       "inference": false,
       "basis": "District-level, not AC-specific: Mediasaheb 11 Oct 2026: 1,79,000 Ayushman cards made in past year, 6,91,928 in total, Rampur ranked first in UP per the report; Swar and Tanda tehsil beneficiaries named, no AC card count given",
       "sources": [
@@ -66,7 +66,7 @@
     },
     {
       "rank": 5,
-      "english": "Hope that sanctioned roads will make village travel easier",
+      "english": "Inference: If the roads are built, travel between villages will become easier",
       "hindi": "*सड़कें बनीं तो गांवों का आना-जाना आसान होगा",
       "inference": true,
       "basis": "Inference: no completed road or other delivered project in Swar was found in sources; this rests on the sanctioned seven-road budget (rank 2), which has not started. Forecast, not appreciation; flagged for field check",
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "Swar town lost power for ten hours after repeated 33 kV line faults",
-      "hindi": "स्वार में 33 केवी लाइन बार-बार खराब हुई, दस घंटे बिजली गुल रही",
+      "english": "The power line kept breaking down in Swar, and the lights were out for ten hours",
+      "hindi": "स्वार में बिजली की लाइन बार-बार खराब हुई, दस घंटे बत्ती गुल रही",
       "inference": false,
       "basis": "Amar Ujala 20 Aug 2026 (Swar dateline): 33 kV line from Tanda faulted; Swar town and nearby areas without power about ten hours; SDO Hari Deepak Yadav cites continuous overnight breakdowns; Rasulpur feeder also faulted. Swar town is in the AC (Swar MB)",
       "sources": [
@@ -110,7 +110,7 @@
     },
     {
       "rank": 3,
-      "english": "Tanda Hurmatnagar has unpaved lanes, waterlogging and tap water complaints",
+      "english": "In Tanda Hurmatnagar there are unpaved lanes, waterlogging, and no water from the taps",
       "hindi": "टांडा हुरमतनगर में कच्चे रास्ते, जलभराव और नल में पानी नहीं आता",
       "inference": false,
       "basis": "Amar Ujala 27 Mar 2026 (Bilaspur dateline, Moradabad bureau): Ward 23 of Tanda Hurmat Nagar mohalla, about 6,000 residents; unpaved roads and rain waterlogging; pipeline laid about ten years ago has brought no water; councillor Shaheen Jahan and EO Dr Nitin Kumar Gangwar quoted. AC membership: Tanda MB is in the AC extent per Wikipedia",
@@ -124,8 +124,8 @@
     },
     {
       "rank": 4,
-      "english": "Complaints about arrangements at Swar CHC",
-      "hindi": "स्वार सीएचसी की व्यवस्थाओं पर शिकायतें हैं",
+      "english": "We have complaints about the arrangements at Swar CHC",
+      "hindi": "स्वार सीएचसी की व्यवस्था से शिकायत है",
       "inference": false,
       "basis": "Amar Ujala 6 Apr 2026: MLA's son Umar Ansari inspected Swar CHC after complaints about hospital arrangements and sat in the in-charge's chair; CMO Dr Deepa Singh formed an inquiry team; article reports no findings yet. Allegations only. Swar CHC is in Swar town (AC)",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Villagers fear crop damage and flooding from underpass water pumping",
-      "hindi": "अंडरपास का पानी निकालने से फसल खराब और बाढ़ का डर है",
+      "english": "Allegedly, pumping water out of the underpass is damaging crops and raising flood risk",
+      "hindi": "अंडरपास का पानी निकालने से फसल खराब और बाढ़ का खतरा, आरोप है",
       "inference": false,
       "basis": "Amar Ujala 25 May 2026 (Kamri dateline): Swar Khurd villagers protested again at a railway underpass site; seven or eight pumps running continuously allegedly harm crops and lower well water and raise flood risk; no official response in article. AC membership unconfirmed: Swar Khurd is near Kamri, which is not in the AC extent; not counted in ac_specific_negatives",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 3,
-  "notes": "Identity: Wikipedia lists the AC as Swar (also Suar), No. 34, Rampur district, no reservation, Hindi name स्वार. Extent per Wikipedia: KCs Tanda and Swar, Forest Rudarapur range, Swar MB, Tanda MB, Maswasi NP, all within Swar tehsil. Positives remain thin: the CHC injection stock is the only delivered AC-specific benefit. Positive 2 is an approval, not started. Positive 4 is district-level. Positive 5 is an inference forecast; no completed local project was found to replace it. Searches for completed Swar roads, bridges, CHC equipment, and Tanda water tanks or substations in 2026 found nothing usable. Negative 1 rural feeders and Khempur/Narpatnagar membership unconfirmed; negative 5 (Swar Khurd, Kamri area) membership unconfirmed. Maswasi NP has no recent local item found. Other Rampur places found in searches (Patwai, Shahabad, Saifni, Milak, Bilaspur, Rampur HP) were excluded as outside the AC. Field check suggested for Tanda Hurmatnagar ward membership, Swar rural feeders, the Swar Khurd underpass, and the status of the seven Swar roads.",
+  "notes": "Identity: Wikipedia lists the AC as Swar (also Suar), No. 34, Rampur district, no reservation, Hindi name स्वार. Extent per Wikipedia: KCs Tanda and Swar, Forest Rudarapur range, Swar MB, Tanda MB, Maswasi NP, all within Swar tehsil. Positives remain thin: the CHC injection stock is the only delivered AC-specific benefit. Positive 2 is an approval, not started. Positive 4 is district-level. Positive 5 is an inference forecast; no completed local project was found to replace it. Searches for completed Swar roads, bridges, CHC equipment, and Tanda water tanks or substations in 2026 found nothing usable. Negative 1 rural feeders and Khempur/Narpatnagar membership unconfirmed; negative 5 (Swar Khurd, Kamri area) membership unconfirmed. Maswasi NP has no recent local item found. Other Rampur places found in searches (Patwai, Shahabad, Saifni, Milak, Bilaspur, Rampur HP) were excluded as outside the AC. Field check suggested for Tanda Hurmatnagar ward membership, Swar rural feeders, the Swar Khurd underpass, and the status of the seven Swar roads. P2 weak positive: approval stage only, work not started. P5 weak positive: forecast from a sanctioned road budget that has not started; flagged for field check.",
   "round2": {
     "verified_sources": 9,
     "removed_sources": 0,

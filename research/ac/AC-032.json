@@ -24,7 +24,7 @@
     },
     {
       "rank": 2,
-      "english": "Electricity supply has improved since the current government came to power",
+      "english": "Electricity has started to come in better than before",
       "hindi": "बिजली पहले से ठीक मिलने लगी है",
       "inference": false,
       "basis": "Amar Ujala Asmoli constituency report (4 Sep 2026): one resident (Nasir) said electricity has improved since the BJP came to power; only one resident raised it",
@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "english": "Construction has started on the Khempur-Bhainsora road in Asmoli block",
+      "english": "Work has started on the Khempur-Bhainsora road",
       "hindi": "खेमपुर-भैंसोड़ा सड़क बनने का काम शुरू हुआ है",
       "inference": false,
       "basis": "India Daily (page updated 23 Jun 2026): 2.5 km road costing Rs 153.55 lakh, funded from MLC funds, work launched, ~30 villages, expected in six months, status ongoing and not finished; villagers said the route was nearly impassable in rain; Asmoli block named, Asmoli AC membership unconfirmed",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 4,
-      "english": "Government work is going well, says a local resident",
+      "english": "The government's work is going well",
       "hindi": "सरकार का काम ठीक चल रहा है",
       "inference": false,
       "basis": "Amar Ujala Asmoli constituency report (4 Sep 2026): Shakil Ahmed said the government is working well and all work is being done properly; Anil Kumar Sharma said governance is good",
@@ -66,7 +66,7 @@
     },
     {
       "rank": 5,
-      "english": "Inference: a programme to inaugurate many development projects in Sambhal district was announced",
+      "english": "Inference: a programme to inaugurate many development works in Sambhal district is planned",
       "hindi": "*संभल में कई विकास कार्यों के लोकार्पण की योजना है",
       "inference": true,
       "basis": "Inference: Patrika (6 Aug 2025) reported a planned programme of 221 works in Sambhal district (108 foundation stones, 113 inaugurations, Rs 546.25 crore); a planned programme, not confirmed delivered, district-level, does not name Asmoli",
@@ -138,7 +138,7 @@
     },
     {
       "rank": 5,
-      "english": "No concrete steps taken on education in our area; government school education is weak",
+      "english": "No concrete steps have been taken on education in our area",
       "hindi": "हमारे इलाके में शिक्षा पर कोई ठोस कदम नहीं उठे",
       "inference": false,
       "basis": "Amar Ujala Asmoli constituency report (4 Sep 2026): Deepak said no concrete steps have been taken on education locally; Sumit Rawat urged parents to use government schools",
@@ -158,5 +158,5 @@
     "ac_specific_negatives": 4,
     "changes": "Verified all cited URLs by fetching: Sep 4 and Oct 9 Amar Ujala articles, Patrika 6 Aug 2025, Wikipedia AC list (no 32 Asmoli, None, Sambhal confirmed). Oct 9 URL switched from amarujala.com to www.amarujala.com (opens). Removed Saindhari negative (Oct 7 article: no road, but places it in Asmoli block, AC membership unconfirmed) and Saindhari order positive (order only). Replaced with Asmoli CHC doctor shortage negative (Amar Ujala 19 Aug 2026, new) and Khempur-Bhainsora road under construction positive (India Daily, started project, new). Positive 5 stays a flagged inference. Corrected Shakeel to Shakil Ahmed. Re-ranked positives and negatives. Searches for Asmoli sugarcane mill dues, substation and village drains returned nothing Asmoli-specific."
   },
-  "notes": "AC identity confirmed: No. 32 Asmoli, reserved None, district Sambhal (Wikipedia list page). Wikipedia Asmoli AC page gives no extent (tehsils/blocks/villages), so AC membership of Asmoli block villages (Saindhari, Madala, Khempur, Bhainsora) is unconfirmed. Negatives 1, 3, 4, 5 are AC-level (Amar Ujala reports naming the Asmoli constituency; 1 names 14 villages inside it). ac_specific_negatives = 4 counts those; the strict named-place count is 1 (the highway item) plus the CHC item if its AC membership is accepted. Positive 2 (electricity) rests on one resident. Positive 3 is a started project, not completed, AC membership unconfirmed (Asmoli block). Positive 5 is a flagged inference from a 2025 district-level plan with no delivery evidence for Asmoli. Sugarcane: no Asmoli-specific mill dues report found; Bilari and Bareilly reports are other districts. Saindhari Arogya Mandir had no access road per 7 Oct 2026 Amar Ujala, but its AC membership is unconfirmed, so it is not used. Hepatitis/groundwater claim (2024) found only as a secondary summary, not opened, not used. Sot river revival at Matipur (2019, still ongoing, constituency not stated) not used. Field checks: highway route and land compensation at circle rates; Saindhari road; Khempur-Bhainsora road completion; Asmoli CHC staffing; sugarcane dues from the nearest mill; whether Saindhari/Madala/Khempur are inside the AC."
+  "notes": "AC identity confirmed: No. 32 Asmoli, reserved None, district Sambhal (Wikipedia list page). Wikipedia Asmoli AC page gives no extent (tehsils/blocks/villages), so AC membership of Asmoli block villages (Saindhari, Madala, Khempur, Bhainsora) is unconfirmed. Negatives 1, 3, 4, 5 are AC-level (Amar Ujala reports naming the Asmoli constituency; 1 names 14 villages inside it). ac_specific_negatives = 4 counts those; the strict named-place count is 1 (the highway item) plus the CHC item if its AC membership is accepted. Positive 2 (electricity) rests on one resident. Positive 3 is a started project, not completed, AC membership unconfirmed (Asmoli block). Positive 5 is a flagged inference from a 2025 district-level plan with no delivery evidence for Asmoli. Sugarcane: no Asmoli-specific mill dues report found; Bilari and Bareilly reports are other districts. Saindhari Arogya Mandir had no access road per 7 Oct 2026 Amar Ujala, but its AC membership is unconfirmed, so it is not used. Hepatitis/groundwater claim (2024) found only as a secondary summary, not opened, not used. Sot river revival at Matipur (2019, still ongoing, constituency not stated) not used. Field checks: highway route and land compensation at circle rates; Saindhari road; Khempur-Bhainsora road completion; Asmoli CHC staffing; sugarcane dues from the nearest mill; whether Saindhari/Madala/Khempur are inside the AC. P5 weak positive: planned district-level programme, not confirmed delivered and not named for Asmoli."
 }

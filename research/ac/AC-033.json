@@ -10,32 +10,44 @@
   "positives": [
     {
       "rank": 1,
-      "english": "A Rs 10 crore city road and drain project has started, and work has begun on some roads",
-      "hindi": "शहर में 10 करोड़ की सड़क-नाला योजना शुरू, कुछ सड़कों पर काम शुरू",
+      "english": "Work worth Rs 10 crore on city roads and drains has started",
+      "hindi": "शहर में सड़कों और नालों का 10 करोड़ का काम शुरू हुआ है",
       "inference": false,
       "basis": "Amar Ujala (4 Aug 2026): a Rs 10 crore project for city roads, drains and sewers has started; construction has begun on Bhure Shah Road (Rs 36 lakh), Hauz Bhaddesarai (Rs 21 lakh) and Hatimsarai (Rs 39 lakh); a Rs 9 crore tender for the remaining work is under way; the work will cover 137 places; contracted firms must finish in 2-3 months. Started, not completed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/10-crore-for-improved-city-roads-sambhal-news-c-275-1-smbd1033-138481-2026-08-04"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-04",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/10-crore-for-improved-city-roads-sambhal-news-c-275-1-smbd1033-138481-2026-08-04"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "New water pipelines and an overhead tank have started in some city mohallas",
+      "english": "Work on new water pipelines and an overhead tank has started in some city mohallas",
       "hindi": "शहर में नई पाइपलाइन और टंकी का काम कुछ मोहल्लों में शुरू हुआ",
       "inference": false,
       "basis": "Amar Ujala (20 Jun 2026): Jal Nigam has started work worth Rs 170 crore under the drinking water scheme; a 268 km pipeline line will be laid in all 37 wards; an overhead tank construction has begun in Begum Sarai and pipe laying is under way in Shahzadi Sarai. Started, not delivered.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-20", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drinking-water-system-in-sambhal-to-be-improved-at-a-cost-of-170-crore-sambhal-news-c-275-1-smbd1033-136744-2026-06-20"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drinking-water-system-in-sambhal-to-be-improved-at-a-cost-of-170-crore-sambhal-news-c-275-1-smbd1033-136744-2026-06-20"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Work to fill potholes on district roads has started and should finish within a month",
-      "hindi": "सड़कों के गड्ढे भरने का काम शुरू हुआ, एक महीने में पूरा होने की बात",
+      "english": "Work to fill potholes on the roads has started",
+      "hindi": "सड़कों के गड्ढे भरने का काम शुरू हो गया है",
       "inference": false,
       "basis": "District-level, AC membership unconfirmed: Amar Ujala (30 Sep 2026) reports PWD pothole filling has started at village Janeta on the Sambhal-Chandausi road and at Khirni on the Sambhal-Gawan road; XEN PWD Sunil Prakash said the work will be completed within a month. Started, not yet finished.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/work-on-filling-potholes-on-roads-begins-sambhal-news-c-275-1-smbd1033-141172-2026-09-30"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/work-on-filling-potholes-on-roads-begins-sambhal-news-c-275-1-smbd1033-141172-2026-09-30"
+        }
       ]
     },
     {
@@ -45,17 +57,25 @@
       "inference": false,
       "basis": "District-level, AC membership unconfirmed: Amar Ujala (8 Jul 2026), datelined Bahjoi, reports a Rs 7.23 crore district panchayat office building on Sambhal Road near Bahpurpatti village was completed in 18 months and inaugurated by the district in-charge minister, JPS Rathore. Weakest positive: a government building, not a direct service.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-08", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/inauguration-of-the-newly-constructed-district-panchayat-office-building-sambhal-news-c-275-1-smbd1034-137391-2026-07-08"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/inauguration-of-the-newly-constructed-district-panchayat-office-building-sambhal-news-c-275-1-smbd1034-137391-2026-07-08"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "The municipal board says about 75 percent of the drains have been cleaned",
-      "hindi": "नगर पालिका का दावा है, करीब 75 फीसदी नाले साफ हो गए",
+      "english": "The sanitation inspector says about 75 percent of the drains have been cleaned",
+      "hindi": "सफाई निरीक्षक कहते हैं, 75 फीसदी नाले साफ हो गए",
       "inference": false,
       "basis": "Amar Ujala (6 Jul 2026): sanitation inspector Asif says about 75% of the drains have been cleaned; Rs 33 lakh spent, yet the article says drains could not be properly cleaned. Residents disagree: a Halluserai resident (Shakeel) says regular cleaning never happened; a Dehli Darwaza resident (Mohammad Faim) says the drain is never properly cleaned. This is an official claim that residents dispute, so it is a weak positive.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-06", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/33-lakh-drains-cleaned-in-sambhal-yet-drains-filled-with-filth-sambhal-news-c-275-1-smbd1033-137319-2026-07-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/33-lakh-drains-cleaned-in-sambhal-yet-drains-filled-with-filth-sambhal-news-c-275-1-smbd1033-137319-2026-07-06"
+        }
       ]
     }
   ],
@@ -67,19 +87,35 @@
       "inference": false,
       "basis": "Amar Ujala Sambhal (3 Aug 2026): about one hour of heavy rain on Sunday afternoon caused waterlogging at Shankar Chauraha, Hospital Chauraha, the Roadways bus stand, the district hospital premises, Yashoda Market, Dehli Darwaza, Bhure Shah Road and Hatimsarai; the EO, Aditya Prakash, said pumps are used where there is no drainage and that most drains are to be rebuilt. A second report (Amar Ujala, 12 Aug 2026) says 2-3 feet of waterlogging was seen on roads from the Chandausi crossing toward the government hospital and at Shankar Chauraha after rain on Tuesday morning.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-03", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/claims-of-effective-drainage-submerged-by-the-rain-sambhal-news-c-275-1-smbd1033-138444-2026-08-03"},
-        {"outlet": "Amar Ujala", "date": "2026-08-12", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drainage-system-overwhelmed-by-four-hours-of-rain-sambhal-news-c-275-1-smbd1033-138811-2026-08-12"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/claims-of-effective-drainage-submerged-by-the-rain-sambhal-news-c-275-1-smbd1033-138444-2026-08-03"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drainage-system-overwhelmed-by-four-hours-of-rain-sambhal-news-c-275-1-smbd1033-138811-2026-08-12"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "The drains never get properly cleaned, they are full of garbage",
+      "english": "Drains are never cleaned, they are choked with garbage",
       "hindi": "नाले कभी साफ नहीं होते, कूड़े से अटे पड़े हैं",
       "inference": false,
       "basis": "Amar Ujala Sambhal (7 Jun 2026): drains are blocked with garbage at Halloo Sarai, near Azad Girls Inter College, Dehli Darwaza and near Manokamna Mandir; drains at Hasanpur Marg, Bhure Shah Road and Nai Sarai are reported as not cleaned; residents say accident fears rise when drains overflow in rain; Sarai Tarin trader Neeraj Bajaj says the whole road waterlogs in rain. Amar Ujala (6 Jul 2026) quotes a Dehli Darwaza resident, Mohammad Faim: 'नाला कभी साफ ही नहीं होता'.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drains-choked-with-filth-waterlogging-inevitable-during-rains-sambhal-news-c-275-1-smbd1030-136256-2026-06-07"},
-        {"outlet": "Amar Ujala", "date": "2026-07-06", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/33-lakh-drains-cleaned-in-sambhal-yet-drains-filled-with-filth-sambhal-news-c-275-1-smbd1033-137319-2026-07-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-07",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/drains-choked-with-filth-waterlogging-inevitable-during-rains-sambhal-news-c-275-1-smbd1030-136256-2026-06-07"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/33-lakh-drains-cleaned-in-sambhal-yet-drains-filled-with-filth-sambhal-news-c-275-1-smbd1033-137319-2026-07-06"
+        }
       ]
     },
     {
@@ -89,7 +125,11 @@
       "inference": false,
       "basis": "Amar Ujala Sambhal (11 Aug 2026): the district hospital has 10 of 23 sanctioned posts filled; specialists are missing; the CMS post is vacant; the DM wrote to the state on 27 July. Patients must go about 35 km to Moradabad for the divisional hospital. The district hospital is in Sambhal city per Amar Ujala Sambhal's city reporting (3 Aug 2026 report lists the district hospital premises among city waterlogging spots); AC membership is inferred from that, not from an official extent list.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-11", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/healthcare-services-themselves-ailing-there-should-be-123-doctors-but-there-are-only-28-sambhal-news-c-275-1-smbd1030-138790-2026-08-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/healthcare-services-themselves-ailing-there-should-be-123-doctors-but-there-are-only-28-sambhal-news-c-275-1-smbd1030-138790-2026-08-11"
+        }
       ]
     },
     {
@@ -99,7 +139,11 @@
       "inference": false,
       "basis": "District-level, AC membership unconfirmed: Amar Ujala Sambhal (25 Aug 2026): a Rashtriya Kisan Mazdoor Sangathan sit-in outside the District Cane Officer's office in Sambhal was on its fifth day, demanding a full account of interest on pending cane payments; farmers said they have not received the money, and that the mill had said it would give cheques but the money did not reach their accounts; DCO Dhaniram said the interest calculation is being prepared and will take some time. The outcome after 25 Aug was not found. This is the original report behind the ChiniMandi item.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-25", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/farmers-arrived-with-slips-to-collect-outstanding-payments-sambhal-news-c-204-1-chn1003-132087-2026-08-25"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-25",
+          "url": "https://www.amarujala.com/uttar-pradesh/sambhal/farmers-arrived-with-slips-to-collect-outstanding-payments-sambhal-news-c-204-1-chn1003-132087-2026-08-25"
+        }
       ]
     },
     {
@@ -109,7 +153,11 @@
       "inference": false,
       "basis": "District-level, not AC-specific: Patrika (4 Apr 2026) reports MP Ziaur Rahman Barq met Railway Minister Ashwini Vaishnaw and sought quick approval of the Sambhal-Gajraula line extension, and proposed a new line from Sambhal, Chandausi and Budaun to Delhi; the article says no concrete step has been taken, and the only service is a two-coach demo train from Hatim Sarai to Bilari, Raja ka Sahaspur and Moradabad, twice a day, with freight discontinued.",
       "sources": [
-        {"outlet": "Patrika", "date": "2026-04-04", "url": "https://www.patrika.com/sambhal-news/sambhal-gajraula-rail-line-extension-demand-20476321"}
+        {
+          "outlet": "Patrika",
+          "date": "2026-04-04",
+          "url": "https://www.patrika.com/sambhal-news/sambhal-gajraula-rail-line-extension-demand-20476321"
+        }
       ]
     }
   ],
@@ -120,5 +168,5 @@
     "ac_specific_negatives": 3,
     "changes": "All 12 retained URLs opened and checked against the claim. Removed the 10 Oct 2026 power-outage item (one-time, not chronic; Asmoli part was outside AC 33) and its source. Added the original Amar Ujala 25 Aug 2026 sugarcane sit-in report (replacing the ChiniMandi pointer) as negative 4. Corrected basis text that went beyond the sources: removed unverified claims (Rs 1.50 crore headline figure, monsoon delay, 'repeated coverage' credit, 'stayed for hours', 'four hours' rain, 2011 Lok Sabha cost, 'pay private doctors', headline-figure reconciliation, 'work only in demo zones', 'no completion date', 'office ran from rented buildings'). Fixed resident attributions in positive 5 (Nai Sarai has no resident quote). Fixed negative 2 so Hasanpur Marg, Bhure Shah Road and Nai Sarai are described as not cleaned, not as blocked. Negative 1 no longer says the whole city is waterlogged. Negative 3 Hindi shortened to match the verified wording. Ac_specific_negatives reduced from 4 to 3 because the power item was replaced."
   },
-  "notes": "AC identity confirmed on the Wikipedia page for Sambhal Assembly constituency: No. 33, Sambhal, district Sambhal, reserved status None. The page does not describe the constituency's extent (no tehsils, wards or areas), and a search for the delimitation or ward list returned nothing usable. AC membership of each place is therefore inferred from Amar Ujala Sambhal's city reporting and mohalla names, not confirmed against an official extent list. The ac_specific_negatives count (3) uses that city-reporting basis; a strict count against an official extent list would be lower. Negative 4 (sugarcane) and the two positives 3 and 4 are district-level and their AC membership is unconfirmed. Places excluded as outside AC 33: Chandausi (AC 31), Asmoli (AC 32), Ajimganj/Majra Azimganj, Awas Vikas Colony (Chandausi), Shaktinagar (Chandausi dateline), Ganesh Colony (Chandausi), and the village reports of 4 May 2026 (Jal Jeevan Mission, Alam Sarai, Chaupur Danda etc.), whose AC was not confirmed. The ChiniMandi item (25 Aug 2026) pointed to the Amar Ujala report, which was then found and checked. A later ChiniMandi item names Venus Sugar Mill, Mazhavali (Rs 32.78 crore dues), but is roughly 194 days old and the AC of Mazhavali is unconfirmed, so it is not used. Field check: the Sambhal drinking water scheme, drain cleaning claim, hospital staffing and the sugarcane payments should be verified on the ground. The 2024 Sambhal violence and the Shahi Jama Masjid matter were deliberately left out as not civic issues. The Patrika rail article's date label in search results read 29 Jul 2026 while the fetched page says 4 Apr 2026; the fetched date is used. Water-supply complaints in Sambhal found in searches were village or Chandausi reports and are not used as city negatives."
+  "notes": "AC identity confirmed on the Wikipedia page for Sambhal Assembly constituency: No. 33, Sambhal, district Sambhal, reserved status None. The page does not describe the constituency's extent (no tehsils, wards or areas), and a search for the delimitation or ward list returned nothing usable. AC membership of each place is therefore inferred from Amar Ujala Sambhal's city reporting and mohalla names, not confirmed against an official extent list. The ac_specific_negatives count (3) uses that city-reporting basis; a strict count against an official extent list would be lower. Negative 4 (sugarcane) and the two positives 3 and 4 are district-level and their AC membership is unconfirmed. Places excluded as outside AC 33: Chandausi (AC 31), Asmoli (AC 32), Ajimganj/Majra Azimganj, Awas Vikas Colony (Chandausi), Shaktinagar (Chandausi dateline), Ganesh Colony (Chandausi), and the village reports of 4 May 2026 (Jal Jeevan Mission, Alam Sarai, Chaupur Danda etc.), whose AC was not confirmed. The ChiniMandi item (25 Aug 2026) pointed to the Amar Ujala report, which was then found and checked. A later ChiniMandi item names Venus Sugar Mill, Mazhavali (Rs 32.78 crore dues), but is roughly 194 days old and the AC of Mazhavali is unconfirmed, so it is not used. Field check: the Sambhal drinking water scheme, drain cleaning claim, hospital staffing and the sugarcane payments should be verified on the ground. Non-civic matters were left out. The Patrika rail article's date label in search results read 29 Jul 2026 while the fetched page says 4 Apr 2026; the fetched date is used. Water-supply complaints in Sambhal found in searches were village or Chandausi reports and are not used as city negatives. P3 district-level; XEN said the pothole work would finish within a month. P4 weak positive: a government office building, not a direct service. P5 weak positive: an official claim that residents dispute (see N2)."
 }
