@@ -1,0 +1,118 @@
+{
+  "ac_no": 28,
+  "ac_name": "Moradabad Nagar",
+  "ac_name_hindi": "मुरादाबाद नगर",
+  "reserved": "None",
+  "district": "Moradabad",
+  "region": "Rohilkhand",
+  "summary": "Waterlogging and choked drains after rain, city traffic jams, and a shortage of medicines at the district hospital dominate complaints, while new Moradabad Development Authority parks, roads and a constitution-literature park are the main visible gains.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "The constitution-literature park in Buddhi Vihar is built and open",
+      "hindi": "बुद्धि विहार में संविधान-साहित्य पार्क बनकर तैयार हो गया",
+      "inference": false,
+      "basis": "Constitution-literature park built at a cost of Rs 15 crore in Buddhi Vihar, Moradabad, inaugurated by Lok Sabha Speaker Om Birla on 25 June 2025 (article dated 26 June 2025, weekday-based inference). AC membership unconfirmed: Buddhi Vihar is not named among the Nagar mandals in the BJP mandal report, and the article does not name the seat.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-06-26", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/constitution-is-the-soul-of-indian-democracy-not-a-document-om-birla-moradabad-news-c-15-1-mbd1052-674244-2025-06-26"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The 24-metre MDA road in Sector 15 is complete",
+      "hindi": "सेक्टर 15 में 24 मीटर चौड़ी सड़क बन गई",
+      "inference": false,
+      "basis": "MDA project page marks the 24m Road (Sector 15, Moradabad) as Completed, budget about Rs 1,100 lakh; no completion date given. District-level MDA source. AC membership unconfirmed.",
+      "sources": [
+        {"outlet": "Moradabad Development Authority (official project page)", "date": "undated", "url": "https://mdamoradabad.up.gov.in/all-projects"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Foundation laid for a 100-bed government hospital in Civil Lines",
+      "hindi": "सिविल लाइंस में 100 बेड का सरकारी अस्पताल बनने का काम शुरू हुआ",
+      "inference": false,
+      "basis": "Bhoomi pujan and foundation stone of a 100-bed government medical care hospital in Civil Lines, Moradabad, performed by Nagar MLA Ritesh Gupta; no completion date given. AC membership unconfirmed: Civil Lines mandal is listed under Moradabad Rural in the BJP mandal report, so the locality may be split between the two seats.",
+      "sources": [
+        {"outlet": "Royal Bulletin", "date": "2026-02-23", "url": "https://royalbulletin.in/uttar-pradesh/moradabad/foundation-stone-of-100-bed-government-medical-care-hospital-in/article-151914"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "MDA parks like Bhimrao Ambedkar and Eco Herbal are complete",
+      "hindi": "भीमराव अंबेडकर पार्क और इको हर्बल पार्क बनकर तैयार हैं",
+      "inference": false,
+      "basis": "MDA project page lists Bhimrao Ambedkar Park and Eco Herbal Park, Moradabad, with status Completed. District-level MDA source, undated. AC membership unconfirmed.",
+      "sources": [
+        {"outlet": "Moradabad Development Authority (official project page)", "date": "undated", "url": "https://mdamoradabad.up.gov.in/all-projects"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The MDA Jigyasa library is built and ready",
+      "hindi": "एमडीए की जिज्ञासा लाइब्रेरी बनकर तैयार है",
+      "inference": false,
+      "basis": "MDA project page lists MDA Library, Jigyasa, Moradabad, with status Completed. District-level MDA source, undated. AC membership unconfirmed.",
+      "sources": [
+        {"outlet": "Moradabad Development Authority (official project page)", "date": "undated", "url": "https://mdamoradabad.up.gov.in/all-projects"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Rain fills Line Par with water and makes it hard to step out",
+      "hindi": "बारिश होते ही लाइनपार में पानी भर जाता है, घर से निकलना मुश्किल",
+      "inference": false,
+      "basis": "Royal Bulletin (27 Sep 2026): waterlogging in Line Par, Budh Bazar and Ramganga Vihar; residents' difficulties have grown and leaving homes has become hard; Nagar Nigam teams draining with machines. Patrika (5 Aug 2025): Line Par was the worst hit in a 93.4 mm rain, with water reaching homes. Line Par is confirmed as a Nagar mandal in the BJP mandal report (31 Dec 2024). The 2025 article also says the water came from a failed Awas Vikas drainage system in Buddhi Vihar.",
+      "sources": [
+        {"outlet": "Royal Bulletin", "date": "2026-09-27", "url": "https://royalbulletin.in/uttar-pradesh/moradabad/continuous-rain-for-30-hours-in-moradabad-leads-to-severe-waterlogging-in-several-areas/article-235077"},
+        {"outlet": "Patrika", "date": "2025-08-05", "url": "https://www.patrika.com/moradabad-news/moradabad-heavy-rain-ramganga-gagan-river-flood-waterlogging-19840398"},
+        {"outlet": "Amrit Vichar", "date": "2024-12-31", "url": "https://www.amritvichar.com/article/514092/moradabad--bjp-declared-the-presidents-of-10-mandals-elected"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Roads in several city areas flood after rain and people struggle to move",
+      "hindi": "बारिश के बाद शहर की कई सड़कों पर पानी जमा, आवाजाही मुश्किल",
+      "inference": false,
+      "basis": "Amar Ujala (18 Aug 2026), after 34.5 mm rain on 17 Aug: waterlogging on roads behind the jail, Ashok Nagar, Majholi, Prabhat Market and Arya Nagar; residents say slow drainage keeps water on roads. Article places it in the city of Moradabad, not a named seat. AC membership of each locality unconfirmed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-18", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-in-several-areas-after-rain-people-facing-commuting-difficulties-moradabad-news-c-15-1-mbd1044-972439-2026-08-18"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "A choked drain at Sitapuri Das Sarai troubles five thousand people",
+      "hindi": "सीतापुरी दस सराय में गंदा नाला जाम, पांच हजार लोग परेशान",
+      "inference": false,
+      "basis": "Amar Ujala (7 Jun 2026): drain between Sitapuri Das Sarai and Chau ki Basti choked; about 5,000 people in three settlements affected; residents say a CM portal complaint got only a visit and no action. Das Sarai is a Nagar mandal in the BJP mandal report, but the article does not name the seat. AC membership unconfirmed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/drains-choked-with-garbage-streets-filled-with-dirty-water-why-dont-those-in-charge-see-these-flaws-moradabad-news-c-15-1-mbd1014-919415-2026-06-07"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Medicines prescribed by the doctor are often not available at the district hospital",
+      "hindi": "जिला अस्पताल में डॉक्टर की लिखी दवा भी नहीं मिलती",
+      "inference": false,
+      "basis": "Amar Ujala (24 Dec 2025): at the district hospital dispensing room the full prescribed medicine was not available; cough syrup, pain tablets, gel and eye drops were missing; patients told to buy outside. District-level, not specific to this AC.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-12-24", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/cough-and-pain-medications-are-not-available-moradabad-district-hospital-leaving-patients-distressed-2025-12-24"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Jams are common in the city with heavy vehicle pressure all day",
+      "hindi": "शहर में जाम लगना आम बात, दिनभर भारी भीड़ रहती है",
+      "inference": false,
+      "basis": "Royal Bulletin (6 Oct 2026): the new SP Traffic says jams in the city must be reduced; places with heavy vehicle pressure through the day are being monitored; no specific roads named. City-level, not a named AC location.",
+      "sources": [
+        {"outlet": "Royal Bulletin", "date": "2026-10-06", "url": "https://royalbulletin.in/uttar-pradesh/moradabad/new-sp-traffic-rachna-mishra-takes-charge-in-moradabad/article-239268"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 1,
+  "notes": "AC identity confirmed from the Wikipedia constituency list (No. 28, Moradabad Nagar, Moradabad district, reserved: None, Moradabad Lok Sabha seat). AC 27 is Moradabad Rural. Region set to Rohilkhand (Moradabad division), which is my assignment, not stated in the list. The Wikipedia constituency page and the OpenCampaign page give no extent or ward list, so AC membership was checked only through the BJP mandal report (31 Dec 2024, Amrit Vichar): Nagar mandals Katghar, Chandra Nagar, Lainpar, Das Sarai, Madhya Nagar; Rural mandals Civil Lines, Ramganga Vihar, Diwan Ka Bazar, Sehal, Bhojpur. Civil Lines therefore may straddle both seats. Only Line Par is confirmed inside the AC. Field check: Budh Bazar, Buddhi Vihar, Ashok Nagar, Majholi, Prabhat Market, Arya Nagar, Jigar Colony, Sitapuri Das Sarai and the Sector 15 road need ward or booth-level confirmation. The current MLA is Ritesh Kumar Gupta (BJP), first elected 2017, re-elected 2022; he has raised the government medical college demand (Pardaphash, updated 30 Oct 2025), a Composite Vidyalaya land irregularity allegation (Royal Bulletin, 31 Mar 2026; allegation only, no official finding, place unnamed) and a shop rent and premium dispute, but none of these are used as items. Several Moradabad sources are only partly dated; the Patrika flood article's page header shows a different date from its text (5 Aug 2025), and I used the text date. The MDA project page is undated. Positives are weaker than negatives for this AC: no confirmed AC-specific completed project was found."
+}
