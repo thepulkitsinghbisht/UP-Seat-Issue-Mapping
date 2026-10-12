@@ -1,62 +1,60 @@
 {
+  "round2": {
+    "verified_sources": 6,
+    "removed_sources": 4,
+    "ac_specific_negatives": 3,
+    "changes": "Verified all 4 cited URLs against the live pages (4pm 2026-08-27, Dainik Janwani 2026-10-12, ChiniMandi 2026-05-23, Amar Ujala 2026-08-27). Removed 4pm as support for positives 1, 3, 4 (it does not back them) and ChiniMandi as support for positive 5 (it names no mill and gives no mills-operating fact). Positive 1 replaced: Jasmor/Shakumbhari appears tied to Behat (AC 1), not Dehat. Negatives: dropped Amar Ujala overnight-rain item (overlaps with the knee-deep water item and is district-level); added a third Mohaddipur-specific negative (development missing, same 4pm article). Confirmed AC 4 = Saharanpur Dehat (Wikipedia list and AC article infobox), not AC 3 Saharanpur Nagar. Added * prefix to all inference items; inference items no longer carry sources that do not support them. Summary and notes updated."
+  },
   "ac_no": 4,
   "ac_name": "Saharanpur Dehat",
   "ac_name_hindi": "सहारनपुर देहात",
   "reserved": "None",
   "district": "Saharanpur",
   "region": "Paschim UP",
-  "summary": "Complaints centre on waterlogged rural roads, blocked drainage and broken village roads, plus stalled sugarcane dues and a stalled rural economy; appreciation is thin and mostly inferred.",
+  "summary": "Complaints centre on broken and waterlogged Mohaddipur village roads, a blocked drain in Hauzkheri and unpaid sugarcane dues; no sourced local appreciation was found.",
   "identity_source": "https://en.wikipedia.org/wiki/Saharanpur_Assembly_constituency",
   "positives": [
     {
       "rank": 1,
-      "english": "Shakumbhari Devi shrine at Jasmor gives the area its own identity.",
-      "hindi": "शाकुंभरी देवी धाम से इलाके की अलग पहचान है",
-      "inference": true,
-      "basis": "Inference: 4pm.co.in mentions Jasmor as the location of the Shakumbhari Devi Shaktipeeth only as historical background; no voter praise for it was found in the source.",
-      "sources": [
-        {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
-      ]
-    },
-    {
-      "rank": 2,
       "english": "Department says action on the village drain is under way.",
       "hindi": "विभाग का कहना है कि नाले पर कार्रवाई चल रही है",
       "inference": false,
-      "basis": "District-level: PWD Executive Engineer Dharmendra Singh said action in the Hauzkheri drain matter is underway (\"कार्रवाई प्रचलित है\"). Village block and whether it lies in the Dehat seat are not confirmed.",
+      "basis": "District-level: PWD Executive Engineer Dharmendra Singh is quoted as saying action in the Hauzkheri drain matter is underway (\"मामले में कार्रवाई प्रचलित है\", wording unclear). The article gives no block or tehsil and does not name the Saharanpur Dehat seat, so seat membership is not confirmed.",
       "sources": [
         {"outlet": "Dainik Janwani", "date": "2026-10-12", "url": "https://dainikjanwani.com/highway-construction-blocks-village-drainage-houses-at-risk"}
       ]
     },
     {
-      "rank": 3,
-      "english": "Residents have a steady local market for daily needs.",
-      "hindi": "रोजमर्रा का सामान गांव के आसपास ही मिल जाता है",
+      "rank": 2,
+      "english": "* Sugarcane mills are operating and the cane crop still has a buyer.",
+      "hindi": "* गन्ना अभी भी मिलों तक पहुंच रहा है, खरीद चल रही है",
       "inference": true,
-      "basis": "Inference: no source found for this; the 4pm.co.in trader quote describes business as stalled, which points the other way. Included only as a placeholder positive to be verified in the field.",
-      "sources": [
-        {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
-      ]
+      "basis": "Inference: ChiniMandi (May 2026) reports the Saharanpur protest over dues but names no mill and gives no figure, so mills operating is not stated in any source. Placeholder only, to be verified in the field. No source cited because none supports the claim.",
+      "sources": []
+    },
+    {
+      "rank": 3,
+      "english": "* Residents have a steady local market for daily needs.",
+      "hindi": "* रोजमर्रा का सामान गांव के आसपास ही मिल जाता है",
+      "inference": true,
+      "basis": "Inference: no source found. The 4pm.co.in trader quotes describe business as stalled and people travelling far daily, which points the other way. Placeholder only, to be verified in the field. No source cited because none supports the claim.",
+      "sources": []
     },
     {
       "rank": 4,
-      "english": "Rural belt is seeing some local development attention.",
-      "hindi": "देहात में अब कुछ विकास कार्य पर ध्यान जा रहा है",
+      "english": "* Rural belt is seeing some local development attention.",
+      "hindi": "* देहात में अब कुछ विकास कार्य पर ध्यान जा रहा है",
       "inference": true,
-      "basis": "Inference: no source found that voters praise development here; 4pm.co.in residents say development is missing. Placeholder only, to be verified in the field.",
-      "sources": [
-        {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
-      ]
+      "basis": "Inference: no source found that voters praise development here. The 4pm.co.in article says development is missing in Mohaddipur. Placeholder only, to be verified in the field. No source cited because none supports the claim.",
+      "sources": []
     },
     {
       "rank": 5,
-      "english": "Sugarcane mills are operating and the cane crop still has a buyer.",
-      "hindi": "गन्ना अभी भी मिलों तक पहुंच रहा है, खरीद चल रही है",
+      "english": "* Local temples and shrines draw devotees to the area.",
+      "hindi": "* इलाके में मंदिर और धाम पर श्रद्धालु आते हैं",
       "inference": true,
-      "basis": "Inference: ChiniMandi (May 2026) reports the Saharanpur protest over dues but names no mill and gives no figure; the mills operating is implied, not stated. Placeholder only, to be verified in the field.",
-      "sources": [
-        {"outlet": "ChiniMandi", "date": "2026-05-23", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-protest-over-delayed-cane-payments-demand-action-from-sugarcane-department/"}
-      ]
+      "basis": "Inference: 4pm.co.in mentions the Shakumbhari Devi Shaktipeeth 'near the Jasmor area' only as background. Search results tie the Shakumbhari area to Behat (AC 1), and Jasmor is not confirmed as inside Saharanpur Dehat. No voter praise found. Placeholder only; verify seat membership or drop.",
+      "sources": []
     }
   ],
   "negatives": [
@@ -65,7 +63,7 @@
       "english": "Mohaddipur village road is completely broken and hard to leave.",
       "hindi": "मोहद्दीपुर गांव की सड़क एकदम टूटी है, निकलना मुश्किल है",
       "inference": false,
-      "basis": "Saharanpur Dehat-specific: a resident of Mohaddipur village says the road is completely broken and that it is hard to leave the village. Article is one-sided political framing (opposition-leaning quotes, no reply from the government).",
+      "basis": "Saharanpur Dehat-specific: a Mohaddipur villager says the village road is completely broken and leaving the village is difficult. The 4pm.co.in article is headlined as a report on Saharanpur Dehat; Mohaddipur is not in the Wikipedia area list, so seat membership rests on that article. One-sided political framing (opposition-leaning quotes, no government reply).",
       "sources": [
         {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
       ]
@@ -75,29 +73,29 @@
       "english": "Rain leaves knee-deep water on village roads in Mohaddipur.",
       "hindi": "बारिश में मोहद्दीपुर की सड़क पर घुटनों तक पानी भर जाता है",
       "inference": false,
-      "basis": "Saharanpur Dehat-specific: residents say rain causes knee-deep water on the Mohaddipur road. Same article as the road complaint.",
+      "basis": "Saharanpur Dehat-specific: a Mohaddipur resident says that when it rains, water rises to the knees. Same article as the road complaint, so the same seat-membership and framing caveats apply.",
       "sources": [
         {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
       ]
     },
     {
       "rank": 3,
-      "english": "Highway soil has blocked village drainage in Hauzkheri for three years.",
-      "hindi": "हाईवे की मिट्टी से हौजखेड़ी का पानी तीन साल से नहीं निकल रहा",
+      "english": "Mohaddipur residents say development is missing and officials only stall.",
+      "hindi": "मोहद्दीपुर में विकास गायब है, प्रशासन बस टालमटोल करता है",
       "inference": false,
-      "basis": "District-level (Saharanpur): soil dumped on Delhi-Yamunotri SH-57 has blocked the Hauzkheri village drainage for about three years; a water channel at khasra 343 is closed, water collects near homes and fields. Block and whether it lies in the Dehat seat not confirmed.",
+      "basis": "Saharanpur Dehat-specific: the 4pm.co.in article has the section 'मोहद्दीपुर में विकास गायब' and a Mohaddipur resident says the administration only stalls and does no work. Same article and caveats as the road complaint.",
       "sources": [
-        {"outlet": "Dainik Janwani", "date": "2026-10-12", "url": "https://dainikjanwani.com/highway-construction-blocks-village-drainage-houses-at-risk"}
+        {"outlet": "4pm.co.in", "date": "2026-08-27", "url": "https://4pm.co.in/saharanpur-countryside-in-india/187892"}
       ]
     },
     {
       "rank": 4,
-      "english": "Overnight rain floods rural roads and stops drainage across the district's villages.",
-      "hindi": "देहात में रातभर की बारिश से सड़कों पर जलभराव, निकासी बाधित",
+      "english": "Highway soil has blocked village drainage in Hauzkheri for three years.",
+      "hindi": "हाईवे की मिट्टी से हौजखेड़ी का पानी तीन साल से नहीं निकल रहा",
       "inference": false,
-      "basis": "District-level (Saharanpur rural belt): Amar Ujala reports overnight rain left low-lying areas and roads under water and affected drainage in several places; no village named.",
+      "basis": "District-level (Saharanpur): soil dumped on Delhi-Yamunotri SH-57 has blocked the Hauzkheri village drainage for about three years; a channel at khasra 343 is closed and water collects around homes and fields. The article gives no block or tehsil and does not name the Dehat seat, so placement in AC 4 is not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-27", "url": "https://www.amarujala.com/uttar-pradesh/meerut/saharanpur-weather-overnight-rain-causes-waterlogging-in-rural-areas-heavy-rain-hits-city-2026-08-27"}
+        {"outlet": "Dainik Janwani", "date": "2026-10-12", "url": "https://dainikjanwani.com/highway-construction-blocks-village-drainage-houses-at-risk"}
       ]
     },
     {
@@ -105,11 +103,11 @@
       "english": "Sugarcane dues from last season and this one are still unpaid.",
       "hindi": "गन्ने का पिछले और इस सीजन का बकाया भुगतान अब भी अटका है",
       "inference": false,
-      "basis": "District-level (Saharanpur): farmers protested at the Saharanpur Sugarcane Department over outstanding dues from the current and previous crushing seasons; no amount stated; officials asked for time until June 1, 2026. No mill named.",
+      "basis": "District-level (Saharanpur): farmers protested at the Saharanpur Sugarcane Department over outstanding dues from the current and previous crushing seasons; no amount stated. Officials asked for time until 21 May, then until 1 June 2026, per farmer representatives. No mill named.",
       "sources": [
         {"outlet": "ChiniMandi", "date": "2026-05-23", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-protest-over-delayed-cane-payments-demand-action-from-sugarcane-department/"}
       ]
     }
   ],
-  "notes": "Positives 3-5 are placeholders with no supporting source (inference: true); they are weak and need field verification. Only 2 negatives are Dehat-village-specific (Mohaddipur, from one political opinion article); 3 are district-level (Hauzkheri drain, rural waterlogging, sugarcane dues). Block/village membership of Hauzkheri and the rural waterlogging report is not confirmed as inside the Dehat seat. Hindi name 'सहारनपुर देहात' is the standard form, not taken from a fetched source. Identity: Wikipedia lists AC 4 as 'Saharanpur' (reserved: None, district Saharanpur) and the AC article as 'Saharanpur Dehat'; AC 3 is Saharanpur Nagar, AC 4 is the rural seat. Not used: Amar Ujala/Patrika/Newstrack pieces on Ashu Malik's 32-village waterlogging list (newstrack returned HTTP 403; Amar Ujala sugar-arrears piece undated), and tv9up (SP internal dispute, no local issue). Search budget was exhausted after roughly 11 WebSearch calls, so the Jasmor/electricity/school/health/water-supply searches could not be run. Recommended next steps: Dainik Jagran and Live Hindustan Saharanpur rural pages, Amar Ujala Saharanpur Dehat village coverage, and Nagar Nigam/Gram Panchayat notices for Mohaddipur and Hauzkheri."
+  "notes": "Identity confirmed: Wikipedia lists constituency No. 4 as 'Saharanpur' (reserved: None, district Saharanpur), and the AC article infobox gives the name 'Saharanpur Dehat'. No. 3 is Saharanpur Nagar (a different seat). Mohaddipur and Hauzkheri are not in the Wikipedia area list (Dabki Gujjar, Dara Ali, Dara Shivpuri, Harora, Manak Mau, Megh Chhapper, Pathanpur, Punwarka); Hauzkheri's seat is unconfirmed. Only 3 negatives are AC-specific, and all three come from one politically framed 4pm.co.in article (opposition-leaning, no government reply). Positives 2-5 are inference placeholders with no supporting source; positive 1 is the only sourced positive and is district-level. Jasmor/Shakumbhari appears to be in Behat (AC 1), so it was removed as a Dehat positive. Searches run this round (Hindi and English) on Hauzkheri's block, Mohaddipur's block, the Pathanpur/Harora/Punwarka roads, electricity, water, schools, health, Dehat development projects and Saharanpur mills found no usable local source; the Amar Ujala 2026 rural development items found were urban or undated. Not used: 4pm 'शिक्षा-स्वास्थ्य बदहाल' piece (not checked for Dehat), Amar Ujala 2026-08-04 Hindon road (Chhutmalpur, seat not confirmed), Amar Ujala overnight-rain piece (district-level, dropped as overlapping). Next steps for field or search: Dainik Jagran and Live Hindustan Saharanpur rural pages; Amar Ujala Saharanpur Dehat village coverage; Gram Panchayat and PWD notices for Mohaddipur and Hauzkheri to fix the block and seat; a mill-level report on cane dues; and sourced positives (roads, drainage, school, health, electricity, water) if any exist."
 }
