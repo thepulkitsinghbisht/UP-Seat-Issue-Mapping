@@ -118,3 +118,4 @@
     "ac_specific_negatives": 3,
     "changes": "Fetched all 7 unique URLs. Confirmed ChiniMandi Oct 2025, ChiniMandi Apr 2025, Navbharat Live 9 Sep 2026, Amar Ujala 25 Feb 2026, and the Ground News summaries (aggregator). Removed the unsupported 'villagers angry' sentence from the accident basis. Removed the Ground News 13,000-farmers positive (excerpt cut off, weak benefit) and replaced it with Royal Bulletin 4 Oct 2026 (dispensary sanctioned for seven Budhana villages incl. Luhsana; approval stage). Reworded the Luhsana centre from built to approved (source says approved). Positive 4 (roadways buses) changed from inference to sourced fact via Navbharat Live. Zero inference items remain. Re-ranked positives. Shortened Hindi lines to 11-13 words. Confirmed AC identity via Wikipedia. Luhsana confirmed as Budhana village; Bhainsana not fully confirmed."
 }
+}
