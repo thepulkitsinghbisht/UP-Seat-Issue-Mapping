@@ -5,57 +5,57 @@
   "reserved": "None",
   "district": "Shamli",
   "region": "Paschim UP",
-  "summary": "Complaints centre on unpaid sugarcane dues from the Thanabhawan sugar mill, stray cattle damaging crops and roads, and a stalled cremation-ground road, while appreciation is thin and mostly inferred from ongoing road works and administrative follow-up.",
+  "summary": "Complaints centre on unpaid sugarcane dues to the Thanabhawan sugar mill, stray cattle and storm and waterlogging damage to crops and roads, and a stalled cremation-ground road; appreciation is thin and mostly road widening and road-fund approvals.",
   "identity_source": "https://en.wikipedia.org/wiki/Thana_Bhawan_Assembly_constituency",
   "positives": [
     {
       "rank": 1,
-      "english": "Road work has started at the bus stand and old bypass, so relief may come soon.",
-      "hindi": "बस स्टैंड और पुराने बाईपास पर सड़क बन रही है, राहत मिलने की उम्मीद है।",
-      "inference": true,
-      "basis": "Inference: Amar Ujala (12 Oct 2026) says road construction at the bus stand and old bypass is causing travel trouble, which implies work is underway. The article is a Shamli dateline story and does not name Thanabhawan for this work, so it is district-level.",
+      "english": "Widening of the Thanabhawan-Charthawal road has started, so relief may come.",
+      "hindi": "थानाभवन-चरथावल मार्ग का चौड़ीकरण शुरू हो गया है, राहत मिलेगी।",
+      "inference": false,
+      "basis": "Amar Ujala (22 Jun 2026, Shamli dateline): PWD executive engineer confirms widening of the Thanabhawan-Charthawal-Muzaffarnagar road from 7 m to 10 m has started, estimated cost Rs 15 crore. This is work in progress, not a completed project. The road name is Thanabhawan-specific; the article does not say the whole stretch lies inside this AC.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://amarujala.com/uttar-pradesh/shamli/it-rained-for-an-hour-with-strong-winds-and-hail-shamli-news-c-26-1-sal1002-175903-2026-10-12"}
+        {"outlet": "Amar Ujala", "date": "2026-06-22", "url": "https://www.amarujala.com/uttar-pradesh/shamli/widening-of-the-thanabhawan-charthawal-road-connecting-two-districts-has-begun-shamli-news-c-26-1-sal1001-168112-2026-06-22"}
       ]
     },
     {
       "rank": 2,
-      "english": "The cremation-ground road has a tender completed, so work is expected to begin.",
-      "hindi": "श्मशान घाट की सड़क का टेंडर हो चुका है, अब काम शुरू होने का इंतजार है।",
-      "inference": true,
-      "basis": "Inference: Nayan Jagriti reports the tender for the Thanabhawan cremation-ground road was completed about a year earlier and a contractor was selected, but no work order had been issued as of 22 Aug 2026. The positive is only that the tender process is done; it is not a claim that work has begun.",
+      "english": "Funds have been released for five Thanabhawan roads, though tenders are still pending.",
+      "hindi": "थानाभवन की पांच सड़कों के लिए पैसा जारी हो गया है।",
+      "inference": false,
+      "basis": "Amar Ujala (28 Aug 2026, Shamli): government released funds for five roads in Thana Bhawan on the local MLA's proposal, for FY 2026-27. Roads named include Tapraana-Jhijhana (new construction), Bantikheda (new construction), and Gohrpur-Kudana link road. Article gives no amount for these five; tenders not yet issued.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-28", "url": "https://www.amarujala.com/uttar-pradesh/shamli/funds-received-for-nine-roads-in-shamli-and-five-in-thana-bhawan-shamli-news-c-26-1-sal1012-172777-2026-08-28"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The cremation-ground road tender is done, and the work is awaited.",
+      "hindi": "श्मशान घाट सड़क का टेंडर हो गया, काम का इंतजार है।",
+      "inference": false,
+      "basis": "Nayan Jagriti (page last updated 23 Aug 2026; status as of 22 Aug 2026): tender process for the Thanabhawan cremation-ground road was completed about a year earlier and a contractor was selected, but no work order has been issued. This is only a process positive; construction has not begun.",
       "sources": [
         {"outlet": "Nayan Jagriti", "date": "2026-08-23", "url": "https://nayanjagriti.com/thanabhawan-shamshan-ghat-road-work-order-delay/31970/"}
       ]
     },
     {
-      "rank": 3,
-      "english": "Farmers can raise their demands openly at the district's Kisan Diwas meeting.",
-      "hindi": "किसान दिवस में किसान अपनी समस्याएं खुलकर अधिकारियों के सामने रख पा रहे हैं।",
-      "inference": true,
-      "basis": "Inference: Amar Ujala (17 Sep 2026) reports that farmers at the Shamli district Kisan Diwas (held 16 Sep) raised the Thanabhawan mill dues, stray cattle, soil mining, and power line issues. This shows a grievance forum exists, but it is district-level and does not show the outcome.",
-      "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/shamli/the-issue-of-pending-sugarcane-price-payment-resonated-on-kisan-diwas-shamli-news-c-26-1-sal1001-174172-2026-09-17"}
-      ]
-    },
-    {
       "rank": 4,
-      "english": "Sugar mill is running this season, so cane has a buyer nearby.",
-      "hindi": "चीनी मिल चल रही है, इसलिए गन्ने को पास में ही खरीदार मिल जाता है।",
-      "inference": true,
-      "basis": "Inference: Amar Ujala (29 Sep 2026) describes a district review of the 2025-26 crushing season covering the Thanabhawan mill, and the 2026-27 season is being prepared. This shows the mill operates, but the same article records its dues as unpaid.",
+      "english": "The DM has warned the Thanabhawan sugar mill to clear the pending dues.",
+      "hindi": "डीएम ने थानाभवन चीनी मिल को बकाया भुगतान की चेतावनी दी।",
+      "inference": false,
+      "basis": "Amar Ujala (29 Sep 2026): DM Alok Yadav expressed displeasure at the Rs 81.37 crore cane price payment still pending at Thanabhawan mill and said strict action would follow if negligence continued. This is district administration action, not a completed fix on the ground.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/shamli/arrears-of-8137-crore-for-sugarcane-payments-pending-against-thanabhawan-sugar-mill-dm-expresses-displeasure-shamli-news-c-26-1-sal1002-175008-2026-09-29"}
       ]
     },
     {
       "rank": 5,
-      "english": "The district magistrate is pressing sugar mills to clear farmers' dues.",
-      "hindi": "डीएम ने चीनी मिल को बकाया भुगतान के लिए सख्त चेतावनी दी है।",
-      "inference": false,
-      "basis": "District Magistrate Alok Yadav expressed displeasure at the Thanabhawan mill's Rs 81.37 crore pending payment and warned of strict action if negligence continues. Shamli and Oon mills were reported as having paid 100% of their dues. This is a district-level administrative action, not a positive on the ground.",
+      "english": "Farmers can put their problems directly before officials at Kisan Diwas.",
+      "hindi": "*किसान दिवस में किसान अपनी समस्याएं अधिकारियों के सामने रख रहे हैं।",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (17 Sep 2026) reports the Shamli district Kisan Diwas (held Wednesday, 16 Sep) where farmers raised Thanabhawan mill dues, stray cattle, soil mining and power line issues in front of officials. The forum exists; the article does not show any outcome. District-level, not AC-specific.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/shamli/arrears-of-8137-crore-for-sugarcane-payments-pending-against-thanabhawan-sugar-mill-dm-expresses-displeasure-shamli-news-c-26-1-sal1002-175008-2026-09-29"}
+        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/shamli/the-issue-of-pending-sugarcane-price-payment-resonated-on-kisan-diwas-shamli-news-c-26-1-sal1001-174172-2026-09-17"}
       ]
     }
   ],
@@ -65,7 +65,7 @@
       "english": "Thanabhawan mill still hasn't paid our sugarcane dues.",
       "hindi": "थानाभवन मिल ने अभी तक हमारा गन्ना मूल्य बकाया नहीं दिया है।",
       "inference": false,
-      "basis": "Amar Ujala (29 Sep 2026): Rs 81.37 crore cane price payment is still pending at the Thanabhawan sugar mill, per a DM review of the 2025-26 crushing season. Amar Ujala (17 Sep 2026) quotes BKU youth district president Prabhat Malik saying the Thanabhawan mill has not paid farmers' dues.",
+      "basis": "Amar Ujala (29 Sep 2026): review found Rs 81.37 crore cane price payment still pending at Thanabhawan sugar mill for the 2025-26 crushing season. Amar Ujala (17 Sep 2026): BKU youth district president Prabhat Malik says Thanabhawan mill has not paid farmers' dues.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/shamli/arrears-of-8137-crore-for-sugarcane-payments-pending-against-thanabhawan-sugar-mill-dm-expresses-displeasure-shamli-news-c-26-1-sal1002-175008-2026-09-29"},
         {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/shamli/the-issue-of-pending-sugarcane-price-payment-resonated-on-kisan-diwas-shamli-news-c-26-1-sal1001-174172-2026-09-17"}
@@ -74,43 +74,49 @@
     {
       "rank": 2,
       "english": "Stray cattle are ruining our crops and we guard the fields all night.",
-      "hindi": "आवारा पशु फसल बर्बाद कर रहे हैं, रातभर खेत की रखवाली करनी पड़ती है।",
+      "hindi": "आवारा पशु फसल उजाड़ रहे हैं, रातभर खेत की रखवाली करनी पड़ती है।",
       "inference": false,
-      "basis": "Amar Ujala (7 Jun 2026), Thanabhawan dateline: stray animals are entering fields in Nozal, Hasanpur, Khanpur, Chandenamal and nearby villages, damaging paddy, sugarcane, maize, jowar and green fodder. Farmers have to guard fields all night.",
+      "basis": "Amar Ujala (7 Jun 2026), Thanabhawan dateline: stray animals damage paddy, sugarcane, maize, sorghum, green fodder and vegetables in Nozal, Hasanpur, Khanpur, Chandenamal and surrounding villages. Farmers have to keep watch in their fields all night. Thanabhawan dateline is the AC-level link.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/shamli/stray-animals-grazing-in-fields-department-turns-a-blind-eye-shamli-news-c-26-1-sal1002-167011-2026-06-07"}
       ]
     },
     {
       "rank": 3,
-      "english": "The road to the cremation ground is mud and waterlogged in rain, and no work has started.",
-      "hindi": "श्मशान घाट का रास्ता बारिश में कीचड़ और जलभराव से बदहाल है, काम भी शुरू नहीं हुआ।",
+      "english": "The cremation-ground road turns to mud in rain, and still hasn't been built.",
+      "hindi": "श्मशान घाट का रास्ता बारिश में कीचड़ से भरा, सड़क नहीं बनी।",
       "inference": false,
-      "basis": "Nayan Jagriti (page updated 23 Aug 2026): the road to the Thanabhawan cremation ground is waterlogged and muddy in rain; the tender was completed about a year earlier but the contractor has not received a work order. Funeral processions walk through the mud. The article says the EO did not respond to calls.",
+      "basis": "Nayan Jagriti (updated 23 Aug 2026): the Thanabhawan cremation-ground road (ward 2, Nabipura) becomes waterlogged and muddy in rain, and funeral processions must pass through it. Tender completed about a year earlier, but construction has not started and no work order was issued. The Nagar Panchayat EO did not take the reporter's calls.",
       "sources": [
         {"outlet": "Nayan Jagriti", "date": "2026-08-23", "url": "https://nayanjagriti.com/thanabhawan-shamshan-ghat-road-work-order-delay/31970/"}
       ]
     },
     {
       "rank": 4,
-      "english": "Wind and rain flattened our ripe paddy and we are worried.",
-      "hindi": "तेज हवा और बारिश से हमारी पकी धान की फसल खेत में बिछ गई, हम चिंतित हैं।",
+      "english": "Roads and lanes in Jalalabad get waterlogged, and vegetable fields are flooded.",
+      "hindi": "जलालाबाद में सड़कें और गलियां जलमग्न हो गईं।",
       "inference": false,
-      "basis": "Amar Ujala (12 Oct 2026), Shamli dateline with Thanabhawan included: rain with strong winds flattened standing ripe paddy in fields, and hail was reported in the Thanabhawan area. The Thanabhawan link is only through the dateline and hail mention, so the claim is weakly AC-specific.",
+      "basis": "Amar Ujala (12 Oct 2026, Shamli dateline, Samvad agency): streets and lanes in Jalalabad's localities were flooded after an hour of rain, and vegetable fields there were waterlogged. Jalalabad is a nagar panchayat in Shamli tehsil and part of this AC per Wikipedia AC page.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://amarujala.com/uttar-pradesh/shamli/it-rained-for-an-hour-with-strong-winds-and-hail-shamli-news-c-26-1-sal1002-175903-2026-10-12"}
       ]
     },
     {
       "rank": 5,
-      "english": "Old, damaged 11 kV power lines are causing supply trouble in our villages.",
-      "hindi": "जर्जर 11 केवी लाइनों से गांवों में बिजली की दिक्कत बनी हुई है।",
+      "english": "Wind and rain flattened our ripe paddy in the fields.",
+      "hindi": "तेज हवा-बारिश से खेतों में पकी धान की फसल बिछ गई।",
       "inference": false,
-      "basis": "Amar Ujala (17 Sep 2026), Shamli district Kisan Diwas: farmer Kavita Chaudhary asked for dilapidated 11 kV lines to be repaired. This is district-level, not Thanabhawan-specific, and the article does not name the feeder.",
+      "basis": "Amar Ujala (12 Oct 2026, Shamli dateline): rain with strong winds flattened standing ripe paddy in fields, and hail occurred in the Thanabhawan area. The flattening is reported for the Shamli report generally; only the hail is named for Thanabhawan, so this is weakly AC-specific.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/shamli/the-issue-of-pending-sugarcane-price-payment-resonated-on-kisan-diwas-shamli-news-c-26-1-sal1001-174172-2026-09-17"}
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://amarujala.com/uttar-pradesh/shamli/it-rained-for-an-hour-with-strong-winds-and-hail-shamli-news-c-26-1-sal1002-175903-2026-10-12"}
       ]
     }
   ],
-  "notes": "Identity: Wikipedia confirms AC 9 Thana Bhawan, general seat, district Shamli (formerly Muzaffarnagar before 2012), Lok Sabha Kairana. Hindi name taken from the Hindi spelling used in local news; not checked against the ECI list. Searches stopped early because the WebSearch budget for this turn was exhausted, so coverage is thin. Several claims I could not verify were dropped: a 13-hour outage in three Thanabhawan mohallas (search found no matching report), and a Thanabhawan power/low-voltage item. An Amar Ujala 12 Oct 2026 item attributes waterlogging from uncleaned drains to Un, not Thanabhawan, so it was not used. Positives 1-4 are inferences flagged as such; no appreciation source for Thanabhawan was found. Field check suggested: Thanabhawan power supply and low voltage, drinking water, stray cattle on roads, the bus stand and bypass works, and the status of the Thanabhawan mill's dues for 2025-26. Negative 4 and 5 are weaker on AC-specific evidence; negatives 1-3 are the strongest local items."
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 3,
+    "ac_specific_negatives": 4,
+    "changes": "Verified all 7 article URLs against the claims (Rs 81.37 crore confirmed exactly in the 29 Sep Amar Ujala article). Removed the unsupported bus stand/old bypass claim (old positive 1, its 12 Oct source does not mention it) and the unsupported 'sugar mill is running' inference (old positive 4). Replaced them with sourced positives: Thanabhawan-Charthawal road widening started (22 Jun 2026) and funds for five Thana Bhawan roads (28 Aug 2026). Kept cremation-road tender as a sourced positive and kept the Kisan Diwas positive as the only * inference. Dropped the district-level 11 kV negative and the district-only Kisan Diwas source from negatives. Added Jalalabad waterlogging (AC-specific, nagar panchayat in Shamli tehsil per Wikipedia) as negative 4. Shortened all Hindi statements to 8-13 words. Round 2 found no appreciation source that is AC-specific beyond the two road items and the cremation-road tender process."
+  },
+  "notes": "Identity: Wikipedia confirms AC 9 Thana Bhawan, general seat, district Shamli, Lok Sabha Kairana; Shamli tehsil list includes Thana Bhawan, Jalalabad, Garhi Pukhta nagar panchayats. Hindi name taken from local news spelling; not checked against ECI list. Round 2 searches for completed local projects in Thanabhawan, Jalalabad and Banat found no completion report; the only AC-specific appreciation items are ongoing or approved works (road widening, sanctioned roads, cremation-road tender). Banat was not searched successfully and is not used. Round 2 did not find a Thanabhawan-specific report of a bus stand or old bypass road work, so that claim was dropped. Positive 5 is still inference. Negative 5 is weakly AC-specific. Field check suggested: Thanabhawan mill's 2025-26 dues status, the five sanctioned roads' tender and start dates, Thanabhawan-Charthawal widening progress, Jalalabad drainage, and the cremation-ground road work order."
 }
