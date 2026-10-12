@@ -1,0 +1,117 @@
+{
+  "ac_no": 39,
+  "ac_name": "Dhanaura",
+  "ac_name_hindi": "धनौरा",
+  "reserved": "SC",
+  "district": "Amroha",
+  "region": "Paschim UP",
+  "summary": "Voters in Dhanaura mainly cite unpaid sugarcane dues to the Web Sugar Mill, recurring flooding in the khadar villages because the Darbad Thetha-Sherpur embankment is unfinished, and waterlogged roads and drains, while acknowledging a few new bridge and relief works.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "The pucca bridge over the Bah nala at Chaknawala is built and helps khadar villages",
+      "hindi": "चकनवाला में बाह नाले पर पक्का पुल बन गया, खादर के गांवों को सहूलियत",
+      "inference": false,
+      "basis": "MLA Rajeev Tarara's own nine-year report, as reported by Amar Ujala (28 Mar 2026, Dhanaura Assembly constituency headline): a pucca bridge over the Bah nala opposite Chaknawala, said to help about 18 khadar villages. Built status is the MLA's claim, not independently verified.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-28", "url": "https://www.amarujala.com/video/uttar-pradesh/amroha/video-record-breaking-work-accomplished-in-the-dhanaura-assembly-constituency-over-nine-years-tarara-2026-03-28"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Construction of the bridge on the Papsari Khadar to Paharpur road has started",
+      "hindi": "पपसरी खादर से पहाड़पुर का पुल बनना शुरू, सालों की मांग पूरी हो रही",
+      "inference": false,
+      "basis": "Amar Ujala (27 Apr 2026): construction of a short bridge and approach road over the Wah river on Papsari Khadar-Paharpur road formally started, inaugurated jointly by MP Kanwar Singh Tanwar and MLA Rajiv Tarara. The MLA said it was a long-standing demand now being fulfilled. No cost stated. Work is only started, not completed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-27", "url": "https://www.amarujala.com/uttar-pradesh/amroha/construction-of-bridge-on-papsari-khadar-paharpur-road-begins-jpnagar-news-c-284-1-smbd1013-162393-2026-04-27"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "18 development works worth Rs 103 crore were inaugurated or foundation-stoned for Dhanaura",
+      "hindi": "धनौरा में 103 करोड़ की 18 परियोजनाओं का लोकार्पण और शिलान्यास हुआ",
+      "inference": false,
+      "basis": "Amar Ujala Amroha report (19 Jul 2026) on CM Yogi Adityanath's 43 projects worth Rs 207.49 crore for Amroha district: 18 projects worth Rs 103.13 crore for Dhanaura Assembly constituency, lokarpan and shilanyas. The article lists the sectors as roads, drinking water, health, education, rural development and basic facilities, but does not list the Dhanaura projects one by one or say which are finished. Official event, weak as a positive.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-19", "url": "https://www.amarujala.com/uttar-pradesh/amroha/chief-minister-gifts-43-projects-worth-207-crore-distributes-certificates-to-beneficiaries-jpnagar-news-c-284-1-smbd1013-168501-2026-07-19"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Flood-hit Dhanaura farmers are to get Rs 1.04 crore relief for crop loss",
+      "hindi": "बाढ़ में फसल खराब, धनौरा के किसानों को 1.04 करोड़ की राहत मिलेगी",
+      "inference": false,
+      "basis": "Amar Ujala (12 Oct 2026): 1,077 farmers of Dhanaura to get Rs 1,04,00,000 as relief against crop loss from floods, to be sent online to farmers' accounts; funds reported received on 11 Oct and a distribution event was scheduled for that Monday. Actual transfer not confirmed in the article. Pending benefit, not yet delivered as far as the source shows.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/amroha/2084-flood-affected-farmers-to-receive-relief-worth-167-crore-jpnagar-news-c-284-1-smbd1013-175306-2026-10-12"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "A power station was built at Peli",
+      "hindi": "पेली में बिजलीघर बनवाया गया",
+      "inference": false,
+      "basis": "MLA Rajeev Tarara's own claim, as reported by Amar Ujala (28 Mar 2026). AC membership of Peli is unconfirmed (AC membership unconfirmed), and the claim is not independently verified. Weakest positive.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-28", "url": "https://www.amarujala.com/video/uttar-pradesh/amroha/video-record-breaking-work-accomplished-in-the-dhanaura-assembly-constituency-over-nine-years-tarara-2026-03-28"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Web Sugar Mill Dhanaura still owes farmers about Rs 39 crore for cane",
+      "hindi": "वेब शुगर मिल पर करीब 39 करोड़ का गन्ना बकाया, पैसा कब मिलेगा",
+      "inference": false,
+      "basis": "District Cane Officer Manoj Kumar said about Rs 39 crore is still pending at Web Sugar Mill Dhanaura. Mill management promised Rs 12 crore to farmers' accounts within a day or two and the remaining Rs 27 crore by 31 July 2026 (Amar Ujala, 27 Jul 2026). Payment after that date is not confirmed in sources read.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-27", "url": "https://www.amarujala.com/uttar-pradesh/amroha/farmers-owed-4467-crore-by-three-sugar-mills-jpnagar-news-c-284-1-jpn1023-169167-2026-07-27"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The embankment from Darbad Thetha to Sherpur is unfinished and khadar villages flood every year",
+      "hindi": "तटबंध 14 साल से अधूरा, दरबड़ ठेठ से शेरपुर तक हर साल बाढ़ झेलते हैं",
+      "inference": false,
+      "basis": "Amar Ujala (26 Sep 2026): about 15 km embankment from Darbad Thetha to Sherpur was sanctioned for Rs 30 crore under the BSP government; about 5 km is still unfinished (0.5 km in Bijnor, 4.5 km in Amroha); more than two dozen khadar villages face floods every year; the irrigation department is seeking about Rs 9.5 crore from the state. The MLA also raised embankment funding for Sherpur to Dadwad and Sherpur to Chaknawala in the Assembly (Amar Ujala, 19 Feb 2026). Exact villages in the AC are not named.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/amroha/waiting-for-an-embankment-for-14-years-floods-make-life-miserable-jpnagar-news-c-284-1-smbd1011-173953-2026-09-26"},
+        {"outlet": "Amar Ujala", "date": "2026-02-19", "url": "https://www.amarujala.com/uttar-pradesh/amroha/mla-rajiv-tarara-raised-regional-demands-in-the-house-demanding-the-construction-of-a-government-college-in-dhanaura-jpnagar-news-c-284-1-smbd1013-157706-2026-02-19"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Drains are blocked and dirty water stays on the road in Dhanauri Khurd village",
+      "hindi": "पानी की निकासी नहीं, धनौरी खुर्द में सड़क पर गंदा पानी भरा रहता है",
+      "inference": false,
+      "basis": "Villagers of Dhanauri Khurd gram panchayat protested outside the SDM office on 6 Jun 2026 (Amar Ujala, 7 Jun 2026, dateline Mandi Dhanaura). They said dirty water stays on the road for want of drainage, drains are clogged with waste, and warned of infectious disease. The SDM sent the Naib Tehsildar to inspect; no outcome reported. The village is in the Mandi Dhanaura development block, which the MLA's Feb 2026 Assembly demands treat as his area; block-level membership is inferred, not listed on any AC page read. Field-check the village.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/amroha/villagers-protested-against-the-problem-of-waterlogging-in-dhanauri-khurd-village-jpnagar-news-c-284-1-smbd1011-165363-2026-06-07"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Cane is not lifted on time and weighing stops for many days at the Jabda Tajpur cane centre",
+      "hindi": "जब्दा ताजपुर में गन्ना समय पर नहीं उठता, कई दिन तौल बंद रहती है",
+      "inference": false,
+      "basis": "BKU Mahila Shakti sit-in before the DCO (protest on Thursday, about 8 Oct 2026; Amar Ujala, 9 Oct 2026): Web Sugar Mill Dhanaura's cane purchase centre is in Jabda Tajpur village; cane is not lifted on time and weighing remains stopped for many days (no exact count given). They demanded the centre be relocated. AC membership of Jabda Tajpur is unconfirmed, so it is not counted as AC-specific.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://www.amarujala.com/uttar-pradesh/amroha/bku-mahila-shakti-demanded-the-relocation-of-the-jabda-tajpur-sugarcane-center-before-the-dco-jpnagar-news-c-284-1-smbd1015-175053-2026-10-09"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "A 250-metre paved road at Kuankhera is buried in mud and filth, cutting off about 20 villages",
+      "hindi": "कुआंखेड़ा में 250 मीटर पक्की सड़क कीचड़ में दबी, 20 गांवों का रास्ता बंद",
+      "inference": false,
+      "basis": "Amar Ujala (2 Oct 2026, dateline Mandi Dhanaura): villagers say a roughly 250 m paved road in Kuankhera is covered in mud and filth from lack of cleaning, connects about 20 villages, and they have stopped using it. They allege a former village head had plots laid along the road, lowering it. Demand made to the DM. Presented as allegations. AC membership of Kuankhera is unconfirmed, so it is not counted as AC-specific.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-02", "url": "https://www.amarujala.com/uttar-pradesh/amroha/two-days-of-rain-have-deepened-the-wounds-on-the-roads-jpnagar-news-c-284-1-smbd1013-174420-2026-10-02"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "Identity: AC 39 Dhanaura (SC), district Amroha, confirmed by the Wikipedia constituency list and the Amroha district polling-station list (amroha.nic.in, 39 - Dhanaura (SC)). Wikipedia's Dhanaura AC page gives no tehsil or village extent, and the indiastat factbook puts it in Jyotiba Phule Nagar, which conflicts; Amroha is used. The MLA is Rajeev Tarara per Amar Ujala; the factbook gives Rajeev Kumar. One Amar Ujala line (28 Mar 2026) calls him MLA Gajraula, probably an error. AC membership is only partly confirmed: Dhanaura town and Mandi Dhanaura demands are MLA-linked, but the full list of villages in the AC was not found. Papsari Khadar, Chaknawala, Sherpur and Dhanauri Khurd are not explicitly placed in the AC on any page read; field-check them. Jabda Tajpur, Kuankhera and Peli are not confirmed as inside the AC. Weak sources: the bridge, relief and project items come from one MLA or government event each, and no voter quotes were found for positives. Relief of Rs 1.04 crore and the sugar mill payments are pending or unverified after the reported dates. Oct 2026 Amar Ujala reports one 50 lakh drainage plan for 16 gram panchayats of Mandi Dhanaura block (3 Oct 2026, not used as a negative because it is a plan). Searched Bagad river pollution (a 2022 Janchowk report on Dhanaura, not used for recency reasons; no 2024-2026 Hindi report found). Several power-cut reports name Dhanaura substation, but no village-specific outage for Dhanaura was found that could be used. Canonical Amar Ujala URLs used throughout; aggregators such as ChiniMandi and Royal Bulletin were not cited."
+}
