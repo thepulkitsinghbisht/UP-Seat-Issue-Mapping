@@ -1,0 +1,117 @@
+{
+  "ac_no": 42,
+  "ac_name": "Hasanpur",
+  "ac_name_hindi": "हसनपुर",
+  "reserved": "None",
+  "district": "Amroha",
+  "region": "Paschim UP",
+  "summary": "Voters in Hasanpur town mostly complain about long power cuts that also hit drinking water, stray dogs attacking children, and potholed roads, while the main appreciation is the Ganga Expressway passing through the area and the sealing of unregistered clinics.",
+  "identity_source": "https://en.wikipedia.org/wiki/Hasanpur,_Uttar_Pradesh_Assembly_constituency",
+  "ac_specific_negatives": 3,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "The Ganga Expressway passing through our area is a big thing",
+      "hindi": "हमारे इलाके से गंगा एक्सप्रेसवे गुजरा, यह बड़ी बात है",
+      "inference": false,
+      "basis": "Local MLA Mahendra Singh Khadgavanshi said the Ganga Expressway passing from here is good fortune for the region; dateline Hasanpur (Amar Ujala, 30 Apr 2026, reporting the PM's inauguration in Hardoi). This is the MLA's statement, not a voter's, and it does not describe any local benefit yet.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-30", "url": "https://www.amarujala.com/uttar-pradesh/amroha/for-the-attention-of-other-centres-ganga-expressway-will-become-the-axis-of-development-of-uttar-pradesh-kp-malik-jpnagar-news-c-284-1-smbd1016-162580-2026-04-30"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "If the cane survey has a mistake, it is being corrected right in the village",
+      "hindi": "गन्ना सर्वे में गलती हो तो गांव में ही सुधार हो रहा है",
+      "inference": false,
+      "basis": "District-level, not Hasanpur-specific: Amar Ujala (Amroha, 27 Jul 2026) says 88 teams of three officials were sent to villages to check survey records and resolve objections on the spot, and farmers were urged to report errors for immediate correction.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-27", "url": "https://www.amarujala.com/uttar-pradesh/amroha/farmers-owed-4467-crore-by-three-sugar-mills-jpnagar-news-c-284-1-jpn1023-169167-2026-07-27"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Clinics running without registration in Hasanpur have been sealed",
+      "hindi": "बिना रजिस्ट्रेशन चल रहे क्लीनिक पर कार्रवाई हुई",
+      "inference": false,
+      "basis": "Amar Ujala (Moradabad Bureau, 7 Oct 2026): a health team sealed New Family Health Care Centre on Rahra Road, Hasanpur town, for running without registration, and gave a notice to Saloni Baal Clinic on the same road. The article says the raids followed complaints but does not say who complained. An enforcement action, not a voter's view.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-07", "url": "https://www.amarujala.com/uttar-pradesh/amroha/two-clinics-sealed-in-hasanpur-and-adampur-notice-issued-to-one-jpnagar-news-c-284-1-smbd1016-174899-2026-10-07"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Basic first treatment is available at the Hasanpur CHC",
+      "hindi": "*सीएचसी में पहला इलाज मिल जाता है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (19 Jun 2026) shows the CHC in Hasanpur gave an injured child first treatment and referred him to the district hospital, but no resident praised the CHC and no later report was found. Weakest positive; field check needed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-06-19", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/amroha-dogs-kept-mauling-a-helpless-deaf-mute-child-he-writhed-in-pain-2026-06-19"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Officials say the 10-hour power cut was notified a day in advance",
+      "hindi": "*बिजली कटौती से पहले सूचना दी गई थी",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (13 Apr 2026) quotes SDO Mithlesh Kumar saying officials shared notice of the cut a day earlier. This is the official's claim, not a voter's view, and residents were not quoted. Weakest positive; field check needed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-13", "url": "https://www.amarujala.com/uttar-pradesh/amroha/power-supply-remained-disrupted-for-10-hours-in-hasanpur-jpnagar-news-c-284-1-smbd1016-161450-2026-04-13"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Power was cut for 10 hours in Hasanpur and drinking water also became a problem",
+      "hindi": "10 घंटे बिजली बंद रही, पीने के पानी तक की दिक्कत हुई",
+      "inference": false,
+      "basis": "Amar Ujala (13 Apr 2026): supply to Hasanpur town was cut from about 9 AM to about 7:45 PM on 12 Apr 2026 for replacement of a VCB at the 33/11 kV Hasanpur Town substation. The report says the lack of power caused drinking-water problems for people. Residents are not directly quoted. AC membership: Hasanpur town is the AC's namesake town (Wikipedia AC page); the AC's full extent was not listed there.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-13", "url": "https://www.amarujala.com/uttar-pradesh/amroha/power-supply-remained-disrupted-for-10-hours-in-hasanpur-jpnagar-news-c-284-1-smbd1016-161450-2026-04-13"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Stray dogs are attacking children and no action is taken even after complaints",
+      "hindi": "आवारा कुत्ते बच्चों को काट रहे हैं, शिकायत पर कार्रवाई नहीं",
+      "inference": false,
+      "basis": "Amar Ujala (19 Jun 2026), dateline Hasanpur, Abdullah Colony on Sambhal Road: a pack of stray dogs mauled a 7-year-old deaf-mute boy on Thursday night. Residents said stray dogs had attacked three children in four months and that written and verbal complaints to the nagar palika had led to no action. These are residents' allegations as reported.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-06-19", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/amroha-dogs-kept-mauling-a-helpless-deaf-mute-child-he-writhed-in-pain-2026-06-19"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The sugarcane payment is stuck and crores of rupees are still owed",
+      "hindi": "गन्ने के करोड़ों रुपये बकाया हैं, भुगतान अटका पड़ा है",
+      "inference": false,
+      "basis": "District-level, not Hasanpur-specific: Amar Ujala (Amroha, 27 Jul 2026) says three mills owe Rs 44.67 crore in total: Web Sugar Mill Dhanaura over Rs 39 crore, Rana Sugar Mill Belwara about Rs 4 crore, Karimganj Sugar Mill Shahabad Rs 1.67 crore. Hasanpur mill is named as one of the 10 mills Amroha farmers supply but is not among the three with dues.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-27", "url": "https://www.amarujala.com/uttar-pradesh/amroha/farmers-owed-4467-crore-by-three-sugar-mills-jpnagar-news-c-284-1-jpn1023-169167-2026-07-27"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The Hasanpur to Rahra road has deep potholes and is hard to use in the rain",
+      "hindi": "हसनपुर-राहरा रोड पर गहरे गड्ढे, बारिश में निकलना मुश्किल",
+      "inference": false,
+      "basis": "Amar Ujala (Moradabad Bureau, 2 Oct 2026): after two days of rain, the Hasanpur-Rahra route has deep potholes, worst near Rustampur Khadar; two-wheelers slip and traffic jams form. The Hasanpur end is in the AC town. Whether Rustampur Khadar and Rahra lie inside the AC is not confirmed. The same article also reports the Kuanakhera road in Mandi Dhanaura block and waterlogging on Hasanpur-area link roads.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-02", "url": "https://www.amarujala.com/uttar-pradesh/amroha/two-days-of-rain-have-deepened-the-wounds-on-the-roads-jpnagar-news-c-284-1-smbd1013-174420-2026-10-02"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Rukhalu village has had mud and waterlogging for five years and the road was never built",
+      "hindi": "रूखालू गांव में पांच साल से कीचड़, सड़क नहीं बनी",
+      "inference": false,
+      "basis": "AC membership unconfirmed: Univarta (8 Oct 2026) places Rukhalu in Hasanpur tehsil, which is not the same as the AC. About 15 to 20 families affected; villagers held a dharna at the tehsil and warned of leaving the village. Same complaint in Amrit Vichar (21 May 2025), which says the village is in Hasanpur tehsil. The Univarta article is paywalled after the opening.",
+      "sources": [
+        {"outlet": "Univarta", "date": "2026-10-08", "url": "https://univarta.com/%E0%A4%B2%E0%A4%96%E0%A4%A8%E0%A4%8A/%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%B5-%E0%A4%AA%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%A8-%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A5%80/207588"},
+        {"outlet": "Amrit Vichar", "date": "2025-05-21", "url": "https://www.amritvichar.com/article/539045/waterlogging-on-amroha-roads"}
+      ]
+    }
+  ],
+  "notes": "Thin local evidence: only three positives are sourced and two are flagged inference; the sourced positives are district-level or an MLA's statement, and voters' praise for Hasanpur was not found in 2024-2026 reporting. AC extent is not confirmed: Wikipedia's Hasanpur AC page does not list tehsils, blocks or villages, so membership of Rukhalu (Hasanpur tehsil) and Rustampur Khadar/Rahra is unconfirmed. Ujhari (nagar panchayat, Hasanpur tehsil) was seen in a 2026 power-line protest report but was not used. The Hasanpur AC MLA on the Wikipedia page is Mahendra Singh Khadgavanshi (BJP, 2022); spelling varies across sources. Hasanpur town is the AC's namesake town, but no source states its AC membership explicitly. The Janchowk 2022 report on this AC (flooding, Nal Jal scheme, no health facility in Batupura) was not used because it is pre-2024. The Amar Ujala (7 Oct 2026) clinic sealing is an enforcement action, and the Amar Ujala (8 Oct 2026) farmers' hunger strike (BKU Shankar, collectorate) demands include cane payment and NH-734 service road, but Hasanpur was not named, so it was not used. Field check needed on electricity supply, stray dogs, and the Hasanpur-Rahra road."
+}

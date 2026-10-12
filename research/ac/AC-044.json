@@ -1,0 +1,156 @@
+{
+  "ac_no": 44,
+  "ac_name": "Sardhana",
+  "ac_name_hindi": "सरधना",
+  "reserved": "None",
+  "district": "Meerut",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on Sardhana Nagar Palika failures (waterlogging, roads dug up for pipelines, a pipeline burst that cut water, alleged financial irregularities) plus power cuts from a transformer fault, while appreciation is thin and limited to a started culvert ramp, a seven-day welfare camp and a 2023 road approval.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 44: Sardhana, reserved None; district Meerut from the spanning district cell, row 43 Siwalkhas also Meerut); https://en.wikipedia.org/wiki/Sardhana_Assembly_constituency (Constituency No. 44, Meerut district, reserved None, MLA Atul Pradhan SP since 2022)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Work has started on the Daurala Road culvert ramp in Sardhana, so accidents should drop",
+      "hindi": "सरधना में दौराला रोड की पुलिया पर रैंप का काम शुरू हुआ, हादसे कम होंगे",
+      "inference": false,
+      "basis": "AC-specific (Sardhana town, article datelined Sardhana): ramp work started on the under-construction culvert on Daurala Road; residents said the culvert without a ramp caused frequent accidents. Construction has just started; no completion date given",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/ramp-construction-begins-on-daurala-road-culvert-will-provide-relief-from-accidents-meerut-news-c-44-1-smrt1055-112449-2026-05-24"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "A seven-day camp at the Nagar Palika gives welfare scheme benefits on the spot",
+      "hindi": "नगर पालिका में सात दिन का सेवा शिविर, योजनाओं का लाभ मौके पर",
+      "inference": false,
+      "basis": "AC-specific (Sardhana Nagar Palika premises): seven-day Sewa Sankalp Abhiyan camp where health, social welfare and education officials help eligible people get state scheme benefits on the spot; article says a large number of residents visit daily; no scheme named in the article",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/seven-day-multi-purpose-service-camp-inaugurated-in-sardhana-meerut-news-c-44-1-smrt1055-113830-2026-10-05"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Low voltage fault at St Joseph college in Sardhana was fixed and power restored",
+      "hindi": "सरधना में लो वोल्टेज की खराबी ठीक हुई, बिजली सामान्य हुई",
+      "inference": false,
+      "basis": "AC-specific (Sardhana town): power corporation team removed a technical fault after complaints about low voltage at St Joseph Girls Degree College; supply restored; SDM ordered an inquiry. This is one incident at one college, not a town-wide fix",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-18",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-sardhana-students-fall-ill-due-to-low-voltage-at-st-joseph-college-probe-ordered-2026-07-18"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Approval for 50 roads in Sardhana constituency came in 2023, but completion is unconfirmed",
+      "hindi": "*सरधना विधानसभा में 50 सड़कों की मंजूरी तो मिली, काम कितना हुआ पता नहीं",
+      "inference": true,
+      "basis": "Inference: approval only (8 Feb 2023). Article names Sardhana Vidhan Sabha constituency: 50 roads, 87 km, Rs 14.23 crore, approved on a proposal by Union minister Sanjeev Balyan; work described in future tense. No completion report found, so treated as a weak positive pending field check",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2023-02-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/approval-for-the-construction-of-50-roads-in-sardhana-sardana-news-c-14-1-109521-2023-02-08"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Some Meerut sugar mills have cleared cane dues, so farmers got some relief",
+      "hindi": "*मेरठ की कुछ चीनी मिलों ने गन्ने का बकाया भुगतान कर दिया, किसानों को राहत",
+      "inference": true,
+      "basis": "Inference: district-level, not Sardhana-specific. Article (2 Dec 2025) says five of six Meerut-region mills (Daurala, Mawana, Nanglamal, Mohiuddinpur, Sakhoti) cleared payments for cane procured up to 22 Nov, Rs 229 crore in total. Sardhana and its serving mill are not named; Kinauni mill is lagging",
+      "sources": [
+        {
+          "outlet": "ChiniMandi",
+          "date": "2025-12-02",
+          "url": "https://www.chinimandi.com/meerut-five-sugar-mills-clear-on-time-sugarcane-payments/"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Pipeline digging on Tehsil Road burst the old line and water stopped for the day",
+      "hindi": "सरधना में पाइपलाइन खुदाई में पुरानी लाइन फटी, पूरे दिन पानी बंद रहा",
+      "inference": false,
+      "basis": "AC-specific (Tehsil Road, Sardhana town): Jal Nigam was digging to lay a new pipeline when the old line burst; taps ran dry from morning and a large part of the town lost water; supply not fully restored when written; residents blamed careless digging; chairperson Sabila Begum blamed Jal Nigam disorganisation",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-10",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/while-laying-a-new-pipeline-the-old-line-burst-disrupting-water-supply-to-half-the-town-meerut-news-c-44-1-smrt1055-111941-2026-04-10"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Rain floods Tehsil Road, Lashkarganj and other Sardhana markets, people wade through water",
+      "hindi": "बारिश में तहसील रोड, लश्करगंज में पानी भर जाता है",
+      "inference": false,
+      "basis": "AC-specific (Sardhana town): after heavy rain on 28 Sep 2026 waterlogging hit Tehsil Road, Ashok ki Laat, Gujran Gate, Ramleela Ground, Lashkarganj and Kalandh Chungi; pedestrians waded, two-wheeler and e-rickshaw drivers struggled, shopkeepers lost customers; residents asked for permanent fix; no official response reported",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/rain-turns-sardhanas-roads-into-ponds-meerut-news-c-44-1-smrt1055-113741-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Roads dug for pipelines in many Sardhana wards are waiting for repair",
+      "hindi": "पाइपलाइन के लिए खुदी सड़कें कई वार्डों में मरम्मत की राह देख रहीं",
+      "inference": false,
+      "basis": "AC-specific (Sardhana Nagar Palika, 25 wards): Amrit 2.0 Jal Jeevan pipeline of about 70 km, Rs 35 crore; damaged roads listed in many wards (e.g. Mandi Chamaran, Town Hall Road, Gujran Gate); councillors say uneven lanes make two-wheeler travel hard; Jal Nigam engineer said repairs after monsoon, all work by February of next year; official claim of about 70% work done",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/pipelines-were-laid-roads-were-dug-up-and-repairs-were-forgotten-meerut-news-c-44-1-smrt1055-113488-2026-09-05"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Allegations of irregular purchases and payments at Sardhana municipality, inquiry demanded",
+      "hindi": "सरधना नगर पालिका में खरीद और भुगतान में गड़बड़ी का आरोप, जांच की मांग",
+      "inference": false,
+      "basis": "AC-specific (Sardhana Nagar Palika): Bhrashtachar Nivaran Regulation Front press conference on 1 Oct 2026 alleged about Rs 50 crore irregularity in GeM purchases, about Rs 10 crore drain-work payments, about Rs 55 crore pipeline and other scrutiny, a repeated garbage-depot payment and two Amrit pond tenders; Congress leader Jitendra Panchal backed an inquiry; no municipal or official response in article; allegations only",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/serious-allegations-of-corruption-against-sardhana-municipality-demand-for-an-inquiry-meerut-news-c-44-1-smrt1055-113786-2026-10-01"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Transformer fault in Mandi Chamaran and Prabhat Nagar, power cut for several days",
+      "hindi": "मंडी चमारान, प्रभात नगर में ट्रांसफार्मर खराब, कई दिन से बिजली की दिक्कत",
+      "inference": false,
+      "basis": "AC-specific (Sardhana town localities Mandi Chamaran and Prabhat Nagar): irregular supply for several days after a transformer fault; residents complained repeatedly without a fix; protest against the power utility with warning of stronger agitation; page reports no action by the power company or officials",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-03",
+          "url": "https://www.amarujala.com/video-shots/uttar-pradesh/meerut/video-meerut-public-anger-erupts-over-power-cuts-in-sardhana-2026-07-03"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 5,
+  "notes": "AC confirmed as No. 44 Sardhana, Meerut district, reserved None (Wikipedia list row 44; district from the spanning cell, checked against row 43 Siwalkhas, Meerut, and the AC page). The Wikipedia AC pages give no tehsil, kanungo or nagar palika extent. Sardhana town membership rests on news reports: Amar Ujala (17 Sep 2026, https://www.amarujala.com/uttar-pradesh/meerut/meerut-youth-behaves-rudely-with-mla-atul-pradhan-in-sardhana-mla-says-some-people-are-intoxicated-by-power-2026-09-17) is datelined Sardhana and calls Atul Pradhan the Sardhana MLA; Hindi Wikipedia calls Sardhana the Meerut tehsil HQ but does not give AC extent. Ward-level membership was not verified against the delimitation notification, so a field check is advised. Not used: Sardhana-Binauli road potholes and waterlogging near Qasba Harra (29 Sep 2026), because Harra's AC membership is unconfirmed; Sardhana-Daurala road truck parking (26 Jul 2026), because the stretch's AC membership was not confirmed; Atul Pradhan personal altercation at Salawa (not a voter issue); electoral results (not used per rules). Weak positives: P3 is one college incident; P4 is a 2023 approval with no completion report; P5 is district-level, and the Sardhana-serving mill is unidentified. No Sardhana-specific sugarcane dues, water or electricity news beyond the items above was found. Jal Nigam promised pipeline and road repair by February of next year; that is a promise, not used as a positive. Field check recommended on the Tehsil Road water supply, the Daurala culvert ramp, the 2023 road approvals, and ward-level power cuts."
+}
