@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Shamli sugar mill has paid farmers 32 crore rupees in three installments this season.",
-      "hindi": "शामली मिल ने तीन किस्तों में किसानों को 32 करोड़ दिए",
+      "english": "The Shamli mill has given us farmers 32 crore rupees in three instalments",
+      "hindi": "शामली मिल ने तीन किस्तों में हम किसानों को 32 करोड़ रुपये दिए",
       "inference": false,
       "basis": "District-level (Shamli chini mill; mill location within AC not separately verified). Source states: \"शामली चीनी मिल नए पेराई सत्र में किसानों के 32 करोड़ रुपये तीन किस्तों में जारी कर चुकी है\" (2025-26 season, article dated 6 Dec 2025). Verified by fetching www.amarujala.com.",
       "sources": [
@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "State bill relief scheme covers about 45,000 Shamli district consumers; it ran 1 Dec 2025 to 28 Feb 2026.",
-      "hindi": "बिजली बिल राहत योजना आई, शामली के 45 हजार उपभोक्ताओं को लाभ",
+      "english": "A power bill relief scheme came for about 45,000 consumers in Shamli district",
+      "hindi": "बिजली बिल राहत योजना शामली के 45 हजार उपभोक्ताओं के लिए आई थी",
       "inference": false,
       "basis": "District-level. Article (18 Nov 2025) says the UP Power Corporation bill relief scheme begins 1 Dec and runs to 28 Feb 2026, covering about 45,000 domestic and commercial consumers in Shamli district. Scheme has already ended; positive is historical, not current.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "Bhainswal bypass underpass, meant to ease city jams, is under construction and was planned to open in June.",
-      "hindi": "भैंसवाल अंडरपास बन रहा है, शहर के जाम से राहत की उम्मीद",
+      "english": "The Bhainswal underpass is being built, and we hope for relief from city jams",
+      "hindi": "भैंसवाल अंडरपास बन रहा है, शहर के जाम से राहत की उम्मीद है",
       "inference": false,
       "basis": "Shamli city (district HQ link). Article (6 Apr 2026): underpass work by Northern Railway contractor for three months; \"भैंसवाल मिनी बाईपास का अंडरपास जून माह में चालू हो जाएगा\"; \"शहर के जाम से छुटकारा मिलेगा\"; PWD Shamli released funds. Completion or opening after June 2026 not confirmed.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "Repair of the Kabaudh bridge on the Meerut-Karnal highway is in its final stage.",
-      "hindi": "मेरठ-करनाल हाईवे पर काबड़ौत पुल की मरम्मत आखिरी चरण में",
+      "english": "Repairs on the Kabaudh bridge on the Meerut-Karnal highway are in the final stage",
+      "hindi": "मेरठ-करनाल हाईवे के काबड़ौत पुल की मरम्मत आखिरी चरण में है",
       "inference": false,
       "basis": "District-level (Meerut-Karnal highway, Shamli district; AC location not verified). PWD Executive Engineer said the \"काबड़ौत पुल की मरम्मत अंतिम चरण में है\" with one lane closed, per the DISHA meeting report (meeting 26 Nov 2025, article 27 Nov 2025).",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "Administration is looking for a new site for a Kendriya Vidyalaya, with a temporary school proposed meanwhile.",
-      "hindi": "केंद्रीय विद्यालय की नई जगह खोजी जा रही, अस्थायी स्कूल प्रस्तावित",
+      "english": "A new site for the Kendriya Vidyalaya is being searched for, and a temporary school is proposed",
+      "hindi": "केंद्रीय विद्यालय की नई जगह खोजी जा रही है, अस्थायी स्कूल प्रस्तावित",
       "inference": false,
       "basis": "District-level (Shamli). DISHA report (27 Nov 2025): \"विद्यालय के लिए नई भूमि तलाश की जा रही है, जिसका कार्य एक माह में पूरा कर लिया जाएगा\"; temporary school at VV Inter College proposed. Still a proposal; no completion reported.",
       "sources": [
@@ -62,7 +62,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Smart meter cuts left some Shamli city homes without power for days, even after bills were paid.",
+      "english": "We paid the bill, but power did not come back from the smart meter",
       "hindi": "बिल जमा कर दिया, फिर भी स्मार्ट मीटर से बिजली नहीं आई",
       "inference": false,
       "basis": "AC-specific (Shamli city, Shamli tehsil fully in AC 10). Article (published 29 Mar 2026) reports that on a Saturday (28 Mar 2026, date inferred from publication date) hundreds of homes lost power via smart meters; at City Bijlighar consumers said they paid dues but supply was not restored; some households without power 2-3 days (consumers' claim). SE Virendra Singh said disconnection is for non-recharged meters.",
@@ -72,7 +72,7 @@
     },
     {
       "rank": 2,
-      "english": "Heavy rain turns Verma Market, Mill Road and Bada Bazar into waterlogged spots.",
+      "english": "In rain, water fills Verma Market, Mill Road and Bada Bazar",
       "hindi": "बारिश में वर्मा मार्केट, मिल रोड और बड़ा बाजार में पानी भर गया",
       "inference": false,
       "basis": "AC-specific (Shamli town markets). On Tue 4 Aug 2026 rain waterlogged \"वर्मा मार्केट, मिल रोड और बड़ा बाजार समेत कई इलाकों\"; pedestrians and drivers faced trouble. Video report; no official or resident quotes in the report.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": 3,
-      "english": "Roads broken by Jal Jeevan Mission pipeline work in Kandhla and Aldi drew complaints at the DISHA meeting.",
-      "hindi": "जल जीवन मिशन से टूटी कांधला, आल्दी की सड़कों पर शिकायत",
+      "english": "Roads in Kandhla and Aldi were broken by Jal Jeevan Mission pipeline work, and complaints were raised",
+      "hindi": "जल जीवन मिशन की पाइपलाइन से कांधला, आल्दी की सड़कें टूटीं, शिकायत हुई",
       "inference": false,
       "basis": "AC-specific: Kandhla (Kandhala) and Aldi (Aaldi) are both listed in the Shamli AC 10 area on the Wikipedia AC page (Kairana tehsil). DISHA report (27 Nov 2025): an MLC and MLA disputed the department's claim of 106 roads repaired; Kandhla and Kasaupur roads cited; a person at the meeting confirmed no repair in Budhpura and Aldi; Kairana MP Iqra Hasan ordered immediate repair and warned of action if no improvement by the April DISHA meeting. Budhpura is not placed in AC 10 and is not used in the English line.",
       "sources": [
@@ -92,7 +92,7 @@
     },
     {
       "rank": 4,
-      "english": "Action was demanded over the viral video of Kandhla CHC at the DISHA meeting.",
+      "english": "At a meeting, action was raised over a viral video of the Kandhla CHC",
       "hindi": "कांधला सीएचसी के वायरल वीडियो पर कार्रवाई की बात उठी",
       "inference": false,
       "basis": "AC-specific: Kandhla (Kandhala) is listed among AC 10 areas on the Wikipedia Shamli AC page. DISHA report (27 Nov 2025) lists \"कांधला सीएचसी के वायरल वीडियो पर कार्रवाई\" among issues raised; no further detail in the report, so the English line states only that action was raised.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": 5,
-      "english": "A server outage at Shamli district hospital stopped test reports for about two hours.",
-      "hindi": "जिला अस्पताल में सर्वर डाउन, जांच रिपोर्ट के लिए मरीज परेशान",
+      "english": "Server down at the district hospital, no test reports for two hours, and patients were troubled",
+      "hindi": "जिला अस्पताल में सर्वर डाउन, दो घंटे जांच रिपोर्ट नहीं मिली, मरीज परेशान",
       "inference": false,
       "basis": "AC-specific (Shamli district hospital, Shamli town; Shamli tehsil fully in AC 10). Article (Fri 10 Apr 2026): CBC machine repaired, but on Thursday (9 Apr 2026) server down meant reports could not be issued; a crowd of patients waited about two hours. CMS Dr. Kishor Kumar Ahuja said he had not been informed of the outage.",
       "sources": [
@@ -117,5 +117,5 @@
     "ac_specific_negatives": 5,
     "changes": "1) Replaced spidertest.amarujala.com with www.amarujala.com for the 6 Dec 2025 mill article (www opens, same article). 2) Removed Oon mill positive (Oon is a tehsil not placed in AC 10 on Wikipedia), Thana Bhawan mill negative (Thana Bhawan is a separate AC), and Mansura road negative (Mansura/Jhinjhana not placed in AC 10). 3) Confirmed Kandhala and Aaldi are listed in AC 10 on the Wikipedia AC page. 4) Added sourced items: bill relief scheme (18 Nov 2025), Bhainswal underpass (6 Apr 2026), JJM roads in Kandhla/Aldi (DISHA, 27 Nov 2025), district hospital CBC server outage (10 Apr 2026). 5) Kandhla CHC line narrowed to what the DISHA report states. 6) Kabaudh spelled as in the article (काबड़ौत). 7) Smart-meter date marked as inferred from 'Saturday' in the 29 Mar 2026 article. 8) Re-ranked all items by likely vote impact."
   },
-  "notes": "Search budget: about 25 WebSearch calls total (6 in round 1, 19 in round 2), plus about 20 page fetches. Verified every cited URL by fetch; the Oon, Thana Bhawan and Mansura sources were fetched and found to support their facts, but those places are outside AC 10 so they were removed. Kandhla AC membership rests on the undated Wikipedia AC page (lists 'Kandhala'); check against the ECI delimitation order before field use. Shamli district hospital and Shamli city markets are assumed to lie in Shamli town (Shamli tehsil, wholly in AC 10 per Wikipedia), not verified against a map. Still unverified: AC location of Kabaudh bridge and Shamli chini mill. Positives are mostly district-level; the only AC-town positive is the Bhainswal underpass, whose June 2026 opening is not confirmed. The bill relief scheme ended 28 Feb 2026 and is historical. No 2026 sugarcane-dues negative with an AC-specific source was found (remaining cane-dues reports concern Thana Bhawan or Oon). Not found: 2026 Shamli city road or drain complaints, stray cattle reports for Shamli, completed Shamli city road/bridge inaugurations, Kendriya Vidyalaya land outcome. Excluded: 2021 Shamli city waterlogging article (4 Aug 2021), 2022 Oon mill ADM article, 2025 Shamli smart-meter statements not re-checked. Hindi AC name and place spellings (कांधला, आल्दी, काबड़ौत) are as printed in the sources, not checked against an official Hindi source."
+  "notes": "Voice pass (round 3, text only): all positives 1 to 5 and negatives 1 to 5 reworded to voter voice, with English aligned to Hindi and full stops removed. POSSIBLY OUTDATED: P2, the bill relief scheme, ran 1 Dec 2025 to 28 Feb 2026 and has ended (basis), so keep it only as a historical item and check before publishing. N1 is a consumers' account; the SE said disconnection was for non-recharged meters. P5 is a proposal only, with no site found yet. Search budget: about 25 WebSearch calls total (6 in round 1, 19 in round 2), plus about 20 page fetches. Verified every cited URL by fetch; the Oon, Thana Bhawan and Mansura sources were fetched and found to support their facts, but those places are outside AC 10 so they were removed. Kandhla AC membership rests on the undated Wikipedia AC page (lists 'Kandhala'); check against the ECI delimitation order before field use. Shamli district hospital and Shamli city markets are assumed to lie in Shamli town (Shamli tehsil, wholly in AC 10 per Wikipedia), not verified against a map. Still unverified: AC location of Kabaudh bridge and Shamli chini mill. Positives are mostly district-level; the only AC-town positive is the Bhainswal underpass, whose June 2026 opening is not confirmed. The bill relief scheme ended 28 Feb 2026 and is historical. No 2026 sugarcane-dues negative with an AC-specific source was found (remaining cane-dues reports concern Thana Bhawan or Oon). Not found: 2026 Shamli city road or drain complaints, stray cattle reports for Shamli, completed Shamli city road/bridge inaugurations, Kendriya Vidyalaya land outcome. Excluded: 2021 Shamli city waterlogging article (4 Aug 2021), 2022 Oon mill ADM article, 2025 Shamli smart-meter statements not re-checked. Hindi AC name and place spellings (कांधला, आल्दी, काबड़ौत) are as printed in the sources, not checked against an official Hindi source."
 }
