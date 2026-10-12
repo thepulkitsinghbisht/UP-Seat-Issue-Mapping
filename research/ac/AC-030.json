@@ -1,0 +1,153 @@
+{
+ "ac_no": 30,
+ "ac_name": "Bilari",
+ "ac_name_hindi": "बिलारी",
+ "reserved": "None",
+ "district": "Moradabad",
+ "region": "Rohilkhand",
+ "summary": "Voters in Bilari mostly complain about electricity safety after a death from low-hanging wires, unpaid sugar cane dues, waterlogged roads, unpaved colony roads and stalled village water tanks, with few sourced benefits found.",
+ "identity_source": "https://en.wikipedia.org/wiki/Bilari_(Assembly_constituency)",
+ "ac_specific_negatives": 4,
+ "positives": [
+  {
+   "rank": 1,
+   "english": "Underground pipelines have been laid, only the tank is still pending",
+   "hindi": "भूमिगत पाइपलाइन बिछ गई है, बस टंकी बाकी है",
+   "inference": false,
+   "basis": "Villagers of Sherpur Mafi village (Bilari block) said underground water pipelines were laid about two years ago, but no water tank has been built yet (Amar Ujala, Bilari (Moradabad) dateline, 13 Jun 2026). Weak positive: the work is partly done; the source is a complaint.",
+   "sources": [
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-06-13",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/issues-regarding-roads-water-and-electricity-came-to-light-bilari-news-c-276-1-smbd1006-112133-2026-06-13"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "english": "A case has been registered against the mill owner over cane dues",
+   "hindi": "मिल मालिक पर गन्ना बकाया का केस दर्ज हुआ है",
+   "inference": false,
+   "basis": "Police case registered at Bilari police station against the owner of the Ayodhya sugar mill in Bilari and two others over unpaid cane dues (Patrika, 4 Sep 2025). Weak positive: this is a case, not a payment; the dues were still outstanding in that report.",
+   "sources": [
+    {
+     "outlet": "Patrika",
+     "date": "2025-09-04",
+     "url": "https://www.patrika.com/moradabad-news/up-sugar-mill-due-payment-case-moradabad-bilari-farmers-protest-19916564"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "english": "*Free ration grain is being received",
+   "hindi": "*राशन में मुफ्त अनाज मिल रहा है",
+   "inference": true,
+   "basis": "Inference: no Bilari-specific source found in searches; free ration (PMGKAY) is a central scheme running in UP. Not verified for Bilari.",
+   "sources": []
+  },
+  {
+   "rank": 4,
+   "english": "*Some families have received a house under a government housing scheme",
+   "hindi": "*सरकारी आवास योजना से कुछ परिवारों को घर मिला है",
+   "inference": true,
+   "basis": "Inference: no Bilari-specific source found; housing schemes operate in UP, but no Bilari beneficiary report was found.",
+   "sources": []
+  },
+  {
+   "rank": 5,
+   "english": "*Ujjwala gas connections have reduced smoke from stoves",
+   "hindi": "*उज्ज्वला गैस कनेक्शन से चूल्हे का धुआं कम हुआ है",
+   "inference": true,
+   "basis": "Inference: no Bilari-specific source found; a general UP-wide scheme assumed to reach some Bilari households. Not verified.",
+   "sources": []
+  }
+ ],
+ "negatives": [
+  {
+   "rank": 1,
+   "english": "In Veer Nagar a life was lost to hanging wires, the power department is careless",
+   "hindi": "वीरनगर में लटके तारों से जान गई, बिजली निगम लापरवाह है",
+   "inference": false,
+   "basis": "Young qawwal Babloo Masoodi died from current of low-hanging wires in Veer Nagar mohalla, Bilari, on a Friday night. Several neighbourhoods protested; councillors blamed the power department's negligence (Amar Ujala, Bilari dateline, 11 Oct 2026). Allegation by councillors and residents.",
+   "sources": [
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-10-11",
+     "url": "https://amarujala.com/uttar-pradesh/moradabad/residents-of-several-neighborhoods-staged-a-protest-against-the-electricity-department-moradabad-news-c-276-1-smbd1006-113328-2026-10-11"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "english": "Farmers say about 40 crore rupees in cane dues is still owed by the sugar mill",
+   "hindi": "किसानों का करीब 40 करोड़ बकाया है चीनी मिल पर",
+   "inference": false,
+   "basis": "Ayodhya sugar mill in Bilari: Rs 39.91 crore 'अब भी बकाया है' per Patrika report (published 4 Sep 2025); Amar Ujala Oct 2025 gave the Bilari cooperative cane committee's dues as Rs 33 crore. Figures differ by source; current status not found.",
+   "sources": [
+    {
+     "outlet": "Patrika",
+     "date": "2025-09-04",
+     "url": "https://www.patrika.com/moradabad-news/up-sugar-mill-due-payment-case-moradabad-bilari-farmers-protest-19916564"
+    },
+    {
+     "outlet": "Amar Ujala",
+     "date": "2025-10-01",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/33-crore-dues-on-bilari-sugar-mill-bilari-news-c-276-1-smbd1006-109376-2025-10-01"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "english": "Pipelines were laid, but no tank was built and we do not get water",
+   "hindi": "पाइपलाइन बिछी, पर टंकी नहीं बनी, पानी नहीं मिलता",
+   "inference": false,
+   "basis": "Sherpur Mafi village, Bilari block: villagers said pipelines were laid about two years ago, no water tank built, and drinking water supply not received; road to Ramratan Inter College ground still unpaved; power not supplied per schedule (Amar Ujala, Bilari dateline, 13 Jun 2026). AC membership of this village not separately confirmed.",
+   "sources": [
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-06-13",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/issues-regarding-roads-water-and-electricity-came-to-light-bilari-news-c-276-1-smbd1006-112133-2026-06-13"
+    },
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-08-06",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/the-sp-mla-raised-issues-regarding-electricity-water-and-damaged-roads-bilari-news-c-276-1-smbd1006-112720-2026-08-06"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "english": "The new colony has no paved road, and water collects in the rain",
+   "hindi": "नई कॉलोनी में पक्की सड़क नहीं बनी, बारिश में पानी भरता है",
+   "inference": false,
+   "basis": "Ward 25 of Bilari Nagar Palika Parishad: several streets in a newly developed colony lack paved roads; the PWD road from Painth Bazar to Shahabad Road is broken in places, tender done but work not started; residents say waterlogging on the PWD road causes trouble when it rains (Amar Ujala, Bilari dateline, 2 Aug 2026). MLA also raised broken roads in the rains (Amar Ujala, 6 Aug 2026).",
+   "sources": [
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-08-02",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/paved-roads-have-not-been-constructed-on-several-streets-in-the-new-colony-of-ward-25-bilari-bilari-news-c-276-1-smbd1006-112675-2026-08-02"
+    },
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-08-06",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/the-sp-mla-raised-issues-regarding-electricity-water-and-damaged-roads-bilari-news-c-276-1-smbd1006-112720-2026-08-06"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "english": "When it rains, water collects on the new road and Shahabad Road",
+   "hindi": "बारिश में नई सड़क और शाहबाद रोड पर पानी भर जाता है",
+   "inference": false,
+   "basis": "Bilari town: heavy rain on 26-27 Sep 2026 caused waterlogging on Nai Sadak (new road), Purana Dakkhana Road and Shahabad Road, disrupting movement of pedestrians and drivers (Amar Ujala, Bilari dateline, 27 Sep 2026).",
+   "sources": [
+    {
+     "outlet": "Amar Ujala",
+     "date": "2026-09-27",
+     "url": "https://www.amarujala.com/uttar-pradesh/moradabad/rain-disrupts-normal-life-in-bilari-waterlogging-on-several-roads-kanth-news-c-276-1-smbd1006-113216-2026-09-27"
+    }
+   ]
+  }
+ ],
+ "notes": "AC confirmed as No. 30 Bilari, district Moradabad, reserved None (Wikipedia). Wikipedia says the constituency is split between Moradabad and Sambhal districts and gives no tehsil/village list, so AC membership of Bilari town (Nagar Palika Parishad, dateline Bilari) is taken from Amar Ujala's Bilari reporting and the MLA's statements; Sherpur Mafi village (Bilari block) membership is not separately confirmed. Few sourced positives were found for Bilari: positives 1 and 2 are weak, and positives 3-5 are inferences (flagged, no source). Sugar dues: Patrika (4 Sep 2025) says Rs 39.91 crore outstanding; Amar Ujala (1 Oct 2025) says Rs 33 crore; current payment status not found. Excluded: Ratanpur Kala road foundation stone and the tehsildar wall-demolition video (both Kundarki, not Bilari); Kanth CHC X-ray (Kanth, different AC); Kundarki/Sambhal items. Searched for 2026 Bilari hospital, transformer, Jal Jeevan tank completion, road completion and ration news; none found. Field check suggested: Veer Nagar wires, Sherpur Mafi tank, Nai Sadak and Shahabad Road drainage."
+}
