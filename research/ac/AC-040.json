@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "Illegal clinic with no qualified doctor sealed in Naugawan Sadat",
-      "hindi": "नौगांवा सादात में बिना डॉक्टर वाला अवैध क्लीनिक सील हुआ",
+      "english": "The illegal clinic with no doctor in Naugawan Sadat was sealed, and that is good",
+      "hindi": "नौगांवा सादात में बिना डॉक्टर वाला अवैध क्लीनिक सील हुआ, अच्छा हुआ",
       "inference": false,
       "basis": "AC-specific (town, dateline Naugawan Sadat): inspection team sealed an unlicensed clinic where no qualified doctor was present, on the CMO's instruction; article dated 1 May 2026",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "Inference: PWD approved repair of three Naugawan Sadat area roads, hope work starts soon",
-      "hindi": "*नौगांवा सादात की सड़कों की मरम्मत मंजूर हुई, काम शुरू हो",
+      "english": "*Repair of three Naugawan Sadat area roads was approved, good news",
+      "hindi": "*नौगांवा सादात की तीन सड़कों की मरम्मत मंजूर हुई, अच्छी खबर है",
       "inference": true,
       "basis": "Inference: approval only, no work start or completion reported. PWD approved repair of nine roads in Dhanaura, Naugawan Sadat and Hasanpur areas (about Rs 1.29 crore); three of the nine are in the Naugawan Sadat area; tendering has started. Treated as a weak positive pending field check",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "Inference: sugarcane department road in Naugawan Sadat area approved, hope it gets built",
-      "hindi": "*गन्ना विभाग की सड़क नौगांवा सादात में मंजूर, काम शुरू होने का इंतजार",
+      "english": "*A sugarcane department road in Naugawan Sadat was approved, a good step",
+      "hindi": "*नौगांवा सादात में गन्ना विभाग की सड़क मंजूर हुई, अच्छा कदम है",
       "inference": true,
       "basis": "Inference: approval only. Govt approved four sugarcane-department roads (about Rs 1 crore together); one is in the Naugawan Sadat area, to be built by PWD; article says tendering is only starting and construction has not begun. Treated as a weak positive pending field check",
       "sources": [
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Hours in LPG queues and still no cylinder, black market at Rs 1200 to 1500",
-      "hindi": "सिलिंडर के लिए घंटों लाइन, फिर भी गैस नहीं मिलती, ब्लैक में महंगा",
+      "english": "Hours in gas queues and no cylinder, with allegations of black-marketing",
+      "hindi": "गैस के लिए घंटों लाइन, सिलिंडर नहीं मिलता, कालाबाज़ारी का आरोप",
       "inference": false,
       "basis": "AC-specific (town of Naugawan Sadat): people queued for gas in Naugawan Sadat, Hasanpur, Mandi Dhanora and Joya; consumers say cylinders sold black at Rs 1200-1500 and agencies overcharge (allegations as reported); no official response in the article",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "Stray dogs bit eight people in a few hours in Naugawan Sadat",
-      "hindi": "आवारा कुत्तों का आतंक, कुछ घंटों में आठ लोगों को काटा",
+      "english": "In Naugawan Sadat, stray dogs bit eight people within a few hours",
+      "hindi": "नौगांवा सादात में आवारा कुत्तों ने कुछ घंटों में आठ लोगों को काटा",
       "inference": false,
       "basis": "AC-specific (town): on Monday 11 May 2026 stray dogs bit eight people within a few hours, worst in Mohalla Papad Talab; 28 people (new and old cases) got anti-rabies injections at the CHC; residents demanded the dogs be moved and a permanent solution; no official statement in the article",
       "sources": [
@@ -124,7 +124,7 @@
     },
     {
       "rank": 4,
-      "english": "Video of police clerk beating a complainant at the police station went viral, allegation",
+      "english": "A video of a complainant being beaten at the police station went viral, it is alleged",
       "hindi": "थाने में फरियादी की पिटाई का वीडियो वायरल, आरोप है",
       "inference": false,
       "basis": "Naugawan Sadat police station (named after the town; article does not state its exact location, so AC membership rests on the town name): three videos of the head clerk slapping and beating a complainant went viral; SP sent him to police lines and ordered an inquiry; allegation as reported",
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Deep potholes on Naugawan Sadat road, bikes slip and jams form",
-      "hindi": "नौगांवा सादात रोड पर गहरे गड्ढे, दोपहिया फिसलकर घायल, जाम लगता है",
+      "english": "Deep potholes on the Naugawan Sadat road, bikes slip, riders get hurt, and jams form",
+      "hindi": "नौगांवा सादात रोड पर गहरे गड्ढे, बाइक फिसलकर लोग घायल, जाम लगता है",
       "inference": false,
       "basis": "AC membership of this road unconfirmed, so not counted in ac_specific_negatives: article names the Naugawan Sadat road with Azad Road (Amroha city) and Bijnor road; two-wheeler riders slip and get hurt, jams form; people allege repairs not done despite complaints",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed as No. 40 Naugawan Sadat, Amroha district, reserved None (Wikipedia list). Wikipedia AC page lists KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP (Amroha tehsil) plus 15 PCs under Hasanpur KC; Nagla, Budhanpur, Joya, Mandi Dhanora and Hasanpur town are not on that page, so they are not counted as AC-specific. Current MLA is inconsistent across sources; verify on the UP assembly site. Positives 4 and 5 are inferences from approvals only (no start reported) and are weak; only three positives are sourced delivered or completed benefits; a field check is needed to find better ones. Police station (negative 4) is counted as AC-specific on the strength of the town name only; the article does not give its location. Negative 5 (potholes on the Naugawan Sadat road) is not counted because the road's AC membership is unconfirmed. Oct 2026 leopard carcass in a Naugawan Sadat town mango orchard was seen in search results but not used (not fetched). No local news found on sugarcane dues, water supply or electricity in the AC. Simbhaoli and Dhanaura items are not in this AC. Field check recommended on dog bites, LPG supply, the homeopathic clinic, and whether the nine-road repairs have started.",
+  "notes": "AC confirmed as No. 40 Naugawan Sadat, Amroha district, reserved None (Wikipedia list). Wikipedia AC page lists KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP (Amroha tehsil) plus 15 PCs under Hasanpur KC; Nagla, Budhanpur, Joya, Mandi Dhanora and Hasanpur town are not on that page, so they are not counted as AC-specific. Current MLA is inconsistent across sources; verify on the UP assembly site. Positives 4 and 5 are inferences from approvals only (no start reported) and are weak; only three positives are sourced delivered or completed benefits; a field check is needed to find better ones. Police station (negative 4) is counted as AC-specific on the strength of the town name only; the article does not give its location. Negative 5 (potholes on the Naugawan Sadat road) is not counted because the road's AC membership is unconfirmed. Oct 2026 leopard carcass in a Naugawan Sadat town mango orchard was seen in search results but not used (not fetched). No local news found on sugarcane dues, water supply or electricity in the AC. Simbhaoli and Dhanaura items are not in this AC. Field check recommended on dog bites, LPG supply, the homeopathic clinic, and whether the nine-road repairs have started. P4 weak positive: approval only, no work start reported. P5 weak positive: approval only, no work start reported.",
   "round2": {
     "verified_sources": 10,
     "removed_sources": 5,

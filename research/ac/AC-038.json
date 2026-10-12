@@ -24,7 +24,7 @@
     },
     {
       "rank": 2,
-      "english": "Five farmers got cheques under the farmers accident scheme, five lakh rupees in total",
+      "english": "Five farmers got cheques under the farmers accident scheme",
       "hindi": "किसान दुर्घटना योजना के पांच किसानों को चेक मिले",
       "inference": false,
       "basis": "Five eligible beneficiaries received cheques totalling Rs 5 lakh under the CM Farmers' Accident Welfare Scheme at the same Milak block camp on 27 Sep 2026 (Amar Ujala, 28 Sep 2026). Only the total is stated, not each cheque.",
@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "english": "Disabled people got tricycles, crutches and hearing machines at the camp",
+      "english": "Disabled people got tricycles and crutches",
       "hindi": "दिव्यांगों को ट्राइसाइकिल और बैसाखी मिली",
       "inference": false,
       "basis": "Persons with disabilities received tricycles, crutches (baisakhi) and hearing machines at the same camp; numbers not stated (Amar Ujala, 28 Sep 2026).",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 4,
-      "english": "About 572 people got health mela benefits in the Seva Sankalp festival so far",
+      "english": "About 572 people have got benefits at the health mela so far",
       "hindi": "स्वास्थ्य मेले में अब तक करीब 572 लोगों को लाभ मिला",
       "inference": false,
       "basis": "About 572 health mela beneficiaries so far in the seven-day Seva Sankalp festival in Milak block (Amar Ujala, 28 Sep 2026). A camp count, so a weak positive.",
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "Development works worth about Rs 1.80 crore got foundation stones in Milak",
-      "hindi": "मिलक में करीब 1.80 करोड़ के विकास कार्यों का शिलान्यास हुआ",
+      "english": "Foundation stone laid for about Rs 1.80 crore of work in Milak",
+      "hindi": "मिलक में करीब 1.80 करोड़ के काम की नींव रखी गई",
       "inference": false,
       "basis": "Foundation stones for development works worth about Rs 1.80 crore laid in Milak block on 27 Sep 2026; individual works and completion not stated (Amar Ujala, 28 Sep 2026). Foundation stones are not a delivered benefit, so this is the weakest positive.",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Buses collided on the highway near Milak and three people died",
-      "hindi": "मिलक के पास हाईवे पर बसें टकराईं, तीन लोगों की मौत",
+      "english": "Buses collided on the highway near Milak and three people were killed",
+      "hindi": "मिलक के पास हाईवे पर बसों की टक्कर, तीन लोग मारे गए",
       "inference": false,
       "basis": "Two buses collided near the Bhairav Baba shrine on the Lucknow-Delhi highway in the Milak area at about 4 AM on 22 Jul 2024; at least three killed including the driver, 49 injured; cause not stated (Daily Jagran, 22 Jul 2024). Dated 2024 and a one-off. AC-specific only by the place name Milak; the highway stretch inside Milak MB is not confirmed.",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 2,
-  "notes": "Identity: Wikipedia confirms constituency 38, Milak, SC, district Rampur. The extent line names Shahabad tehsil and lists Milak MB (Milak tehsil) and Milak KC villages, so Milak town is inside the AC. Round 2 searches (about 10 more, Hindi and English) on Milak water supply, drains, CHC/hospital, sugarcane dues, and completed road or bridge projects in 2024-2026 returned nothing sourced for Milak. The only drain report found (Surajpur, Patwai area, 28 Mar 2026) is not in Milak. Still unmet: the brief asks for at least 3 AC-specific negatives, and only 2 are confirmed (Milak town shops, Milak town highway crash by place name). Bhure Khan road, Milak Kazi leopard, and Kyorar tempo assault are district-level or unconfirmed. Positives are all from one 27 Sep 2026 Milak block camp article, so the delivered-benefit evidence is thin and camp-based; the 102-project CM announcement was dropped. Field check needed: Milak town water supply and drains, Milak CHC services, Bhure Khan and other village roads and their AC membership, Bilaspur Road shopkeepers' current status, leopard status at Milak Kazi, Bhairav Baba highway crossing safety, and sugarcane dues at the local mill.",
+  "notes": "Identity: Wikipedia confirms constituency 38, Milak, SC, district Rampur. The extent line names Shahabad tehsil and lists Milak MB (Milak tehsil) and Milak KC villages, so Milak town is inside the AC. Round 2 searches (about 10 more, Hindi and English) on Milak water supply, drains, CHC/hospital, sugarcane dues, and completed road or bridge projects in 2024-2026 returned nothing sourced for Milak. The only drain report found (Surajpur, Patwai area, 28 Mar 2026) is not in Milak. Still unmet: the brief asks for at least 3 AC-specific negatives, and only 2 are confirmed (Milak town shops, Milak town highway crash by place name). Bhure Khan road, Milak Kazi leopard, and Kyorar tempo assault are district-level or unconfirmed. Positives are all from one 27 Sep 2026 Milak block camp article, so the delivered-benefit evidence is thin and camp-based; the 102-project CM announcement was dropped. Field check needed: Milak town water supply and drains, Milak CHC services, Bhure Khan and other village roads and their AC membership, Bilaspur Road shopkeepers' current status, leopard status at Milak Kazi, Bhairav Baba highway crossing safety, and sugarcane dues at the local mill. P5 weak positive: foundation stones only, no delivered work or completion stated.",
   "round2": {
     "verified_sources": 7,
     "removed_sources": 1,
