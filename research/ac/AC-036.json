@@ -5,56 +5,62 @@
   "reserved": "None",
   "district": "Rampur",
   "region": "Rohilkhand",
-  "summary": "Complaints centre on the Bhakra dam reservoir leak damaging roads and fields and on power cuts, while residents credit a new bypass, rural roads, PHC medicines and better safety.",
+  "summary": "Complaints centre on the Bhakra dam leak damaging roads and fields and on night power cuts, while residents credit a new bypass, rural roads, PHC medicines and better safety.",
   "identity_source": "https://en.wikipedia.org/wiki/Bilaspur,_Uttar_Pradesh_Assembly_constituency",
-  "ac_specific_negatives": 3,
+  "ac_specific_negatives": 4,
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 2,
+    "ac_specific_negatives": 4,
+    "changes": "Verified all 7 distinct URLs by fetching them. Wikipedia extent confirmed: Bilaspur Tehsil is in the AC, so Bilaspur town (Bhakra dam, Ambedkar Park road) is inside it. Negative 1 (dam) reworded to what the 30 Sep report states (damaged about a month, fields and embankment threatened); the 20 Sep report is kept only for the Bilaspur leak and 40 m wall. Negative 3 replaced by the 16 Sep 2026 night power-cut memorandum (BKU Chaduni, dateline Bilaspur), which is recent and ongoing. Kamari college item removed (AC membership unconfirmed, not in Wikipedia extent). Farmer power/canal-water positive removed (canal water not found in the source). Added positive: 1 Oct 2026 chakroad encroachment cleared for farmers (Aurangnagar Khera, dateline Bilaspur). Rural-roads and women-safety basis rewritten to match the quotes checked. Old '19 hours power' item kept as rank 5 but flagged as a one-off May storm outage. Bypass retained with AC membership still unconfirmed. Fertilizer item kept (feature, Niranjan Singh)."
+  },
   "positives": [
     {
       "rank": 1,
-      "english": "The bypass has given major relief from traffic jams",
-      "hindi": "बाईपास बनने से जाम से बड़ी राहत मिली है",
+      "english": "Village roads have improved and travel is easier now",
+      "hindi": "गांवों की सड़कें सुधरी हैं, अब आवागमन आसान है",
       "inference": false,
-      "basis": "Balwinder Singh calls the bypass a major gift for easing traffic jams. No town is named. AC membership of the bypass unconfirmed.",
+      "basis": "Narendra Singh says roads were once a problem but connectivity is now good. Kalpana and Ganga Mehta praise road work. No village named in the feature.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
       ]
     },
     {
       "rank": 2,
-      "english": "New rural roads have been built and connectivity has improved",
-      "hindi": "अब गांवों तक नई सड़कें बनी हैं और आवागमन आसान हुआ है",
+      "english": "The bypass has given major relief from traffic jams",
+      "hindi": "बाईपास बनने से जाम से बड़ी राहत मिली है",
       "inference": false,
-      "basis": "Narendra Singh says roads were once a problem but connectivity is now good. Kalpana and Ganga Mehta note road work as a positive change. Article states new rural roads have been built (no village named).",
+      "basis": "Balwinder Singh calls the bypass a big gift for solving traffic jams. No town is named. AC membership of the bypass unconfirmed.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
       ]
     },
     {
       "rank": 3,
-      "english": "Primary health centres now have doctors and medicines",
-      "hindi": "प्राथमिक स्वास्थ्य केंद्र पर अब दवा और डॉक्टर मिल रहे हैं",
+      "english": "Encroachment on a farm track was cleared, so farmers got relief",
+      "hindi": "चकरोड से कब्जा हटा, किसानों को खेत तक रास्ता मिला",
       "inference": false,
-      "basis": "Shyamal Mirdha says primary health centres now have adequate medicines and doctors. Other residents say medicine availability at government hospitals has improved. Article does not name the PHC.",
+      "basis": "Revenue team removed years-old encroachment on a chakroad (farm access track) in Aurangnagar Khera after farmers complained to the SDM; article says farmers get relief. Dateline Bilaspur; the village's AC membership is inferred from the Bilaspur dateline, not stated.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
+        {"outlet": "Amar Ujala", "date": "2026-10-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/illegal-encroachment-removed-from-village-access-road-in-bilaspur-farmers-get-relief-rampur-news-c-282-1-smbd1025-181485-2026-10-02"}
       ]
     },
     {
       "rank": 4,
-      "english": "Women feel safer and law and order has improved",
-      "hindi": "अब महिलाएं पहले से ज्यादा सुरक्षित महसूस करती हैं",
+      "english": "Primary health centres now have doctors and medicines",
+      "hindi": "प्राथमिक स्वास्थ्य केंद्र पर अब दवा और डॉक्टर मिल रहे हैं",
       "inference": false,
-      "basis": "Kalpana and Ganga Mehta say women feel safer; Vivek Agarwal says law and order has improved; traders say they feel secure. Feature story, no place named.",
+      "basis": "Shyamal Mirdha says primary health centres now have enough medicines and doctors. Hamid Ali acknowledges better healthcare. PHC not named in the article.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
       ]
     },
     {
       "rank": 5,
-      "english": "Farmers get adequate power and canal water for fields",
-      "hindi": "खेतों के लिए बिजली और नहर का पानी मिल रहा है",
+      "english": "Women feel safer and law and order has improved",
+      "hindi": "अब महिलाएं पहले से ज्यादा सुरक्षित महसूस करती हैं",
       "inference": false,
-      "basis": "Farmers report adequate power and canal/drain water, though one source notes occasional fertilizer shortages. Feature story, no village named.",
+      "basis": "Kalpana and Ganga Mehta say women feel safer than before; Vivek Agarwal says law and order has improved. Feature story, no place named.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
       ]
@@ -63,10 +69,10 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Bhakra dam has been leaking for a month, threatening fields and the embankment",
-      "hindi": "भाखड़ा डैम से महीने भर से पानी रिस रहा है, खेत और बंधा खतरे में",
+      "english": "Bhakra dam has been damaged for a month and keeps leaking, threatening fields and embankment",
+      "hindi": "भाखड़ा डैम महीने भर से खराब, रिसाव से खेत और बंधा खतरे में",
       "inference": false,
-      "basis": "Dam damaged for about a month; each time officials close the source it reopens and leakage resumes. Residents say nearby fields and the embankment are at risk. Location: Bilaspur town, Bhakra dam site.",
+      "basis": "Report datelined Bilaspur (Rampur), 30 Sep 2026: dam damaged for about a month; each closure attempt fails and leakage restarts; nearby fields and embankment threatened. Dam is in Bilaspur town, inside Bilaspur Tehsil, which is in the AC (Wikipedia extent). 20 Sep report confirms the leak and a 40 m earth wall built inside the reservoir.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/rampur/technology-defeated-formulas-failed-bhakra-dam-now-relies-on-god-rampur-news-c-282-1-smbd1025-181319-2026-09-30"},
         {"outlet": "Amar Ujala", "date": "2026-09-20", "url": "https://www.amarujala.com/uttar-pradesh/rampur/bhakra-dam-40-meter-long-and-5-meter-high-wall-constructed-inside-the-reservoir-to-stop-leakage-rampur-news-c-282-1-smbd1025-180470-2026-09-20"}
@@ -77,7 +83,7 @@
       "english": "Road near Bhakra dam sank seven feet, leaving pits and damaged park steps",
       "hindi": "डैम के पास सड़क सात फुट धंस गई, गड्ढों से आना-जाना मुश्किल",
       "inference": false,
-      "basis": "Near Bhakra dam in Bilaspur (Rampur) town, a road section dropped about seven feet and Ambedkar Park steps broke. Residents blame continuous seepage. Later report: two large pits on the dam road disrupt traffic.",
+      "basis": "Report datelined Bilaspur (Rampur), 9 Sep 2026: road near Bhakra dam sank about seven feet and Ambedkar Park steps were damaged; residents blame continuous seepage from the reservoir. Later report (30 Sep): two large potholes on the dam road are disrupting traffic. Bilaspur town is inside the AC.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-09", "url": "https://www.amarujala.com/uttar-pradesh/rampur/road-near-bhakra-dam-sinks-seven-feet-ambedkar-park-steps-also-damaged-rampur-news-c-282-1-smbd1025-179632-2026-09-09"},
         {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/rampur/technology-defeated-formulas-failed-bhakra-dam-now-relies-on-god-rampur-news-c-282-1-smbd1025-181319-2026-09-30"}
@@ -85,12 +91,12 @@
     },
     {
       "rank": 3,
-      "english": "Power stayed off for 19 hours in Bilaspur after a storm",
-      "hindi": "आंधी के बाद बिलासपुर में 19 घंटे तक बिजली गुल रही",
+      "english": "Villages get power only one to two hours at night, farmers protest",
+      "hindi": "रात में गांवों में एक-दो घंटे ही बिजली मिलती है",
       "inference": false,
-      "basis": "Section headed 'Power stayed off in Bilaspur for 19 hours'. Storm on Thursday evening; supply restored Friday about 2 PM, per the SDO quoted. Article is district-wide with a Bilaspur section; residents' complaints are not attributed to Bilaspur.",
+      "basis": "BKU (Chaduni) workers sat in protest at the Ashoknagar substation on the Nainital highway; their memorandum says the 33 kV feeder fails at night so rural areas get 1-2 hours of power. Demand: stop night cuts. XEN assured quick resolution. Dateline Bilaspur, 16 Sep 2026. Allegation as stated by the union. Ashoknagar's AC membership not separately confirmed; Bilaspur dateline used.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-05-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/light-rain-and-wind-exposed-the-departments-shortcomings-resulting-in-power-cuts-lasting-from-five-to-19-hours-in-the-district-rampur-news-c-15-1-mbd1058-891397-2026-05-02"}
+        {"outlet": "Amar Ujala", "date": "2026-09-16", "url": "https://www.amarujala.com/uttar-pradesh/rampur/sit-in-protest-against-night-time-power-cuts-continues-for-the-second-day-rampur-news-c-282-1-smbd1025-180152-2026-09-16"}
       ]
     },
     {
@@ -98,21 +104,21 @@
       "english": "Small farmers do not get full fertilizer allotment because of documentation issues",
       "hindi": "छोटे किसानों को पूरी खाद नहीं मिलती, कागज़ात की दिक्कत है",
       "inference": false,
-      "basis": "Small farmers struggle to get fertilizer due to documentation; incomplete farm registry or land-area linkage can mean only part of the allotment. Feature story, no village named (district-level applicability, AC feature).",
+      "basis": "Farmer Niranjan Singh says small farmers often cannot get the full fertilizer quota because of incomplete registration or land records. Feature story, no village named (district-level applicability).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
       ]
     },
     {
       "rank": 5,
-      "english": "No degree college in Kamari, so girls must travel far to study",
-      "hindi": "कमरी में कॉलेज नहीं, लड़कियों को पढ़ाई के लिए दूर जाना पड़ता है",
+      "english": "Power stayed off for 19 hours in Bilaspur after a storm",
+      "hindi": "आंधी के बाद बिलासपुर में 19 घंटे तक बिजली गुल रही",
       "inference": false,
-      "basis": "Youth say lack of a college forces girls to travel far; they name Bilaspur, Rudrapur and Kichha as destinations. Mohammad Wakeel and Mohammad Asif Raza call for a degree college in Kamari. AC membership of Kamari unconfirmed (no Kamari village found in Bilaspur tehsil listings).",
+      "basis": "District power-cut report, 2 May 2026, with a section headed 'Bilaspur: power stayed off for 19 hours'. Trees fell on the industrial line near Mullakheda; supply to dozens of villages restored Friday about 2 PM, per SDO. One-off storm outage; Mullakheda's AC membership not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-scrutinizing-real-issues-in-bilaspur-assembly-constituency-ahead-of-upcoming-up-election-2026-09-02"}
+        {"outlet": "Amar Ujala", "date": "2026-05-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/light-rain-and-wind-exposed-the-departments-shortcomings-resulting-in-power-cuts-lasting-from-five-to-19-hours-in-the-district-rampur-news-c-15-1-mbd1058-891397-2026-05-02"}
       ]
     }
   ],
-  "notes": "Sources are mostly one Amar Ujala feature (2 Sept 2026) plus Amar Ujala Rampur reports on the Bhakra dam leak (Sept 2026) and a district power-cut report (2 May 2026). The Bhakra dam items are confirmed in Bilaspur (Rampur) town. Unconfirmed: whether the bypass and Kamari lie inside the AC; the Manpur Ojha road widening and water tank were mentioned but dropped because their location is unconfirmed. The 9 Oct 2026 Rampur-Kathgodam highway cattle crash near Koyla toll (Bhot police station area) was not used because it is outside Bilaspur and not a stray-cattle issue. Stray cattle, sugarcane dues, waterlogging and college demands for Bilaspur AC were searched; no AC-specific sourced report was found. Power, water and road complaints for specific villages are thin. Field check recommended on the dam leak status, bypass location, and Kamari college demand. The Wikipedia extent lists Bilaspur tehsil plus Sihari and parts of Milak tehsil (Nagla Udai, Shyampur, Khata Kalan, Dhanaili Uttri, Pashupura)."
+  "notes": "Verified in this round: Wikipedia AC page (no 36, reserved None, Rampur district). Extent is Bilaspur Tehsil plus Sihari and parts of Milak tehsil (Nagla Udai, Shyampur, Khata Kalan, Dhanaili Uttri, Pashupura), so Bilaspur town is inside the AC. Sources are still mainly one Amar Ujala feature (2 Sep 2026). Searches for a Bilaspur (Rampur) bypass report, a Kamari degree-college report and a Bilaspur Ambedkar Park report found nothing new; the bypass location is still unconfirmed. Kamari dropped because its AC membership is unconfirmed. Not used: Oct 9-10 2026 hailstorm (villages Nawabganj, Jafarabad, Sihora etc. not located in the extent); Bilaspur road-accident report (22 Sep); Himachal Bilaspur items; Rudrapur and Kichha (outside AC). Field check recommended on dam leak status, bypass location, night power cuts at Ashoknagar substation, and whether the 19-hour outage area is in the AC."
 }
