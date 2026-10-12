@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Bijnor",
   "region": "Paschim UP",
-  "summary": "Complaints centre on sugarcane dues and flood-related waterlogging and broken roads in Bijnor district, with little Barhapur-specific reporting found, while appreciation is mainly about cane payments and district project announcements.",
+  "summary": "Complaints centre on flood-related waterlogging, broken roads and power and health disruption in Afzalgarh, plus sugarcane dues in Bijnor district; appreciation is mainly district-level cane-payment claims and project launches.",
   "identity_source": "https://en.wikipedia.org/wiki/Barhapur_Assembly_constituency",
   "positives": [
     {
@@ -13,101 +13,110 @@
       "english": "Some sugar mills are paying cane farmers on time.",
       "hindi": "कुछ चीनी मिलें गन्ने का भुगतान समय पर कर रही हैं।",
       "inference": false,
-      "basis": "District Cane Officer P.N. Singh said nearly six mills in Bijnor district are currently ahead in paying farmers (district-level; the same report shows Rs 195 crore still outstanding at four mills).",
+      "basis": "District Cane Officer P.N. Singh said nearly six mills in the district are ahead in making payments to farmers; four mills still owe over Rs 195 crore (district-level; none of the named mills is stated to be in AC 19).",
       "sources": [
-        {"outlet": "ChiniMandi (citing Amar Ujala)", "date": "2026-03-04", "url": "https://www.chinimandi.com/uttar-pradesh-four-sugar-mills-in-bijnor-owe-rs-195-crore-cane-dues/"}
+        {"outlet": "ChiniMandi", "date": "2026-03-04", "url": "https://www.chinimandi.com/uttar-pradesh-four-sugar-mills-in-bijnor-owe-rs-195-crore-cane-dues/"}
       ]
     },
     {
       "rank": 2,
       "english": "Cane prices have been raised and payments are said to be on schedule.",
-      "hindi": "गन्ने का दाम बढ़ा है और भुगतान समय पर होने का दावा किया गया है।",
+      "hindi": "गन्ने का दाम बढ़ा, भुगतान समय पर होने का दावा।",
       "inference": false,
-      "basis": "Chief Minister Yogi Adityanath, speaking in Bijnor, claimed payments to cane growers are on schedule and cane prices were raised. This is a government claim, not voter testimony (district-level).",
+      "basis": "Chief Minister Yogi Adityanath, speaking in Bijnor, said farmers are receiving timely payments and sugarcane prices had been increased. This is a government claim, not voter testimony (district-level).",
       "sources": [
-        {"outlet": "ChiniMandi (citing The News Mill)", "date": "2026-07-18", "url": "https://www.chinimandi.com/yogi-highlights-timely-sugarcane-payments-higher-cane-prices-during-bijnor-visit/"}
+        {"outlet": "ChiniMandi", "date": "2026-07-18", "url": "https://www.chinimandi.com/yogi-highlights-timely-sugarcane-payments-higher-cane-prices-during-bijnor-visit/"}
       ]
     },
     {
       "rank": 3,
-      "english": "Over Rs 1,000 crore worth of projects were inaugurated in Bijnor.",
-      "hindi": "बिजनौर में एक हजार करोड़ रुपये से ज्यादा की योजनाएं शुरू हुईं।",
+      "english": "Over Rs 1,003 crore in 76 projects was inaugurated or started in Bijnor and Chandpur seats.",
+      "hindi": "बिजनौर-चांदपुर में 1,003 करोड़ से ज्यादा की 76 परियोजनाएं शुरू हुईं।",
       "inference": false,
-      "basis": "CM inaugurated and laid foundation stones for projects worth over Rs 1,003 crore in Bijnor (district-level; no project in Barhapur AC named in the source).",
+      "basis": "CM inaugurated and laid foundation stones for 76 projects worth over Rs 1,003 crore in the Bijnor and Chandpur assembly constituencies (upcmnews, 18 July 2026). Barhapur is not named in the source (district-level).",
       "sources": [
-        {"outlet": "ChiniMandi (citing The News Mill)", "date": "2026-07-18", "url": "https://www.chinimandi.com/yogi-highlights-timely-sugarcane-payments-higher-cane-prices-during-bijnor-visit/"}
+        {"outlet": "upcmnews.com", "date": "2026-07-18", "url": "https://upcmnews.com/in-bijnor-the-chief-minister-inaugurated-and-laid-the-foundation-stones-for-76-development-projects-worth-over-%E2%82%B91003-crore-for-the-bijnor-and-chandpur-assembly-constituencies/"},
+        {"outlet": "ChiniMandi", "date": "2026-07-18", "url": "https://www.chinimandi.com/yogi-highlights-timely-sugarcane-payments-higher-cane-prices-during-bijnor-visit/"}
       ]
     },
     {
       "rank": 4,
-      "english": "Sugar mill crushing is expected to start around 20 October, so cane can be sold sooner.",
-      "hindi": "चीनी मिलों में पेराई लगभग 20 अक्टूबर से शुरू होने की उम्मीद है।",
+      "english": "Sugar mill crushing is expected to start around 20 October, subject to weather.",
+      "hindi": "चीनी मिलों में 20 अक्टूबर के आसपास पेराई शुरू होने की उम्मीद है।",
       "inference": false,
-      "basis": "Crushing expected around October 20, 2026, subject to weather (district-level, western UP mills; source reports Bijnor only as part of a district list).",
+      "basis": "Crushing 'likely to begin around October 20, subject to weather conditions' (western UP, district-level). Bijnor is named in the report's district list. This is an expectation, not a completed event.",
       "sources": [
-        {"outlet": "ChiniMandi (citing The Times of India)", "date": "2026-09-29", "url": "https://www.chinimandi.com/western-up-sugar-mills-to-start-2026-27-crushing-season-10-days-early/"}
+        {"outlet": "ChiniMandi", "date": "2026-09-29", "url": "https://www.chinimandi.com/western-up-sugar-mills-to-start-2026-27-crushing-season-10-days-early/"}
       ]
     },
     {
       "rank": 5,
-      "english": "Government hospitals and schools are running in the area.",
-      "hindi": "सरकारी अस्पताल और स्कूल चल रहे हैं।",
-      "inference": true,
-      "basis": "Inference: no source opened for Barhapur health or school services. Included only as a field-check item; not supported by any fetched source.",
-      "sources": []
+      "english": "A new drinking water scheme was inaugurated in Mandawar nagar panchayat.",
+      "hindi": "मंडावर नगर पंचायत में नई पेयजल योजना का लोकार्पण हुआ।",
+      "inference": false,
+      "basis": "CM inaugurated the Mandawar Nagar Panchayat reconstitution drinking water scheme under AMRUT 2.0 (upcmnews, 18 July 2026). Mandawar is not among the AC 19 units named on Wikipedia, so this is district-level, not AC 19.",
+      "sources": [
+        {"outlet": "upcmnews.com", "date": "2026-07-18", "url": "https://upcmnews.com/in-bijnor-the-chief-minister-inaugurated-and-laid-the-foundation-stones-for-76-development-projects-worth-over-%E2%82%B91003-crore-for-the-bijnor-and-chandpur-assembly-constituencies/"}
+      ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "Cane farmers are still owed over Rs 40 crore by Bilai sugar mill.",
-      "hindi": "बिलाई चीनी मिल पर गन्ना किसानों का 41 करोड़ रुपये से ज्यादा बकाया है।",
+      "english": "Rain floods the Afzalgarh power station control room, and power is cut for hours.",
+      "hindi": "बारिश में अफजलगढ़ बिजलीघर टपकता है, बिजली घंटों गुल रहती है।",
       "inference": false,
-      "basis": "Bilai Sugar Mill owes farmers Rs 41.98 crore; farmer organisations protested and demanded immediate release of dues (district-level, Bijnor district; mill's exact town not stated).",
+      "basis": "Afzalgarh power station control-room roof leaks in rain and water halts supply. On 12 July 2026 supply was cut from about midnight to 4 pm, with only 1-2 hours of power in that period (AC-specific: Afzalgarh is in AC 19 per Wikipedia).",
       "sources": [
-        {"outlet": "ChiniMandi (citing Amar Ujala)", "date": "2026-10-10", "url": "https://www.chinimandi.com/uttar-pradesh-bilai-sugar-mill-owes-farmers-rs-41-98-crore-as-new-crushing-season-approaches/"}
+        {"outlet": "Amar Ujala", "date": "2026-07-12", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/the-dilapidated-building-of-afzalgarh-power-station-leaks-during-the-rains-bijnor-news-c-27-1-smrt1007-184735-2026-07-12"}
       ]
     },
     {
       "rank": 2,
-      "english": "Rain floods the Malan river and cuts the Bijnor-Haridwar road.",
-      "hindi": "बारिश में मालन नदी उफनी और बिजनौर-हरिद्वार मार्ग बंद हो गया।",
+      "english": "Cane farmers are still owed over Rs 41 crore by Bilai sugar mill.",
+      "hindi": "बिलाई मिल पर किसानों का 41 करोड़ से ज्यादा गन्ना बकाया है।",
       "inference": false,
-      "basis": "Malan river in spate after continuous rain; water flowed over the bridge road, Bijnor-Haridwar road fully closed and traffic diverted (district-level; flooding reported near Najibabad, Mandawar; not Barhapur AC).",
+      "basis": "Bilai Sugar Mill owes farmers Rs 41.98 crore, per District Sugarcane Officer Brajesh Kumar Patel; farmer organisations protested and demanded immediate payment. The mill's town is not stated (district-level, Bijnor).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-10", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/bijnor-malan-river-in-spate-bijnor-haridwar-road-closed-as-water-flows-over-bridge-2026-07-10"}
+        {"outlet": "ChiniMandi", "date": "2026-10-10", "url": "https://www.chinimandi.com/uttar-pradesh-bilai-sugar-mill-owes-farmers-rs-41-98-crore-as-new-crushing-season-approaches/"}
       ]
     },
     {
       "rank": 3,
-      "english": "Floodwater came back onto village roads and state highway for the fourth time this monsoon.",
-      "hindi": "इस मानसून में चौथी बार गांव की सड़कों पर फिर पानी भर गया।",
+      "english": "Water floods Afzalgarh CHC, medicines are ruined and patients go without.",
+      "hindi": "अफजलगढ़ सीएचसी में पानी भरा, मरीजों को दवा नहीं मिली।",
       "inference": false,
-      "basis": "Floodwater returned to village roads and state highway in the Bijnor flood-affected zone; about one foot of standing water; farmers say new water arrives before fields dry (district-level; datelined Jaleelpur, not Barhapur AC).",
+      "basis": "Afzalgarh CHC flooded 2-3 feet deep after rain; medicine store and records damaged. A patient said patients could not get medicines because of the water (Amar Ujala, Afzalgarh dateline, 7 Sept 2026). AC-specific.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/water-started-flowing-again-on-village-roads-and-state-highways-bijnor-news-c-27-1-bij1002-189207-2026-09-04"}
+        {"outlet": "Amar Ujala", "date": "2026-09-07", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/afzalgarh-chc-flooded-with-water-medicines-and-equipment-damaged-bijnor-news-c-14-1-mrt1029-1294680-2026-09-07"}
       ]
     },
     {
       "rank": 4,
-      "english": "Rain has wrecked roads, potholes are wider, and the village link road is broken.",
-      "hindi": "बारिश से सड़कें टूटीं, गड्ढे बढ़े और गांव का लिंक रोड खराब हुआ।",
+      "english": "The Amla river bridge road at Afzalgarh sank, cutting off 25 villages.",
+      "hindi": "अफजलगढ़ में अमला पुल की सड़क धंसी, 25 गांवों का संपर्क टूटा।",
       "inference": false,
-      "basis": "Service roads waterlogged due to poor drainage, potholes deepened, and the 3-4 km Mandawali link road (Manjhadi to Lahakkala) badly damaged; no official response reported (district-level; datelined Najibabad/Jalalabad).",
+      "basis": "Soil under the approach road of the old Amla river bridge in Afzalgarh slid; all vehicles were halted; 25+ villages and several Kadrabad-area colonies were cut off. No repair timeline given (Amar Ujala, 29 May 2026). No later update found. AC-specific.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-29", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/rain-exposes-poor-road-conditions-waterlogging-on-service-roads-troubles-commuters-bijnor-news-c-27-1-smrt1043-188738-2026-08-29"}
+        {"outlet": "Amar Ujala", "date": "2026-05-29", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/up-bridge-approach-collapses-in-bijnor-traffic-halted-more-than-25-villages-cut-off-2026-05-29"}
       ]
     },
     {
       "rank": 5,
-      "english": "Encroachment has lowered the road in Dhampur, so rainwater collects on it.",
-      "hindi": "धामपुर में अतिक्रमण से सड़क नीची हो गई, बारिश में पानी भर जाता है।",
+      "english": "Floodwater came back onto village roads and state highway for the fourth time this monsoon.",
+      "hindi": "इस बरसात में चौथी बार सड़कों पर बाढ़ का पानी लौटा।",
       "inference": false,
-      "basis": "Irrigation department said encroachment lowered the road level, causing waterlogging in rain; this is the department's claim as reported, not independently verified (district-level, Dhampur tehsil, same district; not Barhapur AC).",
+      "basis": "Water flowing again on the state highway (Bahsuma-Thakurdwara) and flood-affected area roads; the report says it is the fourth time this monsoon. Datelined Jaleelpur; Jaleelpur's AC is not confirmed as AC 19 (district-level).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-24", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/bulldozer-action-in-bijnor-encroachments-removed-from-irrigation-department-land-lawyers-express-discontent-2026-09-24"}
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/bijnor/water-started-flowing-again-on-village-roads-and-state-highways-bijnor-news-c-27-1-bij1002-189207-2026-09-04"}
       ]
     }
   ],
-  "notes": "Identity: Wikipedia Barhapur_Assembly_constituency (opened) confirms Constituency No. 19, Bijnor district, reserved status None, parent Moradabad Lok Sabha; area = KCs Barhapur, Pureni, Barhapur NP of Nagina Tehsil and KCs Kadrabad, Afzalgarh & Afzalgarh M.B. of Dhampur Tehsil. Discrepancies: (a) Wikipedia list-of-constituencies extraction read row 19 district as Moradabad; the AC's own article says Bijnor, which is used here, but confirm against the ECI/official delimitation list. (b) Infobox 'elected year 2008' conflicts with body text (first election 2012). Research was incomplete: the WebSearch budget for this run was exhausted after about 20 searches, so no Barhapur-specific (AC-level) local news was found. All negatives are district-level Bijnor sources, not AC-specific, and 2 of them (Malan river and Dhampur) are outside AC 19 territory (Najibabad and Dhampur). Positive 5 is an inference with no source and should be dropped or verified in the field. Positives are thin and partly government claims rather than voter views. Suggested field checks: Barhapur NP drainage and water supply; Pureni and Kadrabad village roads; Afzalgarh (Dhampur tehsil) roads and law and order; stray cattle and crop damage; Nagina-side Ganga/Malan flood villages; Hindi local searches on Amar Ujala and Dainik Jagran Bijnor pages with 'बरहापुर' plus issue terms. Electoral data (2017/2022 results) deliberately excluded per brief."
+  "round2": {
+    "verified_sources": 9,
+    "removed_sources": 3,
+    "ac_specific_negatives": 3,
+    "changes": "Re-verified every cited page and fixed outlet labels (the ChiniMandi pages do not show the 'citing' outlets claimed). Positive 5 inference replaced by a sourced Mandawar water-scheme launch (district-level). Positive 3 corrected: the Rs 1,003 crore / 76 projects were in the Bijnor and Chandpur ACs, not named as Barhapur. Positive 4 trimmed to the source's claim. Negative 2 (Bilai) corrected to Rs 41.98 crore. Removed Malan river (Najibabad/Mandawar, not AC 19), Mandawali link road (Najibabad dateline) and Dhampur encroachment (Dhampur town is outside AC 19). Added 3 AC-specific Afzalgarh negatives (power station, CHC, Amla bridge approach). Re-ranked negatives by vote impact."
+  },
+  "notes": "Identity: Wikipedia Barhapur_Assembly_constituency confirms Constituency No. 19, Bijnor district, reserved status None, parent Moradabad Lok Sabha. Area = Barhapur, Pureni, Barhapur NP (Nagina tehsil) and Kadrabad, Afzalgarh, Afzalgarh M.B. (Dhampur tehsil). The Wikipedia 'List of constituencies' extraction shows district Moradabad for row 19. This conflicts with the AC article and with the Bijnor district Wikipedia page, which lists Barhapur among its 8 assembly constituencies. Bijnor is used. The ECI list was not opened in this run, so an ECI check is still advisable. Infobox 'elected year 2008' conflicts with body text (first election 2012); not used. Searches for Barhapur town (NP), Pureni and Kadrabad found no 2024-2026 local news, so no Barhapur-town item is sourced. Afzalgarh is the only AC 19 town with sourced 2026 issues. Positives are all district-level and partly government claims; no AC-specific completed project was found. Bilai mill's town is not stated, so its AC is unknown. Jaleelpur and Mandawar are not confirmed as AC 19 places. Field checks: Barhapur NP drainage and water; Pureni and Kadrabad village roads; Afzalgarh CHC drain (tender reported Sept 2026, follow-up unknown); whether the Amla bridge approach is repaired; stray cattle and crop damage; Hindi local searches on Amar Ujala and Dainik Jagran Bijnor with 'अफजलगढ़' or 'बरहापुर' plus issue terms. Electoral data deliberately excluded per brief."
 }
