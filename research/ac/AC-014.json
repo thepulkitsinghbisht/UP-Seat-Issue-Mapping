@@ -1,0 +1,115 @@
+{
+  "ac_no": 14,
+  "ac_name": "Muzaffarnagar",
+  "ac_name_hindi": "मुजफ्फरनगर",
+  "reserved": "None",
+  "district": "Muzaffarnagar",
+  "region": "Paschim UP",
+  "summary": "Complaints dominate on city power cuts, unpaid sugarcane dues, and damaged, encroached roads with waterlogging; appreciation is thin and limited to municipal road tenders and encroachment drives.",
+  "identity_source": "https://en.wikipedia.org/wiki/Muzaffarnagar_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Talashah Road's Rs 79 lakh budget is sanctioned and the tender is already out.",
+      "hindi": "तबलशाह रोड का 79 लाख का बजट मंज़ूर हो गया, टेंडर भी निकल चुका है",
+      "inference": false,
+      "basis": "Municipal board approved a Rs 79 lakh budget for the Talashah Road reconstruction; JE Kapil Kumar said a tender has been issued and work will start soon (sit-in reported 24 Feb 2026). Kidwai Nagar, Muzaffarnagar city.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-25", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/people-protest-against-dilapidated-road-and-encroachment-muzaffarnagar-news-c-29-1-mng1005-165834-2026-02-25"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Municipal teams removed the illegal kiosk and encroachments near the station road.",
+      "hindi": "स्टेशन रोड से अवैध खोखा हटा, अतिक्रमण पर नगर पालिका ने कार्रवाई की",
+      "inference": false,
+      "basis": "Municipal tax department ran an anti-encroachment drive on Railway Station Road; an illegal kiosk near Station Gate No. 2 was removed with a JCB after a civil court ruling in the municipality's favour (EO Dr. Pragya Singh).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-13", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/encroachment-removed-from-railway-road-muzaffarnagar-news-c-29-1-mng1005-166916-2026-03-13"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "At Kisan Diwas, officials heard our complaints and promised to resolve them.",
+      "hindi": "किसान दिवस पर अफसरों ने हमारी बात सुनी और समाधान का भरोसा दिया",
+      "inference": false,
+      "basis": "At Kisan Diwas in the district panchayat hall, Additional DM (Administration) Narendra Bahadur Singh gave an assurance of resolution after farmers raised overloaded cane vehicles and power issues. Assurance only; no action or deadline reported. District-level.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-03-20", "url": "https://www.amarujala.com/video/uttar-pradesh/muzaffarnagar/video-issue-of-overloaded-sugarcane-vehicles-was-raised-on-kisan-diwas-in-muzaffarnagar-2025-03-20"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Sugarcane is our main cash crop, so a timely mill payment keeps our household running.",
+      "hindi": "गन्ना ही हमारी नकदी फसल है, मिल समय पर पैसा दे तो घर चलता है",
+      "inference": true,
+      "basis": "Inference: no source states sugarcane as the main positive for this AC. Context only: ChiniMandi reports about 13,000 farmers supplied cane in the 2025-26 season, and the dues story describes cane income as the household's cash flow. District-level.",
+      "sources": [
+        {"outlet": "ChiniMandi (via Ground News)", "date": "2026-06-19", "url": "https://ground.news/article/uttar-pradesh-delay-in-sugarcane-payments-by-sugar-mills-leaves-farmers-in-financial-trouble"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "If the road work starts, traffic jams on our lane will finally ease.",
+      "hindi": "सड़क का काम शुरू हो जाए तो हमारी गली का जाम भी खत्म होगा",
+      "inference": true,
+      "basis": "Inference: the Talashah Road tender and budget are reported, but no source says jams will ease after work. Voice reflects residents' stated hope for the sanctioned repair. Kidwai Nagar, Muzaffarnagar city.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-25", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/people-protest-against-dilapidated-road-and-encroachment-muzaffarnagar-news-c-29-1-mng1005-165834-2026-02-25"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Power comes on for a few minutes in the city, then vanishes for hours.",
+      "hindi": "शहर में बिजली कुछ मिनट आती है, फिर घंटों गायब रहती है",
+      "inference": false,
+      "basis": "Dainik Bhaskar (via Ground News, 27 Jul 2026): power supply disrupted for nearly a week in several key areas of the city; 'The supply would come on for a few minutes and then disappear for hours', amid heat and humidity. City-level; no neighbourhoods named. Ground News flags the outlet as not yet rated for reliability.",
+      "sources": [
+        {"outlet": "Dainik Bhaskar (via Ground News)", "date": "2026-07-27", "url": "https://ground.news/article/unannounced-power-cuts-leave-muzaffarnagar-in-tears-heat-and-humidity-continue-to-plague-residents-throughout-the-night-muzaffarnagar-news"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Mills are holding our cane money, and we cannot pay the children's school fees.",
+      "hindi": "मिल में गन्ने का पैसा अटका है, बच्चों की फीस कैसे भरें",
+      "inference": false,
+      "basis": "ChiniMandi (via Ground News, 19 Jun 2026): mills named, including Bhaisana Sugar Mill in Budhana and mills in Shamli, Thana Bhawan and Unnao, owe farmers a combined Rs 339.65 crore; farmers say they struggle to pay school fees for the new session. District-level (Budhana mill is in the district, but not in this AC per the source); no per-mill breakdown.",
+      "sources": [
+        {"outlet": "ChiniMandi (via Ground News)", "date": "2026-06-19", "url": "https://ground.news/article/uttar-pradesh-delay-in-sugarcane-payments-by-sugar-mills-leaves-farmers-in-financial-trouble"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Talashah Road is broken and encroachments on both sides cause jams all day.",
+      "hindi": "तबलशाह रोड टूटी है, दोनों तरफ के अतिक्रमण से दिन भर जाम लगता है",
+      "inference": false,
+      "basis": "Amar Ujala (25 Feb 2026): Talashah Road between Municipal Wards 25 and 45 is in 'जर्जर अवस्था'; encroachment on both sides causes traffic jams through the day; residents of Kidwai Nagar and Dakshini Krishnapuri protested on 24 Feb 2026, led by Ali Zaidi. Road also passes a temple, a mosque and a girls' inter college. City-specific.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-25", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/people-protest-against-dilapidated-road-and-encroachment-muzaffarnagar-news-c-29-1-mng1005-165834-2026-02-25"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Rain fills the Sikri road with water, and nobody has fixed it permanently.",
+      "hindi": "सीकरी मार्ग पर बरसात में पानी भर जाता है, पक्का हल नहीं निकला",
+      "inference": false,
+      "basis": "Amar Ujala video report (8 Feb 2026): waterlogging on Sikri road near Sikandarpur, Bhopa area, has persisted for years; villagers sat on the road in protest; residents say no concrete action has been taken. District-level; the article does not confirm that Sikandarpur falls inside AC 14, so field check needed.",
+      "sources": [
+        {"outlet": "Amar Ujala (video report)", "date": "2026-02-08", "url": "https://www.amarujala.com/video/uttar-pradesh/muzaffarnagar/video-muzaffarnagar-villagers-troubled-by-waterlogging-in-sikandarpur-sit-on-strike-on-sikri-road-2026-02-08"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The Makhiyali power house is overloaded, so our irrigation power comes late.",
+      "hindi": "मखियाली बिजलीघर ओवरलोड है, सिंचाई की बिजली समय पर नहीं मिलती",
+      "inference": false,
+      "basis": "Amar Ujala (20 Mar 2025, Kisan Diwas): farmers said the Makhiyali power house has been overloaded for three years, so irrigation power does not come on time; overloaded sugarcane vehicles and accidents also raised. District-level; location within AC not stated.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-03-20", "url": "https://www.amarujala.com/video/uttar-pradesh/muzaffarnagar/video-issue-of-overloaded-sugarcane-vehicles-was-raised-on-kisan-diwas-in-muzaffarnagar-2025-03-20"}
+      ]
+    }
+  ],
+  "notes": "Identity: Wikipedia confirms AC No. 14 Muzaffarnagar, district Muzaffarnagar, reserved status None (the Wikipedia page has its own data errors, e.g., an empty 2027 results section and a 2007 table labelled 2022, so verify the MLA/results elsewhere; no electoral data used). Search quota ran out mid-research (about 12 successful WebSearch calls; further calls were refused), so coverage is thin: positives are weak and two of five are inference-flagged. Not found: 2026 city water supply issues, Ganga/Yamuna flood status for 2026, stray cattle in the AC for 2026 (an Amar Ujala Titawi report is from 2022 and was not used), the Bajaj Sugar Mill Nagal dues (only a secondhand summary, not opened), and any positive that is specific to the AC beyond the Talashah tender and station road drive. The Wire headline on railway-track blockade over cane dues was opened but is undated and mentions no mill, so it was not cited. Old 2018-2019 articles were not used. Field check priorities: Talashah Road status and tender; city power feeder timings; Sikandarpur/Bhopa AC boundary; Makhiyali power house location and irrigation supply; Nagal/Bhopa cane arrears; city drinking water."
+}
