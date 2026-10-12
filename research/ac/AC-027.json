@@ -14,17 +14,21 @@
       "english": "*Government ration and pension schemes reach some families here",
       "hindi": "*सरकारी राशन और पेंशन योजनाओं का लाभ कई परिवारों को मिल रहा है",
       "inference": true,
-      "basis": "Inference: no AC-specific report of a delivered scheme benefit was found in the sources searched. Context only from the Amar Ujala Moradabad Dehat election-mood report, which does not mention ration or pension schemes.",
+      "basis": "Inference: no AC-specific report of a delivered scheme benefit was found in the sources searched. The Amar Ujala Moradabad Dehat report (28 Aug 2026) does not mention ration or pension schemes.",
       "sources": []
     },
     {
       "rank": 2,
-      "english": "*The local MLA raises area problems in the civic board",
-      "hindi": "*विधायक नगर निगम बोर्ड की बैठक में क्षेत्र की समस्याएं उठाते हैं",
-      "inference": true,
-      "basis": "Inference: the source shows the MLA raising the constituency's problems in the Nagar Nigam board, which is an action, not a completed benefit. No completed project was found.",
+      "english": "Some farmers feel the MLA's work in the area is right",
+      "hindi": "कुछ किसानों की नजर में विधायक का काम सही है",
+      "inference": false,
+      "basis": "Amar Ujala report on Moradabad Dehat (28 Aug 2026): some farmers said the MLA visits and that in their view the work is correct (\"विधायक आते हैं और उनकी नजर में काम सही है\"). No project, road or village is named, so this is a weak, opinion-level positive.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-01-09", "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/satta-ka-sangram-what-is-electoral-mood-in-moradabad-dehat-key-issues-2026-08-28"
+        }
       ]
     },
     {
@@ -32,7 +36,7 @@
       "english": "*Some farmers get government procurement and support price help",
       "hindi": "*किसानों को सरकारी खरीद और समर्थन मूल्य से कुछ सहारा मिलता है",
       "inference": true,
-      "basis": "Inference: no Moradabad Dehat-specific report on procurement benefits was found. Farmers in the seat raised fertiliser and price problems in the Amar Ujala report, so this is not confirmed as a positive.",
+      "basis": "Inference: no Moradabad Dehat-specific report on procurement benefits was found. Farmers in the seat raised fertiliser and price problems in the Amar Ujala report (28 Aug 2026), so this is not confirmed as a positive.",
       "sources": []
     },
     {
@@ -55,55 +59,85 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "The road at Chakkar ki Milak is dilapidated",
-      "hindi": "चक्कर की मिलक पर सड़क जर्जर हो चुकी है",
+      "english": "A farmers' problem here is fertiliser shortage and rising prices",
+      "hindi": "खाद की कमी और बढ़ती महंगाई से किसान परेशान हैं",
       "inference": false,
-      "basis": "MLA Nasir Qureshi (Moradabad Dehat, SP) raised the dilapidated road at Chakkar ki Milak in the Nagar Nigam board meeting, described as problems of his assembly constituency. The Aug 2026 report also names poor roads and potholes as residents' concerns in the seat.",
+      "basis": "Amar Ujala report on Moradabad Dehat (28 Aug 2026): farmers named fertiliser shortage (खाद की उपलब्धता) and rising prices as their main concerns (\"खाद की कमी और बढ़ती महंगाई उनके मुख्य मुद्दे हैं\"). Seat-level, not a single village. Lived-experience content only.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-01-09", "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"},
-        {"outlet": "Amar Ujala", "date": "2026-08-28", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/satta-ka-sangram-what-is-electoral-mood-in-moradabad-dehat-key-issues-2026-08-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/satta-ka-sangram-what-is-electoral-mood-in-moradabad-dehat-key-issues-2026-08-28"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "There are potholes on Balaji Mandir Road",
-      "hindi": "बालाजी मंदिर रोड पर सड़कों में गड्ढे हैं",
+      "english": "The road at Chakkar ki Milak is dilapidated",
+      "hindi": "चक्कर की मिलक पर सड़क जर्जर हो चुकी है",
       "inference": false,
-      "basis": "MLA Nasir Qureshi raised potholes on Balaji Mandir Road at the Nagar Nigam board meeting, described as his assembly constituency's problems. Article date 9 Jan 2025, so the condition may have changed.",
+      "basis": "Amar Ujala (13 Feb 2026): Ward 25, Chakkar ki Milak; a road built about a year earlier was dug up for sewer work and left with potholes and a broken surface. AC membership unconfirmed: the article names no vidhan sabha. Jan 2025 report: MLA Nasir Qureshi (Moradabad Dehat) raised the dilapidated road at Chakkar ki Milak in the Nagar Nigam board meeting as a problem of his assembly constituency.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-01-09", "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-13",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/pedestrians-are-getting-injured-after-falling-on-the-dilapidated-road-the-corporation-is-not-waking-up-moradabad-news-c-15-1-mbd1052-833422-2026-02-13"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-09",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "The Jhabbu ka Nala drain is choked",
-      "hindi": "झब्बू का नाला चोक पड़ा है",
+      "english": "There are potholes on Balaji Mandir Road",
+      "hindi": "बालाजी मंदिर रोड पर सड़कों में गड्ढे हैं",
       "inference": false,
-      "basis": "MLA Nasir Qureshi raised the choked Jhabbu ka Nala at the Nagar Nigam board meeting, described as his assembly constituency's problems. Article date 9 Jan 2025; no later update found.",
+      "basis": "Amar Ujala (9 Jan 2025): MLA Nasir Qureshi raised potholes on Balaji Mandir Road at the Nagar Nigam board meeting, described as problems of his assembly constituency. AC membership rests on the MLA's statement; no independent source found. Article is about 21 months old; current state not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-01-09", "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-09",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "A garbage heap at Nawabpura chauraha has lain for years",
-      "hindi": "नवाबपुरा चौराहे पर वर्षों से कूड़े का ढेर लगा है",
+      "english": "The Jhabbu ka Nala drain is choked",
+      "hindi": "झब्बू का नाला चोक पड़ा है",
       "inference": false,
-      "basis": "MLA Nasir Qureshi raised the garbage heap at Nawabpura chauraha, described as lying there for years, at the Nagar Nigam board meeting. Article date 9 Jan 2025; the current state is not confirmed.",
+      "basis": "Amar Ujala (9 Jan 2025): MLA Nasir Qureshi raised the choked Jhabbu ka Nala at the Nagar Nigam board meeting, described as problems of his assembly constituency. AC membership rests on the MLA's statement; no independent source found. No later update in the sources found.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-01-09", "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-09",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Farmers say fertiliser shortage and rising prices are their main worry",
-      "hindi": "खाद की कमी और बढ़ती महंगाई से किसान परेशान हैं",
+      "english": "A garbage heap at Nawabpura chauraha has lain for years",
+      "hindi": "नवाबपुरा चौराहे पर वर्षों से कूड़े का ढेर लगा है",
       "inference": false,
-      "basis": "Amar Ujala election-mood report on Moradabad Dehat (28 Aug 2026): farmers called fertiliser shortage and rising inflation the main issues, quoted as खाद की कमी और बढ़ती महंगाई उनके मुख्य मुद्दे हैं. This is seat-level, not a single village.",
+      "basis": "Amar Ujala (9 Jan 2025): MLA Nasir Qureshi raised the garbage heap at Nawabpura chauraha, described as lying there for years, at the Nagar Nigam board meeting. AC membership rests on the MLA's statement; no independent source found. Current state not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-28", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/satta-ka-sangram-what-is-electoral-mood-in-moradabad-dehat-key-issues-2026-08-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-09",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/moradabad/video-moradabad-municipal-corporation-meeting-tension-between-sp-mla-and-bjp-councilor"
+        }
       ]
     }
   ],
-  "notes": "AC identity confirmed from Wikipedia (No. 27, Moradabad Rural, Moradabad district, reserved: None; the page's 'extent' section is empty). AC extent is NOT confirmed: Wikipedia names no tehsils or villages for AC 27, and the Kanth (AC 25) and Thakurdwara (AC 26) pages describe only their own circles; a Hindi Wikipedia page returned 404 and the Indiastat factbook PDF was unreadable. Chakkar ki Milak, Jhabbu ka Nala, Balaji Mandir Road and Nawabpura chauraha are Moradabad city-area localities, placed in this seat only by the MLA's own statement in the Jan 2025 Amar Ujala report (which says 'अपने विधानसभा क्षेत्र की समस्याएं'); AC 28 Moradabad Nagar could cover the same city wards, so field-check these four. Positives are weak: no AC-specific delivered benefit was found, so all five are flagged as inference. The Sept 2026 Kisan Mazdoor Sabha electricity report (Ramuwala Ganesh, Sahebganj, Dehat bijlighar, datelined Thakurdwara) was not used because its AC membership is unconfirmed; it is a candidate negative for a field check. Amar Ujala stories seen only as search snippets or belonging to other seats (Kanth road story of Jamalpur Munda Nangla, which I fetched and which is AC 25 territory; Thakurdwara highway waterlogging, AC 26) were not used. Snippets for items like the June 2026 tubewell and Feb 2026 water reports were not fetched and are not cited. The Jan 2025 article is about 20 months old; the Aug 2026 report is the freshest AC-named source. Searches for road or village work completed by the MLA in Moradabad Dehat returned nothing; field check needed for positives."
+  "notes": "AC identity confirmed from Wikipedia (No. 27, Moradabad Rural, Moradabad district, reserved: None). AC extent NOT confirmed: Wikipedia names no tehsils or villages for AC 27; Moradabad Nagar (AC 28) Wikipedia page has no extent section; moradabad.nic.in constituency page returned 503 and could not be read. Independent check of the four city localities: Chakkar ki Milak is Nagar Nigam ward 25 (Amar Ujala 13 Feb 2026), but that article names no vidhan sabha, and a Nagar Nigam ward does not establish AC membership (AC 28 could cover the same city wards). Jhabbu ka Nala is in the Nagphani area (Amar Ujala Sept 2025 drain-rebuild story seen only as a search snippet, not fetched; it names no AC). No source found for Balaji Mandir Road or Nawabpura chauraha. The four city negatives therefore rest on the MLA's statement in the Jan 2025 report, which names the seat. Field check still needed. Positives: no AC-specific delivered benefit confirmed. Candidates not used: (a) Amar Ujala/Aaj Tak 9 Sep 2026, Didori and Mangupura villages in Moradabad, paved roads now built, no AC or block named (https://www.aajtak.in/uttar-pradesh/story/muradabad-didori-mangu-pura-villages-swachh-bharat-mission-sanitation-road-improvement-ntcpvp-utrath-rptc-2639748-2026-09-09), needs an AC check before use; (b) Saahas Samachar 28 Jun 2026 preview of CM's Moradabad visit: 12 projects worth Rs 21.88 crore in Moradabad Dehat, no project named, announcement only, not used. Searches for village road or project completion in Moradabad Dehat in Hindi and English returned nothing else. Aug 2026 report used only for lived-experience items (roads, potholes, waterlogging, fertiliser, prices, farmers' MLA remark); no electoral data used. Field check needed for all positives.",
+  "round2": {
+    "verified_sources": 3,
+    "removed_sources": 2,
+    "ac_specific_negatives": 5,
+    "changes": "Step 1: Jan 2025 Amar Ujala video (MLA Nasir Qureshi, Moradabad Dehat, four localities) and Aug 2026 Amar Ujala Moradabad Dehat report both opened and checked; both URLs are already on www.amarujala.com. Removed: Jan 2025 source from positive 2 (an MLA raising problems is not a positive); Aug 2026 source from negative 1 (it names no Chakkar ki Milak road). Added: Amar Ujala 13 Feb 2026 (Chakkar ki Milak, Nagar Nigam ward 25, road dug for sewer work and left with potholes), verified; it names no vidhan sabha, so AC link stays via the Jan 2025 MLA statement. Positive 2 is now sourced (Aug 2026: some farmers say the MLA's work is right; no project named). Positives 1, 3, 4, 5 remain inference. Negatives re-ranked: farmers' fertiliser/price item (seat-level, Aug 2026) to rank 1; Chakkar ki Milak road to 2. Negatives now have 0 inference items. Hindi of negative 1 changed to a plain voter line. Summary unchanged."
+  }
 }
