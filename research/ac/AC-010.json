@@ -1,0 +1,115 @@
+{
+  "ac_no": 10,
+  "ac_name": "Shamli",
+  "ac_name_hindi": "शामली",
+  "reserved": "None",
+  "district": "Shamli",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on unpaid sugarcane dues, smart-meter power cuts, potholed roads and waterlogged city markets, while appreciation is limited to partial cane payments, a bridge repair and a proposed Kendriya Vidyalaya.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 10 Shamli, Reserved: None; district cell spans rows 8-10) and https://en.wikipedia.org/wiki/Shamli_Assembly_constituency (Constituency No. 10, Shamli district, reserved: None, Kairana Lok Sabha seat, Shamli, Banat, Ailum, Kandhala, Gangeru etc. tehsil areas listed). Both undated; not checked against the ECI delimitation order.",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Oon sugar mill has released the first cane-dues installment, so farmers' accounts are getting money.",
+      "hindi": "ऊन चीनी मिल ने गन्ने की पहली किस्त भेजी, किसानों के खाते में पैसा आया",
+      "inference": false,
+      "basis": "District-level (Oon mill, Shamli). Stated: \"सात करोड़ 39 लाख रुपये\" sent to farmers' accounts via the cane committee for 9-14 Nov crushing (calculated as \"21 करोड़ नौ लाख रुपये\"). Mill location vs AC not verified.",
+      "sources": [
+        {"outlet": "Amar Ujala (Meerut Bureau)", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Shamli sugar mill has paid farmers 32 crore rupees in three installments this season.",
+      "hindi": "शामली चीनी मिल ने इस सीज़न में तीन किस्तों में 32 करोड़ रुपये दिए",
+      "inference": false,
+      "basis": "District-level (Shamli chini mill). Stated: the Shamli chini mill has paid \"32 करोड़ रुपये\" in three installments this season (2025-26 season, article dated 6 Dec 2025).",
+      "sources": [
+        {"outlet": "Amar Ujala (Meerut Bureau)", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Repair of the Kabarhoudh bridge on the Meerut-Karnal highway is in its final stage.",
+      "hindi": "मेरठ-करनाल हाईवे पर कबरहौड़ पुल की मरम्मत आखिरी चरण में है",
+      "inference": false,
+      "basis": "District-level (Meerut-Karnal highway, Shamli district). PWD XEN Rajkumar Singh said the Kabarhoudh bridge repair is \"in its final stage\" with one lane closed, per the DISHA meeting report.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-27", "url": "https://www.amarujala.com/uttar-pradesh/shamli/disa-news-shamli-news-c-26-1-sal1002-154463-2025-11-27"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "MP ordered immediate repair of village roads damaged by Jal Jeevan Mission pipeline work.",
+      "hindi": "जल जीवन मिशन से टूटी गांव की सड़कें तुरंत ठीक करने का आदेश हुआ",
+      "inference": false,
+      "basis": "District-level (DISHA meeting, Shamli). Kairana MP Iqra Hasan ordered immediate repair of roads broken by Jal Jeevan Mission work and warned of action if no improvement by the April DISHA meeting. Department had claimed 106 roads repaired; members disputed this (Kandhla, Kasaupur, Budhpura, Aldi).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-27", "url": "https://www.amarujala.com/uttar-pradesh/shamli/disa-news-shamli-news-c-26-1-sal1002-154463-2025-11-27"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Administration is looking for a new site for a Kendriya Vidyalaya, with a temporary school proposed meanwhile.",
+      "hindi": "केंद्रीय विद्यालय की नई जगह खोजी जा रही है, तब तक अस्थायी स्कूल प्रस्तावित",
+      "inference": false,
+      "basis": "District-level (Shamli). DM said the proposed farmland was not approved, a new site is being sought (to be finalised in one month), and a temporary school at VV Inter College has been proposed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-27", "url": "https://www.amarujala.com/uttar-pradesh/shamli/disa-news-shamli-news-c-26-1-sal1002-154463-2025-11-27"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Smart meters cut power even after bills are paid, and homes stay dark for days.",
+      "hindi": "बिल जमा कर दिया, फिर भी स्मार्ट मीटर से बिजली नहीं आई",
+      "inference": false,
+      "basis": "Shamli city (AC-specific). On Sat 28 Mar 2026 hundreds of homes in Shamli city lost power via smart meters at City Bijlighar (सिटी बिजलीघर). Consumers said they paid at the station but supply was not restored; some households had no power for 2-3 days. Official Superintending Engineer Virendra Singh said disconnection is for non-recharged meters.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-29", "url": "https://www.amarujala.com/uttar-pradesh/shamli/consumers-create-ruckus-at-power-station-shamli-news-c-26-1-sal1002-162329-2026-03-29"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Sugarcane dues are still pending with mills, and farmers' money is stuck.",
+      "hindi": "मिलों पर गन्ने का बकाया है, किसानों का पैसा अब भी अटका है",
+      "inference": false,
+      "basis": "District-level. Thana Bhawan chini mill (Thana Bhawan, Shamli district) \"still owes लगभग 95 करोड़ रुपये\" in new and old dues, per 6 Dec 2025 report. Earlier 2021 Shamli report of farmer demands for pre-Diwali payment was not used (too old). Oon and Shamli mills had paid partially.",
+      "sources": [
+        {"outlet": "Amar Ujala (Meerut Bureau)", "date": "2025-12-06", "url": "https://spidertest.amarujala.com/uttar-pradesh/shamli/farmer-news-shamli-news-c-26-1-smrt1047-155077-2025-12-06"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Mansura access road is full of potholes, patching is not enough and a new road is needed.",
+      "hindi": "मंसूरा की सड़क में गड्ढे हैं, पैचिंग से काम नहीं चलेगा, नई सड़क चाहिए",
+      "inference": false,
+      "basis": "District-level (Jhinjhana area, Shamli district; AC membership not verified). Access road from Meerut-Karnal highway to Mansura, about 10 km, built at about Rs 11 crore, deteriorated in eight years. Residents say repeated complaints led only to patch repairs; 20 villages/Sikh deras use it. PWD Executive Engineer Rajkumar said 7 m widening is proposed.",
+      "sources": [
+        {"outlet": "Amar Ujala (Sanwad, Jhinjhana)", "date": "2026-08-01", "url": "https://www.amarujala.com/uttar-pradesh/shamli/shamli-news-shamli-news-c-26-1-sal1002-170830-2026-08-01"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Viral video of Kandhla CHC has put hospital services under question.",
+      "hindi": "कांधला सीएचसी का वीडियो वायरल, इलाज की व्यवस्था पर सवाल",
+      "inference": false,
+      "basis": "AC-specific: Kandhla (Kandhala) is listed among AC 10 areas in the Wikipedia Shamli AC page (Kairana tehsil). DISHA meeting (27 Nov 2025) raised action over the viral video of Kandhla CHC; also a dog-bite death at Harad Fatehpur village (CMO asked to respond) and an Ayushman overcharging allegation by an SP MLC (hospital unnamed). Ayushman allegation not attributed to CHC.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-27", "url": "https://www.amarujala.com/uttar-pradesh/shamli/disa-news-shamli-news-c-26-1-sal1002-154463-2025-11-27"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Heavy rain turns Verma Market, Mill Road and Bada Bazar into waterlogged spots.",
+      "hindi": "बारिश में वर्मा मार्केट, मिल रोड और बड़ा बाजार में पानी भर गया",
+      "inference": false,
+      "basis": "AC-specific (Shamli town markets). On Tue 4 Aug 2026, rain waterlogged Verma Market, Mill Road and Bada Bazar and several other areas; pedestrians and drivers faced trouble. No official or resident quotes in the report.",
+      "sources": [
+        {"outlet": "Amar Ujala (video report)", "date": "2026-08-04", "url": "https://www.amarujala.com/video/uttar-pradesh/shamli/video-shamli-heavy-rain-brings-relief-causes-waterlogging-in-shamli-2026-08-04"}
+      ]
+    }
+  ],
+  "notes": "Searches: WebSearch budget ran out for this turn after about 6 successful searches (several calls returned too_many_requests or budget-exhausted), so the 15+ search target was NOT met; the rest of the evidence comes from fetched pages. Recommend a re-run or follow-up for: Hindi searches on Shamli city roads/jam, water supply (JJM), the Oct-Dec 2025 DISHA follow-up, and 2026 sugarcane dues. Local-first rule: 3 negatives are AC-specific (smart-meter outage at Shamli city, Shamli city waterlogging, Kandhla CHC). Only the Kandhla AC membership comes from Wikipedia, which is undated; check against the ECI delimitation order. Not verified: AC membership of Oon mill, Shamli chini mill, Thana Bhawan mill (Thana Bhawan is likely a separate AC), Jhinjhana/Mansura, Harad Fatehpur, Rasulpur, Budhpura, Aldi, Kendriya Vidyalaya site. Excluded: Amar Ujala 2021 articles (Shamli flood 5 Aug 2021, sugar mill dues 29 Oct 2021) as too old. Oon mill article is on the spidertest.amarujala.com mirror host; the canonical amarujala.com URL was not verified. Positives are all district-level; no AC-specific positive was found. Hindi names of AC (शामली) and mill/places were not confirmed by a Hindi-language official source. Electoral data (vote share, margins, MLA results) deliberately excluded. Recheck the Wikipedia 'Reserved: None' status against the ECI list before field use."
+}

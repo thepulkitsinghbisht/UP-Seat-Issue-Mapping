@@ -1,0 +1,115 @@
+{
+  "ac_no": 13,
+  "ac_name": "Purqazi",
+  "ac_name_hindi": "पुरकाजी",
+  "reserved": "SC",
+  "district": "Muzaffarnagar",
+  "region": "Paschim UP",
+  "summary": "Local coverage of Purkazi is thin; the district-level complaints that dominate are unpaid sugarcane dues, weak power for irrigation, sugarcane prices and overloaded cane trucks, while the only Purkazi-specific appreciation found is its 2019 ODF Plus status.",
+  "identity_source": "https://en.wikipedia.org/wiki/Purqazi_Assembly_constituency (Constituency No. 13, district Muzaffarnagar, reservation SC, Bijnor Lok Sabha)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Purkazi nagar panchayat got ODF Plus status and its community toilet is in good shape",
+      "hindi": "पुरकाजी नगर पंचायत को ओडीएफ प्लस का दर्जा मिला, सामुदायिक शौचालय ठीक हैं",
+      "inference": false,
+      "basis": "Amar Ujala (Meerut bureau, 23 Feb 2019): Purkaji Nagar Panchayat declared ODF Plus after a 16 January inspection; no open defecation found; community toilet in good condition. The only nagar panchayat in the district to get the status. Dated 2019, so may be stale.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2019-02-23", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/81550862029-muzaffarnagar-news"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "* Being on the Delhi-Dehradun highway (NH 58) makes travel to Delhi and Haridwar easier",
+      "hindi": "* दिल्ली-देहरादून हाईवे (NH 58) पर होने से दिल्ली और हरिद्वार आना-जाना आसान है",
+      "inference": true,
+      "basis": "Inference: Wikipedia states Purkazi is on NH 58, the Delhi-Dehradun highway, and borders Haridwar district. No voter statement or appreciation found in any source for this AC; this is a guess about what voters value.",
+      "sources": [
+        {"outlet": "Wikipedia (Purkazi)", "date": "n/a", "url": "https://en.wikipedia.org/wiki/Purkazi"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "* Sugarcane is the main crop here, and many families depend on farming for their income",
+      "hindi": "* गन्ना यहाँ की मुख्य फसल है, और ज़्यादातर परिवार खेती पर निर्भर हैं",
+      "inference": true,
+      "basis": "Inference: Tribune (1 Mar 2021) describes sugarcane as the main grievance and crop across Muzaffarnagar district (district-level). It does not state that this is a positive for Purkazi voters, so this is a placeholder needing a field check.",
+      "sources": [
+        {"outlet": "The Tribune", "date": "2021-03-01", "url": "https://www.tribuneindia.com/news/nation/farmers-protest-in-muzaffarnagar-villages-more-about-sugarcane-issues-than-agri-laws-218700"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "* Being close to Haridwar gives local farmers and traders access to a wider market",
+      "hindi": "* हरिद्वार से नज़दीकी से किसानों और व्यापारियों को बड़ा बाज़ार मिलता है",
+      "inference": true,
+      "basis": "Inference: Wikipedia states Purkazi borders Haridwar district in Uttarakhand. No source found on market access or voter views of it. Placeholder needing a field check.",
+      "sources": [
+        {"outlet": "Wikipedia (Purkazi)", "date": "n/a", "url": "https://en.wikipedia.org/wiki/Purkazi"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "* Basic civic services in the town run on a routine basis",
+      "hindi": "* कस्बे में बुनियादी नागरिक सेवाएँ नियमित रूप से चल रही हैं",
+      "inference": true,
+      "basis": "Inference: the only Purkazi-specific source found (Amar Ujala 2019) covers sanitation only, and no source on current water, roads or power in the town was found. This is a weak placeholder that must be checked in the field.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2019-02-23", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/81550862029-muzaffarnagar-news"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sugar mills have not cleared last season's cane dues, and farmers are left waiting",
+      "hindi": "चीनी मिलें पिछले सीज़न का गन्ना बकाया नहीं चुकातीं, किसान इंतज़ार करते रहते हैं",
+      "inference": false,
+      "basis": "Tribune (dateline 28 Feb, updated 1 Mar 2021), Muzaffarnagar district-level: farmers say several sugar mills have not cleared last season's dues, and one farmer cited a delay of over a year. Not specific to Purkazi AC; the article does not name Purkazi.",
+      "sources": [
+        {"outlet": "The Tribune", "date": "2021-03-01", "url": "https://www.tribuneindia.com/news/nation/farmers-protest-in-muzaffarnagar-villages-more-about-sugarcane-issues-than-agri-laws-218700"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The Makhiyali power house is overloaded, so irrigation power does not come on time",
+      "hindi": "मखियाली पावर हाउस पर लोड ज़्यादा है, सिंचाई के समय बिजली नहीं मिलती",
+      "inference": false,
+      "basis": "Amar Ujala (video report, 20 Mar 2025), Muzaffarnagar district panchayat hall during Kisan Diwas: farmers said the Makhiyali power house has been overloaded for three years, so irrigation power comes late. District-level; the report does not say whether Makhiyali falls in Purqazi AC, which needs checking.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-03-20", "url": "https://www.amarujala.com/video/uttar-pradesh/muzaffarnagar/video-issue-of-overloaded-sugarcane-vehicles-was-raised-on-kisan-diwas-in-muzaffarnagar-2025-03-20"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Cane prices have stayed the same for years while farming costs keep rising",
+      "hindi": "गन्ने का भाव सालों से वही है, जबकि खेती का खर्च लगातार बढ़ रहा है",
+      "inference": false,
+      "basis": "Tribune (1 Mar 2021), Muzaffarnagar district-level: farmers say cane prices have been stagnant for several seasons; FRP rose from Rs 255 to Rs 285 per quintal between 2017-18 and 2020-21; farmers spend over Rs 2 lakh per hectare per season. Not Purkazi-specific.",
+      "sources": [
+        {"outlet": "The Tribune", "date": "2021-03-01", "url": "https://www.tribuneindia.com/news/nation/farmers-protest-in-muzaffarnagar-villages-more-about-sugarcane-issues-than-agri-laws-218700"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Smaller fertiliser bags cost more, and stray cattle are also a problem for farmers",
+      "hindi": "खाद की बोरियाँ छोटी हो गईं पर दाम ज़्यादा हैं, और आवारा पशु भी परेशान करते हैं",
+      "inference": false,
+      "basis": "Tribune (1 Mar 2021), Muzaffarnagar district-level: farmers cited higher fertiliser costs from smaller urea and DAP bags, diesel prices and stray cattle. Not Purkazi-specific.",
+      "sources": [
+        {"outlet": "The Tribune", "date": "2021-03-01", "url": "https://www.tribuneindia.com/news/nation/farmers-protest-in-muzaffarnagar-villages-more-about-sugarcane-issues-than-agri-laws-218700"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Overloaded sugarcane trucks cause accidents, and farmers blame officials for not stopping them",
+      "hindi": "ओवरलोड गन्ने की गाड़ियों से हादसे होते हैं, किसान अफ़सरों को ज़िम्मेदार ठहराते हैं",
+      "inference": false,
+      "basis": "Amar Ujala (video report, 20 Mar 2025), Muzaffarnagar district panchayat hall: farmers blamed officials for accidents involving overloaded sugarcane vehicles; the Additional DM assured action. District-level; no Purkazi road or accident is named.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-03-20", "url": "https://www.amarujala.com/video/uttar-pradesh/muzaffarnagar/video-issue-of-overloaded-sugarcane-vehicles-was-raised-on-kisan-diwas-in-muzaffarnagar-2025-03-20"}
+      ]
+    }
+  ],
+  "notes": "Confirmed via Wikipedia: Constituency No. 13, Purqazi, Muzaffarnagar district, SC reserved, Bijnor Lok Sabha. The ECI-spelled name was not checked against the ECI site; the Wikipedia spelling is used. Search budget for this turn ran out after about 14 searches and 10 fetches, so the research is incomplete. Purkazi-specific local grievances (water, roads, drainage, power, health) were NOT found. The only Purkazi-named items are the 2019 ODF Plus report, a 2020 cannon-case report (not a grievance), a 2025 kanwar-route incident (law-and-order, deliberately not used as a statement), and a 2023 murder report (not used). Five negatives rely on Muzaffarnagar district-level sources (Tribune 2021, Amar Ujala 2025), so they are not AC-specific; the 2021 Tribune article is dated. Positives 2-5 are inferences with no voter source. Field checks needed: Purkazi nagar panchayat water supply, drainage and garbage; NH 58 traffic and accidents; whether Makhiyali power house is inside Purqazi AC; current cane dues from the Purkazi-area sugar mill; Ganga or canal flooding. Vote figures from Wikipedia were not used, as the brief excludes electoral data."
+}

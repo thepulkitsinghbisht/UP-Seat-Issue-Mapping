@@ -1,0 +1,115 @@
+{
+  "ac_no": 16,
+  "ac_name": "Meerapur",
+  "ac_name_hindi": "मीरापुर",
+  "reserved": "None",
+  "district": "Muzaffarnagar",
+  "region": "Paschim UP",
+  "summary": "Local voices in Meerapur's Amar Ujala ground report mostly raise roads, farm prices, free education and healthcare, and unemployment, while praising women's safety and police security arrangements.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 16 'Meerapur', reserved status None, district Muzaffarnagar, Lok Sabha Bijnor); corroborated by https://en.wikipedia.org/wiki/Meerapur_Assembly_constituency (Constituency No. 16, reservation None, Bijnor Lok Sabha)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Government work is good, some residents say, and they praise it.",
+      "hindi": "सरकार का काम ठीक है, कुछ लोग इसकी तारीफ करते हैं",
+      "inference": false,
+      "basis": "Amar Ujala ground report: some people praised government work; one citizen called the BJP or BSP government's rule good.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Women's safety is better than before, though it can still improve.",
+      "hindi": "महिलाओं की सुरक्षा पहले से बेहतर हुई है, पर और सुधार हो",
+      "inference": false,
+      "basis": "Amar Ujala ground report: resident Ishita said women's safety is better than before but can improve further.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The administration's security arrangements are good.",
+      "hindi": "प्रशासन के सुरक्षा इंतज़ाम अच्छे हैं",
+      "inference": false,
+      "basis": "Amar Ujala ground report: residents praised the administration's security arrangements.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Young people are keen on education.",
+      "hindi": "*युवाओं में पढ़ाई को लेकर उत्साह दिखता है",
+      "inference": true,
+      "basis": "Inference: resident Faiz named education as a key youth demand alongside ending unemployment. The source does not record any improvement in education, so this is a weak positive to verify in the field.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "People speak openly about development in their area.",
+      "hindi": "*लोग अपने इलाके के विकास पर खुलकर अपनी बात रखते हैं",
+      "inference": true,
+      "basis": "Inference: residents spoke openly to the Amar Ujala reporter about development, jobs and roads. This is not a government achievement and no AC-specific project was found.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Roads in Morna have potholes and need proper repair work.",
+      "hindi": "मोरना में सड़कों पर गड्ढे हैं, सड़कों पर काम होना चाहिए",
+      "inference": false,
+      "basis": "Amar Ujala ground report (Meerapur series): Shreya Sharma, Morna area, wants better road quality and potholes fixed; residents said road work should happen.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Sugarcane prices should go up for farmers.",
+      "hindi": "गन्ने के दाम बढ़ने चाहिए, किसान की मेहनत का दाम मिले",
+      "inference": false,
+      "basis": "Amar Ujala ground report: farmers in the Morna area said sugarcane prices should rise.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Education and healthcare should be free.",
+      "hindi": "शिक्षा और इलाज मुफ्त होने चाहिए",
+      "inference": false,
+      "basis": "Amar Ujala ground report: resident Sanjeev Kumar, Morna area, said education and medical care should be free.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Unemployment must end; youth need jobs.",
+      "hindi": "बेरोजगारी खत्म होनी चाहिए, युवाओं को काम चाहिए",
+      "inference": false,
+      "basis": "Amar Ujala ground report: Faiz said the youth's biggest demand is ending unemployment, along with education. Mohit Dubey also wanted the MLA to focus on jobs.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Development is lacking; basic facilities need attention.",
+      "hindi": "विकास की कमी दिखती है, बुनियादी सुविधाओं पर ध्यान चाहिए",
+      "inference": false,
+      "basis": "Amar Ujala ground report: residents voiced concern about lack of development and basic facilities in Meerapur (not village-specific).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/satta-ka-sangram-how-much-development-has-taken-place-in-meerapur-assembly-constituency-2026-08-26"}
+      ]
+    }
+  ],
+  "notes": "Identity confirmed from Wikipedia (row 16 Meerapur, None, Muzaffarnagar, Bijnor LS). The web search tool hit its per-turn limit (about 9 WebSearch calls succeeded, then the budget ran out), so the brief's 15+ search target was NOT met; the Hindi and English local searches returned mostly 2024 by-election coverage (excluded as electoral data) and other places with similar names (Mirzapur, Mirpur, Sikandarpur). Only one AC-specific source was found: the Amar Ujala 'Satta Ka Sangram' ground report of 26 Aug 2026 (reporter Anuj Kumar), which names the MLA as Mithilesh Pal (RLD). Its complaints are general, and only 'Morna' is named as a place, so Morna's membership in this AC (it is not in the Wikipedia extent list: KCs Meerapur, Bhopa; PCs Salarpur, Jatwara, Kawal, Dhansari, Jolly, Kakrauli, Tewda, Nagar Panchayats Meerapur and Bhokerheri) needs a field check. Positives 4 and 5 are weak inferences and should be replaced after a Hindi local search (Amar Ujala/Dainik Jagran Muzaffarnagar pages, or the 'Kakrauli', 'Bhopa', 'Dhansari' village names). Sources reviewed but not used: Amar Ujala 19 Apr 2024 Bijnor LS preview (no local civic issues, only caste/party arithmetic), Amar Ujala 25 Feb 2026 Kidwai Nagar road (urban Muzaffarnagar city, not in this AC), and ChiniMandi/ground.news 19 Jun 2026 cane dues story (Bhaisana mill in Budhana, Muzaffarnagar district-level total of Rs 339.65 crore; Meerapur not mentioned). The cane-dues item was not used because it is district-level and does not name Meerapur. Field checks recommended: Morna road condition, Meerapur sugar-cane mill/payment status, Kakrauli and Bhopa power and water supply, Meerapur town drainage."
+}
