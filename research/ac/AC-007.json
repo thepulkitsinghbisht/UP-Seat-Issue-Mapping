@@ -5,55 +5,55 @@
   "reserved": "None",
   "district": "Saharanpur",
   "region": "Paschim UP",
-  "summary": "Complaints centre on tyre-factory smoke and the violent Kallarheri clash that followed, with cane payments and flooding as likely farm concerns, while appreciation focuses on fertile farmland and local heritage.",
+  "summary": "Complaints centre on tyre-factory smoke and the deadly Kallarheri clash that followed, with power cuts and river encroachment also raised; cane dues remain unverified for Gangoh.",
   "identity_source": "https://en.wikipedia.org/wiki/Gangoh_Assembly_constituency",
   "positives": [
     {
       "rank": 1,
-      "english": "Gangoh block's soil is fertile, growing wheat, rice, sugarcane and mangoes",
-      "hindi": "गंगोह की ज़मीन उपजाऊ है, गेहूं, धान, गन्ना और आम होते हैं",
+      "english": "Six roads in Gangoh and Nakur are to be built with a five-year guarantee",
+      "hindi": "गंगोह-नकुड़ में छह सड़कें पांच साल की गारंटी पर बननी हैं",
       "inference": false,
-      "basis": "Wikipedia (Gangoh town page): soil is described as 'fertile' and 'Wheat, rice, sugarcane, and mangoes are grown on a large scale every year.' Gangoh Block has about 173 villages under Nakur tehsil. Undated.",
+      "basis": "Amar Ujala (8 Jan 2024): PWD plans six roads in Gangoh and Nakur at Rs 7.79 crore, with a five-year guarantee; tender process to start. Planned works; completion was not verified in this research.",
       "sources": [
-        {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
+        {"outlet": "Amar Ujala", "date": "2024-01-08", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/six-roads-will-be-built-in-gangoh-and-nakur-on-five-year-guarantee-saharanpur-news-c-30-1-smrt1053-16089-2024-01-08"}
       ]
     },
     {
       "rank": 2,
-      "english": "Proposed Shamli-Ambala six-lane expressway is to pass through Gangoh",
-      "hindi": "प्रस्तावित शामली-अंबाला छह लेन एक्सप्रेसवे गंगोह से होकर गुजरेगा",
+      "english": "Gangoh municipality boundary expansion proposal is with the state government",
+      "hindi": "गंगोह नगर पालिका सीमा विस्तार के प्रस्ताव पर काम चल रहा है",
       "inference": false,
-      "basis": "Wikipedia (Gangoh town page) states: 'Proposed Shamli Ambala six lane expressway will pass through Gangoh', saying it would improve connectivity among West UP, Haryana and Punjab. Proposal only; no date or construction status given on the page. Undated.",
+      "basis": "Amar Ujala (3 Sep 2025): Gangoh and Nakur municipalities prepared boundary-expansion proposals, forwarded to the state after district approval; process starts only after state approval. Article says nearby areas could get urban facilities after expansion. Pending.",
       "sources": [
-        {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
+        {"outlet": "Amar Ujala", "date": "2025-09-03", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/gangoh-and-nakur-municipalities-will-have-their-boundaries-expanded-saharanpur-news-c-30-1-sha1004-157710-2025-09-03"}
       ]
     },
     {
       "rank": 3,
-      "english": "Gangoh's dargahs and old mausoleum are a source of local identity",
-      "hindi": "गंगोह की दरगाह और पुराना मकबरा हमारी पहचान है",
-      "inference": false,
-      "basis": "Wikipedia (Gangoh town page) names the Dargah Sharif of Mamu Allah Bakhsh and Mata Lado Rani, and the mausoleum of Shaikh Abdul Kuddus built by Humayun in 1537 (per 1911 gazetteer quoted on page). Undated.",
-      "sources": [
-        {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
-      ]
-    },
-    {
-      "rank": 4,
       "english": "Officials acted: a Gangoh block panchayat secretary was suspended for negligence",
       "hindi": "गंगोह ब्लॉक में लापरवाह पंचायत सचिव पर कार्रवाई हुई",
       "inference": false,
-      "basis": "Amar Ujala (18 Aug 2026): DM Arvind Kumar Chauhan suspended panchayat secretary Gaurav Sharma (posted at Khanpur Gurjar) after a probe. The negligence concerned the civil registration portal (death certificates), not roads, water or development works. Assistant Sabir was dismissed and FIRs ordered.",
+      "basis": "Amar Ujala (18 Aug 2026): DM Arvind Kumar Chauhan suspended panchayat secretary Gaurav Sharma (posted at Khanpur Gurjar) after an inquiry; panchayat assistant Sabir ordered dismissed; FIRs ordered. The lapse concerned misuse of the civil registration (CRS) portal for death certificates, not roads or water. Administrative, not a resident complaint.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-08-18", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/panchayat-secretary-of-gangoh-block-suspended-for-negligence-in-official-duties-saharanpur-news-c-30-1-sha1004-181926-2026-08-18"}
       ]
     },
     {
+      "rank": 4,
+      "english": "Proposed Shamli-Ambala six-lane expressway is to pass through Gangoh",
+      "hindi": "प्रस्तावित शामली-अंबाला एक्सप्रेसवे गंगोह से होकर गुजरेगा",
+      "inference": false,
+      "basis": "Wikipedia (Gangoh town page) states: 'Proposed Shamli Ambala six lane expressway will pass through Gangoh'. Proposal only; no date or construction status on the page. Undated.",
+      "sources": [
+        {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
+      ]
+    },
+    {
       "rank": 5,
-      "english": "Gangoh is close to Karnal, Yamunanagar and Shamli, which may help trade",
-      "hindi": "गंगोह करनाल, यमुनानगर और शामली के पास होने से व्यापार को फायदा",
-      "inference": true,
-      "basis": "Inference: Wikipedia gives distances (Karnal about 35 km, Yamunanagar about 50 km, Shamli about 50 km; Delhi about 150 km). No source found on trade or business impact in Gangoh.",
+      "english": "Gangoh's soil is fertile, growing wheat, rice, sugarcane and mangoes",
+      "hindi": "गंगोह की ज़मीन उपजाऊ है, गेहूं, धान, गन्ना और आम होते हैं",
+      "inference": false,
+      "basis": "Wikipedia (Gangoh town page): soil described as 'fertile'; 'Wheat, rice, sugarcane, and mangoes are grown on a large scale every year.' General description, undated.",
       "sources": [
         {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
       ]
@@ -62,21 +62,20 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Smoke and smell from the tyre factory trouble villagers",
-      "hindi": "टायर फैक्ट्री का धुआं और बदबू से गांव के लोग परेशान हैं",
+      "english": "Power cut for 6 to 8 hours in Gangoh after a line snapped in rain",
+      "hindi": "गंगोह में बारिश में तार टूटे, 6-8 घंटे बिजली गुल रही",
       "inference": false,
-      "basis": "Kallarheri village (Gangoh area): villagers say factory smoke and smell troubled residents and breathing problems were feared; earlier smoke complaints had been made. The Pollution Control Board said the factory had permission and that no pollution complaint had been received. Amar Ujala 11 Oct 2026 and 10 Oct 2026.",
+      "basis": "Amar Ujala (8 Jul 2026): 11 kV line fault during rain near Vidyarthi Chowk, Bypass Road, Gangoh. Gangoh town and villages on the Jehra power house feed lost supply for about 6 to 8 hours; shops and homes affected. XEN Subodh Kumar said a team was sent to the spot. Residents demanded regular line inspection in the monsoon.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mob-killed-factory-owner-accusing-him-of-causing-pollution-in-saharanpur-2026-10-11"},
-        {"outlet": "Amar Ujala", "date": "2026-10-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/saharanpur-violent-clash-at-tyre-factory-leaves-one-dead-two-injured-two-detained-2026-10-10"}
+        {"outlet": "Amar Ujala", "date": "2026-07-08", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/insulator-tied-to-a-mango-tree-blew-out-power-supply-disrupted-in-gangoh-and-several-other-villages-saharanpur-news-c-30-1-smrt1014-179126-2026-07-08"}
       ]
     },
     {
       "rank": 2,
-      "english": "A smoke dispute at the factory turned deadly, with one man dead in our village",
-      "hindi": "धुएं के झगड़े में एक जान चली गई, यह हमारे गांव में हुआ",
+      "english": "Smoke and smell from the tyre factory trouble villagers",
+      "hindi": "टायर फैक्ट्री का धुआं और बदबू से गांव के लोग परेशान हैं",
       "inference": false,
-      "basis": "Kallarheri (Gangoh area), 10 Oct 2026: villagers from Salarpura, Kallarheri and Sanauli went to demand closure over smoke; a clash followed in which Arbin Chauhan died during treatment and two men were injured. Police reports differ on arrests (two detained on 10 Oct; three arrested per 11 Oct report).",
+      "basis": "Kallarheri (Gangoh): residents say smoke reached nearby villages, making breathing hard and raising fears of illness; earlier complaints had been filed (Amar Ujala, 10 Oct 2026). The Pollution Control Board said the factory held permission and no pollution complaint had been received (Amar Ujala, 11 Oct 2026).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-10-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/saharanpur-violent-clash-at-tyre-factory-leaves-one-dead-two-injured-two-detained-2026-10-10"},
         {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mob-killed-factory-owner-accusing-him-of-causing-pollution-in-saharanpur-2026-10-11"}
@@ -84,34 +83,41 @@
     },
     {
       "rank": 3,
-      "english": "Hindon floods damaged the road, bikes and small cars struggle to cross",
-      "hindi": "हिंडन में बाढ़ से टूटी सड़क, बाइक और छोटी कार वालों को परेशानी",
+      "english": "A smoke dispute at the factory turned deadly, with one man dead in our village",
+      "hindi": "धुएं के झगड़े में एक जान चली गई, यह हमारे गांव में हुआ",
       "inference": false,
-      "basis": "District-level, not confirmed to be in Gangoh AC: Amar Ujala video (4 Aug 2026) from Chhutmalpur, Saharanpur. Hindon water level dropped but the Sundarpur-Shakumbhari Devi road was left broken; bike and small-car riders struggle to cross. Article text was cut off; no officials quoted.",
+      "basis": "Kallarheri (Gangoh), night of 10 Oct 2026: villagers from Salarpura, Kallarheri and Sanauli went to demand closure over smoke; a clash followed. Factory owner Arbeen Chauhan (spelled Arbin in some copy) died during treatment; two men injured. Reports differ: two detained (10 Oct); three arrested and an FIR naming 11 people (11 Oct, which also says the family complaint names 20 people). Verify before use.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-04", "url": "https://www.amarujala.com/video/uttar-pradesh/saharanpur/video-saharanpur-hindon-water-recedes-damaged-road-troubles-commuters-2026-08-04"}
+        {"outlet": "Amar Ujala", "date": "2026-10-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/saharanpur-violent-clash-at-tyre-factory-leaves-one-dead-two-injured-two-detained-2026-10-10"},
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mob-killed-factory-owner-accusing-him-of-causing-pollution-in-saharanpur-2026-10-11"}
       ]
     },
     {
       "rank": 4,
-      "english": "*Swamp south of Gangoh town can flood the settlement",
-      "hindi": "*गंगोह के दक्षिण का दलदल कस्बे में बाढ़ का खतरा बनता है",
-      "inference": true,
-      "basis": "Inference: 1911 gazetteer quoted on Wikipedia says the town is 'liable to be flooded from a large swamp south of the site' and that a drainage scheme had been prepared. No current (2024-2026) source found; the status of the swamp and drainage is unverified.",
+      "english": "Encroachments have taken over the Sindhali river land in Gangoh block",
+      "hindi": "सिंधली नदी की ज़मीन पर कब्जे, नदी लगभग खत्म हो गई",
+      "inference": false,
+      "basis": "Amar Ujala video (12 May 2025): the Sindhali river, now largely extinct, once flowed through 20 gram panchayats of Gangoh block; encroachments have taken its land. SDM marked river land at Alampur and Sukhedi; MGNREGA excavation planned; warned of strict action on re-encroachment. This is about encroachment, not flooding.",
       "sources": [
-        {"outlet": "Wikipedia (Gangoh)", "date": "undated (quotes 1911 gazetteer)", "url": "https://en.wikipedia.org/wiki/Gangoh"}
+        {"outlet": "Amar Ujala", "date": "2025-05-12", "url": "https://www.amarujala.com/video/uttar-pradesh/saharanpur/video-administrative-action-started-against-illegal-encroachments-on-sindhali-river-in-gangoh-saharanpur-2025-05-12"}
       ]
     },
     {
       "rank": 5,
-      "english": "*Sugarcane payments to farmers from mills are often delayed",
+      "english": "*Sugarcane payments from mills are often delayed to farmers",
       "hindi": "*गन्ने का पैसा मिलों से समय पर नहीं मिलता",
       "inference": true,
-      "basis": "Inference: Wikipedia lists sugarcane as a major crop in Gangoh Block, so cane payments are likely a farm concern. No Gangoh-specific report of cane dues was found in this research; this needs field verification.",
+      "basis": "Inference: Wikipedia (Gangoh page) says sugarcane is grown on a large scale in the area, so cane payments are likely a farm concern. Searched 2025-2026 Hindi and English sources again; no Gangoh-specific report on cane dues was found (western UP dues reports exist but are not for Gangoh). Field verification needed.",
       "sources": [
         {"outlet": "Wikipedia (Gangoh)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Gangoh"}
       ]
     }
   ],
-  "notes": "Research budget ran out after about 12 WebSearch calls, so coverage is thin. Only two Gangoh-specific 2026 Amar Ujala news items were found and fetched (Kallarheri tyre-factory clash and smoke complaints, 10-11 Oct 2026); the 18 Aug 2026 panchayat secretary item is administrative, not a resident complaint. Not found: current power cuts, water supply, stray cattle, town road or sugarcane-mill reports for Gangoh; Hindi searches for these returned only other areas. The Gangoh town facts come from Wikipedia, which relies on an 1911 gazetteer for several points; these are old and flagged. The Hindon road item is Chhutmalpur (district-level), not verified as inside Gangoh AC. Arrest counts differ between Amar Ujala reports (two vs three) and the complaint names differ (11 vs 20 named), so the incident should be checked before use. The Wikipedia AC page is internally inconsistent about the MLA's election year; electoral and MLA details were excluded per the brief. Field check recommended for: power cuts, canal and drain water, cane dues and mill, stray cattle, Gangoh town roads and traffic, and Kallarheri factory pollution."
+  "round2": {
+    "verified_sources": 12,
+    "removed_sources": 1,
+    "ac_specific_negatives": 4,
+    "changes": "Fetched every source. Removed the Hindon road video (4 Aug 2026): it is in Chhutmalpur/Shakumbhari area, not Gangoh AC (AC extent per Wikipedia: Ambehta, Gangoh, Titron, Nanauta and NPs). Dropped the 1911-based swamp flood item (no current source). Replaced the dargah and distance positives (Wikipedia, weak and not issues) and the trade inference with sourced Gangoh items: six roads (2024), municipal expansion proposal (2025), and a 2026 power cut in Gangoh town. Added Sindhali river encroachment (2025, Gangoh block). Kept the Kallarheri items (verified against both Amar Ujala reports) and the panchayat-secretary action (verified). Re-ranked by likely impact. Positive 5 (soil) is now sourced and no longer an inference. Cane dues kept as flagged inference."
+  },
+  "notes": "Research: about 20 searches across Hindi and English, most returning no Gangoh-specific result. Gangoh-specific sources found: Amar Ujala 2026 (power, Kallarheri, panchayat secretary), 2025 (Sindhali, municipal expansion), 2024 (six roads). Still not found for Gangoh: current water supply, stray cattle, town road potholes, Yamuna or Hindon flooding in Gangoh, or 2024-2026 cane dues. Those stay as field-check items. Wikipedia's Gangoh page is internally inconsistent: it says the 1911 gazetteer but its reference list gives 1908; the soil and expressway claims are undated. The Gangoh AC extent (Ambehta, Gangoh, Titron, Nanauta and NPs) comes from the Wikipedia AC page; the village-level membership of Kallarheri and Sindhali villages (Alampur, Sukhedi) is inferred from 'Gangoh area/block' wording and not separately confirmed against the electoral roll. Kallarheri clash: sources differ on arrests (2 detained vs 3 arrested) and on complainant and name counts (11 vs 20), so treat the incident details as needing a check. Panchayat-secretary item is administrative, not a resident complaint; it is kept only as an official action. Electoral and MLA details excluded per brief."
 }

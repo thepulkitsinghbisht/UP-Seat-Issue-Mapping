@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Saharanpur",
   "region": "Paschim UP",
-  "summary": "Complaints centre on land and revenue grievances at Behat tehsil and unsafe travel on the Delhi-Yamunotri highway, while canal irrigation, mango and guava orchards and the local CHC are the main points of appreciation, though local evidence is thin and several items are inference.",
+  "summary": "Complaints centre on land and revenue grievances in Behat tehsil, illegal Yamuna mining and unsafe travel on the Delhi-Yamunotri highway, while canal irrigation, mango orchards and handicrafts are the main points of appreciation, though local evidence is thin and several items are inference.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
@@ -13,17 +13,17 @@
       "english": "Canal water reaches our fields, so the crops grow well",
       "hindi": "नहर का पानी है, इसलिए यहां के खेतों में फसल अच्छी होती है",
       "inference": false,
-      "basis": "Western Yamuna Canal irrigates most of the town's arable land (Wikipedia, Behat town article; undated page, no specific date given).",
+      "basis": "Wikipedia (Behat town article, Economy section, undated): the Western Yamuna Canal 'irrigates most of the arable land in Behat'. Verified on 12 Oct 2026.",
       "sources": [
         {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
       ]
     },
     {
       "rank": 2,
-      "english": "Mango and guava orchards are our pride and our livelihood",
-      "hindi": "आम और अमरूद के बाग़ ही यहां की पहचान और रोज़ी-रोटी हैं",
+      "english": "Mango orchards are our pride and our livelihood",
+      "hindi": "आम के बाग़ ही यहां की पहचान और रोज़ी-रोटी हैं",
       "inference": false,
-      "basis": "Agriculture has been the main focus for about 200 years, with mango orchards the mainstay; the town is known for guavas (Wikipedia, Behat town article; undated).",
+      "basis": "Wikipedia (Behat town article, undated): 'mango orchards slowly took over as mainstay of the economy'. The same article names guavas only as one fruit the town is known for, so guava orchards are not claimed here. Verified on 12 Oct 2026.",
       "sources": [
         {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
       ]
@@ -33,7 +33,7 @@
       "english": "Our local craftsmen make brass bells and wrought-iron goods",
       "hindi": "पीतल की घंटियां और लोहे का सामान यहां के कारीगर बनाते हैं",
       "inference": false,
-      "basis": "The article lists brass bells and wrought iron handicrafts as local products (Wikipedia, Behat town article; undated).",
+      "basis": "Wikipedia (Behat town article, introduction, undated) names 'brass bells, and wrought iron handicrafts' as local products. Verified on 12 Oct 2026.",
       "sources": [
         {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
       ]
@@ -43,17 +43,18 @@
       "english": "*The Delhi-Yamunotri highway makes travel to Saharanpur easy",
       "hindi": "*दिल्ली-यमुनोत्री हाईवे पर होने से सहारनपुर आना-जाना आसान है",
       "inference": true,
-      "basis": "Inference: the town is on NH-709B, about 30 km north of Saharanpur (Wikipedia, Behat town article). The 'easy travel' point is not stated in any source reached.",
+      "basis": "Inference: Wikipedia places Behat on NH-709B, about 30 km north of Saharanpur, and Amar Ujala (10 Dec 2021) calls the road the Delhi-Yamunotri highway. The 'easy travel' point is not stated in any source reached.",
       "sources": [
-        {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
+        {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"},
+        {"outlet": "Amar Ujala", "date": "2021-12-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/one-killed-three-serious-in-collision-of-three-bikes-saharanpur-news-mrt5684976104"}
       ]
     },
     {
       "rank": 5,
       "english": "*Behat's CHC gives first treatment in an emergency before referral",
-      "hindi": "*बेहट सीएचसी में इमरजेंसी का पहला इलाज मिल जाता है, फिर ज़िला अस्पताल भेजते हैं",
+      "hindi": "*बेहट सीएचसी में पहला इलाज मिल जाता है, फिर ज़िला अस्पताल भेजते हैं",
       "inference": true,
-      "basis": "Inference: based on one fatal crash report (Dec 2021) in which injured were taken to the Behat CHC, given first aid and referred to the district hospital. Single incident, not a general finding.",
+      "basis": "Inference: Amar Ujala (10 Dec 2021) reports that after a fatal three-bike crash near Babail Bujurg, the three injured were given first aid at Behat CHC and referred to the district hospital. This is one incident, not a general finding.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2021-12-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/one-killed-three-serious-in-collision-of-three-bikes-saharanpur-news-mrt5684976104"}
       ]
@@ -65,39 +66,39 @@
       "english": "Officials take bribes and poor families lose their land in Behat tehsil",
       "hindi": "तहसील में रिश्वत चलती है, गरीब की ज़मीन भू-माफिया के नाम चढ़ जाती है",
       "inference": false,
-      "basis": "Amar Ujala (21 Feb 2025): Dalit and Muslim women of Begpur Naugawan village in Behat tehsil locked the tehsil gate and protested. They allege 100+ families on about 14 bigha were evicted after the Naib Tehsildar and Halka Lekhpal allegedly took money from a land mafia. These are the women's allegations, not established findings. No official response found.",
+      "basis": "Amar Ujala (21 Feb 2025, Dimple Sirohi): Dalit and Muslim women of village Begpur Naugaanwa, Behat tehsil, locked the tehsil gate. They say more than 100 families on about 14 bigha were evicted after the Naib Tehsildar and Halka Lekhpal allegedly took money from a land mafia. These are the women's allegations, not established findings. No official response appears in the text read. Verified on 12 Oct 2026.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2025-02-21", "url": "https://www.amarujala.com/video/uttar-pradesh/saharanpur/video-women-protest-at-the-tehsil-gate-in-behat-saharanpur-this-is-the-reason"}
       ]
     },
     {
       "rank": 2,
-      "english": "*Speeding vehicles on the highway near Behat put people at risk",
-      "hindi": "*बेहट के पास हाईवे पर तेज़ रफ़्तार गाड़ियां जान का खतरा बनी रहती हैं",
-      "inference": true,
-      "basis": "Inference: Amar Ujala (10 Dec 2021) reports a fatal three-bike collision on the Delhi-Yamunotri highway near Babail Bujurg, Behat, with the injured taken to the Behat CHC. The report does not mention speed or road conditions, and it is from 2021, so it is not recent.",
+      "english": "Illegal mining in the Yamuna near Behat keeps happening, and cases are registered",
+      "hindi": "यमुना में अवैध खनन चलता है, बेहट थाने में केस दर्ज हुए हैं",
+      "inference": false,
+      "basis": "Tribune (5 Dec 2024): owners of six stone crushers and screening plants were booked for alleged illegal mining in the Yamuna on the UP side, at Pratap Pur and Alamgirpur Gurjar villages. The case was registered at Behat police station, Saharanpur. Allegations only. Not confirmed that these villages are inside the Behat AC boundary, and the article does not say which tehsil the police station serves. Verified on 12 Oct 2026.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2021-12-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/one-killed-three-serious-in-collision-of-three-bikes-saharanpur-news-mrt5684976104"}
+        {"outlet": "Tribune India", "date": "2024-12-05", "url": "https://www.tribuneindia.com/news/haryana/owners-of-6-stone-crushers-plants-booked"}
       ]
     },
     {
       "rank": 3,
-      "english": "*Drinking water is hard to get in many Behat villages",
-      "hindi": "*बेहट के कई गांवों में पीने का पानी मुश्किल से मिलता है",
-      "inference": true,
-      "basis": "Inference: no Behat-specific water report was opened. A Lok Sabha record found in search (eparlib.nic.in) mentions drinking water scarcity in Behat tehsil blocks, but that page could not be fetched, so it is not cited. The source below supports only the general neglect point.",
+      "english": "Behat has seen little development in seventy years",
+      "hindi": "बेहट में सत्तर सालों में विकास बहुत कम हुआ है",
+      "inference": false,
+      "basis": "Wikipedia (Behat town article, History section, undated): 'the government has neglected the area; as a result, Behat has made little progress in last 70 years.' This is the article's editorial claim, not a voter statement. Verified on 12 Oct 2026.",
       "sources": [
         {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
       ]
     },
     {
       "rank": 4,
-      "english": "Behat has seen little development in seventy years",
-      "hindi": "बेहट में सत्तर सालों में विकास बहुत कम हुआ है",
-      "inference": false,
-      "basis": "Wikipedia (Behat town article, undated): 'the government has neglected the area; as a result, Behat has made little progress in last 70 years.' This is the article's editorial claim, not a voter statement.",
+      "english": "*Speeding vehicles on the highway near Behat put people at risk",
+      "hindi": "*बेहट के पास हाईवे पर तेज़ रफ़्तार गाड़ियां जान का खतरा बनी रहती हैं",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (10 Dec 2021) reports a fatal three-bike collision on the Delhi-Yamunotri highway near Babail Bujurg, Behat. The report does not mention speed or road conditions, and it is from 2021, so it is not recent.",
       "sources": [
-        {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
+        {"outlet": "Amar Ujala", "date": "2021-12-10", "url": "https://www.amarujala.com/uttar-pradesh/saharanpur/one-killed-three-serious-in-collision-of-three-bikes-saharanpur-news-mrt5684976104"}
       ]
     },
     {
@@ -105,11 +106,17 @@
       "english": "*Mango growers do not get a fair price or enough support for their crop",
       "hindi": "*आम के बागवानों को फसल का सही दाम और मदद नहीं मिलती",
       "inference": true,
-      "basis": "Inference: Wikipedia says mango orchards are the town's mainstay, but no price or support complaint was found in any source reached.",
+      "basis": "Inference: Wikipedia says mango orchards are the town's mainstay, but no price or support complaint was found in any source reached. The 2024-2026 searches did not surface a Behat report on this.",
       "sources": [
         {"outlet": "Wikipedia (Behat town article)", "date": "undated", "url": "https://en.wikipedia.org/wiki/Behat"}
       ]
     }
   ],
-  "notes": "Identity confirmed from the Wikipedia UP constituency list (No. 1 Behat, district Saharanpur, reserved status None, 372,305 electors) and the Behat constituency page (MLA Umar Ali Khan, SP, since 10 Mar 2022). Search budget ran out after about 16 WebSearch calls, so coverage is thin. Only one Behat-specific 2025 report was found (Amar Ujala, 21 Feb 2025). The Dec 2021 accident report is older than the preferred 2024-2026 window. Not used: a Patrika report (1 Aug 2026) on an SP MLC clash during an election procession, which is political and electoral, and Amar Ujala sugarcane-dues stories from Bareilly and Shamli, which are not about Behat. A Lok Sabha record on water scarcity in Behat tehsil (Muzaffarabad and Sidhauli Kadim blocks) could not be fetched (DNS failure), so it is not cited. Negatives 3 and 5 and positives 4 and 5 are inference and need field checks. Water, road condition, stray cattle, monkeys, electricity and sugarcane dues in Behat were not confirmed by any source. Wikipedia's Behat article gives population as 8,574 in the infobox and 20,474 in the census text, so it is internally inconsistent. Ranking is a judgment based on how strongly each item is documented."
+  "round2": {
+    "verified_sources": 5,
+    "removed_sources": 1,
+    "ac_specific_negatives": 3,
+    "changes": "Verified all cited URLs by WebFetch. Confirmed AC 1 Behat, Saharanpur, None, 372,305 electors on the Wikipedia list. Wikipedia Behat: canal, brass bells, mango mainstay and 'little progress in last 70 years' confirmed; guava orchards and the 200-year claim were not in the article, so the mango item was reworded and its basis corrected. NH-709B and 30 km confirmed; 'Delhi-Yamunotri' name taken from Amar Ujala 2021. Amar Ujala 2025 video confirmed (21 Feb 2025, Begpur Naugaanwa, Behat tehsil). Amar Ujala 2021 crash confirmed (Behat CHC first aid, then district hospital); speed not mentioned. Removed the drinking-water negative (no source; its Wikipedia citation dropped) and replaced it with a sourced Yamuna illegal-mining negative (Tribune 5 Dec 2024). Shortened the CHC Hindi line to 12 words. Re-ranked negatives: land, mining, development, speeding (inference), mango prices (inference)."
+  },
+  "notes": "Identity confirmed from the Wikipedia UP constituency list (No. 1 Behat, district Saharanpur, reserved status None, 372,305 electors) and the Behat constituency page (formed 2008; MLA Umar Ali Khan, SP, elected 2022). Wikipedia's Behat town article gives population as 8,574 in the infobox and 20,474 in the census text, so it is internally inconsistent; not used. Round 2 budget: about 16 WebFetch and 14 WebSearch calls in total across both rounds. Coverage is still thin. Behat AC boundary: neither the Wikipedia constituency page nor any search result listed the villages in the AC. Mirzapur and Shakumbhari could not be confirmed as inside Behat AC (Shakumbhari is cited only as a Ghad-area flood story, not used). Sarsawa is said in search snippets to be partly merged into Behat in 2008, but this was not confirmed on a fetched page. Two parliamentary records (eparlib.sansad.in 9401.pdf and 7412.pdf) appeared in search and describe Yamuna erosion threatening dozens of Behat villages (Ninhari, Jodhewas, Kansepur and others) and hill rivers (Solani, Hindon, Chachrao, Maskara, Nagadev, Ramaula). Both returned HTTP 503 on fetch, so they are NOT cited. They are a lead for field checks and a later round. An Amar Ujala 18 Sep 2025 report on flooded rivers near the Shakumbhari Devi shrine (Ghad area) was opened but does not name Behat, so it is not cited. Not found in any source: 2024-2026 Behat reports on cane dues, power cuts, roads, stray cattle, monkeys or water; the Patrika 1 Aug 2026 item on an SP MLC procession clash is political and was not used. Negative 4 (speeding, based on a 2021 crash), negative 5 (mango prices), and positives 4 and 5 are inference and need field checks. Only one Behat-specific 2025 report was found (Amar Ujala, 21 Feb 2025). The Behat mining item is police-station-level; its village boundary is unconfirmed."
 }
