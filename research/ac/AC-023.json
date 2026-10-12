@@ -31,8 +31,8 @@
     },
     {
       "rank": 2,
-      "english": "Municipal staff cleared drains, students can reach school more easily",
-      "hindi": "नगर पालिका ने नाले साफ कराए, स्कूली बच्चों का रास्ता खुला",
+      "english": "The municipality got the drains cleared, and children can now go to school more easily",
+      "hindi": "पालिका ने नाले साफ कराए, बच्चे अब आसानी से स्कूल जाते हैं",
       "inference": false,
       "basis": "Bhaskar (8 Sep 2026): after an SDM Chandpur order (21 Aug 2026), Chandpur Municipal Council's EO sent a team; drains and nalas cleared, water drained from the main road at Kakrala Bhagwantpur, where 2-3 ft of water had stood. Students can travel to school more easily, per three school principals' complaints. AC membership of the village is not confirmed (Chandpur tehsil; the SDM and municipal action are local).",
       "sources": [
@@ -59,7 +59,7 @@
     },
     {
       "rank": 4,
-      "english": "*Daily market and shops are close by in Chandpur town",
+      "english": "*Shops for daily needs and a market are close by in Chandpur town",
       "hindi": "*चांदपुर में रोज़मर्रा की दुकानें और बाज़ार पास में मिल जाते हैं",
       "inference": true,
       "basis": "Inference: no source found on Chandpur market facilities. Based only on the town being a municipal board (nagar palika parishad) with a population of 83,441 (2011 census, Wikipedia). Needs field check.",
@@ -84,7 +84,7 @@
     {
       "rank": 1,
       "english": "Nine villages are still surrounded by flood water, tractors are the only way out",
-      "hindi": "बाढ़ के पानी से नौ गांव अब भी घिरे हैं, ट्रैक्टर ही सहारा है",
+      "hindi": "बाढ़ से नौ गांव अब भी घिरे हैं, ट्रैक्टर ही सहारा है",
       "inference": false,
       "basis": "Amar Ujala (3 Aug 2026), dateline Jalilpur: water in the Ganga khadar fell, but nine villages remain surrounded by water; movement is difficult, tractors are the main way to travel, and access roads Siyali-Dattiyana, Siyali-Sujatpur Khadar, Muzaffarpur Khadar-Dattiyana and Sujatpur Khadar-Dattiyana were damaged. Named villages (Dattiyana, Siyali, Kumariya, Raipur Khadar, etc.) are not confirmed inside the AC extent. District-level.",
       "sources": [
@@ -125,8 +125,8 @@
     },
     {
       "rank": 4,
-      "english": "No drain in our village, drain water goes straight into water bodies",
-      "hindi": "गांव में नाली नहीं है, नाली का पानी सीधे जल स्रोतों में जाता है",
+      "english": "There is no drain in the village, and drain water goes straight into water bodies",
+      "hindi": "गांव में नाली नहीं, नाली का पानी सीधे जल स्रोतों में जाता है",
       "inference": false,
       "basis": "onefivenine village directory (census-linked, undated; years mentioned are 2011 and 2021 copyright): Basera is in Chandpur tehsil, Jalilpur C.D. block, Bijnor; 'No Drainage System Available in this Village'; 'Drain water is discharged directly into water bodies'. AC membership unconfirmed: Basera is not in the AC extent's listed Kanungo circles or patwar circles. Directory entry, not news; needs field check.",
       "sources": [
@@ -152,5 +152,5 @@
       ]
     }
   ],
-  "notes": "Chandpur AC local coverage is still thin. About 45 Hindi and English searches across Amar Ujala, Bhaskar, Dainik Jagran, Patrika, Quint, Public App, Royal Bulletin and tender pages. Found Chandpur-town items: the municipal drain-clearing at Kakrala Bhagwantpur (Bhaskar, Aug-Sep 2026, Chandpur SDM and municipal EO) and a Sep 2026 Amar Ujala jewellery theft (not used: one incident). No 2024-26 AC-specific negative could be tied to a place confirmed inside the AC, so ac_specific_negatives is 0. Kakrala Bhagwantpur, Siyali, Dattiyana, Sujatpur Khadar and Basera could not be placed in the AC extent (Kanungo circles Chandpur, Basta, Phoona; patwar circles listed on the AC Wikipedia page). Chelapur was removed: its Wikipedia page places it in the Noorpur vidhan sabha. Excluded: Patrika 27 Aug 2018 flood article (old, outside AC); Aaj Tak 10 Sep 2025 Ganga embankment erosion (no AC village named); Chandpur tenders on aggregator sites (not citable). Negative 5 is from 2019 and needs a current-status check; the Bilai 2026 item is district-level with no amount. AC incumbent per Wikipedia: Swami Omvesh (Samajwadi Party, elected 2022), not used as political content. Suggested field check: Kakrala Bhagwantpur and Chandpur municipal drains, Chandpur Siau station, Chandpur CHC power and generator, Ganga khadar villages (Siyali, Dattiyana, Sujatpur Khadar) and the Chandpur AC boundary, and the Bilai mill's cane dues for 2026."
+  "notes": "Chandpur AC local coverage is still thin. About 45 Hindi and English searches across Amar Ujala, Bhaskar, Dainik Jagran, Patrika, Quint, Public App, Royal Bulletin and tender pages. Found Chandpur-town items: the municipal drain-clearing at Kakrala Bhagwantpur (Bhaskar, Aug-Sep 2026, Chandpur SDM and municipal EO) and a Sep 2026 Amar Ujala jewellery theft (not used: one incident). No 2024-26 AC-specific negative could be tied to a place confirmed inside the AC, so ac_specific_negatives is 0. Kakrala Bhagwantpur, Siyali, Dattiyana, Sujatpur Khadar and Basera could not be placed in the AC extent (Kanungo circles Chandpur, Basta, Phoona; patwar circles listed on the AC Wikipedia page). Chelapur was removed: its Wikipedia page places it in the Noorpur vidhan sabha. Excluded: Patrika 27 Aug 2018 flood article (old, outside AC); Aaj Tak 10 Sep 2025 Ganga embankment erosion (no AC village named); Chandpur tenders on aggregator sites (not citable). Negative 5 is from 2019 and needs a current-status check; the Bilai 2026 item is district-level with no amount. AC incumbent per Wikipedia: Swami Omvesh (Samajwadi Party, elected 2022), not used as political content. Suggested field check: Kakrala Bhagwantpur and Chandpur municipal drains, Chandpur Siau station, Chandpur CHC power and generator, Ganga khadar villages (Siyali, Dattiyana, Sujatpur Khadar) and the Chandpur AC boundary, and the Bilai mill's cane dues for 2026. Round 3 voice pass: spoken-voice rewording of P2, P4, N4; no facts added. P5 weak positive: the NQAS certificate is an official rating, not a service voters can see; district-level. N5 uses a 2019 source, so its present-tense wording is not verified for 2026."
 }

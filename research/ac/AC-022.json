@@ -11,8 +11,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Road connectivity has improved a lot",
-      "hindi": "सड़कों की कनेक्टिविटी काफी अच्छी हुई है",
+      "english": "Roads have made travel much easier now",
+      "hindi": "सड़कों से अब आना-जाना काफी आसान हो गया है",
       "inference": false,
       "basis": "Local resident Neeraj, quoted in Amar Ujala's Bijnor Vidhan Sabha issues feature, says road connectivity has improved well; bridges, highway and road building eased travel (Bijnor city feature, not a road-by-road report)",
       "sources": [
@@ -25,8 +25,8 @@
     },
     {
       "rank": 2,
-      "english": "Nine of the district's ten sugar mills have paid cane dues on time",
-      "hindi": "दस में से नौ चीनी मिलों ने गन्ना भुगतान कर दिया",
+      "english": "Nine of the ten mills paid the cane money on time",
+      "hindi": "दस में से नौ मिलों ने समय पर गन्ने का पैसा दिया",
       "inference": false,
       "basis": "District-level, not AC-specific: Amar Ujala says nine of the district's ten sugar mills have paid cane prices on time; only Bilai mill is still owing, making partial payments",
       "sources": [
@@ -39,8 +39,8 @@
     },
     {
       "rank": 3,
-      "english": "Chowks in the city have been beautified",
-      "hindi": "शहर के चौराहे अब चमक गए हैं",
+      "english": "The city's intersections have become beautiful now",
+      "hindi": "शहर के चौराहे अब सुंदर हो गए हैं",
       "inference": false,
       "basis": "Amar Ujala (9 Sep 2026) reports Shastri, Jaji and Kisan chowks in Bijnor city redone and beautified (headline 'चमक गए चौराहे'); the same report says the roads leading to them are still damaged",
       "sources": [
@@ -67,8 +67,8 @@
     },
     {
       "rank": 5,
-      "english": "Local issues are raised by the MLA and some development has happened",
-      "hindi": "विधायक ने क्षेत्र के मुद्दे ऊपर तक उठाए, कुछ काम भी हुए",
+      "english": "The MLA raised our issues at the top level, and some work has happened",
+      "hindi": "विधायक ने हमारे मुद्दे ऊपर तक उठाए, कुछ काम भी हुए",
       "inference": false,
       "basis": "In the Amar Ujala feature, an unnamed resident says the MLA raised local issues at state level and development work followed; other residents said some work is still pending (single feature, vague claim)",
       "sources": [
@@ -102,8 +102,8 @@
     },
     {
       "rank": 2,
-      "english": "Potholes on Nagina Road and Chakkar Road and broken Jaji Chowk divider make driving dangerous",
-      "hindi": "नगीना और चक्कर रोड पर गड्ढे, जजी चौक का डिवाइडर टूटा",
+      "english": "There are potholes on Nagina and Chakkar roads, and the Jaji Chowk divider is broken",
+      "hindi": "नगीना, चक्कर रोड पर गड्ढे हैं, जजी चौक का डिवाइडर टूटा है",
       "inference": false,
       "basis": "Bijnor city (Bijnor MB, inside AC extent): Amar Ujala reports Nagina Road badly potholed, Chakkar Road potholes filled with bricks, and Shastri to Jaji Chowk divider broken with vehicles climbing it at night; EE Hemant Pratap Singh said Nagina and Chakkar roads will be repaired after rains",
       "sources": [
@@ -130,8 +130,8 @@
     },
     {
       "rank": 4,
-      "english": "Bijnor to Daranagar Ganj road widening is stuck for want of bitumen",
-      "hindi": "दारानगर गंज की सड़क चौड़ीकरण तारकोल न मिलने से अटका",
+      "english": "The Daranagar Ganj road widening has stopped for want of bitumen",
+      "hindi": "दारानगर गंज वाली सड़क का चौड़ीकरण तारकोल न मिलने से रुका है",
       "inference": false,
       "basis": "Bijnor to Daranagar Ganj stretch (about 10 km, 7 m to 10 m widening, about Rs 18 crore); Dara Nagar is named in the AC extent on Wikipedia. Amar Ujala says Executive Engineer Hemant Pratap Singh said work stopped for lack of bitumen, pits dug on both sides are troubling drivers",
       "sources": [
@@ -144,8 +144,8 @@
     },
     {
       "rank": 5,
-      "english": "A newly built drain in Mandawar collapsed, residents allege poor quality",
-      "hindi": "मंडावर में नई नाली ढह गई, घटिया निर्माण का आरोप है",
+      "english": "A new drain built in Mandawar collapsed, and people allege substandard material was used",
+      "hindi": "मंडावर में बनी नई नाली ढह गई, घटिया सामान का आरोप है",
       "inference": false,
       "basis": "Mandawar NP (KC Mandawar and Mandawar NP are in AC extent per Wikipedia): about 14 drains costing roughly Rs 1 crore under urban drainage scheme; one drain near Bijli Ghar fully collapsed; residents allege substandard material; SDM Smriti Mishra said an inquiry will be conducted (allegation, not proven)",
       "sources": [
@@ -157,7 +157,7 @@
       ]
     }
   ],
-  "notes": "Round 2: AC 22 Bijnor (unreserved, Bijnor district) confirmed from Wikipedia list row and AC extent (KC Mandawar, Bijnor, Dara Nagar, Mandawar NP, Jhalu NP, Bijnor MB, Bijnor tehsil). Mandawar is inside AC 22 (confirmed by extent; Barhapur not relevant). Bilai sugar mill: the 10 Oct source says only 'Bijnor district'; a separate Amar Ujala search hit places the sugar-centre dispute at Batpura village in Haldaur police area, but that article was not fetched or used, and AC membership of Bilai mill remains unconfirmed. Excluded: Kadrabad-Hidayatpur-Pattharwala road (AC membership unconfirmed); Gangan bridge at Jasmora (Nahtaur area, outside AC 22 extent); Kiratpur and Sherkot waterlogging (other ACs). Positives: the Aug 31 feature still supports two items (road connectivity, MLA development); the rest are independent. Positive 2 and 4 are district-level. Field check: Bijnor-Daranagar Ganj road after rains, Mandawar drain inquiry outcome, Nagina and Chakkar repairs after rains, Bilai mill location and 15 Oct dharna outcome.",
+  "notes": "Round 2: AC 22 Bijnor (unreserved, Bijnor district) confirmed from Wikipedia list row and AC extent (KC Mandawar, Bijnor, Dara Nagar, Mandawar NP, Jhalu NP, Bijnor MB, Bijnor tehsil). Mandawar is inside AC 22 (confirmed by extent; Barhapur not relevant). Bilai sugar mill: the 10 Oct source says only 'Bijnor district'; a separate Amar Ujala search hit places the sugar-centre dispute at Batpura village in Haldaur police area, but that article was not fetched or used, and AC membership of Bilai mill remains unconfirmed. Excluded: Kadrabad-Hidayatpur-Pattharwala road (AC membership unconfirmed); Gangan bridge at Jasmora (Nahtaur area, outside AC 22 extent); Kiratpur and Sherkot waterlogging (other ACs). Positives: the Aug 31 feature still supports two items (road connectivity, MLA development); the rest are independent. Positive 2 and 4 are district-level. Field check: Bijnor-Daranagar Ganj road after rains, Mandawar drain inquiry outcome, Nagina and Chakkar repairs after rains, Bilai mill location and 15 Oct dharna outcome. Round 3 voice pass: spoken-voice rewording of P1, P2, P3, P5, N2, N4, N5; no facts added. P4 weak positive: the NQAS certificate is an official rating, not a service voters can see; district-level.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 0,

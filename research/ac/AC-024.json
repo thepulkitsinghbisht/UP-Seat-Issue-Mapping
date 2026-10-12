@@ -10,7 +10,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Now we get good treatment in Bijnor itself, no need to go to Delhi or Meerut",
+      "english": "Now treatment is available in Bijnor itself, no need to go to Delhi or Meerut",
       "hindi": "अब दिल्ली-मेरठ नहीं जाना पड़ता, बिजनौर में ही इलाज हो रहा है",
       "inference": false,
       "basis": "District-level, not AC-specific: Amar Ujala Bijnor ground report (21 Aug 2026) quotes Assistant Professor Amit Gupta of the Mahatma Vidur Autonomous State Medical College saying earlier district patients had to go to Delhi or Meerut; the article is read as saying treatment is now available in Bijnor.",
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Inference: the Bijnor bypass is nearly built, so traffic should move outside the city",
-      "hindi": "*बाईपास लगभग बनकर तैयार, शहर के बाहर से गाड़ियां निकलेंगी",
+      "english": "*The bypass is nearly built, so vehicles will pass outside the city",
+      "hindi": "*बाईपास लगभग बन गया है, शहर के बाहर से गाड़ियां निकलेंगी",
       "inference": true,
       "basis": "Inference: Amar Ujala (21 Sep 2026) says the 8 km Bijnor bypass is 92% complete and NHAI SDO Ashish Sharma says it will be opened to vehicles by 15 October 2026; the report does not mention Noorpur or Chandpur, so its effect on this AC is not confirmed. Zee News Hindi (31 Dec 2024) says it will take Chandpur road and Noorpur road jams out of the city.",
       "sources": [
@@ -43,8 +43,8 @@
     },
     {
       "rank": 3,
-      "english": "Inference: Noorpur has several schools and colleges, so study facilities exist locally",
-      "hindi": "*नूरपुर में कई स्कूल और कॉलेज हैं, पढ़ाई की सुविधा है",
+      "english": "*In Noorpur, many schools and colleges are available for study",
+      "hindi": "*नूरपुर में पढ़ाई के लिए कई स्कूल और कॉलेज मिल जाते हैं",
       "inference": true,
       "basis": "Inference: Wikipedia's Noorpur town article says the town has a wide variety of schools and colleges, from government schools to high-fee private schools; students also travel to Moradabad and Bijnor for education. No details on condition or capacity, and no news report on local schools was found. Noorpur town is inside the AC per the Wikipedia AC extent (Noorpur MB).",
       "sources": [
@@ -57,8 +57,8 @@
     },
     {
       "rank": 4,
-      "english": "Beautification work was done at Vidur Kuti in Bijnor after the government changed",
-      "hindi": "सरकार बदलने के बाद विदुर कुटी का सौंदर्यीकरण हुआ",
+      "english": "Beautification work has been done at Vidur Kuti",
+      "hindi": "विदुर कुटी का सौंदर्यीकरण हो गया है",
       "inference": false,
       "basis": "District-level, not AC-specific: Amar Ujala Bijnor ground report (21 Aug 2026) quotes the chief priest of Vidur Kuti saying beautification work was done there after the government changed; the article is about Bijnor city, not Noorpur.",
       "sources": [
@@ -71,8 +71,8 @@
     },
     {
       "rank": 5,
-      "english": "Inference: a proposal to expand Noorpur municipal limits would bring town facilities to nearby villages",
-      "hindi": "*नगर पालिका का दायरा बढ़ेगा, शहर की सुविधाएं गांवों तक पहुंचेंगी",
+      "english": "*The Noorpur municipal area is going to be expanded",
+      "hindi": "*नूरपुर नगर पालिका का दायरा बढ़ने वाला है",
       "inference": true,
       "basis": "Inference: Amar Ujala (29 Jul 2025) reports the DM endorsed expanding Noorpur municipal board (area 9.06 to 11.48 sq km) to include Pipla Jagir and Noorpur Dehat (Theri), and that the proposal awaits state approval. This is an announcement only, not a delivered benefit.",
       "sources": [
@@ -87,8 +87,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Power keeps going off again and again in Noorpur town, hurting business day and night",
-      "hindi": "नूरपुर शहर में बार-बार बिजली गुल, दिन-रात कारोबार पर असर",
+      "english": "In Noorpur town, power keeps going off day and night again and again, hurting business",
+      "hindi": "नूरपुर शहर में दिन-रात बार-बार बिजली गुल, कारोबार पर असर",
       "inference": false,
       "basis": "Noorpur city (inside the AC: Noorpur MB is in the AC's Chandpur tehsil extent per Wikipedia). Amar Ujala (15 Sep 2026): after storm and rain, traders in Noorpur city protested unannounced power cuts; repeated day and night outages were hurting business; the SDO said the problem would be resolved soon.",
       "sources": [
@@ -129,8 +129,8 @@
     },
     {
       "rank": 4,
-      "english": "Jams on the Noorpur road are hard to get out of",
-      "hindi": "नूरपुर रोड पर जाम लगता है, शहर से निकलना मुश्किल होता है",
+      "english": "There is a jam on the Noorpur road",
+      "hindi": "नूरपुर रोड पर जाम लगता है",
       "inference": false,
       "basis": "District-level, AC membership of these roads unconfirmed: Zee News Hindi (31 Dec 2024) says the planned bypass will take jams on the Chandpur road and Noorpur road out of Bijnor city. The article does not give how often the jams occur.",
       "sources": [
@@ -143,7 +143,7 @@
     },
     {
       "rank": 5,
-      "english": "Inference: in villages, a tree branch touching the power line cuts supply",
+      "english": "*In villages, when a tree branch touches the power line, power goes off",
       "hindi": "*देहात में पेड़ की टहनी तार छूए तो बिजली गुल हो जाती है",
       "inference": true,
       "basis": "Inference: Amar Ujala (15 Sep 2026) says rural power cuts were caused by trees and branches touching the lines. The report is Bijnor district-level and does not name Noorpur AC villages.",
@@ -157,7 +157,7 @@
     }
   ],
   "ac_specific_negatives": 2,
-  "notes": "AC 24 Noorpur, Bijnor district, reserved status None confirmed from the Wikipedia AC page (extent: Chandpur tehsil part with Noorpur MB, and Sahaspur NP of Dhampur tehsil). Chelapur: its Wikipedia village page says it is in Chandpur tehsil and forms part of the Noorpur Vidhan Sabha constituency, so Chelapur is inside this AC. No current Chelapur issue was found; the only Chelapur Amar Ujala reference on that page is a 2012 jam report known only by its headline, so it is not used. Local sourcing is still thin: about 30 Hindi and English searches found no Noorpur-specific 2024-2026 report on drainage, water supply, schools, CHC or hospital services, sugarcane dues or road repairs. Only negative 1 is clearly AC-specific and sourced; negative 3 names Noorpur among five areas (district-level). Negative 2 is on the Dhampur-Noorpur road near Dheli Ahir, whose AC membership is unconfirmed. Negative 4 concerns roads with unconfirmed AC location. Checked and rejected: Amar Ujala 12 Oct 2026 heavy-vehicle ban on the Bijnor-Noorpur route (railway maintenance, 12-13 Oct, not a local problem); Amar Ujala 2 Aug 2026 Bukhara power house cuts (Bijnor city, not Noorpur); Amar Ujala 23 May 2026 power tripping (Dhampur and Najibabad, not Noorpur); Amar Ujala 30 Dec 2022 canal overflow (Afzalgarh, not Noorpur); Sept 2026 Noorpur murder story (single crime); Himachal Pradesh Nurpur results. Bijnor bypass: due to open by 15 October 2026 per the 21 Sep 2026 report; opening after that date was not confirmed as of 12 Oct 2026. Dheli Ahir AC membership and the bypass effect on this AC remain unconfirmed. Field check needed: drainage and waterlogging in Noorpur town, water supply, Noorpur CHC services, sugarcane dues to mills, and whether Dheli Ahir lies in this AC.",
+  "notes": "AC 24 Noorpur, Bijnor district, reserved status None confirmed from the Wikipedia AC page (extent: Chandpur tehsil part with Noorpur MB, and Sahaspur NP of Dhampur tehsil). Chelapur: its Wikipedia village page says it is in Chandpur tehsil and forms part of the Noorpur Vidhan Sabha constituency, so Chelapur is inside this AC. No current Chelapur issue was found; the only Chelapur Amar Ujala reference on that page is a 2012 jam report known only by its headline, so it is not used. Local sourcing is still thin: about 30 Hindi and English searches found no Noorpur-specific 2024-2026 report on drainage, water supply, schools, CHC or hospital services, sugarcane dues or road repairs. Only negative 1 is clearly AC-specific and sourced; negative 3 names Noorpur among five areas (district-level). Negative 2 is on the Dhampur-Noorpur road near Dheli Ahir, whose AC membership is unconfirmed. Negative 4 concerns roads with unconfirmed AC location. Checked and rejected: Amar Ujala 12 Oct 2026 heavy-vehicle ban on the Bijnor-Noorpur route (railway maintenance, 12-13 Oct, not a local problem); Amar Ujala 2 Aug 2026 Bukhara power house cuts (Bijnor city, not Noorpur); Amar Ujala 23 May 2026 power tripping (Dhampur and Najibabad, not Noorpur); Amar Ujala 30 Dec 2022 canal overflow (Afzalgarh, not Noorpur); Sept 2026 Noorpur murder story (single crime); Himachal Pradesh Nurpur results. Bijnor bypass: due to open by 15 October 2026 per the 21 Sep 2026 report; opening after that date was not confirmed as of 12 Oct 2026. Dheli Ahir AC membership and the bypass effect on this AC remain unconfirmed. Field check needed: drainage and waterlogging in Noorpur town, water supply, Noorpur CHC services, sugarcane dues to mills, and whether Dheli Ahir lies in this AC. Round 3 voice pass: spoken-voice rewording of P1 to P5 and N1, N4, N5; the P4 'after government change' attribution was removed; the P5 claim that facilities reach villages was removed because the basis does not state it. P2 weak positive: a forecast; the bypass was not yet open and its effect on Noorpur is unconfirmed. P5 weak positive: an announcement only, awaiting state approval. N3 uses a 2024 district-area report.",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 0,

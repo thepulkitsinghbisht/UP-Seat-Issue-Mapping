@@ -26,7 +26,7 @@
     {
       "rank": 2,
       "english": "Roads have also improved",
-      "hindi": "सड़कों में भी सुधार हुआ है",
+      "hindi": "सड़कें भी सुधरी हैं",
       "inference": false,
       "basis": "A trader said roads have improved (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026). No specific road is named in the article.",
       "sources": [
@@ -53,8 +53,8 @@
     },
     {
       "rank": 4,
-      "english": "The security situation has become better",
-      "hindi": "सुरक्षा की स्थिति बेहतर हुई है",
+      "english": "Now carrying cash does not feel unsafe, and security has become better",
+      "hindi": "अब नकदी लेकर चलने में डर नहीं लगता, सुरक्षा बेहतर है",
       "inference": false,
       "basis": "A trader said the security situation has improved; another trader said traders now feel secure carrying cash, where they used to feel unsafe (Amar Ujala, Nehtaur (Bijnor) byline, 1 Sep 2026).",
       "sources": [
@@ -157,7 +157,7 @@
       ]
     }
   ],
-  "notes": "Identity and extent confirmed from the Wikipedia AC page (No. 21, Nehtaur, SC, Bijnor district, Nagina Lok Sabha). Haldaur is inside the AC (Haldaur KC and municipal board, Bijnor tehsil); no Haldaur-specific sourced item was found. Jalalabad is not in the extent and was not used. Positives 1-4 all come from one Amar Ujala article (1 Sep 2026) whose speakers are unnamed traders and residents; the article contains no civic complaints, so these are thin and need a field check. Positive 5 is from 2023 and its continued operation is unverified. The MLA-praise item was dropped because it is not a delivered benefit. Only 2 of 5 negatives are AC-specific (railway gate and bus stand), short of the 3 required. Negatives 3-4 are district-level (BKU memorandum, Dhampur tehsil, no Nehtaur place named). Negative 5 is sourced but AC membership is unconfirmed. Not used: Hamidpur village road video (13 Jan 2025, Nahtaur block, Harpur gram panchayat; block is not AC and membership unconfirmed); Amar Ujala 29 Jul 2025 municipal expansion article (about 8 unnamed villages to join Nehtaur municipal board, no complaints); Patrika Bijnor flood article (dated 26 Aug 2018, district-level, Nahtaur not named); Bijnor bypass 92% headline (district-level, not Nehtaur-specific); Attewale Baba tourism tender in Nahtaur (tender notice, not a delivered benefit). Not cited because fetch failed earlier: NewsClick doctors-absent article (403) and shuru.co.in Nehtaur news page (404). Searched in Hindi and English (about 17 queries, plus Amar Ujala Bijnor section) with no sourced Nehtaur-specific item on water supply, drains or waterlogging, sugarcane dues or the local sugar mill, CHC or hospital staffing, Haldaur roads, or the Nahtaur overbridge. These are the main field-check gaps. The Dec 2019 CAA-protest killings in Nehtaur were not used because they are old and not a current voter issue.",
+  "notes": "Identity and extent confirmed from the Wikipedia AC page (No. 21, Nehtaur, SC, Bijnor district, Nagina Lok Sabha). Haldaur is inside the AC (Haldaur KC and municipal board, Bijnor tehsil); no Haldaur-specific sourced item was found. Jalalabad is not in the extent and was not used. Positives 1-4 all come from one Amar Ujala article (1 Sep 2026) whose speakers are unnamed traders and residents; the article contains no civic complaints, so these are thin and need a field check. Positive 5 is from 2023 and its continued operation is unverified. The MLA-praise item was dropped because it is not a delivered benefit. Only 2 of 5 negatives are AC-specific (railway gate and bus stand), short of the 3 required. Negatives 3-4 are district-level (BKU memorandum, Dhampur tehsil, no Nehtaur place named). Negative 5 is sourced but AC membership is unconfirmed. Not used: Hamidpur village road video (13 Jan 2025, Nahtaur block, Harpur gram panchayat; block is not AC and membership unconfirmed); Amar Ujala 29 Jul 2025 municipal expansion article (about 8 unnamed villages to join Nehtaur municipal board, no complaints); Patrika Bijnor flood article (dated 26 Aug 2018, district-level, Nahtaur not named); Bijnor bypass 92% headline (district-level, not Nehtaur-specific); Attewale Baba tourism tender in Nahtaur (tender notice, not a delivered benefit). Not cited because fetch failed earlier: NewsClick doctors-absent article (403) and shuru.co.in Nehtaur news page (404). Searched in Hindi and English (about 17 queries, plus Amar Ujala Bijnor section) with no sourced Nehtaur-specific item on water supply, drains or waterlogging, sugarcane dues or the local sugar mill, CHC or hospital staffing, Haldaur roads, or the Nahtaur overbridge. These are the main field-check gaps. The Dec 2019 CAA-protest killings in Nehtaur were not used because they are old and not a current voter issue. Round 3 voice pass: spoken-voice rewording of P2 and P4 only; no facts added; no weak positives.",
   "round2": {
     "verified_sources": 7,
     "removed_sources": 0,
