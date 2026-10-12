@@ -1,0 +1,116 @@
+{
+  "ac_no": 32,
+  "ac_name": "Asmoli",
+  "ac_name_hindi": "असमोली",
+  "reserved": "None",
+  "district": "Sambhal",
+  "region": "Rohilkhand",
+  "summary": "Complaints centre on the Aligarh-Moradabad highway land route, poor village roads, sugarcane and fertiliser problems and weak government school education, while residents mainly appreciate law and order and electricity.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Law and order has improved compared to earlier",
+      "hindi": "कानून व्यवस्था पहले से बेहतर है",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: several residents said law and order has improved; Jamshed Ansari praised the Yogi government's law and order",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Electricity supply has improved since the current government came to power",
+      "hindi": "बिजली पहले से ठीक मिलने लगी है",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: one resident said electricity supply has improved since the BJP government came to power; Naseer praised the electricity system",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Government work is going well, says a local resident",
+      "hindi": "सरकार का काम ठीक चल रहा है",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: Shakeel Ahmad said things are working well and all work is going well; Anil Kumar Sharma praised the government's working style",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Inference: district-level development projects have been inaugurated in Sambhal",
+      "hindi": "*संभल में कई विकास कार्यों का लोकार्पण हुआ है",
+      "inference": true,
+      "basis": "Inference: Patrika (6 Aug 2025) reported a planned programme of 221 projects in Sambhal district including 113 inaugurations; the article does not name Asmoli and does not confirm delivery in Asmoli AC",
+      "sources": [
+        {"outlet": "Patrika", "date": "2025-08-06", "url": "https://www.patrika.com/sambhal-news/cm-yogi-sambhal-visit-546-crore-development-projects-inauguration-19843719"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Inference: an order was given to build an access road to the Arogya Mandir at Saindhari",
+      "hindi": "*आरोग्य मंदिर तक सड़क बनाने का आदेश हुआ है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (7 Oct 2026) reports the PWD special secretary ordered an immediate road to be built at Saindhari; it is an order, not a completed road, and Asmoli AC membership of Saindhari is unconfirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-07", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/special-secretary-furious-over-the-state-of-disarray-in-villages-warns-those-responsible-sambhal-news-c-275-1-smbd1033-141532-2026-10-07"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Fear of losing homes and schools in 14 villages due to the Aligarh-Moradabad highway route",
+      "hindi": "अलीगढ़-मुरादाबाद हाईवे से 14 गांवों के घर और स्कूल उजड़ने का डर",
+      "inference": false,
+      "basis": "Amar Ujala (9 Oct 2026): MLA Pinki Yadav and MP Dharmendra Yadav met Gadkari; the article cites 14 villages in Asmoli assembly constituency at risk of displacement of homes, businesses and schools; they asked for a route change and market-value land purchase",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://amarujala.com/uttar-pradesh/sambhal/mp-and-mla-meet-union-minister-regarding-aligarh-moradabad-highway-sambhal-news-c-275-1-smbd1030-141630-2026-10-09"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Village roads are in very poor condition",
+      "hindi": "गांव की सड़कें बहुत खराब हैं",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: residents said road conditions are poor; roads named as the biggest issue by Yakub; village not named in the article",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Sugar prices went up but sugarcane price did not rise",
+      "hindi": "चीनी के दाम बढ़े पर गन्ने का दाम नहीं बढ़ा",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: farmers said sugar prices rose but cane prices did not increase; quoted as farmers' statement",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "No road to the Arogya Mandir at Saindhari (Asmoli block); AC membership unconfirmed",
+      "hindi": "सैंधरी में आरोग्य मंदिर तक सड़क ही नहीं है",
+      "inference": false,
+      "basis": "Amar Ujala (7 Oct 2026): PWD special secretary inspection found no road for the Saindhari Arogya Mandir; article mentions Asmoli block (असमोली ब्लॉक क्षेत्र), not the constituency; AC membership unconfirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-07", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/special-secretary-furious-over-the-state-of-disarray-in-villages-warns-those-responsible-sambhal-news-c-275-1-smbd1033-141532-2026-10-07"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "No concrete steps taken on education in our area; government school education is weak",
+      "hindi": "हमारे इलाके में शिक्षा पर कोई ठोस कदम नहीं उठे",
+      "inference": false,
+      "basis": "Amar Ujala Asmoli constituency report: Deepak said no concrete steps have been taken on education in the area; Sumit Rawat raised education in government schools",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-04", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/satta-ka-sangram-how-much-development-has-taken-place-in-asmoli-assembly-constituency-and-how-satisfied-are-vo-2026-09-04"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 4,
+  "notes": "AC identity confirmed: No. 32 Asmoli, reserved None, district Sambhal (Wikipedia list page; Asmoli AC infobox). Wikipedia does not give an AC extent (tehsils/blocks); Wikipedia Asmoli village page says it is in Sambhal Tehsil. Whether Asmoli block villages such as Saindhari, Madala, Shahbajpur are inside the AC is unconfirmed. Positives 4 and 5 are inferences (district-level planned projects; an order, not a completed road) and are weak; no sourced delivered Asmoli-specific project was found. Positive 2 (electricity) rests on one resident's remark. Negatives 2, 3 and 5 are from the 4 Sep 2026 Amar Ujala Asmoli constituency article, which does not name villages; counted as AC-level. Searches with no Asmoli-specific results: hepatitis/contaminated groundwater (2024 claim found only in a secondary Amar Ujala summary, not opened, so not used), sugarcane mill dues, stray cattle, village road inauguration, substation power supply. Electoral data (vote shares, voter-roll deletions and cut-off comparisons) excluded per brief. Field check suggested: the highway route and land compensation at circle rates; Saindhari road; sugarcane dues from the nearest mill."
+}
