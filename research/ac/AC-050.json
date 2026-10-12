@@ -1,0 +1,116 @@
+{
+  "ac_no": 50,
+  "ac_name": "Chhaprauli",
+  "ac_name_hindi": "छपरौली",
+  "reserved": "None",
+  "district": "Baghpat",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on stalled road works in the Chhaprauli nagar panchayats and unpaid cane dues at district sugar mills, while farmers credit recent gains in irrigation power, fertiliser supply and timely cane payment.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Power for irrigation has improved compared to before",
+      "hindi": "सिंचाई के लिए बिजली पहले से बेहतर मिलने लगी है",
+      "inference": false,
+      "basis": "Baghpat farmers say availability of electricity for irrigation has improved (district-level, not AC-specific)",
+      "sources": [
+        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "No longer have to stand in long queues for fertiliser",
+      "hindi": "अब खाद के लिए पहले जैसी लंबी लाइनों में नहीं लगना पड़ता",
+      "inference": false,
+      "basis": "Baghpat farmers say they no longer face the long fertiliser queues they once did (district-level, not AC-specific)",
+      "sources": [
+        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Farmers no longer feel the same worry about going to their fields at night",
+      "hindi": "अब रात में खेत पर जाने की पहले जैसी चिंता नहीं रहती",
+      "inference": false,
+      "basis": "Farmers say the anxiety about going to the fields at night has eased (district-level, not AC-specific)",
+      "sources": [
+        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Cane payments are coming on time and cane prices have risen",
+      "hindi": "समय पर गन्ने का भुगतान मिल रहा है और दाम भी बढ़े हैं",
+      "inference": false,
+      "basis": "Farmers say timely payments and higher cane prices have brought relief (district-level). Conflicts with the 12 Oct 2026 Amar Ujala notices on Kinauni and Bhainsana dues, see notes",
+      "sources": [
+        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "All three Baghpat sugar mills have paid farmers in full",
+      "hindi": "बागपत की तीनों चीनी मिलों ने किसानों का पूरा भुगतान कर दिया",
+      "inference": false,
+      "basis": "Amar Ujala states that all three Baghpat mills have paid farmers in full (district-level). The same article reports dues and notices for Kinauni and Bhainsana mills, see notes",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Allegedly, road proposals for Chhaprauli, Doghat and Tikri were not approved",
+      "hindi": "छपरौली, दोघट और टीकरी के सड़क प्रस्ताव मंजूर न होने का आरोप है",
+      "inference": false,
+      "basis": "Amar Ujala (30 Sep 2026): the article says all three nagar panchayats (Chhaprauli, Doghat, Tikri) fall in RLD MLA Ajay Kumar's constituency and none of his CC road proposals were approved. MLA says he will find out why; the SDM (Khekra) says all proposals received were approved and sent to government. Allegation, not settled. Chhaprauli, Doghat and Tikri NPs confirmed inside AC by Wikipedia extent",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/political-news-baghpat-news-c-28-1-smrt1010-159676-2026-09-30"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Cane dues pending at Kinauni and Bhainsana mills, notices issued to pay",
+      "hindi": "किनौनी और भैंसाना मिल पर गन्ने का बकाया है, भुगतान का नोटिस मिला",
+      "inference": false,
+      "basis": "Amar Ujala (12 Oct 2026): Kinauni mill has dues of Rs 20 crore and Bhainsana mill Rs 9 crore; District Cane Officer issued notices to pay within one week. District-level; AC membership of these mills unconfirmed, so not counted as AC-specific",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Groundwater is falling in Baghpat and water quality is a problem",
+      "hindi": "बागपत में भूजल नीचे जा रहा है और पानी की गुणवत्ता में दिक्कत है",
+      "inference": false,
+      "basis": "Wikipedia Bagpat district page: CGWB has reported declining groundwater levels and quality issues in Bagpat district, particularly in Binauli, Pilana and Khekra blocks (district-level; Binauli block is not the same as the AC; AC membership unconfirmed). Secondary source; CGWB report itself not opened",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "accessed 2026-10-12", "url": "https://en.wikipedia.org/wiki/Bagpat_district"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "No bus yet from Chhaprauli to Haridwar via Doghat",
+      "hindi": "छपरौली से दोघट होकर हरिद्वार की बस अभी नहीं चलती",
+      "inference": false,
+      "basis": "Amar Ujala (17 Jun 2025): new Chhaprauli to Haridwar bus via Doghat announced, article says the facility was not available until then and operations would start soon. No report of its start found in later searches, so verify on the ground",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-06-17", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/the-bus-will-run-from-chhaprauli-to-haridwar-via-doghat-baghpat-news-c-28-1-smrt1003-133214-2025-06-17"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Night fire in a Chhaprauli town warehouse, owner suspects anti-social elements",
+      "hindi": "छपरौली कस्बे में रात को गोदाम में आग, असामाजिक तत्वों पर शक है",
+      "inference": false,
+      "basis": "Amar Ujala (19 May 2025): fire at a cardboard warehouse in Mohalla Qureshiyan, Chhaprauli town, on the night of 18 May 2025; goods worth over Rs 50,000 burnt; owner suspects anti-social elements, cause not confirmed. Single incident, not a broad complaint",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-05-19", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/baghpat-there-was-an-explosion-in-chhaprauli-at-midnight-people-saw-that-the-fire-was-blazing-2025-05-19"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC identity confirmed from Wikipedia list (No. 50, Chhaprauli, Bagpat district, None reserved) and the Chhaprauli Assembly constituency article, which lists KCs Chhaprauli and Binoli, several PCs, and the Chhaprauli, Doghat and Tikri nagar panchayats (Baraut tehsil). District is spelled Bagpat on Wikipedia and Baghpat in official usage. Hindi name taken from press usage (छपरौली), not from the list. Coverage gap: no 2026 Chhaprauli-specific report on water, roads, power or jobs was found despite about 20 Hindi and English searches; the Amar Ujala 21-road Rs 30 crore plan (26 Aug 2026, Chhaprauli road proposed by MLA Ajay Kumar, Sherpur Luhara to Sinauli) is an announcement only, so not used as a positive. Contradiction: positive 4 and 5 (cane payments fine) vs negative 2 (Kinauni/Bhainsana dues and notices); AC membership of those two mills is unconfirmed. Excluded: Idrishpur village killing (11 Oct 2026, Baghpat district), location not confirmed inside AC. Excluded: RLD post on Eastern Yamuna canal restoration (not opened). Field check recommended for water supply in Chhaprauli and Doghat, the bus, and the nagar panchayat road proposal dispute."
+}
