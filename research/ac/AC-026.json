@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Moradabad",
   "region": "Rohilkhand",
-  "summary": "Complaints centre on potholed, waterlogged roads whose repairs fail within days, plus storm damage to paddy, while the appreciated items are a four-lane under construction, one pre-Sawan road repair and a sugar mill's full cane payment.",
+  "summary": "Complaints centre on potholed, waterlogged roads whose repairs fail within days, plus storm damage to paddy; the appreciated items are a four-lane under construction, a pre-Sawan road repair, and storm compensation that is scheduled but not yet confirmed paid.",
   "identity_source": "https://en.wikipedia.org/wiki/Thakurdwara_Assembly_constituency",
   "positives": [
     {
@@ -13,9 +13,13 @@
       "english": "Moradabad-Thakurdwara four-lane work is underway and expected to finish by December",
       "hindi": "मुरादाबाद-ठाकुरद्वारा फोरलेन का काम चल रहा है, दिसंबर तक पूरा होने की उम्मीद",
       "inference": false,
-      "basis": "NHAI Project Director Arvind Kumar: about 50% of the work is complete and the four-lane is expected by December; 48 km project, estimated cost about Rs 625 crore. District-level highway project, not AC-specific. Same article also reports cracks and potholes on the old road.",
+      "basis": "NHAI Project Director Arvind Kumar, as reported: about 50% of the work is done and the four-lane is expected to finish by December; 48 km project, estimated about Rs 625 crore. District-level highway project, not AC-specific. The same article reports cracks on the new sections and potholes on the old highway.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-19", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/moradabad-thakurdwara-four-lane-cracks-in-the-new-road-while-the-old-one-is-riddled-with-potholes-moradabad-news-c-15-1-mbd1002-972955-2026-08-19"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-19",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/moradabad-thakurdwara-four-lane-cracks-in-the-new-road-while-the-old-one-is-riddled-with-potholes-moradabad-news-c-15-1-mbd1002-972955-2026-08-19"
+        }
       ]
     },
     {
@@ -23,29 +27,41 @@
       "english": "The Thakurdwara-Surjannagar road was repaired before Sawan",
       "hindi": "सावन से पहले ठाकुरद्वारा-सुरजननगर सड़क की मरम्मत तो हुई",
       "inference": false,
-      "basis": "After a pre-Shravan complaint, PWD repaired the Thakurdwara-Surjannagar road, but potholes reappeared soon after and a PWD Assistant Engineer said rain damaged the repaired road again. Repair is in the article; the durability is not.",
+      "basis": "Before Sawan, residents raised the road's condition because it is a Kanwar route, and PWD repaired it. The article says the repair lasted only a few days: potholes reappeared, and a PWD Assistant Engineer said rain had damaged the repaired road again. The repair happened; its durability did not.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-thakurdwara-surjannagar-road-due-to-rain-causes-inconvenience-to-commuters-moradabad-news-c-279-1-mo11005-117136-2026-08-31"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-thakurdwara-surjannagar-road-due-to-rain-causes-inconvenience-to-commuters-moradabad-news-c-279-1-mo11005-117136-2026-08-31"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Storm-hit farmers get their compensation on Monday, as announced",
-      "hindi": "बारिश में फसल गिरी, पर किसानों को मुआवजा सोमवार को मिलने वाला है",
-      "inference": false,
-      "basis": "Tehsil survey found about 400 farmers affected by the Sunday storm, paddy worst hit. Article states compensation will be given Monday: CM to distribute online, DM to hand it to 25 farmers at the collectorate. Scheduled, not confirmed as paid. Tehsil-level, Thakurdwara named as the area.",
+      "english": "*Storm-hit farmers are due compensation on Monday, as announced, not yet confirmed paid",
+      "hindi": "*फसल गिरी, पर सोमवार को मुआवजा मिलने की बात है",
+      "inference": true,
+      "basis": "Inference: the article (12 Oct 2026) says affected farmers will be given compensation on Monday; the CM will distribute it online and the DM will hand it to 25 farmers at the Collectorate. It describes this as scheduled, not as already paid, so it is an announcement and not a delivered benefit. Tehsil survey: about 400 farmers affected after the Sunday storm.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/then-rain-accompanied-by-strong-winds-followed-by-paddy-and-sugarcane-crops-in-the-fields-collapsing-moradabad-news-c-15-1-mbd1060-1014322-2026-10-12"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/then-rain-accompanied-by-strong-winds-followed-by-paddy-and-sugarcane-crops-in-the-fields-collapsing-moradabad-news-c-15-1-mbd1060-1014322-2026-10-12"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Bilari sugar mill has cleared the full cane price for the 2025-26 season",
-      "hindi": "बिलारी चीनी मिल ने 2025-26 सत्र का गन्ना मूल्य पूरा चुका दिया",
-      "inference": false,
-      "basis": "Bilari sugar mill paid the full cane price, Rs 180.36 crore for 45.20 lakh quintals, on 18 August 2026, for cane from Bilari, Moradabad and Asmoli cane committees. District-level mill report; Thakurdwara not mentioned and AC membership unconfirmed.",
+      "english": "*The Thakurdwara-Surjannagar road is to be rebuilt, not just patched, once rains end and funds come",
+      "hindi": "*ठाकुरद्वारा-सुरजननगर सड़क अब मरम्मत नहीं, फिर से बनेगी",
+      "inference": true,
+      "basis": "Inference: the article (13 Sep 2026) quotes PWD JE Harvinder Singh saying the road will be rebuilt rather than repaired; an estimate has gone to the government and construction is expected after the rains once financial approval arrives. A plan, not completed work.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-19", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/bilari-sugar-mill-has-made-full-payment-for-sugarcane-bilari-news-c-276-1-smbd1006-112833-2026-08-19"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-13",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/residents-of-100-villages-troubled-by-potholes-on-the-thakurdwara-surjannagar-road-thakurdwara-news-c-279-1-mo11005-117406-2026-09-13"
+        }
       ]
     },
     {
@@ -53,23 +69,39 @@
       "english": "*Thakurdwara's roads have been moved to a World Bank repair section, with repairs promised",
       "hindi": "*ठाकुरद्वारा की सड़कें विश्व बैंक अनुभाग में, मरम्मत होगी",
       "inference": true,
-      "basis": "Inference: PWD JE Anandpal Singh says all roads in the Thakurdwara assembly area are now under the World Bank section, with potholes to be repaired first and then rebuilt. This is a plan and an announcement; no completed work was found in sources, so it is not a delivered benefit.",
+      "basis": "Inference: PWD JE Anandpal Singh says all roads in the Thakurdwara assembly area are now under the World Bank section, with potholes to be repaired first and the road rebuilt afterward. This is a plan and an announcement; no completed work was found in sources.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-jaspur-road-residents-of-10-villages-struggle-during-their-commute-thakurdwara-news-c-15-1-mbd1008-994660-2026-09-17"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-17",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-jaspur-road-residents-of-10-villages-struggle-during-their-commute-thakurdwara-news-c-15-1-mbd1008-994660-2026-09-17"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "The Thakurdwara-Surjannagar road has had potholes for five years and fills with water in rain",
+      "english": "The Thakurdwara-Surjannagar road has had potholes for about five years and fills with water in rain",
       "hindi": "ठाकुरद्वारा-सुरजननगर सड़क पर पांच साल से गड्ढे, बारिश में पानी भर जाता है",
       "inference": false,
-      "basis": "Amar Ujala (31 Aug 2026): road poor for about five years; rain filled the potholes; PWD repairs break up within days; a 10-metre widening announced about a year earlier is not implemented. Residents of about 100 villages use it (13 Sep 2026). The road starts at Thakurdwara town; AC membership of Surjannagar gram panchayat is not explicitly confirmed. Durations differ between articles (3 years in Jul, 5 years in Aug, about 5 years in Sep).",
+      "basis": "Amar Ujala (31 Aug 2026): road poor for about five years; rain filled the potholes; PWD repairs break up within days; a 10-metre widening announced about a year earlier is not implemented. Amar Ujala (13 Sep 2026): residents of about 100 villages are affected, problem for five years, PWD JE says the road will be rebuilt. The road starts at Thakurdwara town; Surjannagar's AC membership is not explicitly confirmed by the articles. Durations differ between articles (3 years in Jul, about 5 years in Aug and Sep).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-31", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-thakurdwara-surjannagar-road-due-to-rain-causes-inconvenience-to-commuters-moradabad-news-c-279-1-mo11005-117136-2026-08-31"},
-        {"outlet": "Amar Ujala", "date": "2026-09-13", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/residents-of-100-villages-troubled-by-potholes-on-the-thakurdwara-surjannagar-road-thakurdwara-news-c-279-1-mo11005-117406-2026-09-13"},
-        {"outlet": "Amar Ujala", "date": "2026-07-06", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-surjannagar-road-commuters-facing-trouble-thakurdwara-news-c-279-1-mo11005-116111-2026-07-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-on-the-thakurdwara-surjannagar-road-due-to-rain-causes-inconvenience-to-commuters-moradabad-news-c-279-1-mo11005-117136-2026-08-31"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-13",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/residents-of-100-villages-troubled-by-potholes-on-the-thakurdwara-surjannagar-road-thakurdwara-news-c-279-1-mo11005-117406-2026-09-13"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-surjannagar-road-commuters-facing-trouble-thakurdwara-news-c-279-1-mo11005-116111-2026-07-06"
+        }
       ]
     },
     {
@@ -77,19 +109,27 @@
       "english": "The Thakurdwara-Jaspur road has deep potholes, no drain, and 10 villages struggle",
       "hindi": "ठाकुरद्वारा-जसपुर सड़क पर गहरे गड्ढे, किनारे नाला नहीं, 10 गांव परेशान",
       "inference": false,
-      "basis": "Amar Ujala (17 Sep 2026): deep potholes on the road from Thakurdwara town to Jaspur, worst stretch about 2 km, about 10 villages use it including schools; no drain so rainwater collects; road built about five years ago and not maintained. PWD JE Anandpal Singh names the Thakurdwara assembly area. Villages named include Mastlipur, Sanyasiwala, Karanwala Khalsa.",
+      "basis": "Amar Ujala (17 Sep 2026): deep potholes on the road from Thakurdwara town to Jaspur, worst stretch about 2 km; about 10 villages use it, and several schools and coaching centres are on the route; no drain beside the road so rainwater collects; road built about five years ago and not maintained. Assistant Engineer Anandpal Singh names the Thakurdwara assembly area. Villages named include Mastlipur, Sanyasiwala and Karnawala Khalsa.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-17", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-jaspur-road-residents-of-10-villages-struggle-during-their-commute-thakurdwara-news-c-15-1-mbd1008-994660-2026-09-17"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-17",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/deep-potholes-on-the-thakurdwara-jaspur-road-residents-of-10-villages-struggle-during-their-commute-thakurdwara-news-c-15-1-mbd1008-994660-2026-09-17"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Walking on the Thakurdwara highway link road is hard, and it has not been repaired",
-      "hindi": "ठाकुरद्वारा-हाईवे लिंक सड़क पर पैदल चलना भी मुश्किल, मरम्मत नहीं हुई",
+      "english": "The Thakurdwara highway link road is dilapidated and its repair is still pending",
+      "hindi": "ठाकुरद्वारा-हाईवे लिंक सड़क खस्ताहाल, मरम्मत अभी बाकी",
       "inference": false,
-      "basis": "Amar Ujala (16 Sep 2026): about 5 km link road from the Thakurdwara-Moradabad highway to Aslempur Gopiwala, deep potholes, accident risk, not repaired; built about four years ago and used by mining dumpers from Uttarakhand. Villages quoted: Nirmalpur, Madhowala. PWD JE Anandpal Singh says the whole Thakurdwara assembly constituency is under the World Bank section. Waterlogging is not mentioned in this article.",
+      "basis": "Amar Ujala (16 Sep 2026): about 5 km link road from the Thakurdwara-Moradabad highway to Aslempur Gopiwala, described as dilapidated (खस्ताहाल); built about four years ago; heavy mining dumper traffic from Uttarakhand damaged it. Villages quoted: Nirmalpur and Madhowala. Assistant Engineer Anandpal Singh says PWD's World Bank section has a repair estimate, and that the whole Thakurdwara assembly constituency is under that section. Waterlogging is not mentioned in this article.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-16", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/walking-on-the-thakurdwara-moradabad-highway-link-road-is-also-difficult-thakurdwara-news-c-279-1-mo11005-117469-2026-09-16"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-16",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/walking-on-the-thakurdwara-moradabad-highway-link-road-is-also-difficult-thakurdwara-news-c-279-1-mo11005-117469-2026-09-16"
+        }
       ]
     },
     {
@@ -97,9 +137,13 @@
       "english": "The three km road from Thakurdwara town to Faridnagar is badly broken and drain water flows on it",
       "hindi": "ठाकुरद्वारा से फरीदनगर की तीन किमी सड़क बेहाल, नाले का पानी सड़क पर",
       "inference": false,
-      "basis": "Amar Ujala (21 Sep 2026): about 3 km road from inside Thakurdwara town to Faridnagar village, potholes throughout, drain water flows on the road in the town section; built about 10 years ago, not maintained. PWD JE says it is now under the World Bank section. Faridnagar's AC membership is not separately confirmed, but the road starts inside the town.",
+      "basis": "Amar Ujala (21 Sep 2026): about 3 km road from inside Thakurdwara town (Kashipur Chungi) to Faridnagar village; potholes in many places; in the town section, drain water keeps flowing over the road; built about 10 years ago, not maintained. PWD JE says it is now under the World Bank section. Faridnagar's AC membership is not separately confirmed, but the road starts inside the town.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-21", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/thakurdwara-faridnagar-road-in-poor-condition-commuters-in-distress-kanth-news-c-15-1-mbd1008-997993-2026-09-21"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-21",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/thakurdwara-faridnagar-road-in-poor-condition-commuters-in-distress-kanth-news-c-15-1-mbd1008-997993-2026-09-21"
+        }
       ]
     },
     {
@@ -107,12 +151,22 @@
       "english": "Rain and strong wind have knocked down paddy crops in the fields",
       "hindi": "बारिश और तेज हवा से खेतों में धान की फसल गिरी",
       "inference": false,
-      "basis": "Amar Ujala (12 Oct 2026): storm on Sunday evening knocked down crops in Thakurdwara fields; farmers Babblu Singh and Uday Pal said the output would be hit; tehsildar survey found paddy worst affected, about 400 farmers affected. Sugarcane appears only in the headline, not in the body. Tehsil-level report.",
+      "basis": "Amar Ujala (12 Oct 2026): storm on Sunday evening knocked down paddy and sugarcane in fields at Thakurdwara; tehsil survey found about 400 farmers affected, paddy worst hit; farmers Babblu Singh and Uday Pal said output would be hit. Tehsil-level report, Thakurdwara named as the area; not counted as AC-specific.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/then-rain-accompanied-by-strong-winds-followed-by-paddy-and-sugarcane-crops-in-the-fields-collapsing-moradabad-news-c-15-1-mbd1060-1014322-2026-10-12"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/then-rain-accompanied-by-strong-winds-followed-by-paddy-and-sugarcane-crops-in-the-fields-collapsing-moradabad-news-c-15-1-mbd1060-1014322-2026-10-12"
+        }
       ]
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed from Wikipedia: no. 26, Thakurdwara, Moradabad district, unreserved, Moradabad Lok Sabha seat. The Wikipedia page has no extent section, so AC membership of each village was checked only through articles: the Jaspur and link-road articles quote the PWD JE naming the Thakurdwara assembly area; Surjannagar, Faridnagar, Nirmalpur and Madhowala are not named as AC members in the articles and should be field-checked. No Thakurdwara-specific sugarcane dues report was found in the search, so the sugar item is a district mill report; a field check with the local cane committee would help. No Thakurdwara-specific electricity, water or hospital report was found. Many sources are Amar Ujala Moradabad bureau reports (Sanwad News Agency) and are about roads. Positives are thin: the four-lane is a highway project, the repair is short-lived, and the compensation is scheduled, not confirmed paid. Item 5 of positives is an inference from an announcement. Search covered Hindi and English queries (about 20). Aggregator sites (caneup.xyz, ujjwalpradesh) were not cited; the original Amar Ujala reports were cited instead."
+  "notes": "AC confirmed from Wikipedia: no. 26, Thakurdwara, Moradabad district, unreserved. The Wikipedia page has no extent section. AC membership: the Jaspur (17 Sep) and link-road (16 Sep) articles quote PWD Assistant Engineer Anandpal Singh naming the Thakurdwara assembly area and saying the whole constituency is under the World Bank section; that is the only AC-membership evidence and it is a PWD section statement, not a boundary. Surjannagar, Faridnagar, Nirmalpur and Madhowala are not named as AC members in any article and need a field check. No Thakurdwara-specific cane dues, electricity, water or hospital report was found in ~25 Hindi and English searches. The Bilari mill (Laxmi Ji Chini Mill, Rs 180.36 crore) article was removed as it does not name Thakurdwara. A degree-college campus road tender in Thakurdwara turned up in search but its page could not be opened, so it is not cited. Positives are thin: 3 of 5 are flagged inference (compensation scheduled, Surjannagar rebuild plan, World Bank section plan); only the four-lane and the pre-Sawan repair are delivered or in-progress sourced items. Storm item (12 Oct) is a fresh event; field check whether compensation was actually paid on Monday. Negative 5 is tehsil-level and not counted in ac_specific_negatives.",
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 1,
+    "ac_specific_negatives": 4,
+    "changes": "Fetched all 10 cited URLs; 9 opened and supported their claims, 1 (Bilari mill, 18 Aug 2026) removed because the article never names Thakurdwara and the mill is probably AC 30 Bilari. Positive 3 (compensation) reclassified as inference (*) because it is scheduled, not paid. Positive 4 replaced with Surjannagar road rebuild plan (13 Sep article, flagged *). Positive 5 kept as flagged inference. Negative 1: 'residents use' corrected to 'affected' (13 Sep) and 5-year wording aligned. Negative 2: 'Karanwala' corrected to 'Karnawala Khalsa'; 'several schools' added. Negative 3: 'walking difficult' and 'accident risk' removed as unsupported by the fetched article; now dilapidated, repair pending. Negative 4: 'potholes throughout' corrected to 'in many places'. Negative 5: basis corrected, sugarcane also reported in the body (not only headline). Summary updated to drop the sugar mill."
+  }
 }
