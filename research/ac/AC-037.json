@@ -1,0 +1,121 @@
+{
+  "ac_no": 37,
+  "ac_name": "Rampur",
+  "ac_name_hindi": "रामपुर",
+  "reserved": "None",
+  "district": "Rampur",
+  "region": "Rohilkhand",
+  "summary": "Voters in Rampur city mainly raise open drains that have killed children, daily power cuts, a pipeline burst that cut water and flooded roads, and limited jobs, while crediting some improvement in security and the ongoing railway station works.",
+  "identity_source": "https://en.wikipedia.org/wiki/Rampur,_Uttar_Pradesh_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Work on the railway station has started, and cold-water machines and extra tanks are in place",
+      "hindi": "स्टेशन का नया काम शुरू है, पानी की मशीनें और टंकियां लग गई हैं",
+      "inference": false,
+      "basis": "Amar Ujala (Rampur, 10 Oct 2026) reports the station is being modernised under Amrit Bharat, that the booking window has moved to the new building, and that cold-water machines and extra water tanks were installed earlier. The article attributes these to station officials, not to a voter. The foot overbridge with lift is still under construction (Amar Ujala, 21 Jul 2026, about Rs 23 crore; no completion date given).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-10", "url": "https://www.amarujala.com/uttar-pradesh/rampur/nine-bottle-crusher-machines-will-be-installed-at-the-railway-station-rampur-news-c-282-1-rmp1001-182065-2026-10-10"},
+        {"outlet": "Amar Ujala", "date": "2026-07-21", "url": "https://www.amarujala.com/uttar-pradesh/rampur/construction-of-a-modern-foot-overbridge-begins-at-rampur-railway-station-rampur-news-c-282-1-rmp1001-175924-2026-07-21"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Thefts have come down and security has improved",
+      "hindi": "पहले से चोरी कम हुई है, सुरक्षा बेहतर हुई है",
+      "inference": false,
+      "basis": "Amar Ujala's Rampur election-issues report (2 Sep 2026) says a citizen felt thefts had decreased and security had improved. The article reports this indirectly (paraphrase), with no name given. It is a single-voice view.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-people-in-rampur-outline-issues-for-the-2027-election-2026-09-02"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Police are paying attention to women's safety",
+      "hindi": "पुलिस महिलाओं की सुरक्षा पर ध्यान दे रही है",
+      "inference": false,
+      "basis": "Amar Ujala's Rampur election-issues report (2 Sep 2026): a student praised police attention to women's safety. The article reports this indirectly (paraphrase), with no name given. Single-voice view.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-people-in-rampur-outline-issues-for-the-2027-election-2026-09-02"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Changes are visible over the last five years, including universities and women's empowerment",
+      "hindi": "पिछले पांच सालों में यूनिवर्सिटी और महिला सशक्तिकरण में बदलाव दिखे हैं",
+      "inference": false,
+      "basis": "Amar Ujala's Rampur election-issues report (2 Sep 2026): young voters said changes over five years are visible, including universities and women's empowerment. Paraphrased, with no specific university named. Weak positive: a general view, not a named project.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-people-in-rampur-outline-issues-for-the-2027-election-2026-09-02"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Some good changes are visible in Jwala Nagar",
+      "hindi": "ज्वाला नगर में कुछ अच्छे बदलाव दिखे हैं",
+      "inference": false,
+      "basis": "Amar Ujala's Rampur election-issues report (2 Sep 2026): a student praised positive changes in Jwala Nagar. The article gives no specifics (paraphrase). Jwala Nagar is listed among Rampur city localities in Amar Ujala's power-cut report of 27 Jul 2026. Weakest positive.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-people-in-rampur-outline-issues-for-the-2027-election-2026-09-02"},
+        {"outlet": "Amar Ujala", "date": "2026-07-27", "url": "https://www.amarujala.com/uttar-pradesh/rampur/people-in-many-localities-are-troubled-by-power-cuts-amid-the-humidity-rampur-news-c-282-1-rmp1001-176392-2026-07-27"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Open drains are taking children's lives here, and covers are still missing",
+      "hindi": "खुले नाले बच्चों की जान ले रहे हैं, ढक्कन अब भी नहीं लगे",
+      "inference": false,
+      "basis": "Amar Ujala Rampur (Samvad, 20 Aug 2026) reports two child deaths in open drains, at Naya Basti and at Ajitpur (a child named Aman). Covers removed for the recovery were not replaced when the article was written. Mala Road, Shaukat Ali Road and Swar Road drains are reported uncovered. The EO said all drains had been covered but a team would be sent again. Amar Ujala (27 Sep 2026) also says the city has 84 drains and nallis, and reports overflow.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-20", "url": "https://www.amarujala.com/uttar-pradesh/rampur/open-drains-turning-into-death-traps-municipal-administration-remains-unheeding-despite-two-accidentsopen-drains-turning-into-death-traps-municipal-administration-remains-unheeding-despite-two-accidents-rampur-news-c-282-1-rmp1001-178288-2026-08-20"},
+        {"outlet": "Amar Ujala", "date": "2026-09-27", "url": "https://www.amarujala.com/uttar-pradesh/rampur/1634-mm-of-rainfall-in-24-hours-many-areas-inundated-drains-overflowing-rampur-news-c-282-1-rmp1001-181027-2026-09-27"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Power goes off for four to five hours every day, and complaints get no proper answer",
+      "hindi": "रोज चार-पांच घंटे बिजली गुल रहती है, शिकायत पर ठीक जवाब नहीं मिलता",
+      "inference": false,
+      "basis": "Amar Ujala Rampur (28 Feb 2026): power was out four to five hours daily in city areas including Shahabad Gate, Bareilly Gate, Civil Lines, Awas Vikas and Bilaspur Gate. Residents called the department's answers inadequate. The SDO blamed tree-trimming and manjha stuck in lines and said supply would be restored after repairs. The article describes the cuts as ongoing. Amar Ujala (27 Jul 2026) reports further outages in Qila, Shahabad Gate, Bareilly Gate and Jwala Nagar.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-28", "url": "https://www.amarujala.com/uttar-pradesh/rampur/power-outages-during-ramadan-trouble-city-consumers-rampur-news-c-282-1-rmp1027-165269-2026-02-28"},
+        {"outlet": "Amar Ujala", "date": "2026-07-27", "url": "https://www.amarujala.com/uttar-pradesh/rampur/people-in-many-localities-are-troubled-by-power-cuts-amid-the-humidity-rampur-news-c-282-1-rmp1001-176392-2026-07-27"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "A pipeline burst here, water was cut for two days and roads are flooded",
+      "hindi": "पाइपलाइन टूटी, दो दिन से पानी बंद और सड़कों पर पानी भरा",
+      "inference": false,
+      "basis": "Amar Ujala Rampur (Samvad, 30 Aug 2026): a damaged pipeline on the Kachehri Road to SBI Road route, with about 8,000 to 9,000 homes, flooded the roads and cut supply to homes for two days. Civil Lines to Gandhi Samadhi also had water shortages. Repairs had not started two days after the damage was reported. The EO said the damaged pipeline would be repaired. No completion is reported. Amar Ujala (22 Aug 2026) reports Kachehri Road, Roadways Workshop Road, Civil Lines and Jail Road waterlogged within an hour of rain.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-30", "url": "https://www.amarujala.com/uttar-pradesh/rampur/roads-are-overflowing-with-wat-homes-are-craving-for-every-drop-of-water-rampur-news-c-282-1-rmp1001-178964-2026-08-30"},
+        {"outlet": "Amar Ujala", "date": "2026-08-22", "url": "https://www.amarujala.com/uttar-pradesh/rampur/rainwater-inundates-roads-in-several-areas-disrupting-traffic-rampur-news-c-282-1-rmp1001-178425-2026-08-22"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Youth say talent is there but job opportunities here are limited",
+      "hindi": "प्रतिभा है, पर यहां रोजगार के मौके सीमित हैं",
+      "inference": false,
+      "basis": "Amar Ujala's Rampur election-issues report (2 Sep 2026), which places its interviews in the Rampur assembly constituency: youth said jobs are the most important issue, that talent is not lacking but job opportunities are limited, and that Rampur, once known for factories, now lags on jobs. Reported indirectly, with no named speakers.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/rampur/satta-ka-sangram-people-in-rampur-outline-issues-for-the-2027-election-2026-09-02"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "At the district hospital, ward boys are often missing and relatives have to pull stretchers themselves",
+      "hindi": "जिला अस्पताल में वार्ड बॉय नहीं मिलते, स्ट्रेचर खुद खींचने पड़ते हैं",
+      "inference": false,
+      "basis": "Amar Ujala (Samvad, 30 Sep 2026), district hospital Rampur: ward boys are often absent and relatives pull stretchers and wheelchairs. Patients wait days for ultrasound and CT tests. Internet failure for about three hours stopped online prescriptions. AD Health Moradabad said it was wrong for relatives to pull the stretchers. AC membership unconfirmed: the article does not state the hospital's location inside the AC. Amar Ujala (27 Sep 2026) reports dialysis queues: 2 machines for positive patients with 8 waiting.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/rampur/ward-boys-remain-missing-healthcare-services-on-stretchers-rampur-news-c-282-1-rmp1027-181261-2026-09-30"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 4,
+  "notes": "Identity: Wikipedia's Rampur, Uttar Pradesh Assembly constituency page confirms constituency 37, district Rampur, reserved status None, and extent 'Panwaria & Rampur MB of Rampur Tehsil'. The Rampur MB (city) and Panwaria are therefore inside the AC; city localities named in the sources (Kachehri Road, Civil Lines, Shaukat Ali Road, Jwala Nagar, Shahabad Gate, Bareilly Gate and others) are counted as AC-specific on that basis. Sources do not state each mohalla's boundary, so a field check of Ajitpur and Naya Basti membership is advised. Excluded as outside this AC: Milak drain encroachment (8 Oct 2026, Milak is a separate constituency); the 15 Sep 2026 BKU power protest at the Ashoknagar 33 kV substation, dateline Bilaspur, about rural feeders (not the city); Rampur Bushahar and Rampur Naddi items (Himachal Pradesh and Jaunpur). The Rampur district hospital's location inside the MB is not stated in the source, so P5 is marked unconfirmed and not counted. Sugarcane: no Rampur-specific cane dues or mill report found; only state-level payment statements, so it is absent from the list. Stray cattle: no Rampur crop-damage report found (one Rampur city stray-dog report exists, not used). Medical college and park projects: nothing found for Rampur city. Positives 2 to 5 rest on one 2 Sep 2026 Amar Ujala article of indirect, paraphrased views from unnamed people, so they are weak and do not represent a survey. Positive 1 is an official-side delivered-works item (station works, not a voter quote). Negative 3 has a 2-day water cut and roadway flooding from the 30 Aug article: repairs were not confirmed as completed. Field check needed: whether the Ashoknagar 33 kV rostering affects city feeders; the city's drain-cover status (the EO's claim is disputed by the article); current status of the Civil Lines pipeline repair; Rampur district hospital's dialysis machine status (three new machines proposed, not confirmed)."
+}
