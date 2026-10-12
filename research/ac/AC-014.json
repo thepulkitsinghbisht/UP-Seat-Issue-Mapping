@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "The MDA has released budgets for roads in several city colonies, but the work is still pending.",
-      "hindi": "एमडीए ने कई कॉलोनियों की सड़कों का बजट दिया, काम अभी बाकी है",
+      "english": "Budgets have come for roads in several city colonies, but the work is still pending.",
+      "hindi": "कई कॉलोनियों की सड़कों का बजट आ गया, काम अभी बाकी है",
       "inference": false,
       "basis": "Amar Ujala (20 Aug 2025, Meerut bureau): MDA budget released for roads in Purani State Bank Colony (Rs 26 lakh), Vishnu Vihar Phase 1 (Rs 21 lakh), Amba Vihar (Rs 21 and 16 lakh) and Numaish Camp (Rs 13 lakh); construction starts after tender. Planned, not completed. Colony-level, Muzaffarnagar city.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "The CM approved a new satellite bus stand, but construction waits for funds.",
-      "hindi": "मुख्यमंत्री ने नया सैटेलाइट बस अड्डा मंज़ूर किया, अब बजट का इंतजार",
+      "english": "A new satellite bus stand has been approved, but construction waits for funds.",
+      "hindi": "नया सैटेलाइट बस अड्डा मंज़ूर हो गया, अब बजट का इंतजार है",
       "inference": false,
       "basis": "Amar Ujala (2 May 2026, Muzaffarnagar dateline): CM Yogi Adityanath approved a satellite bus stand on a PPP model; construction will not start until funds are released. Proposed site is outside the city near Transport Nagar on the Delhi-Dehradun highway; proposal pending at corporation HQ for about four years. Approval only, not completed.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "Municipal teams removed the illegal kiosk and encroachments near the station road.",
-      "hindi": "स्टेशन रोड से अवैध खोखा हटा, अतिक्रमण पर नगर पालिका ने कार्रवाई की",
+      "english": "On station road, an illegal kiosk was removed and encroachment action was taken.",
+      "hindi": "स्टेशन रोड से अवैध खोखा हटा दिया गया, अतिक्रमण पर कार्रवाई हुई",
       "inference": false,
       "basis": "Amar Ujala (13 Mar 2026): municipal anti-encroachment drive on Railway Station Road; an illegal kiosk near Railway Station Gate No. 2 was removed with a JCB after a civil court ruling in the municipality's favour (EO Dr. Pragya Singh). Other encroaching shopkeepers on the road also faced action.",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "At Kisan Diwas, officials heard our complaints and promised to resolve them.",
-      "hindi": "किसान दिवस पर अफसरों ने हमारी बात सुनी और समाधान का भरोसा दिया",
+      "english": "At Kisan Diwas, officials heard our complaints.",
+      "hindi": "किसान दिवस पर अफसरों ने हमारी बात सुनी",
       "inference": false,
       "basis": "Amar Ujala video (20 Mar 2025): at Kisan Diwas in the district panchayat hall, Additional DM (Administration) Narendra Bahadur Singh promised to resolve the power and overloaded cane-vehicle issues. Assurance only; no action or deadline reported. District-level.",
       "sources": [
@@ -73,7 +73,7 @@
     },
     {
       "rank": 2,
-      "english": "Talashah Road is broken and encroachments on both sides cause jams all day.",
+      "english": "Talashah Road is broken, and encroachment causes jams all day.",
       "hindi": "तबलशाह रोड जर्जर है, अतिक्रमण से दिन भर जाम लगता है",
       "inference": false,
       "basis": "Amar Ujala (25 Feb 2026): Talashah Road in Kidwai Nagar is in a 'जर्जर अवस्था'; encroachment causes jams through the day; residents staged a sit-in on the road and demanded rebuilding and removal of encroachments. City-specific.",
@@ -118,5 +118,5 @@
     "ac_specific_negatives": 5,
     "changes": "Fetched all 6 round-1 URLs plus 5 new ones (11 source entries, 8 unique URLs). Removed 4 entries: ChiniMandi and Talashah entries under the two inference positives; Sikandarpur village video (not in AC 14 extent); ChiniMandi mill-dues negative (district-level, Budhana mill outside AC 14). Replaced both inference positives with sourced items (MDA road budgets, CM bus stand approval). Replaced mill-dues and Sikri negatives with city waterlogging (Kanwar route, 4 Aug 2026) and bus-stand jams (2 May 2026); Makhiyali kept as AC-specific negative. Fixed basis text: Talashah sit-in date, removed unverified names/landmarks, corrected Bhaskar 'not rated' claim. Power item corroborated by Navbharat Live. Inference items: 0 (no * prefixes needed). Round-1 Talashah 'Ali Zaidi' and temple/mosque details were not in the fetched article and were dropped."
   },
-  "notes": "Identity verified on Wikipedia: AC No. 14 Muzaffarnagar, district Muzaffarnagar, reserved None. Its extent section lists PCs Bilaspur, Jatmunjhera, Makhiyali, Shernagar, Dhandhera, Bhandoora, Kukra KC and the Muzaffarnagar NPP (city), so city wards are in AC 14. Kidwai Nagar, Prakash Chowk, Shiv Chowk, Bajheri and the station road were not checked against ward lists; they are treated as city locations per the articles. Kidwai Nagar, Budhana, Charthawal and Khatauli are separate ACs. Sikandarpur/Bhopa is not in the AC 14 extent list, so its waterlogging report was dropped. Mill dues (ChiniMandi, 19 Jun 2026) is district-level: Bhaisana Sugar Mill is in Budhana, outside AC 14, so it was dropped from negatives. The Bhaskar power story is only available via Ground News, and the 'few minutes then hours' quote is verified from that aggregator. Not found in round 2: a completed city project for 2024-26 (no inaugurations found), Kali river or paper-mill pollution in Muzaffarnagar city for 2024-26 (the Kali river/UPPCB Rs 30 lakh fine on the municipal board is undated, not used), and any 2026 city sanitation strike (the Amar Ujala strike video is 25 Jan 2025 at Company Bagh, not used). NGT/CPCB river-sample clipping (indiaenvironmentportal) returned HTTP 403, not used. A streamlinefeed 'Muzaffarnagar drainage collapses' item is undated and from an unverified site, not used. Field checks: Talashah Road tender and work status; city power feeder timings; Kali river nala discharge; Kanwar-route drains at Bajheri and Pinna Bypass; Makhiyali power house supply in 2026."
+  "notes": "Identity verified on Wikipedia: AC No. 14 Muzaffarnagar, district Muzaffarnagar, reserved None. Its extent section lists PCs Bilaspur, Jatmunjhera, Makhiyali, Shernagar, Dhandhera, Bhandoora, Kukra KC and the Muzaffarnagar NPP (city), so city wards are in AC 14. Kidwai Nagar, Prakash Chowk, Shiv Chowk, Bajheri and the station road were not checked against ward lists; they are treated as city locations per the articles. Kidwai Nagar, Budhana, Charthawal and Khatauli are separate ACs. Sikandarpur/Bhopa is not in the AC 14 extent list, so its waterlogging report was dropped. Mill dues (ChiniMandi, 19 Jun 2026) is district-level: Bhaisana Sugar Mill is in Budhana, outside AC 14, so it was dropped from negatives. The Bhaskar power story is only available via Ground News, and the 'few minutes then hours' quote is verified from that aggregator. Not found in round 2: a completed city project for 2024-26 (no inaugurations found), Kali river or paper-mill pollution in Muzaffarnagar city for 2024-26 (the Kali river/UPPCB Rs 30 lakh fine on the municipal board is undated, not used), and any 2026 city sanitation strike (the Amar Ujala strike video is 25 Jan 2025 at Company Bagh, not used). NGT/CPCB river-sample clipping (indiaenvironmentportal) returned HTTP 403, not used. A streamlinefeed 'Muzaffarnagar drainage collapses' item is undated and from an unverified site, not used. Field checks: Talashah Road tender and work status; city power feeder timings; Kali river nala discharge; Kanwar-route drains at Bajheri and Pinna Bypass; Makhiyali power house supply in 2026. P5 weak positive: only an assurance, with no action reported (2025, district-level). P1 is a budget approval, not a completed road."
 }

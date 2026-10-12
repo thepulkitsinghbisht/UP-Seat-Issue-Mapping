@@ -16,8 +16,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Khatauli's Triveni sugar mill is said to be the largest in Asia",
-      "hindi": "खतौली की त्रिवेणी चीनी मिल एशिया में सबसे बड़ी बताई जाती है",
+      "english": "Our Triveni sugar mill is the largest in Asia",
+      "hindi": "हमारी त्रिवेणी चीनी मिल एशिया में सबसे बड़ी है",
       "inference": false,
       "basis": "Wikipedia (Khatauli town page), verified: Khatauli's Triveni sugar mill is 'the largest in Asia in terms of production and storage capacity', operating since 1933. This is a source fact, not a voter quote.",
       "sources": [
@@ -26,8 +26,8 @@
     },
     {
       "rank": 2,
-      "english": "National Highway 58 makes Khatauli an important trade route",
-      "hindi": "राष्ट्रीय राजमार्ग 58 से खतौली व्यापार का अहम रास्ता है",
+      "english": "We benefit from NH-58, an important route for trade",
+      "hindi": "हमें हाईवे-58 का फायदा मिलता है, व्यापार का अहम रास्ता है",
       "inference": false,
       "basis": "Wikipedia (Khatauli town page), verified: 'Khatauli lies on the National Highway 58 which is an important route for trade and commerce.' Recorded as a fact, not a voiced appreciation.",
       "sources": [
@@ -46,8 +46,8 @@
     },
     {
       "rank": 4,
-      "english": "Khatauli is on the Delhi-Saharanpur railway line",
-      "hindi": "खतौली दिल्ली-सहारनपुर रेल लाइन पर है",
+      "english": "Trains to Delhi and Saharanpur are available from Khatauli",
+      "hindi": "खतौली से दिल्ली-सहारनपुर की रेल मिल जाती है",
       "inference": false,
       "basis": "Wikipedia (Khatauli town page), verified: 'The town lies on Delhi - Saharanpur (via Meerut) railway route.' Recorded as a fact, not a voiced appreciation.",
       "sources": [
@@ -88,8 +88,8 @@
     },
     {
       "rank": 3,
-      "english": "Sanitation workers in Khatauli struck work over a municipal tax dispute, with police lathi-charging protesters",
-      "hindi": "खतौली में सफाई कर्मी हड़ताल पर, नगर पालिका से टैक्स विवाद",
+      "english": "In Khatauli, sanitation workers struck over a tax dispute, and police used lathis",
+      "hindi": "खतौली में टैक्स विवाद पर सफाई कर्मी हड़ताल पर, पुलिस ने लाठी चलाई",
       "inference": false,
       "basis": "Patrika, published and updated 5 May 2026, verified: in the Khatauli nagar palika area, about 50 quintals of garbage were dumped outside a Congress leader's house over about Rs 4 lakh of unpaid tax on four shops; sanitation workers stopped work and announced a strike; police lathi-charged the protesters.",
       "sources": [
@@ -108,8 +108,8 @@
     },
     {
       "rank": 5,
-      "english": "Distributary cleaning in Khatauli left silt behind, causing waterlogging and a stench",
-      "hindi": "रजवाहे की सफाई हुई, पर कीचड़ वहीं छोड़ दिया, जलभराव हो गया",
+      "english": "The distributary was cleaned, but silt was left there, causing waterlogging and a bad smell",
+      "hindi": "रजवाहे की सफाई हुई, कीचड़ वहीं छोड़ दिया, जलभराव और बदबू",
       "inference": false,
       "basis": "Patrika, published 5 Nov 2025, verified: the rajwaha (distributary) was cleaned in Khatauli, but the removed silt and mud were left there, which caused waterlogging and a foul smell. Farmer leader warned of a major agitation if the debris was not removed quickly. Khatauli-specific; the 2025 date is older than preferred, but the issue is local.",
       "sources": [
@@ -117,5 +117,5 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from the Wikipedia AC page (Constituency No. 15, Khatauli, Muzaffarnagar, reserved status None). Region set to Paschim UP by assignment because the Wikipedia infobox only says 'North India'. The Wikipedia AC page lists Madan Bhaiya (RLD) as incumbent, elected 2022; it also has a 2027 results section with no vote figures. Political items were excluded per the brief. Round 2 result: three Khatauli-specific negatives (sanitation dispute May 2026, Bhainsi nala bridge 2022, rajwaha waterlogging Nov 2025). Two negatives are district-level (cane dues at Rohana Kalan mill, 8 Oct 2026; power cuts, 27 Jul 2026, via an aggregator). Positives 1, 2, 4 and 5 are Wikipedia facts rather than voter appreciation; positive 3 is a 2022 project report and its completion status is unknown. No Khatauli-specific 2024-2026 positive was found. Searches that found nothing for Khatauli: Triveni Khatauli mill cane dues 2026, NH-58 jams at Khatauli, Khatauli power cut protests, Bhainsi nala bridge completion. The Wire item was dropped because only its headline was available. The Dainik Bhaskar original could not be fetched, so the power item relies on the Ground News summary. Patrika dates were read from printed timestamps; a search snippet listed 27 Jul 2026 for the JE/rajwaha story, but the printed date is 5 Nov 2025 and that is used. Field checks needed: Triveni Khatauli mill dues for the 2025-26 season; current status of the Bhainsi nala bridge and the Khatauli-Jeevna road; NH-58 jams in Khatauli; power-cut hours for Khatauli feeders; whether the May 2026 sanitation tax dispute is resolved."
+  "notes": "Identity confirmed from the Wikipedia AC page (Constituency No. 15, Khatauli, Muzaffarnagar, reserved status None). Region set to Paschim UP by assignment because the Wikipedia infobox only says 'North India'. The Wikipedia AC page lists Madan Bhaiya (RLD) as incumbent, elected 2022; it also has a 2027 results section with no vote figures. Political items were excluded per the brief. Round 2 result: three Khatauli-specific negatives (sanitation dispute May 2026, Bhainsi nala bridge 2022, rajwaha waterlogging Nov 2025). Two negatives are district-level (cane dues at Rohana Kalan mill, 8 Oct 2026; power cuts, 27 Jul 2026, via an aggregator). Positives 1, 2, 4 and 5 are Wikipedia facts rather than voter appreciation; positive 3 is a 2022 project report and its completion status is unknown. No Khatauli-specific 2024-2026 positive was found. Searches that found nothing for Khatauli: Triveni Khatauli mill cane dues 2026, NH-58 jams at Khatauli, Khatauli power cut protests, Bhainsi nala bridge completion. The Wire item was dropped because only its headline was available. The Dainik Bhaskar original could not be fetched, so the power item relies on the Ground News summary. Patrika dates were read from printed timestamps; a search snippet listed 27 Jul 2026 for the JE/rajwaha story, but the printed date is 5 Nov 2025 and that is used. Field checks needed: Triveni Khatauli mill dues for the 2025-26 season; current status of the Bhainsi nala bridge and the Khatauli-Jeevna road; NH-58 jams in Khatauli; power-cut hours for Khatauli feeders; whether the May 2026 sanitation tax dispute is resolved. P1, P2 and P4 are reframed from Wikipedia facts into voter speech; no voter quote supports them, so treat them as weak positives. P5 weak positive: tehsil status and distance from Delhi are geography facts with no voter appreciation found."
 }

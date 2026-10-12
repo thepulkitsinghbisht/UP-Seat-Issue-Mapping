@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Purkazi nagar panchayat got ODF Plus status and its community toilet is in good shape",
-      "hindi": "पुरकाजी नगर पंचायत को ओडीएफ प्लस का दर्जा मिला, सामुदायिक शौचालय ठीक हैं",
+      "english": "In Purkazi, open defecation is not seen and community toilets are fine",
+      "hindi": "पुरकाजी में खुले में शौच नहीं दिखता, सामुदायिक शौचालय ठीक हैं",
       "inference": false,
       "basis": "Amar Ujala (Meerut bureau, 23 Feb 2019), verified: Purkazi nagar panchayat declared ODF Plus in the central sanitation survey; a Quality Council of Delhi team inspected on 16 January and found no open defecation; community toilet arrangements were better. Dated 2019, so may be stale.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "* Sugarcane is the main crop here, and many families depend on farming for their income",
-      "hindi": "* गन्ना यहाँ की मुख्य फसल है, और ज़्यादातर परिवार खेती पर निर्भर हैं",
+      "english": "* Sugarcane is the main crop here",
+      "hindi": "* गन्ना यहाँ की मुख्य फसल है",
       "inference": true,
       "basis": "Inference: Tribune (1 Mar 2021, Muzaffarnagar district-level), verified, describes sugarcane as the main grievance of farmers and gives per-hectare cost figures. It does not say sugarcane is the main crop of Purkazi or that it is a positive. Placeholder needing a field check.",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "* Basic civic services in the town run on a routine basis",
-      "hindi": "* कस्बे में बुनियादी नागरिक सेवाएँ नियमित रूप से चल रही हैं",
+      "english": "* Essential facilities in the town are running reasonably well",
+      "hindi": "* कस्बे में ज़रूरी सुविधाएं ठीक-ठाक चल रही हैं",
       "inference": true,
       "basis": "Inference: the only Purkazi-specific source found (Amar Ujala 2019, verified) covers sanitation only. No source on current water, roads or power in the town was found in about 10 searches. Weak placeholder that must be checked in the field.",
       "sources": [
@@ -63,7 +63,7 @@
     {
       "rank": 1,
       "english": "Sugar mills have not cleared last season's cane dues, and farmers are left waiting",
-      "hindi": "चीनी मिलें पिछले सीज़न का गन्ना बकाया नहीं देतीं किसान इंतज़ार में",
+      "hindi": "चीनी मिलों ने पिछले सीज़न का बकाया नहीं चुकाया, किसान इंतज़ार में",
       "inference": false,
       "basis": "Tribune (dateline Muzaffarnagar, 28 Feb; published 1 Mar 2021), verified, district-level: farmers say several sugar mills have not cleared last season's dues; one farmer cited a delay of over a year. The article does not name Purkazi. Dated 2021; no newer Purkazi-specific source found.",
       "sources": [
@@ -72,8 +72,8 @@
     },
     {
       "rank": 2,
-      "english": "The Makhiyali power house is overloaded, so irrigation power does not come on time",
-      "hindi": "मखियाली पावर हाउस पर लोड ज़्यादा, सिंचाई की बिजली समय पर नहीं",
+      "english": "The Makhiyali power house is overloaded, so irrigation power comes late",
+      "hindi": "मखियाली पावर हाउस पर लोड बहुत, सिंचाई की बिजली देर से आती है",
       "inference": false,
       "basis": "Amar Ujala (video report, 20 Mar 2025, Muzaffarnagar district panchayat hall, Kisan Diwas), verified: farmers said the Makhiyali power house has been overloaded for three years, so irrigation power comes late. District-level. Makhiyali is not among the AC areas listed on the Purqazi AC Wikipedia page, so AC membership is unconfirmed; field check needed.",
       "sources": [
@@ -82,8 +82,8 @@
     },
     {
       "rank": 3,
-      "english": "Cane prices have stayed the same for years while farming costs keep rising",
-      "hindi": "गन्ने का भाव सालों से नहीं बढ़ा, खेती का खर्च बढ़ रहा है",
+      "english": "Cane prices have not risen for several seasons while farming costs keep rising",
+      "hindi": "कई सीज़न से गन्ने का भाव नहीं बढ़ा, खेती का खर्च बढ़ रहा है",
       "inference": false,
       "basis": "Tribune (1 Mar 2021), verified, Muzaffarnagar district-level: a farmer says cane prices have not been raised for several seasons; FRP rose from Rs 255 (2017-18) to Rs 285 (2020-21) per quintal; a farmer spends more than Rs 2 lakh per hectare per season. Not Purkazi-specific.",
       "sources": [
@@ -93,7 +93,7 @@
     {
       "rank": 4,
       "english": "Residents want Purkazi's Suliwala Bagh, site of 1857 killings, declared a national martyrs' site",
-      "hindi": "पुरकाजी के सूली वाले बाग को राष्ट्रीय शहीद स्थल घोषित करने की मांग",
+      "hindi": "पुरकाजी का सूली वाला बाग राष्ट्रीय शहीद स्थल घोषित हो, यही मांग है",
       "inference": false,
       "basis": "Wikipedia (Purkazi), verified: 'The citizens of Purkazi are demanding Suliwala Bagh to be declared as a National Shaheed Sthal'; the page describes the 1857 killing of 500 freedom fighters there. The page cites a Hindi headline dated 26 Jan 2019 attributing the demand to BKU. Town-specific, but a 2019 demand and not a service grievance; current status not found, so it may be stale and weak for vote impact. Replaces the 2021 Tribune fertiliser/cattle item, which was not Purkazi-specific and whose Hindi was too long.",
       "sources": [
@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "notes": "Identity confirmed via the Purqazi AC Wikipedia page: Constituency No. 13, spelled Purqazi, district Muzaffarnagar, SC, Bijnor Lok Sabha; the AC includes the Purqazi Nagar Panchayat (Muzaffarnagar tehsil). The ECI site was not checked. Round 2 verification: all 10 original source entries were opened and checked against their claims (4 unique URLs: Amar Ujala 2019, Wikipedia Purkazi, Tribune 2021, Amar Ujala 2025 video); all supported the stated facts, so none were removed. Negative 4 was replaced with a Purkazi-town item (Suliwala Bagh demand, 2019); the fertiliser/cattle item was dropped because it was district-level, dated, and its Hindi ran to 17 words. Negative 2 Hindi was shortened and negative 1 and 5 Hindi trimmed to 12 words. Only 1 of 5 negatives is AC/town-specific (Suliwala Bagh, 2019), so the 3-of-5 target was NOT met. Purkazi-specific 2024-2026 issues were searched (about 10 searches in Hindi and English covering nagar panchayat news, water, power, drainage, flooding, roads, NH-58 jams, sugar dues, Makhiyali power house) and none were found. Negatives 1, 3 and 5 rely on district-level sources, and negative 1 and 3 are from 2021. Positives 2-5 remain inferences: no voter source exists for them. Ganga khadar flooding was not found; a 2025 Amar Ujala report on Muzaffarnagar district flooding (3 Sep 2025) was seen in search results but does not name Purkazi and was not used. Field checks needed: Purkazi nagar panchayat water supply, drainage and garbage; NH 58 traffic and accidents at Purkazi; whether Makhiyali power house is inside Purqazi AC; current cane dues from the Purkazi-area sugar mill; Ganga or canal flooding; current status of the Suliwala Bagh demand. Vote figures were not used, as the brief excludes electoral data.",
+  "notes": "Identity confirmed via the Purqazi AC Wikipedia page: Constituency No. 13, spelled Purqazi, district Muzaffarnagar, SC, Bijnor Lok Sabha; the AC includes the Purqazi Nagar Panchayat (Muzaffarnagar tehsil). The ECI site was not checked. Round 2 verification: all 10 original source entries were opened and checked against their claims (4 unique URLs: Amar Ujala 2019, Wikipedia Purkazi, Tribune 2021, Amar Ujala 2025 video); all supported the stated facts, so none were removed. Negative 4 was replaced with a Purkazi-town item (Suliwala Bagh demand, 2019); the fertiliser/cattle item was dropped because it was district-level, dated, and its Hindi ran to 17 words. Negative 2 Hindi was shortened and negative 1 and 5 Hindi trimmed to 12 words. Only 1 of 5 negatives is AC/town-specific (Suliwala Bagh, 2019), so the 3-of-5 target was NOT met. Purkazi-specific 2024-2026 issues were searched (about 10 searches in Hindi and English covering nagar panchayat news, water, power, drainage, flooding, roads, NH-58 jams, sugar dues, Makhiyali power house) and none were found. Negatives 1, 3 and 5 rely on district-level sources, and negative 1 and 3 are from 2021. Positives 2-5 remain inferences: no voter source exists for them. Ganga khadar flooding was not found; a 2025 Amar Ujala report on Muzaffarnagar district flooding (3 Sep 2025) was seen in search results but does not name Purkazi and was not used. Field checks needed: Purkazi nagar panchayat water supply, drainage and garbage; NH 58 traffic and accidents at Purkazi; whether Makhiyali power house is inside Purqazi AC; current cane dues from the Purkazi-area sugar mill; Ganga or canal flooding; current status of the Suliwala Bagh demand. Vote figures were not used, as the brief excludes electoral data. P3 weak positive: sugarcane as main crop is a geography-style inference; no source shows voters value it. P4 weak positive: Haridwar market access is an unverified inference. P5 weak positive: no source on current town services. N4 is a 2019 heritage demand rather than a service grievance; kept as a resident demand, weak for vote impact.",
   "round2": {
     "verified_sources": 10,
     "removed_sources": 0,

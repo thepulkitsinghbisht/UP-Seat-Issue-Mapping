@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "A dispensary is approved for seven Budhana villages, Luhsana included, so care is closer",
-      "hindi": "लुहसाना समेत सात गांवों में नई डिस्पेंसरी खुलेगी, इलाज पास में मिलेगा",
+      "english": "A new dispensary is sanctioned for seven Budhana villages, Luhsana included",
+      "hindi": "लुहसाना समेत सात गांवों की नई डिस्पेंसरी मंजूर हो गई है",
       "inference": false,
       "basis": "Royal Bulletin (4 Oct 2026): administrative sanction received for new medical dispensaries in seven Budhana villages (Jaitpur, Luhsana, Mandwara, Jogiyakheda, Vigyana, Madinpur, Jaula). Construction 'will start very soon' and the dispensaries will open later; none is open yet. Approval stage, not a delivered facility.",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 3,
-      "english": "The mill has fixed payment dates; now we will see if they are kept",
-      "hindi": "मिल ने भुगतान की तारीखें तय कीं, अब देखना है निभती हैं या नहीं",
+      "english": "The mill has now fixed payment dates for cane dues",
+      "hindi": "मिल ने अब भुगतान की तारीखें तय कर दी हैं",
       "inference": false,
       "basis": "ChiniMandi (12 Apr 2025, district review meeting): minister Anil Kumar criticised the Budhana mill's 'poor payment record' and 'a payment schedule has now been established', with strict action promised if the timeline is missed. Mill named; district-level meeting. Schedule is set, but compliance is not shown in this source.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "Roadways buses run from Budhana towards Muzaffarnagar",
-      "hindi": "बुढ़ाना से मुजफ्फरनगर की ओर रोडवेज बसें चलती हैं",
+      "english": "There is a roadways bus service from Budhana to Muzaffarnagar",
+      "hindi": "बुढ़ाना से मुजफ्फरनगर के लिए रोडवेज बस की सुविधा है",
       "inference": false,
       "basis": "Navbharat Live (9 Sep 2026) describes 'a roadways bus travelling from Budhana towards Muzaffarnagar' (बुढ़ाना से मुजफ्फरनगर की ओर जा रही रोडवेज बस). Shows the service runs on this road; frequency and reliability are not stated.",
       "sources": [
@@ -50,8 +50,8 @@
     },
     {
       "rank": 5,
-      "english": "Over 91% of district cane dues across eight mills have been paid",
-      "hindi": "जिले की आठ मिलों में 91% से ज़्यादा गन्ना बकाया चुका है",
+      "english": "Most of the district's cane dues across eight mills have been paid",
+      "hindi": "जिले की मिलों ने ज़्यादातर गन्ना बकाया चुकाया है",
       "inference": false,
       "basis": "ChiniMandi (12 Apr 2025): across the district's eight mills, payments of Rs 2,875.16 crore had been made against Rs 3,150.39 crore total, 91.26 percent. District-level figure, not Budhana-only, and dates from April 2025.",
       "sources": [
@@ -62,7 +62,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Bhaisana mill's cane dues are stuck, and we cannot pay fees or weddings",
+      "english": "Bhaisana mill's cane dues are stuck, so how do we manage fees and weddings",
       "hindi": "भैंसाना मिल का गन्ना बकाया अटका है, फीस और शादी कैसे चलाएं",
       "inference": false,
       "basis": "ChiniMandi (19 Jun 2026) as summarised by Ground News: 'The Bhaisana Sugar Mill in Budhana, along with sugar mills in Shamli, Thana Bhawan, and Unnao, owe farmers a total of ₹339.65 crore'. The excerpt gives no per-mill split. Farmers face wedding season and school-fee costs for the new academic session. Original ChiniMandi article not found; the Ground News page is an aggregator.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": 2,
-      "english": "Roadways bus races on the Budhana-Muzaffarnagar road killed five people",
-      "hindi": "बुढ़ाना-मुजफ्फरनगर रोड पर रोडवेज बसों की रेस में पांच लोगों की मौत",
+      "english": "Five people died when buses raced on the Budhana-Muzaffarnagar road",
+      "hindi": "बुढ़ाना-मुजफ्फरनगर रोड पर बसों की रेस में पांच लोग मर गए",
       "inference": false,
       "basis": "Navbharat Live (9 Sep 2026): in the Budhana area near Bhaisana village, a roadways bus hit two motorcycles and five people died, including a three-year-old girl. Eyewitnesses said two buses were racing for passengers and one tried to overtake; the driver fled. Police said no written complaint (तहरीर) had been received yet.",
       "sources": [
@@ -82,8 +82,8 @@
     },
     {
       "rank": 3,
-      "english": "Narrow lanes near Bhainsana make cane pick-ups hard and cause disputes",
-      "hindi": "भैंसाना की तंग गलियों में गन्ने की गाड़ियां फंसती हैं, झगड़े होते हैं",
+      "english": "Narrow lanes in Bhainsana often lead to disputes over cane supply",
+      "hindi": "भैंसाना की तंग गलियों में गन्ना सप्लाई पर अक्सर झगड़े होते हैं",
       "inference": false,
       "basis": "ChiniMandi (24 Oct 2025): 'ongoing disputes in the Bhainsana region near the Budhana sugar mill'; 'narrow lanes ... often led to supply-related conflicts'. Source spells the village 'Bhainsana'; Navbharat Live spells it 'Bhaisana'.",
       "sources": [
@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "notes": "Identity confirmed from Wikipedia 'Budhana Assembly constituency': Constituency No. 11, Muzaffarnagar, reservation None. Its extent is 'Budhana Tehsil' except five polling-centre areas (Nala, Taharpur Bhabisa, Kaniyan, Salfa, Sunna). Region Paschim UP is my assignment (Wikipedia has no region column). BHAINSANA AND LUHSANA: Luhsana is confirmed as a Budhana village by Royal Bulletin (4 Oct 2026), which covers seven Budhana villages including Luhsana. Bhainsana/Bhaisana is described as being in the Budhana area by Navbharat Live and as 'the Bhainsana region near the Budhana sugar mill' by ChiniMandi, but no source lists it in the AC or Budhana tehsil village list; the Wikipedia page does not name it. Treat Bhainsana's AC membership as likely but not fully confirmed; field check or the Factbook village list (indiastatpublications Budhana Factbook, 2011 panchayat list) would settle it. Verification: all 7 unique URLs were opened and checked. The ChiniMandi 13,000-farmers item was dropped because the Ground News excerpt cut off before the figure, and it was not a benefit voters would appreciate. Two of the negatives (Tabalshah Road, Muzaffarnagar city; power cuts) are city/district-level and not Budhana-specific, so only 3 of 5 negatives count as AC-specific, and only if Bhainsana is in the AC. Items with no Budhana-specific source: water supply, drains, power in Budhana, and stray cattle. Searches (about 15 rounds, Hindi and English) found no Budhana-specific 2025-26 reports on these; a Muzaffarnagar municipal drainage tender story (Amar Ujala, 17 Sep 2026) concerns the city, not Budhana, and was not used. Original Hindi sources not found for ChiniMandi items (ChiniMandi is English) or for the 339.65 crore figure; the Ground News pages are aggregators. The positive mill payment schedule (Apr 2025) is an agreed schedule, not proof of payment. The Bajaj Hindusthan Budhana unit name comes from a search snippet only, not fetched. Field check recommended for all Budhana-level water, drains, power and cattle items.",
+  "notes": "Identity confirmed from Wikipedia 'Budhana Assembly constituency': Constituency No. 11, Muzaffarnagar, reservation None. Its extent is 'Budhana Tehsil' except five polling-centre areas (Nala, Taharpur Bhabisa, Kaniyan, Salfa, Sunna). Region Paschim UP is my assignment (Wikipedia has no region column). BHAINSANA AND LUHSANA: Luhsana is confirmed as a Budhana village by Royal Bulletin (4 Oct 2026), which covers seven Budhana villages including Luhsana. Bhainsana/Bhaisana is described as being in the Budhana area by Navbharat Live and as 'the Bhainsana region near the Budhana sugar mill' by ChiniMandi, but no source lists it in the AC or Budhana tehsil village list; the Wikipedia page does not name it. Treat Bhainsana's AC membership as likely but not fully confirmed; field check or the Factbook village list (indiastatpublications Budhana Factbook, 2011 panchayat list) would settle it. Verification: all 7 unique URLs were opened and checked. The ChiniMandi 13,000-farmers item was dropped because the Ground News excerpt cut off before the figure, and it was not a benefit voters would appreciate. Two of the negatives (Tabalshah Road, Muzaffarnagar city; power cuts) are city/district-level and not Budhana-specific, so only 3 of 5 negatives count as AC-specific, and only if Bhainsana is in the AC. Items with no Budhana-specific source: water supply, drains, power in Budhana, and stray cattle. Searches (about 15 rounds, Hindi and English) found no Budhana-specific 2025-26 reports on these; a Muzaffarnagar municipal drainage tender story (Amar Ujala, 17 Sep 2026) concerns the city, not Budhana, and was not used. Original Hindi sources not found for ChiniMandi items (ChiniMandi is English) or for the 339.65 crore figure; the Ground News pages are aggregators. The positive mill payment schedule (Apr 2025) is an agreed schedule, not proof of payment. The Bajaj Hindusthan Budhana unit name comes from a search snippet only, not fetched. Field check recommended for all Budhana-level water, drains, power and cattle items. P3 weak positive: the payment dates are from April 2025 and compliance is not shown. P4 weak positive: the source shows the bus service runs, but not its frequency or reliability. P5 weak positive: district-level figure dated April 2025, not Budhana-specific.",
   "round2": {
     "verified_sources": 7,
     "removed_sources": 1,
