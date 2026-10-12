@@ -1,0 +1,117 @@
+{
+  "ac_no": 31,
+  "ac_name": "Chandausi",
+  "ac_name_hindi": "चंदौसी",
+  "reserved": "SC",
+  "district": "Sambhal",
+  "region": "Rohilkhand",
+  "summary": "Complaints centre on waterlogged main roads, power and water cuts, daily jams and a stalled station overbridge in Chandausi town, while the crossing widening, rainwater harvesting and a July 2026 inauguration event are the main recent positives.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "ac_specific_negatives": 4,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Work to widen the Chandausi crossing has started",
+      "hindi": "चंदौसी चौराहे का चौड़ीकरण शुरू हो गया है",
+      "inference": false,
+      "basis": "Amar Ujala (7 Oct 2026): government sanctioned Rs 62 lakh for widening the Chandausi intersection; encroachments removed on Tuesday 6 Oct, a roundabout planned at centre. ETV Bharat Hindi (6 Oct 2026): widening began around 9 am on 6 Oct 2026, electricity poles shifted, PWD, electricity department and municipal body coordinating.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-07", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/the-administration-removed-encroachments-from-chandausi-intersection-sambhal-news-c-275-1-smbd1033-141534-2026-10-07"},
+        {"outlet": "ETV Bharat", "date": "2026-10-06", "url": "https://www.etvbharat.com/hi/state/road-widening-work-begins-at-chandausi-intersection-ups26100607366"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Four rainwater harvesting systems have been set up in town",
+      "hindi": "शहर में चार जगह वॉटर हार्वेस्टिंग सिस्टम लगाए गए हैं",
+      "inference": false,
+      "basis": "Amar Ujala (11 Aug 2026, Chandausi dateline): the civic body has installed four water-harvesting systems in the city, as stated by the report; the report also says the Nagar Palika blames old drains and silt for waterlogging.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-11", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/chandausis-roads-get-submerged-after-just-a-few-minutes-of-rain-sambhal-news-c-204-1-chn1011-131709-2026-08-11"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Development works were inaugurated and foundation-stoned in Chandausi",
+      "hindi": "चंदौसी में विकास कार्यों का लोकार्पण और शिलान्यास हुआ",
+      "inference": false,
+      "basis": "ETV Bharat Hindi (18 Jul 2026): CM Yogi Adityanath inaugurated and laid foundation stones for 66 projects worth Rs 569 crore for the Sambhal and Chandausi constituencies combined; the article names no Chandausi-only project and no separate Chandausi figure.",
+      "sources": [
+        {"outlet": "ETV Bharat", "date": "2026-07-18", "url": "https://www.etvbharat.com/hi/state/cm-yogi-adityanath-gifts-projects-worth-569-crore-to-sambhal-ups26071805300"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Residents welcomed clearing of encroachment from the road",
+      "hindi": "सड़क से अतिक्रमण हटा तो लोगों ने स्वागत किया",
+      "inference": false,
+      "basis": "Organiser (15 Jan 2026): police and district administration cleared nearly 19 bighas (1.239 hectares) of public land on Chandausi Road using bulldozers; local residents welcomed the move as improving traffic flow. The article places the road in Sambhal tehsil, so AC membership unconfirmed. Affected families raised rehabilitation concerns.",
+      "sources": [
+        {"outlet": "Organiser", "date": "2026-01-15", "url": "https://organiser.org/2026/01/15/335104/bharat/up-sambhal-sees-anti-encroachment-drive-as-authorities-reclaim-nearly-19-bighas-of-public-land-along-chandausi-road/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "A 51-foot Lord Ram statue was unveiled in Chandausi",
+      "hindi": "चंदौसी में 51 फुट ऊंची भगवान राम की प्रतिमा का अनावरण हुआ",
+      "inference": false,
+      "basis": "ETV Bharat Hindi (18 Jul 2026): CM unveiled a 51-foot Lord Ram statue and what the article calls the largest Ganpati statue in Asia in Chandausi; no cost given. Weak candidate: this is a heritage/religious landmark rather than a service benefit, so it may be replaced in field checks.",
+      "sources": [
+        {"outlet": "ETV Bharat", "date": "2026-07-18", "url": "https://www.etvbharat.com/hi/state/cm-yogi-adityanath-gifts-projects-worth-569-crore-to-sambhal-ups26071805300"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Main roads turn into waterlogged streets after just a few minutes of rain",
+      "hindi": "चंद मिनट की बारिश में मुख्य सड़कें डूब जाती हैं",
+      "inference": false,
+      "basis": "Amar Ujala (11 Aug 2026, Chandausi): main roads, Railway Station Road and Sabzi Mandi flood after a few minutes of rain; Fuwara Chowk, Sita Ashram Road, Ganesh Colony, Sambhal Gate, Golaganj, Salim ki Puliya and Hanumangarhi area named as spots; water takes 3-4 hours after rain stops to recede; report says nalas built for crores failed to stop waterlogging; EO blames encroachment on nalas.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-11", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/chandausis-roads-get-submerged-after-just-a-few-minutes-of-rain-sambhal-news-c-204-1-chn1011-131709-2026-08-11"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "When power goes, water goes too because household tanks run dry",
+      "hindi": "बिजली गई तो पानी भी गया, टंकी खाली हो जाती है",
+      "inference": false,
+      "basis": "Amar Ujala (27 Sep 2026, Chandausi dateline): on 26 Sep 2026 power was cut around 9 am and restored around 6 pm during rain; household pumps stopped and tanks ran dry; about 1,000 residents affected in Shaktinagar and Aawas Vikas; municipal supply reportedly comes only morning and evening.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-27", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/a-population-of-one-thousand-is-deprived-of-electricity-and-water-sambhal-news-c-204-1-chn1003-133153-2026-09-27"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Jams at the railway gate and Bada Bazaar happen every day",
+      "hindi": "रेलवे फाटक और बड़ा बाजार चौराहे पर रोज़ जाम लगता है",
+      "inference": false,
+      "basis": "Amar Ujala (20 Apr 2026, Chandausi): railway gate near the Kabristan has jams as a daily occurrence; jam spots include Bada Bazaar chauraha, Rambagh Road, Husaini Bazaar, Lakshmi Bazaar and Saraf Bazaar. Causes named: carts on chowks, two-wheelers parked before shops, e-rickshaws in markets; encroachment returned after last year's drive. Traffic SI said staff were withdrawn from Chandausi markets.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-20", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/morning-or-evening-traffic-jams-are-everywhere-in-chandausi-sambhal-news-c-204-1-chn1011-128660-2026-04-20"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The station's foot overbridge has been half built for six months",
+      "hindi": "स्टेशन का फुट ओवरब्रिज छह महीने से अधूरा पड़ा है",
+      "inference": false,
+      "basis": "Amar Ujala (25 Feb 2026, Chandausi dateline): 12-metre foot overbridge sections made at Lucknow workshop have lain at the Chandausi station for six months without being joined; project was expected to finish in one year and is still incomplete two years on under the Amrit station scheme; other station redevelopment also incomplete.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-25", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/foot-overbridge-parts-have-been-lying-for-six-months-yet-to-be-joined-sambhal-news-c-204-1-chn1003-127188-2026-02-25"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Medicines cost many times more at Sambhal private hospital pharmacies",
+      "hindi": "बाहर बीस रुपये का कैनुला अस्पताल में 234 रुपये का मिलता है",
+      "inference": false,
+      "basis": "Amar Ujala (9 Oct 2026): district-level, not Chandausi-specific (hospital is in Sambhal city, dateline Sambhal/Chandausi). Cannula Rs 20 outside vs Rs 234 at hospital; antibiotic injection Rs 200 vs Rs 882; outside shops offer 20-30 percent discounts. Named complainant Asim of Sirsi.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://www.amarujala.com/uttar-pradesh/sambhal/patients-helpless-against-the-illness-attendants-acting-arbitrarily-sambhal-news-c-275-1-smbd1030-141624-2026-10-09"}
+      ]
+    }
+  ],
+  "notes": "Identity confirmed from the Wikipedia list: 31 Chandausi, district Sambhal, SC reserved; Lok Sabha seat Sambhal. The Wikipedia Chandausi AC page gave no extent (tehsils/nagar palika), so Chandausi town (the AC's namesake seat) is treated as inside the AC; a field check of the Nagar Palika boundary is advisable. Positives are thin: the 569 crore event is a combined Sambhal-plus-Chandausi figure with no Chandausi project named, the statue item is a heritage landmark, and the Sambhal Chandausi road item is in Sambhal tehsil with AC membership unconfirmed. Not used: Amar Ujala traders' memorandum of 26 Apr 2026 (wedding zones, thela/rehri encroachment, e-rickshaws, pre-monsoon drain cleaning) which is a good field-check candidate; Chandausi Amrit station completion status unknown; a Chandausi bus stand (Power House land, Badaun Road) budget was sanctioned in May 2026 but work had not started, so excluded; sugarcane dues, stray cattle and hospital items found no Chandausi-specific 2026 report. Electoral figures from search summaries were deliberately not used. Overbridge at railway double gate, Mandi Samiti (Amar Ujala video, 26 Oct 2024) is old and was not used. Current status of the 2026 Chandausi station foot overbridge should be checked."
+}
