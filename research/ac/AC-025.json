@@ -1,0 +1,116 @@
+{
+  "ac_no": 25,
+  "ac_name": "Kanth",
+  "ac_name_hindi": "कांठ",
+  "reserved": "None",
+  "district": "Moradabad",
+  "region": "Rohilkhand",
+  "summary": "Complaints dominate: a stalled Moradabad-Haridwar highway widening with potholes and waterlogging around Kanth town, plus unfinished drinking water and bridge works; the only clearly delivered benefit found is a widened highway stretch toward Sahaspur.",
+  "identity_source": "https://en.wikipedia.org/wiki/Kanth_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "The highway has been widened from railway crossing 432-B to the Sahaspur border.",
+      "hindi": "रेलवे फाटक 432-बी से सहसपुर सीमा तक सड़क चौड़ी हो चुकी है",
+      "inference": false,
+      "basis": "Amar Ujala (18 May 2026): the stretch from railway crossing 432-B to the Sahaspur border 'has been widened'. The 13 km road runs from Chhajlat through Kanth town to Sahaspur, so Kanth town is on it. The Sahaspur end is at the Moradabad-Bijnor border, so AC edge membership is unconfirmed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-18", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/the-road-widening-work-between-kanth-and-chhajlat-is-hanging-in-the-balance-kanth-news-c-277-1-smbd1007-113707-2026-05-18"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Rain has helped the paddy and sugarcane crops.",
+      "hindi": "बारिश से धान और गन्ने की फसल को फायदा मिला",
+      "inference": false,
+      "basis": "Amar Ujala Kanth report (3 Sep 2026): farmers said the rain benefits fields, especially paddy and sugarcane. This is a weather benefit, not a government scheme; it is a weak positive.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-03", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-in-various-parts-of-kanth-due-to-rain-commuting-disrupted-kanth-news-c-277-1-smbd1007-115246-2026-09-03"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Work on the road in Jamalpur Munda Nangla has started.",
+      "hindi": "जमालपुर मुंडा नंगला में रास्ते का काम शुरू हुआ",
+      "inference": false,
+      "basis": "Amar Ujala (6 Apr 2026, dateline Kanth): after villagers threatened to go to the CM, officials assured the road would be built and started work; the pond around the village was also cleaned. Village is named as in Chhajlet; AC membership unconfirmed.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-06", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/villagers-going-to-meet-the-cm-kanth-news-c-277-1-smbd1007-113092-2026-04-06"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "If the highway widening is finished, potholes may be relieved.",
+      "hindi": "*सड़क चौड़ीकरण पूरा हो तो गड्ढों से राहत मिलेगी",
+      "inference": true,
+      "basis": "Inference: no completed benefit for Kanth AC was found in searches. The widening on the Kanth-Chhajlat stretch is still stalled as of 18 May 2026 (Amar Ujala), so this is a conditional hope, not a delivered benefit.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-18", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/the-road-widening-work-between-kanth-and-chhajlat-is-hanging-in-the-balance-kanth-news-c-277-1-smbd1007-113707-2026-05-18"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The Kanth MLA raises local problems with the DM and in the Assembly.",
+      "hindi": "*कांठ के विधायक जनसमस्याएं डीएम और विधानसभा तक उठाते हैं",
+      "inference": true,
+      "basis": "Inference: Bhaskar (9 Apr 2026) reports MLA Kamal Akhtar gave a memorandum to the DM on bridges and drinking water, and Amar Ujala (6 Mar 2025) reports he raised the Agwanpur pontoon bridge in the Assembly. This is advocacy, not a delivered benefit.",
+      "sources": [
+        {"outlet": "Bhaskar", "date": "2026-04-09", "url": "https://bhaskardigital.com/moradabad-sp-mla-frt-tanding-repair-ofrinking-water-crisis/"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "The Kanth-Chhajlat highway widening is stuck and potholes cause daily accidents.",
+      "hindi": "कांठ-छजलैट सड़क का चौड़ीकरण अधूरा, गड्ढों से रोज़ हादसे",
+      "inference": false,
+      "basis": "Amar Ujala (18 May 2026): widening from the railway crossing toward Chhajlat has been halted for months; a Forest Department claim on roadside land stopped it and the land swap has not restarted work; 'many potholes on the Kanth-Chhajlat section are causing accidents daily'; one-side widening from Kumar Petrol Pump crossing to Lala Masjid in Kanth town is also stalled. Kanth town is confirmed inside the AC (Wikipedia extent: Kanth tehsil).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-18", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/the-road-widening-work-between-kanth-and-chhajlat-is-hanging-in-the-balance-kanth-news-c-277-1-smbd1007-113707-2026-05-18"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "On the Kanth-Amroha road near the railway crossing, potholes are full of water.",
+      "hindi": "कांठ-अमरोहा रोड पर रेलवे फाटक के पास गड्ढों में पानी भरा है",
+      "inference": false,
+      "basis": "Amar Ujala Kanth report (3 Sep 2026): rain on 2 Sep caused waterlogging at several spots in Kanth town; potholes on both sides of railway crossing 433-B on the Kanth-Amroha road filled with rainwater and e-rickshaws were overturning; residents asked for the potholes to be filled; SDM Kanth said a letter would be written to the concerned department. Kanth town is inside the AC.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-03", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/waterlogging-in-various-parts-of-kanth-due-to-rain-commuting-disrupted-kanth-news-c-277-1-smbd1007-115246-2026-09-03"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Pakbara Nagar Panchayat has a severe shortage of clean drinking water.",
+      "hindi": "पाकबड़ा नगर पंचायत में साफ पीने के पानी की भारी कमी",
+      "inference": false,
+      "basis": "Bhaskar (9 Apr 2026): the Kanth MLA told the DM that Pakbara Nagar Panchayat has a severe shortage of clean drinking water and that a Jal Jeevan Mission scheme is stalled because land has not been allotted; he asked the SDM to allot land quickly. Pakbara is in the AC per Wikipedia extent (Pakbara KC of Moradabad tehsil).",
+      "sources": [
+        {"outlet": "Bhaskar", "date": "2026-04-09", "url": "https://bhaskardigital.com/moradabad-sp-mla-frt-tanding-repair-ofrinking-water-crisis/"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Temporary bridges over the Ramganga, Gagan and Dhela are damaged and water flows over them in rain.",
+      "hindi": "रामगंगा, गगन, ढेला पर रफ्ता पुल जर्जर, बरसात में पानी बहता है",
+      "inference": false,
+      "basis": "Bhaskar (9 Apr 2026): the Kanth MLA's memorandum to the DM says several temporary bridges over these rivers are badly damaged; in the rains water flows over them making crossing risky; some bridges have seen accidents that killed people. Specific villages are not named, so this is AC-level (district-level in part), not place-confirmed.",
+      "sources": [
+        {"outlet": "Bhaskar", "date": "2026-04-09", "url": "https://bhaskardigital.com/moradabad-sp-mla-frt-tanding-repair-ofrinking-water-crisis/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The water tank is unfinished, the roads are dug up, and no water has come yet.",
+      "hindi": "पानी की टंकी अधूरी, खुदी सड़कें, आज तक पानी नहीं मिला",
+      "inference": false,
+      "basis": "Amar Ujala (19 May 2026): in Agamdpur Nigu Nangla (Vikas Khand Chhajlet), a Jal Jeevan Mission tap water scheme started about four years ago; the tubewell was fenced but the overhead tank was never built and the pipeline is incomplete; roads dug for pipes were left broken; 'पानी तो आज तक मिला नहीं'. AC membership unconfirmed (the article names the Chhajlet block and does not mention the AC).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-19", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/neither-an-overhead-tank-was-built-nor-water-was-available-villagers-were-troubled-by-the-dug-up-roads-kanth-news-c-279-1-mo11005-115274-2026-05-19"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC identity confirmed: Kanth is AC No. 25, unreserved, in Moradabad district (Wikipedia; Bhaskar 9 Apr 2026 calls it 'कांठ विधानसभा क्षेत्र'). Wikipedia extent: Kanth tehsil, plus PCs in Dilari KC of Thakurdwara tehsil and Jatpura KC and Pakbara KC of Moradabad tehsil; Chhajlet block membership not confirmed from the sources. Confirmed AC-specific negatives: N1, N2 (Kanth town) and N3 (Pakbara). N4 is AC-level only. N5 is in Chhajlet block (unconfirmed). Positives are thin: only P1 is a completed benefit in Kanth town; P2 is a weather remark; P3 has unconfirmed membership; P4 and P5 are inference flagged. Spelling check needed: Kanth is spelled कांठ in Amar Ujala and कंठ in some sources. Kanth Amar Ujala local coverage is mostly Samvad News Agency copy; search results were thin for 2025 and no English coverage. Sugarcane dues, electricity and health searches for Kanth returned nothing AC-specific. Field check needed for the Chhajlat unpaved road (150 m, dateline Kanth, Amar Ujala 31 May 2026) and the Kanth-Chhajlat widening status since May 2026. Pontoon bridge at Agwanpur-Chiragi Ghat (Amar Ujala 6 Mar 2025) is in Agwanpur block, which is not in the Wikipedia extent, so it is excluded. Mangal market (Moradabad city) is excluded as not in the AC."
+}
