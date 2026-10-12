@@ -5,57 +5,77 @@
   "reserved": "None",
   "district": "Amroha",
   "region": "Paschim UP",
-  "summary": "Complaints centre on stray dogs, LPG cylinder shortages and black-marketing, leopard sightings and a nagar panchayat too small for development, while appreciation is thin and mostly limited to a CHC X-ray machine and approved road and expressway works.",
-  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 40: Naugawan Sadat, Amroha, None); AC extent also from https://en.wikipedia.org/wiki/Naugawan_Sadat_Assembly_constituency (Amroha tehsil: Naugawan Sadat, Kailsa, Naugawan Sadat NP; 15 gram panchayats in Hasanpur tehsil)",
+  "summary": "Complaints centre on stray dogs, LPG cylinder queues and black-marketing, potholes on the Naugawan Sadat road, a police beating video and a nagar panchayat too small for development, while appreciation is thin and limited to a CHC X-ray machine, a homeopathic clinic building and a sealed unlicensed clinic, with road repairs only approved so far.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 40: Naugawan Sadat, Amroha, None); AC extent from https://en.wikipedia.org/wiki/Naugawan_Sadat_Assembly_constituency (Amroha tehsil KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP; Hasanpur tehsil KC with 15 PCs named on the page)",
   "positives": [
     {
       "rank": 1,
-      "english": "CHC Naugawan Sadat got a digital X-ray machine, no need to travel far now",
-      "hindi": "सीएचसी नौगांवा सादात में एक्स-रे मशीन लगी, अब दूर नहीं जाना पड़ेगा",
+      "english": "CHC Naugawan Sadat got a digital X-ray machine, no more running to district HQ",
+      "hindi": "सीएचसी नौगांवा सादात में एक्स-रे मशीन लगी, अब जिला मुख्यालय नहीं दौड़ना पड़ेगा",
       "inference": false,
-      "basis": "Digital X-ray machines delivered to four CHCs including Naugawan Sadat; technicians posted; CMO said patients would be spared travel and private test costs of Rs 300-400 (district-level article covering Rahra, Hasanpur, Dhabarsi and Naugawan Sadat CHCs)",
+      "basis": "Digital X-ray machines delivered to four CHCs (Rahra, Hasanpur, Dhabarsi, Naugawan Sadat) with technicians posted; article says patients will no longer need to run to the district headquarters for X-rays. Article is district-level but names the Naugawan Sadat CHC; private X-ray test costs Rs 300-400",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2024-08-29", "url": "https://www.amarujala.com/uttar-pradesh/amroha/four-chcs-got-digital-x-ray-machines-patients-get-relief-jpnagar-news-c-284-1-jpn1003-124639-2024-08-29"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2024-08-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/four-chcs-got-digital-x-ray-machines-patients-get-relief-jpnagar-news-c-284-1-jpn1003-124639-2024-08-29"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Ganga Expressway stretch in Hasanpur is largely built now",
-      "hindi": "गंगा एक्सप्रेसवे का हसनपुर वाला हिस्सा लगभग बन चुका है",
+      "english": "Homeopathic clinic in Naugawan Sadat now runs from its own building",
+      "hindi": "नौगांवा सादात में होम्योपैथिक क्लीनिक अब अपने भवन में चल रहा है",
       "inference": false,
-      "basis": "District-level: Hasanpur section (23.60 km) of Ganga Expressway in Amroha reported largely built, road, lighting and drainage finished, final work pending; article says 'completely completed' yet 'only the final work is going on'; planned completion 12 Oct 2025. AC membership of this stretch unconfirmed; current status not verified",
+      "basis": "AC-specific (town): article lists Naugawan Sadat among towns where homeopathic clinics operate and states the building in Naugawan Sadat (and Sadarpur Bhud) is complete and the clinic now runs from its own building",
       "sources": [
-        {"outlet": "News24 (Jagran syndication)", "date": "2025-09-13", "url": "https://news24online.com/india/good-news-for-commuters-using-ganga-expressway-travel-meerut-to-prayagraj-in-just-6-hours/632342/amp"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/homeopathic-clinics-will-be-opened-in-the-district-hospital-hasanpur-and-rahra-chc-jpnagar-news-c-284-1-jpn1023-161550-2026-04-15"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Development works were inaugurated in Amroha, now people want to see results",
-      "hindi": "अमरोहा में विकास कार्यों का लोकार्पण हुआ, अब नतीजे दिखें",
+      "english": "Illegal clinic with no qualified doctor sealed in Naugawan Sadat",
+      "hindi": "नौगांवा सादात में बिना डॉक्टर वाला अवैध क्लीनिक सील हुआ",
       "inference": false,
-      "basis": "District-level: CM Yogi inaugurated and laid foundation stones for 43 projects worth Rs 207.49 crore for Amroha and Dhanaura ACs (25 projects, Rs 104.35 crore, in Amroha AC); no Naugawan Sadat project is named in the coverage",
+      "basis": "AC-specific (town, dateline Naugawan Sadat): inspection team sealed an unlicensed clinic where no qualified doctor was present, on the CMO's instruction; article dated 1 May 2026",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-19", "url": "https://www.amarujala.com/uttar-pradesh/amroha/chief-minister-gifts-43-projects-worth-207-crore-distributes-certificates-to-beneficiaries-jpnagar-news-c-284-1-smbd1013-168501-2026-07-19"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/illegal-clinic-sealed-in-naugawan-sadat-jpnagar-news-c-284-1-smbd1013-162664-2026-05-01"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Inference: approved repairs for Naugawan Sadat roads, hope work starts soon",
+      "english": "Inference: PWD approved repair of three Naugawan Sadat area roads, hope work starts soon",
       "hindi": "*नौगांवा सादात की सड़कों की मरम्मत मंजूर हुई, काम शुरू हो",
       "inference": true,
-      "basis": "Inference: approval only, no start or completion reported; the Naugawan Sadat road is one of nine Dhanaura, Naugawan Sadat and Hasanpur roads with Rs 1.29 crore repair sanctioned by PWD. Treated as a weak positive pending field check",
+      "basis": "Inference: approval only, no work start or completion reported. PWD approved repair of nine roads in Dhanaura, Naugawan Sadat and Hasanpur areas (about Rs 1.29 crore); three of the nine are in the Naugawan Sadat area; tendering has started. Treated as a weak positive pending field check",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-11", "url": "https://www.amarujala.com/uttar-pradesh/amroha/approval-granted-for-the-repair-of-nine-roads-jpnagar-news-c-284-1-smbd1013-172644-2026-09-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/approval-granted-for-the-repair-of-nine-roads-jpnagar-news-c-284-1-smbd1013-172644-2026-09-11"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Inference: industrial park coming up in Hasanpur, hope for local jobs",
-      "hindi": "*हसनपुर में औद्योगिक पार्क बन रहा है, रोजगार की उम्मीद",
+      "english": "Inference: sugarcane department road in Naugawan Sadat area approved, hope it gets built",
+      "hindi": "*गन्ना विभाग की सड़क नौगांवा सादात में मंजूर, काम शुरू होने का इंतजार",
       "inference": true,
-      "basis": "Inference: the CM's event coverage says an industrial park is under development in Hasanpur; it is not stated whether it is inside this AC or among the 43 inaugurated projects. Job benefit is not stated in the source",
+      "basis": "Inference: approval only. Govt approved four sugarcane-department roads (about Rs 1 crore together); one is in the Naugawan Sadat area, to be built by PWD; article says tendering is only starting and construction has not begun. Treated as a weak positive pending field check",
       "sources": [
-        {"outlet": "NewsX", "date": "2026-07-18", "url": "https://www.newsx.com/press-release/cm-yogi-inaugurateslays-foundation-stones-for-43-projects-worth-more-than-rs-207-crore-for-amroha-and-dhanaura-assembly-constituencies-249929/"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/green-signal-for-sugarcane-department-roads-travel-on-village-roads-set-to-become-easier-jpnagar-news-c-284-1-jpn1023-172750-2026-09-12"
+        }
       ]
     }
   ],
@@ -65,19 +85,27 @@
       "english": "Hours in LPG queues and still no cylinder, black market at Rs 1200 to 1500",
       "hindi": "सिलिंडर के लिए घंटों लाइन, फिर भी गैस नहीं मिलती, ब्लैक में महंगा",
       "inference": false,
-      "basis": "AC-specific (town of Naugawan Sadat): LPG queues outside agency warehouses in Naugawan Sadat, Hasanpur, Mandi Dhanora and Joya from Thursday morning; consumers say cylinders sold black at Rs 1200-1500 and agencies overcharge; no official response in the article",
+      "basis": "AC-specific (town of Naugawan Sadat): people queued for gas in Naugawan Sadat, Hasanpur, Mandi Dhanora and Joya; consumers say cylinders sold black at Rs 1200-1500 and agencies overcharge (allegations as reported); no official response in the article",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-03-13", "url": "https://www.amarujala.com/uttar-pradesh/amroha/people-queued-up-for-gas-in-naugawan-sadat-hasanpur-mandi-dhanora-and-joya-jpnagar-news-c-284-1-smbd1013-159147-2026-03-13"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-03-13",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/people-queued-up-for-gas-in-naugawan-sadat-hasanpur-mandi-dhanora-and-joya-jpnagar-news-c-284-1-smbd1013-159147-2026-03-13"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Stray dogs bit eight people in one day in Naugawan Sadat",
-      "hindi": "नौगांवा सादात में आवारा कुत्तों का आतंक, एक दिन में आठ लोगों को काटा",
+      "english": "Stray dogs bit eight people in a few hours in Naugawan Sadat",
+      "hindi": "आवारा कुत्तों का आतंक, कुछ घंटों में आठ लोगों को काटा",
       "inference": false,
-      "basis": "AC-specific (town): on 11 May 2026 stray dogs bit eight people in a few hours, mainly Mohalla Papad Talab; CHC gave anti-rabies injections to 28 people; residents demanded dogs be relocated and a permanent solution; no official statement reported",
+      "basis": "AC-specific (town): on Monday 11 May 2026 stray dogs bit eight people within a few hours, worst in Mohalla Papad Talab; 28 people (new and old cases) got anti-rabies injections at the CHC; residents demanded the dogs be moved and a permanent solution; no official statement in the article",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-05-11", "url": "https://www.amarujala.com/uttar-pradesh/moradabad/amroha-terror-in-naugaon-sadat-eight-people-bitten-in-a-single-day-28-administered-anti-rabies-injections-2026-05-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/moradabad/amroha-terror-in-naugaon-sadat-eight-people-bitten-in-a-single-day-28-administered-anti-rabies-injections-2026-05-11"
+        }
       ]
     },
     {
@@ -85,9 +113,13 @@
       "english": "Nagar panchayat is too small, little room left for development work",
       "hindi": "नगर पंचायत का दायरा छोटा है, विकास के लिए जगह कम बची है",
       "inference": false,
-      "basis": "AC-specific (Naugawan Sadat nagar panchayat): MLA Samarpal Singh wrote to government that the nagar panchayat has little room left for development and asked to add Khedi, Badshahpur and Bilna; government asked SDM for a report within a week",
+      "basis": "AC-specific (Naugawan Sadat nagar panchayat, listed in the AC extent): MLA Samarpal Singh wrote to government that there is no room left for development work in the nagar panchayat and asked to add Khedi, Badshahpur and Bilna; ADM asked the SDM for a report within a week (2024 report, issue not shown resolved)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2024-09-23", "url": "https://www.amarujala.com/uttar-pradesh/amroha/the-scope-of-naugawan-sadat-nagar-panchayat-will-increase-the-government-has-asked-for-a-report-jpnagar-news-c-284-1-jpn1002-126159-2024-09-23"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2024-09-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/the-scope-of-naugawan-sadat-nagar-panchayat-will-increase-the-government-has-asked-for-a-report-jpnagar-news-c-284-1-jpn1002-126159-2024-09-23"
+        }
       ]
     },
     {
@@ -95,22 +127,36 @@
       "english": "Video of police clerk beating a complainant at the police station went viral, allegation",
       "hindi": "थाने में फरियादी की पिटाई का वीडियो वायरल, आरोप है",
       "inference": false,
-      "basis": "AC-specific (Naugawan Sadat police station, in the town): three videos showed the head clerk beating a complainant; SP sent him to police lines pending inquiry; allegation as reported by the article",
+      "basis": "Naugawan Sadat police station (named after the town; article does not state its exact location, so AC membership rests on the town name): three videos of the head clerk slapping and beating a complainant went viral; SP sent him to police lines and ordered an inquiry; allegation as reported",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-27", "url": "https://www.amarujala.com/uttar-pradesh/amroha/head-clerk-present-in-line-for-beating-of-complainant-in-naugawan-sadat-police-station-jpnagar-news-c-284-1-smbd1013-158241-2026-02-27"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-27",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/head-clerk-present-in-line-for-beating-of-complainant-in-naugawan-sadat-police-station-jpnagar-news-c-284-1-smbd1013-158241-2026-02-27"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Leopard sightings in Nagla and Budhanpur villages have people scared",
-      "hindi": "नगला और बुढ़नपुर में तेंदुआ दिखने से लोग दहशत में हैं",
+      "english": "Deep potholes on Naugawan Sadat road, bikes slip and jams form",
+      "hindi": "नौगांवा सादात रोड पर गहरे गड्ढे, दोपहिया फिसलकर घायल, जाम लगता है",
       "inference": false,
-      "basis": "AC membership unconfirmed: Nagla is described as near Naugawan Sadat (Didauli area) and Budhanpur is near Didauli police station; the article is about Amroha district. Residents demanded surveillance and a cage",
+      "basis": "AC membership of this road unconfirmed, so not counted in ac_specific_negatives: article names the Naugawan Sadat road with Azad Road (Amroha city) and Bijnor road; two-wheeler riders slip and get hurt, jams form; people allege repairs not done despite complaints",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-10", "url": "https://www.amarujala.com/uttar-pradesh/amroha/fear-of-leopards-rises-again-in-the-district-leopards-spotted-in-naugawan-sadat-and-budhanpur-jpnagar-news-c-284-1-smbd1013-165588-2026-06-10"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-02",
+          "url": "https://www.amarujala.com/uttar-pradesh/amroha/two-days-of-rain-have-deepened-the-wounds-on-the-roads-jpnagar-news-c-284-1-smbd1013-174420-2026-10-02"
+        }
       ]
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed as No. 40 Naugawan Sadat, Amroha district, reserved None (Wikipedia list). Wikipedia AC page lists Naugawan Sadat, Kailsa and Naugawan Sadat NP (Amroha tehsil) plus 15 gram panchayats in Hasanpur tehsil; the Hasanpur GP list was not checked against official maps. Current MLA is inconsistent across sources (Wikipedia list and Samarpal Singh page say Samarpal Singh, SP, 2022; infobox and a mirror say 2020 or Sangeeta Chauhan); verify on the UP assembly site. Positives 4 and 5 are weak inferences from approvals and an under-development project, not delivered benefits; positive 2 status is contradictory in its source. Leopard item is AC-unconfirmed and not counted in ac_specific_negatives. Oct 2026 leopard carcass in a Naugawan Sadat town orchard was seen but not used. No local news found on sugarcane dues, water supply, electricity or the Naugawan Sadat road condition; Simbhaoli and Dhanaura mill items are not in this AC. Field check recommended on dog bites, LPG supply, and whether any Hasanpur or Naugawan Sadat road work has actually started."
+  "notes": "AC confirmed as No. 40 Naugawan Sadat, Amroha district, reserved None (Wikipedia list). Wikipedia AC page lists KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP (Amroha tehsil) plus 15 PCs under Hasanpur KC; Nagla, Budhanpur, Joya, Mandi Dhanora and Hasanpur town are not on that page, so they are not counted as AC-specific. Current MLA is inconsistent across sources; verify on the UP assembly site. Positives 4 and 5 are inferences from approvals only (no start reported) and are weak; only three positives are sourced delivered or completed benefits; a field check is needed to find better ones. Police station (negative 4) is counted as AC-specific on the strength of the town name only; the article does not give its location. Negative 5 (potholes on the Naugawan Sadat road) is not counted because the road's AC membership is unconfirmed. Oct 2026 leopard carcass in a Naugawan Sadat town mango orchard was seen in search results but not used (not fetched). No local news found on sugarcane dues, water supply or electricity in the AC. Simbhaoli and Dhanaura items are not in this AC. Field check recommended on dog bites, LPG supply, the homeopathic clinic, and whether the nine-road repairs have started.",
+  "round2": {
+    "verified_sources": 10,
+    "removed_sources": 5,
+    "ac_specific_negatives": 4,
+    "changes": "Removed Ganga Expressway Hasanpur stretch (Hasanpur AC 41, not shown inside AC 40) and the district-level CM 43-project item; removed Hasanpur industrial park (NewsX/CM event, not AC 40); removed leopard item (Nagla/Budhanpur not in AC extent). Added homeopathic clinic in Naugawan Sadat (Amar Ujala 15 Apr 2026, verified) and sealed illegal clinic (Amar Ujala 1 May 2026, verified) as positives; added Naugawan Sadat road potholes (Amar Ujala 2 Oct 2026) as negative 5 (not counted, road membership unconfirmed). Positive 4 corrected to three Naugawan Sadat roads of the nine; positive 5 now a sugarcane-department road approval (inference). X-ray item basis corrected (Rs 300-400 is the private test cost, not a saving; article names the Naugawan Sadat CHC). Dog-bite English corrected to 'in a few hours'. Summary updated."
+  }
 }
