@@ -1,0 +1,156 @@
+{
+  "ac_no": 49,
+  "ac_name": "Meerut South",
+  "ac_name_hindi": "मेरठ दक्षिण",
+  "reserved": "None",
+  "district": "Meerut",
+  "region": "Paschim UP",
+  "summary": "Waterlogging, choked drains and sewers dominate complaints in Meerut South, while the main appreciation is the October 2025 drain and road works and the ward 46 drain and road foundation work.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Drains for Jaibhim Nagar, Sarai Kazi and nearby colonies were inaugurated for construction",
+      "hindi": "जयभीम नगर, सराय काजी, मयूर विहार में नालों का काम शुरू हुआ",
+      "inference": false,
+      "basis": "Mayor inaugurated about Rs 8.5 crore of works in Meerut South on 6 Oct 2025. Three drains (about Rs 5.69 crore) in Jaibhim Nagar, Takshshila Colony, Sarai Kazi, Mayur Vihar and Jagriti Vihar Sector 8 were inaugurated; the article describes them as drains 'to be built'. Article says works will relieve waterlogging. Article names Meerut South constituency explicitly.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-10-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/inaugurates-development-works-worth-rs-85-crore-in-the-city-meerut-news-c-14-1-mrt1051-995008-2025-10-06"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Eight roads in Meerut South got development works inaugurated in October 2025",
+      "hindi": "मेरठ दक्षिण में आठ सड़कों के विकास कार्यों का उद्घाटन हुआ",
+      "inference": false,
+      "basis": "Same Amar Ujala report: mayor inaugurated eight roads along with three drains and one drain with two roads (Mohkampur and Shivpuram, about Rs 2.84 crore) in Meerut South constituency. No separate amount given for the eight roads. Article names Meerut South constituency explicitly.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-10-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/inaugurates-development-works-worth-rs-85-crore-in-the-city-meerut-news-c-14-1-mrt1051-995008-2025-10-06"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "CC road and drain foundation stone laid near the old Shiv temple in Ward 46 (Yadgarpur, Sanjay Nagar area)",
+      "hindi": "पुराने शिव मंदिर के पास सीसी सड़क और नाली का शिलान्यास हुआ",
+      "inference": false,
+      "basis": "Newstrack, 11 Oct 2026: foundation stone (shilanyas) laid for CC road and drain construction near the old Shiv temple in Ward 46, councillor Harshpal Singh. Ward 46 is listed in the Wikipedia extent of Meerut South (Meerut M Corp. wards). Foundation stone means work is started, not completed.",
+      "sources": [
+        {
+          "outlet": "Newstrack",
+          "date": "2026-10-11",
+          "url": "https://newstrack.com/uttar-pradesh/meerut/nagar-nigam-ward-46-parshad-interview-harshpal-singh-development-works-meerut-sabhasad-ki-jankari-639164"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Drain cleaning done on Jail Road from Lohia Park to ADG office in Ward 46",
+      "hindi": "जेल रोड पर लोहिया पार्क से एडीजी कार्यालय तक नाले की सफाई हुई",
+      "inference": false,
+      "basis": "Newstrack, 11 Oct 2026: a cleanliness drive on Jail Road from Lohia Park to the ADG office included nala cleaning. Ward 46 per Wikipedia Meerut South extent. Newstrack is the source for the ward-level report; the Jail Road stretch is not separately confirmed as inside the AC boundary beyond the ward listing.",
+      "sources": [
+        {
+          "outlet": "Newstrack",
+          "date": "2026-10-11",
+          "url": "https://newstrack.com/uttar-pradesh/meerut/nagar-nigam-ward-46-parshad-interview-harshpal-singh-development-works-meerut-sabhasad-ki-jankari-639164"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Mayor had pumps installed in Shastri Nagar L-Block to drain waterlogging (AC membership unconfirmed)",
+      "hindi": "शास्त्रीनगर में महापौर के दौरे पर पंप लगकर पानी निकला",
+      "inference": false,
+      "basis": "Amar Ujala, 24 May 2026: mayor visited Shastri Nagar L-Block; pumping sets drained the water and the article says the waterlogging problem was resolved immediately. AC membership unconfirmed: the article does not name the vidhan sabha and I could not confirm Shastri Nagar lies inside Meerut South.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/mayor-resolves-waterlogging-in-shastri-nagar-illegal-dairies-the-main-cause-meerut-news-c-14-1-mrt1051-1198682-2026-05-24"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Waterlogging in Jaibhim Nagar, Sarai Kazi and similar localities of Meerut South",
+      "hindi": "जयभीम नगर और सराय काजी जैसे इलाकों में जलभराव से परेशानी है",
+      "inference": false,
+      "basis": "Amar Ujala, 6 Oct 2025: drains in Jaibhim Nagar, Takshshila Colony, Sarai Kazi, Mayur Vihar and Jagriti Vihar Sector 8 are to relieve residents of waterlogging and other problems. The article states the works are in Meerut South constituency. The waterlogging is implied by the purpose of the drains, not described in voter words in the article.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-10-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/inaugurates-development-works-worth-rs-85-crore-in-the-city-meerut-news-c-14-1-mrt1051-995008-2025-10-06"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Dairy dung dumped into drain chokes the sewer and causes waterlogging in Shastri Nagar L-Block (AC membership unconfirmed)",
+      "hindi": "शास्त्रीनगर में डेयरी का गोबर नाले में बहने से सीवर चोक हो जाता है",
+      "inference": false,
+      "basis": "Amar Ujala, 24 May 2026: dairy operators dump dung into the nala, choking the sewer and causing waterlogging from the L-Block crossing to the Bijli Bamba bypass; traders confirmed the dairy problem; mayor had pumps installed. Article blames illegal dairies. AC membership unconfirmed: no vidhan sabha named in the article.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/mayor-resolves-waterlogging-in-shastri-nagar-illegal-dairies-the-main-cause-meerut-news-c-14-1-mrt1051-1198682-2026-05-24"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Repeated waterlogging at Kotla Bazaar after road was raised without a proper drain, complaints unresolved (AC membership unconfirmed)",
+      "hindi": "कोटला बाजार में बार-बार जलभराव, शिकायतों पर कोई ठोस कार्रवाई नहीं",
+      "inference": false,
+      "basis": "Amar Ujala, 11 Jun 2026: trader spokesperson Nitin Gupta says the road was raised near the Gurudwara Sahib culvert without an adequate drain; fourth waterlogging episode in about two months; complaints to the nagar nigam have not led to concrete action; traders threatened protest. Article does not name the vidhan sabha, so AC membership is unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-in-kotla-bazaar-due-to-the-road-being-elevated-meerut-news-c-14-1-mrt1002-1215222-2026-06-11"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Broken culvert in J Block of Ward 46 poses an accident risk",
+      "hindi": "जे ब्लॉक में टूटी पुलिया से हादसे का खतरा बना हुआ है",
+      "inference": false,
+      "basis": "Newstrack, 11 Oct 2026: pending issues in Ward 46 include a broken culvert in J Block that poses an accident risk. Ward 46 is listed in the Wikipedia extent of Meerut South.",
+      "sources": [
+        {
+          "outlet": "Newstrack",
+          "date": "2026-10-11",
+          "url": "https://newstrack.com/uttar-pradesh/meerut/nagar-nigam-ward-46-parshad-interview-harshpal-singh-development-works-meerut-sabhasad-ki-jankari-639164"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Complaints about potholes, garbage and sewers still pending in Ward 46",
+      "hindi": "गड्ढे, कूड़ा और सीवर की शिकायतें अभी भी लंबित हैं",
+      "inference": false,
+      "basis": "Newstrack, 11 Oct 2026: residents' complaints about potholes, garbage and sewers are listed as pending issues in Ward 46. Ward 46 is listed in the Wikipedia extent of Meerut South.",
+      "sources": [
+        {
+          "outlet": "Newstrack",
+          "date": "2026-10-11",
+          "url": "https://newstrack.com/uttar-pradesh/meerut/nagar-nigam-ward-46-parshad-interview-harshpal-singh-development-works-meerut-sabhasad-ki-jankari-639164"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC identity confirmed from the Wikipedia UP constituency list (No. 49 Meerut South, district Meerut, reserved None) and the Meerut South Wikipedia page, which lists the extent as KC Meerut and Meerut M Corp. wards 2, 3, 5, 10, 11, 13, 16, 19, 25, 28, 30, 31, 33, 34, 35, 39, 41 and 46 of Meerut tehsil. Ward 46 is the only ward-level source read in full. Shastri Nagar and Kotla Bazaar are Meerut city localities whose AC membership I could not confirm; they are kept as district-level sources and excluded from ac_specific_negatives. Excluded: an MSN report on Rs 16.06 crore approval for widening two Meerut South roads (fetch returned no article text); a Newstrack Ward 31 Shatabdinagar report (fetch returned 403); a Quint report on Shobhapur (undated, older). Wikipedia shows Somendra Tomar (BJP) as MLA elected 2017 and 2022; current 2026 MLA not verified against an official source. Newstrack Ward 46 article names Cantt MLA Amit Agarwal for an inauguration on Qila Road, which is a different constituency and is not used. Field check recommended: confirm ward-to-AC mapping for Kotla Bazaar, Shastri Nagar L-Block, Bhainsali crossing (West End Road jams, Amar Ujala 6 Aug 2025, not used) and the Jail Road stretch; find local Hindi coverage of Meerut South roads and electricity, which searches did not surface."
+}

@@ -1,0 +1,117 @@
+{
+  "ac_no": 51,
+  "ac_name": "Baraut",
+  "ac_name_hindi": "बड़ौत",
+  "reserved": "None",
+  "district": "Baghpat",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on unpaid cane dues and polluting discharge from the Malakpur sugar mill, a damaged town road and unapproved colonies, while sourced appreciation is thin and mostly a new Skill India Centre.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "A Skill India Centre opened in Baraut town to train local youth",
+      "hindi": "बड़ौत में स्किल इंडिया केंद्र खुला, युवाओं को काम सीखने का मौका मिलेगा",
+      "inference": false,
+      "basis": "Union ministers inaugurated the Skill India Centre at Ch. Kehar Singh Divya Public School, Baraut, on 24 Nov 2025, aiming to train around 600 candidates from Baraut and Chhaprauli blocks; run by NSDC and Redington Foundation",
+      "sources": [
+        {"outlet": "The Rahnuma Daily (IANS)", "date": "2025-11-25", "url": "https://therahnuma.com/union-ministers-inaugurate-skill-india-centre-in-ups-baraut-to-boost-skilling-opportunities/"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Baghpat sugar mill paid Rs 12.56 crore of cane dues to farmers",
+      "hindi": "* बागपत की चीनी मिल ने किसानों को 12 करोड़ 56 लाख का बकाया दिया",
+      "inference": true,
+      "basis": "District-level, not AC-specific, and the mill is not named as Malakpur: Rs 12 crore 56 lakh 30 thousand transferred for farmers, dues cleared up to 25 April, 97.61% of total outstanding dues cleared; original report by Amar Ujala, republished by ChiniMandi",
+      "sources": [
+        {"outlet": "ChiniMandi (citing Amar Ujala)", "date": "2024-05-03", "url": "https://www.chinimandi.com/up-baghpat-sugar-mill-clears-sugarcane-payments-till-april-25-remaining-dues-are-to-be-settled-soon/"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Skill centre training placed 72 Baghpat candidates in jobs",
+      "hindi": "* बागपत के 72 युवाओं को स्किल सेंटर से नौकरी मिली",
+      "inference": true,
+      "basis": "District-level, not AC-specific: 72 candidates from Baghpat trained under the NSDC and Redington partnership have been placed in jobs, as stated in the Nov 2025 IANS report",
+      "sources": [
+        {"outlet": "The Rahnuma Daily (IANS)", "date": "2025-11-25", "url": "https://therahnuma.com/union-ministers-inaugurate-skill-india-centre-in-ups-baraut-to-boost-skilling-opportunities/"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "District magistrate ordered Baghpat mills to clear Rs 354 crore cane dues",
+      "hindi": "* डीएम ने मिलों से 354 करोड़ रुपये का गन्ना बकाया तुरंत चुकाने को कहा",
+      "inference": true,
+      "basis": "District-level official direction, not a delivered payment: DM Asmita Lal ordered immediate clearance of Rs 354 crore outstanding cane dues and action against Malakpur Sugar Mill for delay; the article names five mills and its headline says six",
+      "sources": [
+        {"outlet": "ChiniMandi", "date": "2025-08-23", "url": "https://www.chinimandi.com/baghpat-six-sugar-mills-owes-cane-dues-worth-rs-354-crore/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Baraut town road work promised to finish soon",
+      "hindi": "* बड़ौत में बावली मार्ग का काम जल्द पूरा होने का भरोसा मिला",
+      "inference": true,
+      "basis": "AC-specific but only a promise, not completed work: Executive Officer Manoj Kumar said construction was under way with culverts and drains first and assured quick completion; no completion report found",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-02-10", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/the-road-in-baraut-has-been-uprooted-for-two-months-people-are-facing-problems-baghpat-news-c-28-1-smrt1003-126223-2025-02-10"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Malakpur sugar mill cane dues and interest still pending for farmers",
+      "hindi": "मलकपुर मिल का गन्ना बकाया और ब्याज अटका है",
+      "inference": false,
+      "basis": "Malakpur Sugar Mill had the largest share of Rs 354 crore dues, Rs 240 crore, in the Aug 2025 DM review; at the Malkapur mahapanchayat on 11 Oct 2026 farmers said interest on dues for 1996 to 2026 has not been paid despite a High Court order. AC membership: Malakpur village is listed under Baraut tehsil in the Wikipedia extent of the constituency",
+      "sources": [
+        {"outlet": "ChiniMandi", "date": "2025-08-23", "url": "https://www.chinimandi.com/baghpat-six-sugar-mills-owes-cane-dues-worth-rs-354-crore/"},
+        {"outlet": "ChiniMandi (citing Bhaskar)", "date": "2026-10-06", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-to-hold-mahapanchayat-in-malkapur-on-october-11/"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Polluted water from Malakpur sugar mill, farmers want a permanent fix",
+      "hindi": "मलकपुर मिल का प्रदूषित पानी, स्थायी हल चाहिए",
+      "inference": false,
+      "basis": "Farmers demand a permanent solution to polluted water discharged from the Malkapur mill, per the ChiniMandi report on the 11 Oct 2026 mahapanchayat; allegation only, no second source checked. AC membership as for the Malakpur mill, per Wikipedia extent",
+      "sources": [
+        {"outlet": "ChiniMandi (citing Bhaskar)", "date": "2026-10-06", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-to-hold-mahapanchayat-in-malkapur-on-october-11/"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Baavli road in Baraut town dug up for two months, shops hit",
+      "hindi": "बड़ौत के बावली मार्ग की सड़क दो माह से उखड़ी, दुकानों पर असर",
+      "inference": false,
+      "basis": "Baavli Marg in Baraut town near Thakurdwara has been dug up for about two months for construction; shopkeepers say customers fell and business dropped about 50 percent, and school students face trouble",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-02-10", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/the-road-in-baraut-has-been-uprooted-for-two-months-people-are-facing-problems-baghpat-news-c-28-1-smrt1003-126223-2025-02-10"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Plots bought in unapproved Saraya Road colonies cannot get maps or loans",
+      "hindi": "सराया रोड की अवैध कॉलोनी में प्लॉट लिया, नक्शा पास नहीं, लोन भी नहीं मिलता",
+      "inference": false,
+      "basis": "Baghpat-Baraut-Khekra Development Authority sealed four illegal colonies on Saraya Road, Baraut, on 26 Mar 2025; its Assistant Engineer said buyers cannot get individual plot maps approved and cannot get loans",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-03-26", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/authoritys-bulldozer-runs-on-four-illegal-colonies-in-baraut-baghpat-news-c-28-1-bpt1002-128629-2025-03-26"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Seven villages from Baraut block object to move to Kanhad block",
+      "hindi": "बड़ौत ब्लॉक के सात गांव कान्हड़ ब्लॉक में भेजने का विरोध",
+      "inference": false,
+      "basis": "Villagers of Ashrafabad Thal, Khadana, Ibrahimpur Majra, Fatehpur, Kishanpur, Baral and Budhpur object to moving to Kanhad block, which they say is far; AC membership unconfirmed (block-level, villages not in the Wikipedia extent list checked)",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-09-13", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/villagers-opposed-the-inclusion-of-seven-villages-from-baraut-in-the-new-block-baghpat-news-c-28-1-bpt1002-138310-2025-09-13"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 4,
+  "notes": "AC 51 Baraut, unreserved, Baghpat district confirmed from the Wikipedia constituency list (Bagpat spelling there) and the Baraut Assembly page, which also gives the 2022 MLA as Krishnapal Malik (BJP). Positives are weak: only the Skill India Centre (item 1) is an AC-specific delivered benefit, and items 2-5 are district-level or promise-only and flagged with *. No completed road or water project in Baraut was found. Malakpur mill spelling varies (Malakpur, Malkapur, Malkpur); the mill's village is placed under Baraut tehsil in the extent list, but no mill-specific source gives its exact boundary. Dues figures differ across reports (Rs 240 crore in Aug 2025; search snippets of about Rs 350 crore in Apr 2026 were not opened and are not cited). The Baavli road story is from Feb 2025 and its current status is unverified. Field check suggested for the Malakpur mill dues and discharge, the Baavli road, and the Saraya Road colonies."
+}
