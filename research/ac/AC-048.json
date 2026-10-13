@@ -5,48 +5,68 @@
   "reserved": "None",
   "district": "Meerut",
   "region": "Paschim UP",
-  "summary": "Voters in the Meerut city seat talk most about waterlogging, broken roads and jams in the old city during monsoon, with Delhi-Meerut Namo Bharat and Meerut Metro starting in February 2026 as the main benefit people note.",
+  "summary": "Reported problems in the Meerut city seat centre on monsoon waterlogging and drains in the old city (Begumpul, Lisari Gate), broken roads and jams, with the Namo Bharat and Meerut Metro starting in February 2026 as the main reported benefit.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
       "rank": 1,
-      "english": "Metro and Namo Bharat trains have started in Meerut, so getting to Begumpul is easier now",
-      "hindi": "मेरठ में मेट्रो और नमो भारत चलने लगी, बेगमपुल तक आना अब आसान हुआ",
+      "english": "Metro and Namo Bharat trains have started in Meerut, and Begumpul is one of the main stations",
+      "hindi": "मेरठ में मेट्रो और नमो भारत चलने लगी, बेगमपुल भी मुख्य स्टेशन",
       "inference": false,
-      "basis": "Namo Bharat and Meerut Metro operations began in Meerut on 22 February 2026, with 4 Namo Bharat and 13 Metro stations in the city; Begumpul is named among the stations (district-level, Begumpul is inside Meerut city; AC membership of Begumpul not separately confirmed)",
+      "basis": "Amar Ujala (22 Feb 2026): 'नमो भारत ट्रेन का सफल संचालन शुरू हो गया है'; city has 4 Namo Bharat and 13 Metro stations; Begumpul is named among the main stations after Meerut South (city-level, not AC-specific)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-22", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-metro-begin-operations-in-city-from-today-check-stations-and-full-train-schedule-2026-02-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-metro-begin-operations-in-city-from-today-check-stations-and-full-train-schedule-2026-02-22"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Delhi to Meerut now takes about 55 minutes by Namo Bharat after the full stretch opened",
-      "hindi": "दिल्ली से मेरठ का सफर अब करीब 55 मिनट में होने लगा",
+      "english": "Delhi to Meerut now takes about 55 minutes by Namo Bharat after the full 82 km route opened",
+      "hindi": "दिल्ली से मेरठ का 82 किलोमीटर का सफर अब करीब 55 मिनट में",
       "inference": false,
-      "basis": "PM inaugurated the full 82 km Delhi-Meerut Namo Bharat stretch on 22 February 2026; the article says the full Delhi-Meerut journey will now take about 55 minutes (district-level)",
+      "basis": "Punjab Kesari (22 Feb 2026): PM launched Namo Bharat on the entire Delhi-Meerut route; the article says the 82 km journey 'can now be completed' in 55 minutes, an expected time, not a measured one (district-level)",
       "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-02-22", "url": "https://www.aajtak.in/india/news/story/pm-modi-inaugurated-full-stretch-of-delhi-meerut-namo-bharat-rapid-rail-ntc-dpmx-rpti-2476521-2026-02-22"}
+        {
+          "outlet": "Punjab Kesari",
+          "date": "2026-02-22",
+          "url": "https://www.punjabkesari.com/india/pm-modi-inaugurated-namo-bharat/"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Begumpul now has a metro and Namo Bharat interchange, which saves commuters time",
-      "hindi": "बेगमपुल पर मेट्रो और नमो भारत की अदला-बदली की सुविधा मिली",
+      "english": "A Namo Bharat station at Begumpul has been operating since 22 February 2026, giving people a new travel option",
+      "hindi": "बेगमपुल पर नमो भारत स्टेशन शुरू हुआ, सफर के लिए नया विकल्प",
       "inference": false,
-      "basis": "Article states an interchange facility between Metro and RRTS at Meerut South, Shatabdi Nagar, Begumpul and Modipuram (district-level); Begumpul RRTS station is stated as operational since 22 February 2026 on Wikipedia",
+      "basis": "Wikipedia: 'The station is operational since 22 February 2026' (infobox also lists 22 Feb 2026); Amar Ujala (22 Feb 2026) names Begumpul as a main station (district-level)",
       "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-02-22", "url": "https://www.aajtak.in/india/news/story/pm-modi-inaugurated-full-stretch-of-delhi-meerut-namo-bharat-rapid-rail-ntc-dpmx-rpti-2476521-2026-02-22"},
-        {"outlet": "Wikipedia", "date": "2026-02-22", "url": "https://en.wikipedia.org/wiki/Begumpul_RRTS_station"}
+        {
+          "outlet": "Wikipedia",
+          "date": "2026-02-22",
+          "url": "https://en.wikipedia.org/wiki/Begumpul_RRTS_station"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-metro-begin-operations-in-city-from-today-check-stations-and-full-train-schedule-2026-02-22"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "All gates at Begumpul and Bhainsali metro stations have been opened, so crossing the road is shorter",
-      "hindi": "बेगमपुल और भैंसाली स्टेशन के सभी गेट खुले, सड़क पार करने का चक्कर कम हुआ",
+      "english": "All gates at Begumpul and Bhainsali metro stations are now open, so entry and exit is easier",
+      "hindi": "बेगमपुल और भैंसाली के सभी गेट खुले, अब स्टेशन में आना-जाना आसान",
       "inference": false,
-      "basis": "Article says all gates of Bhainsali and Begumpul stations have been opened, and earlier two Begumpul gates and one Bhainsali gate had stayed shut; no date printed on the page (URL indicates May 2026). Crossing-road benefit is a paraphrase of the opened gates, not a quote",
+      "basis": "Newsprahari (no date printed; URL indicates May 2026): NCRTC 'सभी गेट को खोल दिया है'; two Begumpul gates and one Bhainsali gate had stayed shut even after inauguration. 'Easier' is a paraphrase of the opened gates",
       "sources": [
-        {"outlet": "Newsprahari", "date": "2026-05", "url": "https://www.newsprahari.com/2026/05/blog-post_575.html"}
+        {
+          "outlet": "Newsprahari",
+          "date": "2026-05",
+          "url": "https://www.newsprahari.com/2026/05/blog-post_575.html"
+        }
       ]
     },
     {
@@ -54,9 +74,13 @@
       "english": "Metro timetable runs from Begumpul in both directions, giving people a regular ride option",
       "hindi": "*बेगमपुल से दोनों दिशाओं में मेट्रो की नियमित सवारी मिलने लगी",
       "inference": true,
-      "basis": "Inference: the Amar Ujala article shows Begumpul in the Meerut Metro timetable for both directions; the source does not measure daily use or ridership. No delivered positive specific to AC 48 beyond transit was found in the sources reached",
+      "basis": "Inference: the Amar Ujala article lists Begumpul in the Meerut Metro timetable; the source does not measure daily use or ridership, and no delivered AC-specific positive beyond transit was found",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-22", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-metro-begin-operations-in-city-from-today-check-stations-and-full-train-schedule-2026-02-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-metro-begin-operations-in-city-from-today-check-stations-and-full-train-schedule-2026-02-22"
+        }
       ]
     }
   ],
@@ -64,11 +88,20 @@
     {
       "rank": 1,
       "english": "Lanes in old Lisari Gate and Begumpul get waterlogged in rain and drains fail",
-      "hindi": "लिसाड़ी गेट और बेगमपुल की पुरानी गलियों में बारिश में पानी भर जाता है",
+      "hindi": "लिसाड़ी गेट और बेगमपुल की गलियों में बारिश का पानी भर जाता है",
       "inference": false,
-      "basis": "MLC Dharmendra Bhardwaj's press release (partisan, not independent reporting) says monsoon flooding left old-city lanes of Lisari Gate and Begumpul waterlogged, families bailed water from ground-floor rooms, and drainage failed in Lisari Gate; Begumpul and Lisari Gate are also named among seven chronic congestion crossings (district-level, claims not verified)",
+      "basis": "MLC Dharmendra Bhardwaj press releases (partisan, claims not independently verified). EIN release (5 Oct 2026): monsoon left old-city lanes of Lisari Gate and Begumpul waterlogged, families bailed water from ground-floor rooms, drainage failed in Lisari Gate. The AC-48 pledge release (dated 14/15 Aug 2026 on the page) lists Begumpul and Lisari Gate in its constituency issue map for drainage and lane-level flooding; the AC-48 link rests on this partisan release",
       "sources": [
-        {"outlet": "EIN Presswire (MLC Dharmendra Bhardwaj release)", "date": "2026-10-05", "url": "https://www.einpresswire.com/article/947417171/mlc-dharmendra-bhardwaj-raises-concern-as-hindon-records-zero-oxygen-at-survey-sites-near-meerut"}
+        {
+          "outlet": "EIN Presswire (MLC Dharmendra Bhardwaj release)",
+          "date": "2026-10-05",
+          "url": "https://www.einpresswire.com/article/947417171/mlc-dharmendra-bhardwaj-raises-concern-as-hindon-records-zero-oxygen-at-survey-sites-near-meerut"
+        },
+        {
+          "outlet": "NatLawReview (MLC Dharmender Bhardwaj AC-48 pledge release)",
+          "date": "2026-08-14",
+          "url": "https://natlawreview.com/press-releases/mlc-dharmender-bhardwaj-releases-six-point-pledge-meerut-city-ac-48"
+        }
       ]
     },
     {
@@ -76,9 +109,13 @@
       "english": "Record July rain turned roads into ponds and drain water entered homes",
       "hindi": "जुलाई की बारिश में सड़कें तालाब बन गईं, नाले का गंदा पानी घरों में घुसा",
       "inference": false,
-      "basis": "Amar Ujala: 585.5 mm rain in July, a 22-year record, on 28 July 2026; 'सड़कें तालाब बन गईं, नालों का गंदा पानी घरों और अस्पतालों तक पहुंच गया'; roads and localities named include Begumpul Road, Delhi Road, Hapur Road, Kotwali, Ghantaghar, Sarafa Bazaar, Budhana Gate, Khandak Bazaar, Bhumiya ka Pul (city-level, district-level source)",
+      "basis": "Amar Ujala (29 Jul 2026): 585.5 mm July rain, highest in 22 years; summary 'सड़कें तालाब बन गईं, नालों का गंदा पानी घरों और अस्पतालों तक पहुंच गया'. Body describes drain water entering homes at Bhumiya ka Pul and Lalkurti mohallas, and rainwater (not drain water) at the medical college OPD and emergency; Delhi Road waterlogging (city-level, not AC-specific)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-29", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-records-highest-july-rainfall-in-22-years-city-flooded-roads-turn-into-waterlogged-stretch-2026-07-29"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-records-highest-july-rainfall-in-22-years-city-flooded-roads-turn-into-waterlogged-stretch-2026-07-29"
+        }
       ]
     },
     {
@@ -86,32 +123,55 @@
       "english": "Potholes and daily jams on Meerut roads make accidents a danger",
       "hindi": "मेरठ की सड़कों पर गड्ढे और रोज का जाम, हादसों का डर बना रहता है",
       "inference": false,
-      "basis": "Article (October 2026, date from URL) says deep potholes and waterlogging make roads dangerous for two-wheelers, long queues at crossings, markets and busy routes, and repairs break up again quickly; no specific locality or assembly seat is named (city-level)",
+      "basis": "Newsprahari (no date printed; date from URL, Oct 2026): deep potholes and waterlogging make roads risky for two-wheelers, long queues at major crossings and markets, and roads break up again soon after repair; no locality or assembly seat named (city-level)",
       "sources": [
-        {"outlet": "Newsprahari", "date": "2026-10", "url": "https://www.newsprahari.com/2026/10/blog-post_6614.html"}
+        {
+          "outlet": "Newsprahari",
+          "date": "2026-10",
+          "url": "https://www.newsprahari.com/2026/10/blog-post_6614.html"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Fear that sealing will shut shops at Central Market and take away traders' livelihood",
-      "hindi": "सेंट्रल मार्केट पर सील लगने का डर, दुकानदारों की रोजी-रोटी खतरे में",
+      "english": "Begumpul and Lisari Gate are among the crossings with long chronic jams, making travel hard",
+      "hindi": "बेगमपुल और लिसाड़ी गेट के चौराहों पर लंबा जाम, आना-जाना मुश्किल",
       "inference": false,
-      "basis": "India Today Hindi: Supreme Court order of 21 September 2026 expanded action from 44 to 16,726 properties in Zone-A; about 650 traders face rehabilitation pressure; the article places the market in Shastrinagar, Meerut, and does not name its assembly constituency (AC membership unconfirmed). Allegation/protest framing kept as reported",
+      "basis": "MLC Dharmendra Bhardwaj release (EIN, 5 Oct 2026; partisan, not independently verified): Begumpul and Lisari Gate are among seven chronic congestion crossings. AC-48 link via the AC-48 pledge release (partisan), which lists both in its constituency issue map",
       "sources": [
-        {"outlet": "India Today Hindi", "date": "2026-09-25", "url": "https://www.indiatodayhindi.com/state/story/meerut-central-market-dispute-bjp-challenge-1455037-2026-09-25"}
+        {
+          "outlet": "EIN Presswire (MLC Dharmendra Bhardwaj release)",
+          "date": "2026-10-05",
+          "url": "https://www.einpresswire.com/article/947417171/mlc-dharmendra-bhardwaj-raises-concern-as-hindon-records-zero-oxygen-at-survey-sites-near-meerut"
+        },
+        {
+          "outlet": "NatLawReview (MLC Dharmender Bhardwaj AC-48 pledge release)",
+          "date": "2026-08-14",
+          "url": "https://natlawreview.com/press-releases/mlc-dharmender-bhardwaj-releases-six-point-pledge-meerut-city-ac-48"
+        }
       ]
     },
     {
       "rank": 5,
       "english": "Fire in dense Kidwai Nagar lanes killed six of one family and worries people about safety",
-      "hindi": "किदवई नगर की घनी बस्ती में आग, एक परिवार के छह लोगों की मौत से डर",
+      "hindi": "किदवई नगर में आग, एक परिवार के छह लोगों की मौत से डर",
       "inference": false,
-      "basis": "Amar Ujala (24 Feb 2026): fire on 23 Feb at a textile trader's house in Kidwai Nagar Islamabad, Lisari Gate police station area, killed six members of one family; the report calls Rafiq Ansari the 'शहर विधायक' who visited the victims, which places Kidwai Nagar in the city seat by news report (AC-specific). 'Worries people' is a paraphrase, not a quote",
+      "basis": "Amar Ujala (24 Feb 2026): fire late on Monday 23 Feb at a textile trader's house in Kidwai Nagar Islamabad, Lisari Gate police station area, killed six members of one family; the report calls Rafiq Ansari the 'शहर विधायक' who visited the victims, which places Kidwai Nagar in the city seat by news report (AC-specific). 'Worries people' is a paraphrase",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-24", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-kidwai-nagar-6-people-died-city-mla-rafiq-ansari-met-the-victims-2026-02-24"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-24",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-kidwai-nagar-6-people-died-city-mla-rafiq-ansari-met-the-victims-2026-02-24"
+        }
       ]
     }
   ],
-  "ac_specific_negatives": 1,
-  "notes": "AC 48 is 'Meerut', the Meerut city seat, per the Wikipedia constituency list (AC 47 Meerut Cantt., AC 49 Meerut South). The Wikipedia constituency page gives no extent (wards/localities), so membership of each locality is not confirmed from an official boundary list. Rafiq Ansari (SP) is the 2022 winner (106,395 votes, 52.77%) and is called 'शहर विधायक' in Amar Ujala reports; the city-seat link for Kidwai Nagar rests on that. Shastrinagar Central Market: one Amar Ujala piece (7 April 2026) names Sardhana as an assembly seat, but the article text does not tie that to Shastrinagar, and the India Today piece names Cantt MLA Amit Agarwal, so the market's seat is unresolved and it is not counted as AC-specific. Begumpul and Lisari Gate are in Meerut city but their AC membership is not confirmed beyond the 'शहर विधायक' link. Sources for the July 2026 rain and the Oct 2026 roads piece are city-level; the Lisari Gate waterlogging claim comes from a partisan MLC press release and is unverified. Positive 5 is an inference, flagged with *. Searches for resident-level complaints inside the city seat and for completed AC-specific works (Lisari Gate, Begumpul, Ganga Nagar, Hashimpura roads and drains) returned little; several WARD-level news pages (Newstrack ward 21/22) could not be fetched (403), so they were not used. Amar Ujala 3 Oct 2026 women's demands were from Shiya Bagh Colony, Sardhana, not this AC, and were excluded. Field check needed: confirm the ward list and extent for AC 48 from the district election office, and find Hindi local-paper coverage (Dainik Jagran, Hindustan Meerut) of city-seat issues."
+  "ac_specific_negatives": 3,
+  "notes": "AC 48 is 'Meerut' (city seat) per the Wikipedia constituency list; AC 47 Meerut Cantt. and AC 49 Meerut South are both unreserved. The Wikipedia constituency page gives no extent, so ward/locality membership is not confirmed from an official boundary list. AC-specific negatives (3): Lisari Gate/Begumpul waterlogging and congestion rest on MLC Dharmendra Bhardwaj's partisan releases, which name AC-48 explicitly; Kidwai Nagar rests on Amar Ujala calling Rafiq Ansari the 'शहर विधायक'. Negative 2 (July rain) and negative 3 (potholes) are city-level. Central Market (Shastrinagar): traders' dispute is reported in 2026 (India Today Hindi, Royal Bulletin), but no fetched source ties Shastrinagar to an assembly seat; Royal Bulletin names Sardhana MLA Atul Pradhan (a different AC), so it was dropped, not counted. Positive 5 is an inference (*). The Newsprahari pieces carry no printed date, so dates come from URLs. Field check needed: confirm the ward list and extent for AC 48 from the district election office; find Hindi local-paper coverage (Dainik Jagran, Hindustan Meerut) of city-seat issues, and any news that names 'शहर विधानसभा' for Lisari Gate, Begumpul and Shastri Nagar.",
+  "round2": {
+    "verified_sources": 10,
+    "removed_sources": 2,
+    "ac_specific_negatives": 3,
+    "changes": "Removed Aaj Tak (403, could not open) and India Today Hindi (Central Market: seat unresolved; Sardhana MLA named, Shastrinagar not tied to any AC) and replaced negative 4 with Begumpul/Lisari Gate congestion from the verified EIN release. Positive 2 now cites Punjab Kesari (verified, 82 km and 55 minutes). Positive 3 now cites Wikipedia (operational since 22 Feb 2026) instead of an unverified interchange claim. Positive 1 wording no longer claims easier access to Begumpul. Negative 1 now ties Begumpul/Lisari Gate to AC 48 via the AC-48 pledge release (partisan). Negative 2 basis corrected: Kotwali/Ghantaghar/Sarafa Bazaar/Budhana Gate/Khandak Bazaar were power outages, not flooding; hospital water was rainwater, not drain water. Shortened Hindi statements to 13 words where they ran longer. Summary softened to reported (not voter-expressed) concerns."
+  }
 }
