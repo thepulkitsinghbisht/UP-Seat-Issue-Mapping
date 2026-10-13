@@ -5,9 +5,9 @@
   "reserved": "None",
   "district": "Meerut",
   "region": "Paschim UP",
-  "summary": "Negatives centre on stalled drain work and open pits in Ganganagar, unannounced power cuts in Kankarkhera and across Meerut, and sealing fears among Sadar Bazar traders, while appreciation is for MLA-fund interlocking roads in Ganganagar, Kankarkhera and Sharma Nagar.",
+  "summary": "Negatives centre on stalled drain work and an open pit in Ganganagar, rain waterlogging in Ganganagar, Sadar and Patel Nagar, unannounced power cuts in Kankarkhera and across Meerut, and sealing fears among Sadar Bazar traders, while appreciation is for MLA-fund interlocking roads in Ganganagar, Kankarkhera and Sharma Nagar.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
-  "ac_specific_negatives": 2,
+  "ac_specific_negatives": 3,
   "positives": [
     {
       "rank": 1,
@@ -16,7 +16,11 @@
       "inference": false,
       "basis": "Newsprahari (undated, URL month 2026-05): MLA Amit Agarwal inaugurated about Rs 60 lakh of roads and drains from his MLA fund, including 180 m and 230 m interlocking roads in ward 37 Ganganagar and Global City Colony. Ward 37 is listed in the AC extent on Wikipedia",
       "sources": [
-        {"outlet": "Newsprahari", "date": "2026-05", "url": "https://www.newsprahari.com/2026/05/60.html"}
+        {
+          "outlet": "Newsprahari",
+          "date": "2026-05",
+          "url": "https://www.newsprahari.com/2026/05/60.html"
+        }
       ]
     },
     {
@@ -24,9 +28,13 @@
       "english": "Roads and drains built in Kankarkhera from MLA's fund",
       "hindi": "कंकरखेड़ा में विधायक निधि से सड़क और नाली बनीं",
       "inference": false,
-      "basis": "Amar Ujala (Meerut dateline, Sunday 7 June 2026): Cantt MLA Amit Agarwal inaugurated about Rs 33.67 lakh of road and drain work from his MLA fund in New Govindpuri, Ganpati Vihar and Nangla Tashi, Kankarkhera area",
+      "basis": "Amar Ujala (Meerut bureau, Sunday 7 June 2026, 05:54 PM): Cantt MLA Amit Agarwal inaugurated about Rs 33.67 lakh of road and drain work from his MLA fund in the Kankarkhera area (New Govindpuri, Ganpati Vihar, Nangla Tashi named)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/shamli/cantt-mla-inaugurated-development-works-shamli-news-c-72-1-mct1004-154387-2026-06-07"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-07",
+          "url": "https://www.amarujala.com/uttar-pradesh/shamli/cantt-mla-inaugurated-development-works-shamli-news-c-72-1-mct1004-154387-2026-06-07"
+        }
       ]
     },
     {
@@ -36,7 +44,11 @@
       "inference": false,
       "basis": "Amar Ujala (Sanvad, Meerut, 15 Oct 2025): 1,300 m interlocking road in Sharma Nagar (Bhamashah Park) built from MLA fund for about Rs 15.62 lakh; the article reports residents welcomed it. AC membership of Sharma Nagar not confirmed in the Wikipedia extent",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-10-15", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mla-amit-agarwal-inaugurated-the-roads-meerut-news-c-14-1-mrt1051-1003701-2025-10-15"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-10-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/mla-amit-agarwal-inaugurated-the-roads-meerut-news-c-14-1-mrt1051-1003701-2025-10-15"
+        }
       ]
     },
     {
@@ -46,7 +58,11 @@
       "inference": false,
       "basis": "Newsprahari (undated, URL month 2026-05): 100 m road in ward 67 Durga Nagar Kailashpuri and 100 m road in ward 46 Sanjay Nagar, part of about Rs 60 lakh MLA-fund works. Wards 67 and 46 are listed in the AC extent on Wikipedia",
       "sources": [
-        {"outlet": "Newsprahari", "date": "2026-05", "url": "https://www.newsprahari.com/2026/05/60.html"}
+        {
+          "outlet": "Newsprahari",
+          "date": "2026-05",
+          "url": "https://www.newsprahari.com/2026/05/60.html"
+        }
       ]
     },
     {
@@ -56,7 +72,11 @@
       "inference": false,
       "basis": "Amar Ujala (Sanvad, Meerut, 15 Oct 2025): 100 m interlocking road in Virendra Tomar lane, Durganagar (Patel Nagar mandal, Garh Road), built from MLA fund for about Rs 8 lakh. AC membership of this locality not confirmed in the Wikipedia extent",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-10-15", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mla-amit-agarwal-inaugurated-the-roads-meerut-news-c-14-1-mrt1051-1003701-2025-10-15"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-10-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/mla-amit-agarwal-inaugurated-the-roads-meerut-news-c-14-1-mrt1051-1003701-2025-10-15"
+        }
       ]
     }
   ],
@@ -66,21 +86,37 @@
       "english": "Sadar Bazar traders fear sealing and demolition of their shops",
       "hindi": "सदर बाजार के व्यापारियों को सीलिंग और तोड़फोड़ का डर सता रहा है",
       "inference": false,
-      "basis": "ETV Bharat (1 Oct 2026): Supreme Court order to seal and demolish 16,726 illegal constructions in Zone-A of Meerut city; traders from Sadar Bazar, Khairnagar, Sarafa, Kagzi Bazar and Lala ka Bazar sought an ordinance and warned of street protests. Amar Ujala (3 Oct 2026) reports about 17,000 black flags put up in markets. Sadar Bazar AC membership not confirmed; district-level",
+      "basis": "ETV Bharat (1 Oct 2026): Supreme Court order to seal and demolish 16,726 illegal constructions in Zone-A of Meerut city; traders from Sadar Bazar, Khairnagar, Sarafa, Kagzi Bazar and Lala ka Bazar sought an ordinance and warned of street protests. Amar Ujala (3 Oct 2026): about 17,000 black flags put up over three days by the Sanyukt Vyapar Sangh. Sadar Bazar AC membership not confirmed; district-level",
       "sources": [
-        {"outlet": "ETV Bharat", "date": "2026-10-01", "url": "https://www.etvbharat.com/hi/state/meerut-shopkeepers-protest-supreme-court-sealing-order-black-flags-ups26100107361"},
-        {"outlet": "Amar Ujala", "date": "2026-10-03", "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-traders-put-up-17k-black-flags-across-markets-protest-over-livelihood-and-employment-concerns-2026-10-03"}
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-10-01",
+          "url": "https://www.etvbharat.com/hi/state/meerut-shopkeepers-protest-supreme-court-sealing-order-black-flags-ups26100107361"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-traders-put-up-17k-black-flags-across-markets-protest-over-livelihood-and-employment-concerns-2026-10-03"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Drain work in Ganganagar stalled for weeks, leaving an open pit that fills with water",
-      "hindi": "गंगानगर में नाला निर्माण 17 दिन से रुका, गड्ढे में पानी भरा है",
+      "english": "Drain work in Ganganagar stalled for weeks, leaving an open pit that is a fall and mosquito risk",
+      "hindi": "गंगानगर में नाला कई हफ्तों से रुका है, खुला गड्ढा खतरा है",
       "inference": false,
-      "basis": "Amar Ujala (30 Jun 2026): PWD drain work in Ganganagar stalled for 17 days near Hotel Royal 9, leaving an open pit with accident and mosquito risk; the 3 Jul 2026 report says the work had stalled for 19 days, with no barricades or lighting. Ganganagar ward 37 lies inside the AC per Wikipedia extent",
+      "basis": "Amar Ujala (30 Jun 2026): PWD drain work in Ganganagar stalled for 17 days near Hotel Royal 9, leaving an open pit with risk of someone falling at night and mosquito breeding. Amar Ujala (3 Jul 2026): stalled for 19 days, with barricades, warning boards and lighting missing. Ganganagar is ward 37, which lies inside the AC per the Wikipedia extent and Newsprahari",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-30", "url": "https://www.amarujala.com/uttar-pradesh/meerut/drain-construction-stalled-in-ganganagar-for-17-days-risk-of-accidents-meerut-news-c-14-1-mrt1051-1232533-2026-06-30"},
-        {"outlet": "Amar Ujala", "date": "2026-07-03", "url": "https://www.amarujala.com/uttar-pradesh/meerut/drain-construction-stalled-for-19-days-risk-of-accidents-increases-meerut-news-c-14-1-mrt1004-1234097-2026-07-03"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/drain-construction-stalled-in-ganganagar-for-17-days-risk-of-accidents-meerut-news-c-14-1-mrt1051-1232533-2026-06-30"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/drain-construction-stalled-for-19-days-risk-of-accidents-increases-meerut-news-c-14-1-mrt1004-1234097-2026-07-03"
+        }
       ]
     },
     {
@@ -88,32 +124,54 @@
       "english": "Power is cut for four hours at a time in Kankarkhera without notice, residents allege",
       "hindi": "कंकरखेड़ा में बिना सूचना चार-चार घंटे बिजली कटौती का आरोप है",
       "inference": false,
-      "basis": "ETV Bharat (28 Jun 2026): Kankarkhera residents blockaded the power house, alleging 4-hour cuts without prior notice, and said officials ignored complaints. Kankarkhera's AC membership is supported by the Amar Ujala 7 Jun 2026 report of Cantt MLA works there, not by the ETV article itself",
+      "basis": "ETV Bharat (28 Jun 2026, 12:39 PM): Kankarkhera residents took to the streets, alleging 4-hour cuts without prior notice, and said officials ignore complaints; no official response reported. Kankarkhera AC membership is not on the Wikipedia extent list; it rests on the Amar Ujala 7 Jun 2026 report of Cantt MLA fund works in the Kankarkhera area, so a field check is advisable",
       "sources": [
-        {"outlet": "ETV Bharat", "date": "2026-06-28", "url": "https://www.etvbharat.com/hi/state/meerut-power-crisis-in-meerut-residents-of-kankarkhera-took-to-streets-fed-up-with-four-hour-blackout-ups26062801222"},
-        {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/shamli/cantt-mla-inaugurated-development-works-shamli-news-c-72-1-mct1004-154387-2026-06-07"}
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-06-28",
+          "url": "https://www.etvbharat.com/hi/state/meerut-power-crisis-in-meerut-residents-of-kankarkhera-took-to-streets-fed-up-with-four-hour-blackout-ups26062801222"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-07",
+          "url": "https://www.amarujala.com/uttar-pradesh/shamli/cantt-mla-inaugurated-development-works-shamli-news-c-72-1-mct1004-154387-2026-06-07"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Power goes off for three to five hours in several Meerut areas in summer",
-      "hindi": "मेरठ में कई इलाकों में तीन से पांच घंटे बिजली गुल रहती है",
+      "english": "Rainwater stands in Ganganagar, Sadar and Patel Nagar every year, the MLA says",
+      "hindi": "गंगानगर, सदर और पटेल नगर में बारिश में पानी भर जाता है",
       "inference": false,
-      "basis": "Amar Ujala (Meerut Bureau, 24 Jun 2026): outages of three to five hours in several areas including Kankarkhera, Garh Road, TP Nagar and Khairnagar; residents complained of heat and traders of disrupted business. District-level, not AC-specific",
+      "basis": "Newsprahari (dated 9 July 2026 in the article, year from URL): Cantt MLA Amit Agarwal inspected waterlogged areas including Ganganagar, Sadar, Patel Nagar, Begumpul, Jali Kothi, Lalkurti and Rajban, and said areas that flood every year need a long-term plan. Ganganagar is ward 37 (inside AC per Wikipedia extent). Sadar and Patel Nagar membership is not on the extent list; implied only by the MLA's inspection",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-24", "url": "https://www.amarujala.com/uttar-pradesh/meerut/power-outages-lasting-three-to-five-hours-in-several-areas-heat-causes-distress-meerut-news-c-72-1-mct1004-155188-2026-06-24"}
+        {
+          "outlet": "Newsprahari",
+          "date": "2026-07-09",
+          "url": "https://www.newsprahari.com/2026/07/blog-post_603.html"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "When it rains the Abu Nala overflows and water spills onto the road",
-      "hindi": "बारिश में आबू नाला लबालब, सड़क पर पानी आ गया",
+      "english": "Power goes off for three to five hours in several Meerut areas in summer",
+      "hindi": "मेरठ में कई इलाकों में तीन से पांच घंटे बिजली गुल रहती है",
       "inference": false,
-      "basis": "Amar Ujala video report (28 Jul 2026): after heavy rain the Abu Nala overflowed and spilled onto the road, making travel difficult; waterlogging was reported in several parts of the city. No locality within the AC is named; district-level",
+      "basis": "Amar Ujala (Meerut bureau, 24 Jun 2026, 10:01 PM): power cuts of three to five hours in many parts of the city; areas named include Kankarkheda, TP Nagar, Garh Road and Khairnagar; a Dawa Market chemists' leader said business and equipment were affected. District-level, not AC-specific",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-28", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-abu-nala-overflowing-due-to-rain-water-spills-onto-the-road-2026-07-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/power-outages-lasting-three-to-five-hours-in-several-areas-heat-causes-distress-meerut-news-c-72-1-mct1004-155188-2026-06-24"
+        }
       ]
     }
   ],
-  "notes": "AC number, name, district and reserved status confirmed from the Wikipedia UP constituency list (row 47 Meerut Cantt., Meerut, None) and the Meerut Cantonment page, which gives the extent as Meerut (CB) plus MNC wards 1, 6-9, 18, 23, 26, 30, 32, 37, 40, 44, 52, 59, 61, 63, 64, 66, 67, 70. Confirmed inside AC: Ganganagar (ward 37), Durga Nagar Kailashpuri (ward 67) and Sanjay Nagar (ward 46). Kankarkhera is treated as inside AC because the Cantt MLA's own-fund works are reported there, but it is not on the extent list; a field check is advisable. Sharma Nagar, Durganagar, Sadar Bazar and Patel Nagar AC membership is unconfirmed. The Newsprahari article carries no day-level date (URL month 2026-05). Searches for AC-specific civic problems in Hindi and English mostly returned city-wide or other-city results; the Patrika (17 Aug 2026) and Navjivan pieces contained no concrete local grievances (the Patrika mention of resentment is a BSP claim). Several WebFetch attempts on Newsprahari-linked and other pages were checked directly; no citation relies on a headline alone. The Meerut-district negatives (power cuts, Abu Nala waterlogging, Sadar Bazar sealing) are Meerut-wide and are not claimed as AC-only. Field check recommended on Ganganagar drain pit status post-monsoon and on current Kankarkhera power supply."
+  "notes": "AC number, name, district and reserved status confirmed from the Wikipedia UP constituency list (row 47 Meerut Cantt., None; rows 46 Kithore and 48 Meerut as context; district cell is merged so Meerut is read from the Meerut Lok Sabha context). The Meerut Cantonment Assembly constituency page gives the extent as Meerut (CB) plus MNC wards 1, 6-9, 18, 23, 26, 30, 32, 37, 40, 44, 52, 59, 61, 63, 64, 66, 67, 70; no locality names are given. Ward numbers confirmed by news: ward 37 Ganganagar, ward 46 Sanjay Nagar, ward 67 Durga Nagar Kailashpuri (Newsprahari). Kankarkhera is treated as inside AC only because Amar Ujala reports Cantt MLA fund works there; it is not on the extent list. Sharma Nagar, Durganagar, Sadar, Patel Nagar and Sadar Bazar AC membership is unconfirmed: the Sharma Nagar and Durganagar positives and the Sadar Bazar negative carry this flag in basis. The Newsprahari 60.html article has no printed date (URL month 2026-05; it says only 'Saturday'). A Newsprahari piece (Aug 2026, drains worth Rs 67.73 crore approved for Jali Kothi and Rohta railway crossing) is an approval only, not a delivered benefit, so it is not used. Bharatpedia's copy of the constituency article lists Satya Prakash Agarwal as MLA (2017); current news names Amit Agarwal as Cantt MLA, which is what is used. Searches for AC-specific civic problems in Hindi and English mostly returned city-wide or other-city results. The Abu Nala overflow (Amar Ujala video, 28 Jul 2026) was dropped as a negative because no AC locality is named. Field check recommended on Ganganagar drain pit status after monsoon, Kankarkhera power supply, and whether Sadar and Patel Nagar lie inside the AC.",
+  "round2": {
+    "verified_sources": 11,
+    "removed_sources": 1,
+    "ac_specific_negatives": 3,
+    "changes": "Step 1: all 10 original URLs opened and checked. Corrected: Kankarkhera ETV item (took to the streets, not 'blockaded the power house'); Kankarkheda outage list and Dawa Market point in the 24 Jun item (removed unsupported 'heat' complaint); Ganganagar drain Hindi/English no longer says the pit 'fills with water' (source says mosquito breeding); Hindi uses the 'stalled for weeks' phrasing since the two reports give 17 and 19 days; Sadar Bazar basis adds the 3 Oct black-flag detail. Step 2: negative 4 (Meerut-wide Abu Nala video, no AC locality) replaced with Newsprahari 9 Jul 2026 waterlogging in Ganganagar, Sadar and Patel Nagar (new source, opened). Negative 5 (Meerut-wide power cuts) kept as district-level. Ranks of positives unchanged; positives 3 and 5 still flagged for AC membership. ac_specific_negatives rose from 2 to 3. No inference items; no * prefixes needed."
+  }
 }
