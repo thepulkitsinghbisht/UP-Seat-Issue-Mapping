@@ -1,0 +1,116 @@
+{
+  "ac_no": 60,
+  "ac_name": "Garhmukteshwar",
+  "ac_name_hindi": "गढ़मुक्तेश्वर",
+  "reserved": "None",
+  "district": "Hapur",
+  "region": "Paschim UP",
+  "summary": "Sugarcane dues and stray animals damaging crops dominate complaints in Garhmukteshwar, while the only appreciated items found are road repair works, the Ganga Fair police arrangements and the Ganga Expressway opening.",
+  "identity_source": "https://en.wikipedia.org/wiki/Garhmukteshwar_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Repair work on broken roads in Garhmukteshwar is about to start",
+      "hindi": "गढ़मुक्तेश्वर में टूटी सड़कों की मरम्मत का काम शुरू होने वाला है",
+      "inference": false,
+      "basis": "Hapur-Pilkhuwa Development Authority issued tenders for repair and construction, including the damaged Jawaharganj Mandi road (Rs 55.56 lakh repair) and Brajghat roads (Rs 95.07 lakh and Rs 64.62 lakh); work was planned to start in June 2025. Completion is not confirmed. Brajghat is listed with Garhmukteshwar works but the article does not say it is in the town. Source is 2025, not recent.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-05-05", "url": "https://www.amarujala.com/uttar-pradesh/hapur/a-network-of-roads-will-be-laid-in-garhmukteshwar-and-anand-vihar-area-hapur-news-c-135-1-hpr1005-123908-2025-05-05"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Police posts at every ghat and the women's ghats gave security at the Ganga Fair",
+      "hindi": "मेले में हर घाट पर पुलिस चौकी बनी है, सुरक्षा का इंतजाम दिखा",
+      "inference": false,
+      "basis": "Police stations and chowkis were set up in every sector and at the ghats for the Garhmukteshwar Ganga fair; dog squads, metal detectors and watch towers were in use near the women's ghats. Article says about 15 lakh devotees took the main bath (not used here). The article does not report any complaints or how devotees felt about it, so the appreciation is not stated by the source.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-02", "url": "https://www.amarujala.com/uttar-pradesh/hapur/15-lakh-devotees-taken-dip-in-garhmukteshwar-ganga-fair-of-hapur-2025-11-02"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Ganga Expressway has opened, making travel from Hapur area easier",
+      "hindi": "गंगा एक्सप्रेसवे शुरू हो गया, हापुड़ से आवाजाही में सहूलियत",
+      "inference": false,
+      "basis": "District-level: Ganga Expressway Phase 1 was opened on 29 April 2026 (Wikipedia). The Hapur-Garhmukteshwar interchange is listed in the interchange table, but its opening is not confirmed by this source. The benefit to Garhmukteshwar specifically is an inference from the route.",
+      "sources": [
+        {"outlet": "Wikipedia (Ganga Expressway)", "date": "2026-04-29", "url": "https://en.wikipedia.org/wiki/Ganga_Expressway"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Inference: better village roads would make it easier to reach fields and mandis",
+      "hindi": "* गांवों तक के रास्ते सुधरें तो खेत और मंडी तक पहुंच आसान हो",
+      "inference": true,
+      "basis": "Inference: no source found that village roads in Garhmukteshwar tehsil have been repaired. The BKU demand for repair of damaged village roads (see negatives) implies they are in poor condition, so improvement is a hope, not a delivered benefit.",
+      "sources": [
+        {"outlet": "Khabarwala24", "date": "2026-10-08", "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-garhmukteshwar-bku-farmer-tractor-march-tehsil-protest/188287/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Inference: police patrols and chowkis give people a sense of safety",
+      "hindi": "* पुलिस चौकियों और गश्त से लोगों को सुरक्षा का भरोसा मिले",
+      "inference": true,
+      "basis": "Inference: the Ganga Fair police arrangements are sourced (positive 2). Garhmukteshwar police arrests in 2026 were found (Amar Ujala, 8 Sept 2026 encounter), but no source records public feeling of safety in the AC, so this is a guess.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-11-02", "url": "https://www.amarujala.com/uttar-pradesh/hapur/15-lakh-devotees-taken-dip-in-garhmukteshwar-ganga-fair-of-hapur-2025-11-02"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sugarcane mills have not paid farmers' dues, and farmers are stuck in debt",
+      "hindi": "मिलों पर गन्ने का पैसा अटका है, किसान कर्ज़ के बोझ तले दबा है",
+      "inference": false,
+      "basis": "BKU tractor march and dharna at Garhmukteshwar tehsil in Hapur, demanding payment of cane dues with interest and a higher cane price for the new season. Source says: 'समय पर पैसा न मिलने से किसान कर्ज के बोझ तले दब रहा है'. No amount owed, mill name or payment schedule stated. Tehsil-level; AC membership of the tehsil unconfirmed.",
+      "sources": [
+        {"outlet": "Khabarwala24", "date": "2026-10-08", "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-garhmukteshwar-bku-farmer-tractor-march-tehsil-protest/188287/"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Stray cattle and monkeys are destroying crops",
+      "hindi": "आवारा गोवंश और बंदर फसल चौपट कर रहे हैं",
+      "inference": false,
+      "basis": "Same BKU protest at Garhmukteshwar tehsil demanded relief from stray cattle and monkeys damaging crops, and immediate compensation for crops damaged by recent unseasonal rain and floods. Tehsil-level; AC membership of the tehsil unconfirmed. No count of animals or area stated.",
+      "sources": [
+        {"outlet": "Khabarwala24", "date": "2026-10-08", "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-garhmukteshwar-bku-farmer-tractor-march-tehsil-protest/188287/"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Ganga water has risen and parts of Garhmukteshwar are in flood-like conditions",
+      "hindi": "गंगा का पानी बढ़ा, गढ़मुक्तेश्वर के कई इलाकों में बाढ़ जैसे हालात",
+      "inference": false,
+      "basis": "Source states: 'The rising water level of the Ganga has triggered a flood-like situation in parts of Garhmukteshwar, Hapur, Uttar Pradesh.' No villages, ghats, roads or figures are named. Dated 23 Aug 2026, so recent.",
+      "sources": [
+        {"outlet": "Asianet Newsable", "date": "2026-08-23", "url": "https://newsable.asianetnews.com/india/ganga-water-level-rises-flooding-hapur-s-garhmukteshwar-videoshow-oez6989"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Farmers allege harassment during power-theft checks",
+      "hindi": "बिजली चोरी जांच के नाम पर किसानों को परेशान करने का आरोप है",
+      "inference": false,
+      "basis": "Allegation only, as put by BKU in its memorandum: stop alleged harassment of farmers during power-theft checks in rural areas. Tehsil-level; AC membership unconfirmed. No specific village or case is named.",
+      "sources": [
+        {"outlet": "Khabarwala24", "date": "2026-10-08", "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-garhmukteshwar-bku-farmer-tractor-march-tehsil-protest/188287/"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Dirt and disorder seen at the Kanwar Yatra fair area in Garhmukteshwar",
+      "hindi": "कांवड़ मेला क्षेत्र में गंदगी और अव्यवस्था दिखी",
+      "inference": false,
+      "basis": "Divisional Commissioner inspected the mela area at Brijghat (Garhmukteshwar) on 28 July 2026 and said 'यह क्या तैयारी है, हम यहां ये अव्यवस्था देखने के लिए आए हैं'. Report notes dirt and disorder at several spots; it does not say which arrangements were incomplete. Article text was partly cut off.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-29", "url": "https://www.amarujala.com/video/uttar-pradesh/hapur/video-divisional-commissioner-furious-over-incomplete-preparations-for-kanwar-yatra-in-hapur-garhmukteshwar-2026-07-29"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC identity confirmed from Wikipedia: No. 60 Garhmukteshwar, Hapur district, reserved None (the Wikipedia list page leaves the district cell blank; the AC article gives Hapur). The AC article gives no extent (tehsils/villages), so AC membership is only inferred from the town being the AC namesake. ac_specific_negatives counts N1, N3, N5 (town-located); N2 and N4 are tehsil-wide BKU demands with AC membership unconfirmed, so they are not counted. Sugarcane negative has no amount, mill name or payment schedule; mills Brajnathpur and Simbhaoli appear in other sources but are not AC-confirmed and were not used. Khabarwala24 article has no exact publish date; 2026-10-08 is its 'Last Update'. Kisantak (Aug 2025 Garh flood report), Newstrack and some Hindi pages returned HTTP 403 or were not fetched, so they are not cited. Hapur city waterlogging stories (Om Vihar, Garh Road) are about Hapur city, not this AC, and were not used. Positives are thin: road tender, Ganga Fair police and Expressway are sourced but not confirmed complete or appreciated by voters; positives 4 and 5 are inference. Field check needed on road works, Ganga flood status and sugarcane dues amounts."
+}
