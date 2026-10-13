@@ -1,4 +1,10 @@
 {
+  "round2": {
+    "verified_sources": 10,
+    "removed_sources": 1,
+    "ac_specific_negatives": 4,
+    "changes": "Removed 2026 waterlogging video from negative 1 (no erosion content). Confirmed Mawana MB (mill, sit-in) and Hastinapur NP items inside AC via Wikipedia extent. Added admin 'no solid step' quote to negative 1 basis. Corrected negative 2 basis from district-level to Hastinapur town. Replaced negative 4 basis with exact DPR wording (removed unverified 'prioritises'). Positive 1 english now states cane bought up to 7 Jan 2026. Flagged positive 4 as chairperson's claim and positive 5 as incomplete."
+  },
   "ac_no": 45,
   "ac_name": "Hastinapur",
   "ac_name_hindi": "हस्तिनापुर",
@@ -8,19 +14,149 @@
   "summary": "Complaints centre on waterlogging and poor drainage in Hastinapur town, Ganga erosion of farmland, delayed sugarcane payment interest at Mawana, and broken civic amenities, while voters credit the mill's cane payments and ongoing road construction.",
   "identity_source": "https://en.wikipedia.org/wiki/Hastinapur_Assembly_constituency",
   "positives": [
-    {"rank": 1, "english": "Mawana sugar mill has paid over Rs 311 crore for cane bought so far", "hindi": "मवाना चीनी मिल ने 311 करोड़ से ज्यादा का गन्ना भुगतान किया", "inference": false, "basis": "Mill paid Rs 311.34 crore total cane price for cane bought through 7 January 2026 (2025-26 season); 88.91 lakh quintal crushed through 16 January", "sources": [{"outlet": "Amar Ujala", "date": "2026-01-17", "url": "https://www.amarujala.com/uttar-pradesh/meerut/the-mill-paid-sugarcane-farmers-for-their-sugarcane-meerut-news-c-40-1-smrt1041-111371-2026-01-17"}]},
-    {"rank": 2, "english": "After farmers protested the waterlogging, drainage was done and road repair started", "hindi": "किसानों की मांग पर खेतों का पानी निकाला गया, फिर सड़क की मरम्मत शुरू", "inference": false, "basis": "After farmers cut part of the Hastinapur-Chandpur link road over waterlogging, drainage work was carried out by agreement with administration and PWD began repairs (18 July 2026). AC membership of this road segment unconfirmed", "sources": [{"outlet": "Amar Ujala", "date": "2026-07-18", "url": "https://www.amarujala.com/uttar-pradesh/meerut/repair-work-on-the-hastinapur-chandpur-road-begins-meerut-news-c-228-1-mwn1001-105157-2026-07-18"}]},
-    {"rank": 3, "english": "Road construction has started from State Bank crossing to Bharat Mata Park", "hindi": "स्टेट बैंक चौराहे से भारत माता पार्क तक सड़क बननी शुरू हुई", "inference": false, "basis": "Construction began after bhoomi pujan by Nagar Panchayat chairperson Sudha Khatik; completion not reported (26 November 2025)", "sources": [{"outlet": "Amar Ujala", "date": "2025-11-26", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-road-construction-began-in-hastinapur-after-a-puja-was-performed-by-panchayat-chairperson-sudha-khatik-2025-11-26"}]},
-    {"rank": 4, "english": "Most of the town's main roads have already been made CC roads", "hindi": "कस्बे की ज्यादातर मुख्य सड़कें सीसी हो गई हैं", "inference": false, "basis": "Nagar Panchayat chairperson Sudha Khatik said most main roads have already been converted to CC roads (3 May 2026); this is the chairperson's claim, not independently verified", "sources": [{"outlet": "Amar Ujala", "date": "2026-05-03", "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapurs-development-will-gain-momentum-a-big-plan-is-ready-meerut-news-c-228-1-mwn1001-104831-2026-05-03"}]},
-    {"rank": 5, "english": "Water coolers have been installed at about 44 places in the town", "hindi": "शहर में करीब 44 जगह ठंडे पानी के वाटर कूलर लगे हैं", "inference": false, "basis": "Nagar Panchayat has installed water coolers at about 44 locations; more than half a dozen are out of order (31 May 2026)", "sources": [{"outlet": "Amar Ujala", "date": "2026-05-31", "url": "https://www.amarujala.com/uttar-pradesh/meerut/lakhs-spent-yet-the-people-of-hastinapur-are-dependent-on-cold-water-meerut-news-c-14-1-mrt1005-1204834-2026-05-31"}]}
+    {
+      "rank": 1,
+      "english": "Mawana sugar mill has paid over Rs 311 crore for cane bought up to 7 January 2026",
+      "hindi": "मवाना चीनी मिल ने 311 करोड़ से ज्यादा का गन्ना भुगतान किया",
+      "inference": false,
+      "basis": "Mill (Mawana, Meerut) paid Rs 311.34 crore total cane price for cane bought up to 7 January 2026 (2025-26 season); 88.91 lakh quintal crushed up to 16 January. Mawana MB is inside AC 45 per Wikipedia extent (article dated 17 Jan 2026)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-01-17",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/the-mill-paid-sugarcane-farmers-for-their-sugarcane-meerut-news-c-40-1-smrt1041-111371-2026-01-17"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "After farmers protested the waterlogging, drainage was done and road repair started",
+      "hindi": "किसानों की मांग पर खेतों का पानी निकाला गया, फिर सड़क की मरम्मत शुरू",
+      "inference": false,
+      "basis": "After farmers cut part of the Hastinapur-Chandpur link road over waterlogging, drainage work was carried out by agreement with administration and PWD began repairs (18 July 2026). AC membership of this road segment unconfirmed (Chandpur is in Bijnor)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-18",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/repair-work-on-the-hastinapur-chandpur-road-begins-meerut-news-c-228-1-mwn1001-105157-2026-07-18"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Road construction has started from State Bank crossing to Bharat Mata Park",
+      "hindi": "स्टेट बैंक चौराहे से भारत माता पार्क तक सड़क बननी शुरू हुई",
+      "inference": false,
+      "basis": "Construction began after bhoomi pujan by Nagar Panchayat chairperson Sudha Khatik; completion not reported (26 November 2025)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-11-26",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-road-construction-began-in-hastinapur-after-a-puja-was-performed-by-panchayat-chairperson-sudha-khatik-2025-11-26"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Most of the town's main roads have already been made CC roads",
+      "hindi": "कस्बे की ज्यादातर मुख्य सड़कें सीसी हो गई हैं",
+      "inference": false,
+      "basis": "Nagar Panchayat chairperson Sudha Khatik said most main roads have already been converted to CC roads (3 May 2026). This is the chairperson's own claim, not independently verified; treat as weak positive and check on the ground",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapurs-development-will-gain-momentum-a-big-plan-is-ready-meerut-news-c-228-1-mwn1001-104831-2026-05-03"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Water coolers have been installed at about 44 places in the town",
+      "hindi": "शहर में करीब 44 जगह ठंडे पानी के वाटर कूलर लगे हैं",
+      "inference": false,
+      "basis": "Nagar Panchayat has installed water coolers at about 44 locations; more than half a dozen are out of order (31 May 2026)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/lakhs-spent-yet-the-people-of-hastinapur-are-dependent-on-cold-water-meerut-news-c-14-1-mrt1005-1204834-2026-05-31"
+        }
+      ]
+    }
   ],
   "negatives": [
-    {"rank": 1, "english": "Ganga erosion has swallowed fields, and the administration has not made solid arrangements", "hindi": "गंगा कटान में खेत बह गए, प्रशासन ने ठोस इंतजाम नहीं किए", "inference": false, "basis": "About 10,000 farmers affected, about 5,000 hectares of crops destroyed and over 2,000 hectares of land swallowed by the Ganga; named villages Bastota Narang, Makhdumpur, Kishorpur, Jalalpur Jora (AC membership of these villages unconfirmed) (8 Sept 2025)", "sources": [{"outlet": "Amar Ujala", "date": "2025-09-08", "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapur-flood-erosion-ganga-swallowing-villages-and-farmland-thousands-of-farmers-affected-2025-09-08"}, {"outlet": "Amar Ujala", "date": "2026-09-08", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-hastinapur-crops-on-the-verge-of-damage-after-one-and-a-half-months-of-rain-waterlogging-raises-farmers-concerns-2026-09-08"}]},
-    {"rank": 2, "english": "Despite about Rs 16 crore of works, roads get waterlogged whenever it rains", "hindi": "करीब 16 करोड़ खर्च हुए, फिर भी बारिश में सड़कों पर पानी भरता है", "inference": false, "basis": "Article says about Rs 16 crore of development works were carried out, but adequate rainwater drainage arrangements were not made and water collects on many major routes when it rains (28 July 2026); it is Hastinapur town, district-level tourism works", "sources": [{"outlet": "Amar Ujala", "date": "2026-07-28", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-16-crores-spent-yet-hastinapur-is-struggling-with-waterlogging-tourism-department-installed-stone-slabs-on-the-roads-to-beautify-the-ancient-identity-forgot-to-make-arrangements-for-drainage-2026-07-28"}]},
-    {"rank": 3, "english": "Farmers demand a year-wise statement of interest on delayed sugarcane payments", "hindi": "गन्ना भुगतान में देरी का ब्याज कितना बना, उसका हिसाब दो", "inference": false, "basis": "Farmers at Mawana Sahkari Ganna Vikas Samiti sat in demanding a year-wise interest statement on cane payments delayed more than 14 days (1996-97 to 2025-26), citing a High Court order; deputy promised a written reply on 7 October (5 Oct 2026)", "sources": [{"outlet": "Amar Ujala", "date": "2026-10-05", "url": "https://www.amarujala.com/uttar-pradesh/meerut/farmers-stage-sit-in-at-mawana-mill-demanding-payment-of-sugarcane-interest-meerut-news-c-40-1-smrt1041-113633-2026-10-05"}]},
-    {"rank": 4, "english": "Repair of dilapidated ward roads is still waiting", "hindi": "वार्डों की जर्जर सड़कों की मरम्मत अभी इंतजार में है", "inference": false, "basis": "Nagar Panchayat prioritises repair of dilapidated ward roads; DPR for about 25 roads sent to the state government, final approval awaited (3 May 2026)", "sources": [{"outlet": "Amar Ujala", "date": "2026-05-03", "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapurs-development-will-gain-momentum-a-big-plan-is-ready-meerut-news-c-228-1-mwn1001-104831-2026-05-03"}]},
-    {"rank": 5, "english": "Coolers are out of order in the scorching heat and people are thirsty", "hindi": "भीषण गर्मी में कूलर खराब पड़े हैं, जनता प्यासी है", "inference": false, "basis": "More than half a dozen Nagar Panchayat coolers out of order, most not cleaned in two years; resident quote 'यहां जनता प्यासी है' (31 May 2026)", "sources": [{"outlet": "Amar Ujala", "date": "2026-05-31", "url": "https://www.amarujala.com/uttar-pradesh/meerut/lakhs-spent-yet-the-people-of-hastinapur-are-dependent-on-cold-water-meerut-news-c-14-1-mrt1005-1204834-2026-05-31"}]}
+    {
+      "rank": 1,
+      "english": "Ganga erosion has swallowed fields, and the administration has not made solid arrangements",
+      "hindi": "गंगा कटान में खेत बह गए, प्रशासन ने ठोस इंतजाम नहीं किए",
+      "inference": false,
+      "basis": "About 10,000 farmers affected, about 5,000 hectares of crops completely destroyed, over 2,000 hectares of land swallowed by the Ganga; article says no solid administrative arrangement made so far ('अब तक कोई ठोस कदम नहीं उठाया गया है'). Article places it in Hastinapur but names no tehsil or block; named villages Bastota Narang, Makhdumpur, Kishorpur, Jalalpur Jora - AC membership unconfirmed, so not counted (8 Sept 2025)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-09-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapur-flood-erosion-ganga-swallowing-villages-and-farmland-thousands-of-farmers-affected-2025-09-08"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Despite about Rs 16 crore of works, roads get waterlogged whenever it rains",
+      "hindi": "करीब 16 करोड़ खर्च हुए, फिर भी बारिश में सड़कों पर पानी भरता है",
+      "inference": false,
+      "basis": "Article says tourism department spent about Rs 16 crore (करीब 16 करोड़ रुपये की लागत) on Hastinapur town roads, with stone slabs placed, but adequate rainwater drainage arrangements were not made and several major routes flood when it rains (28 July 2026). Hastinapur town is inside AC 45 (Nagar Panchayat)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-28",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-16-crores-spent-yet-hastinapur-is-struggling-with-waterlogging-tourism-department-installed-stone-slabs-on-the-roads-to-beautify-the-ancient-identity-forgot-to-make-arrangements-for-drainage-2026-07-28"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Farmers demand a year-wise statement of interest on delayed sugarcane payments",
+      "hindi": "गन्ना भुगतान में देरी का ब्याज कितना बना, उसका हिसाब दो",
+      "inference": false,
+      "basis": "Rashtriya Kisan Mazdoor Sangathan farmers sat in at Mawana Sahkari Ganna Vikas Samiti demanding year-wise interest statement on cane payments delayed over 14 days (1996-97 to 2025-26), citing a High Court order; deputy promised written reply on 7 October. Mawana MB is inside AC 45 per Wikipedia extent (5 Oct 2026)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-05",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/farmers-stage-sit-in-at-mawana-mill-demanding-payment-of-sugarcane-interest-meerut-news-c-40-1-smrt1041-113633-2026-10-05"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Repair of dilapidated ward roads is still waiting",
+      "hindi": "वार्डों की जर्जर सड़कों की मरम्मत अभी इंतजार में है",
+      "inference": false,
+      "basis": "Article (3 May 2026): DPR for about 25 roads in various wards prepared and sent to the state government; construction to start after final approval. Chairperson Sudha Khatik, Hastinapur Nagar Panchayat",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/hastinapurs-development-will-gain-momentum-a-big-plan-is-ready-meerut-news-c-228-1-mwn1001-104831-2026-05-03"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Coolers are out of order in the scorching heat and people are thirsty",
+      "hindi": "भीषण गर्मी में कूलर खराब पड़े हैं, जनता प्यासी है",
+      "inference": false,
+      "basis": "More than half a dozen Nagar Panchayat coolers out of order, most not cleaned in two years; resident quote 'यहां जनता प्यासी है' (31 May 2026)",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-31",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/lakhs-spent-yet-the-people-of-hastinapur-are-dependent-on-cold-water-meerut-news-c-14-1-mrt1005-1204834-2026-05-31"
+        }
+      ]
+    }
   ],
   "ac_specific_negatives": 4,
-  "notes": "Identity: Wikipedia constituency page confirms no. 45 Hastinapur, SC, district Meerut, Bijnor Lok Sabha; the Wikipedia list row leaves the district cell blank, so the constituency page is the identity source. Extent per that page includes Mawana tehsil units (Mawana MB, Mawana KC villages), Hastinapur NP and Parikshatgarh NP. Ganga erosion villages named in the 2025 article are not checked against the extent, so their membership is unconfirmed and that item is not counted in ac_specific_negatives. Sugarcane mill (Mawana MB) and the Hastinapur NP items are counted as confirmed. Positive 2 (Hastinapur-Chandpur link road) has unconfirmed AC membership of the segment. Not used: Rs 3150 crore iconic site/National Museum approval (Amar Ujala, 8 Feb 2026) because it is an approval announcement with no start date; Patrika Jambudweep statues article is dated 2018, outside the 2024-2026 window; Mawana-Bijnor road blockade of Sept 2026 was over a murder, not civic infrastructure. No 2026 Hastinapur-specific reports on electricity supply, hospital/CHC or drinking-water supply were found; these are field-check priorities. Positive 4 is the chairperson's own claim and should be checked on the ground. Several Hastinapur items come from short video-reports, read via the full page text."
+  "notes": "Identity: Wikipedia constituency page confirms no. 45 Hastinapur, SC, district Meerut, Bijnor Lok Sabha. Extent per that page (verified this round): KCs Hastinapur, Parikshatgarh; PCs Tatina, Niloha, Bana, Bhainsa, Mawana Kalan-I, Mawana Khurd; Mubarikpur, Sandhan, Dhikoli of Mawana KC; Mawana MB; Bahsooma NP, Hastinapur NP and Parikshatgarh NP of Mawana Tehsil. Confirmed inside AC: Mawana MB (sugar mill, Mawana sit-in), Hastinapur NP (town roads, coolers, ward roads, CC roads). Unconfirmed: Ganga erosion villages (Bastota Narang, Makhdumpur, Kishorpur, Jalalpur Jora) - not counted in ac_specific_negatives; Hastinapur-Chandpur link road segment (Chandpur is Bijnor side) - positive 2 membership unconfirmed. Round 2 source checks: all 10 kept sources opened and match stated figures/dates. Removed the 8 Sept 2026 Amar Ujala video from negative 1 because it reports waterlogging in Khadar fields with no Ganga erosion. Corrected negative 2 basis (tourism works are Hastinapur town, not district-level). Positive 4 (CC roads) is the chairperson's own claim, the weakest positive. Positive 5 coolers: the same article says more than six are out of order and most not cleaned in two years, so the positive is incomplete on its own. Searches for a better completed 2026 Hastinapur town project (road or otherwise) found nothing verified; Amar Ujala Nov 2025 seven-road widening is a proposal only, not used. Flood news (Patrika 1 Aug 2026, Amar Ujala 5 Aug 2026: Ganga bund breach near Fatehpur Prem, Khadar area) is flood not erosion, and was not used. Not used: Rs 3150 crore iconic site/National Museum approval (no start date); Patrika Jambudweep statues article (2018); Mawana-Bijnor road blockade Sept 2026 (murder protest). No 2026 Hastinapur-specific reports on electricity, hospital/CHC or drinking-water supply were found; these are field-check priorities."
 }
