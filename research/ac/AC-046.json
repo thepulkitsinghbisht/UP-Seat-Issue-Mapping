@@ -5,22 +5,158 @@
   "reserved": "None",
   "district": "Meerut",
   "region": "Paschim UP",
-  "summary": "Local coverage is thin; complaints found centre on waterlogging and drainage, sugarcane dues and waste from illegal slaughterhouses in the Kharkhauda area, while the appreciated items are mostly district-level health and flood-protection works.",
+  "summary": "Local coverage is thin: the few AC-linked complaints are rain-waterlogged paddy in Machhra and older (2019) Kharkhauda slaughterhouse-waste reports, while the appreciated items are mostly district-level flood, health and cane-payment news.",
   "identity_source": "https://en.wikipedia.org/wiki/Kithore_Assembly_constituency",
   "positives": [
-    {"rank": 1, "english": "Ganga embankment built by the Irrigation Department has protected crops in more than a dozen villages from flooding", "hindi": "*गंगा किनारे बने तटबंध से एक दर्जन से अधिक गांवों की फसलें बाढ़ से बची", "inference": true, "basis": "Inference: source is a Meerut district report on the Machhra and Rajpura block area, not a Kithore-specific one. Farmers said the Irrigation Department embankment along the Ganga protected crops in more than a dozen villages from flooding. AC membership unconfirmed.", "sources": [{"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"}]},
-    {"rank": 2, "english": "Drain and CC road work on Ikdi Road is finished and the waterlogging problem was not found on inspection", "hindi": "*ईकड़ी रोड पर नाले और सीसी सड़क का काम पूरा हुआ, जलभराव नहीं मिला", "inference": true, "basis": "Inference: Meerut district report with a Sardhana dateline about Ikdi Road, a Kanwar route. It does not name Kithore, Kharkhauda, Machhra, Rajpura or Mawana. Officials said the drain and road work is complete and an inspection found no waterlogging. AC membership unconfirmed.", "sources": [{"outlet": "Amar Ujala", "date": "2026-09-23", "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-problem-on-ikdi-road-resolved-meerut-news-c-44-1-smrt1055-113691-2026-09-23"}]},
-    {"rank": 3, "english": "Pathology lab has started in the new building of the Sarurpur CHC so patients get tests locally", "hindi": "*सरूरपुर सीएचसी के नए भवन में पैथोलॉजी लैब शुरू, मरीजों को राहत", "inference": true, "basis": "Inference: the CHC is in Sarurpur (Meerut district, dateline Sarurpur), which the article does not link to Kithore. The article says the lab has started and that patients in the area will get relief. AC membership unconfirmed.", "sources": [{"outlet": "Amar Ujala", "date": "2026-09-24", "url": "https://www.amarujala.com/uttar-pradesh/meerut/pathology-lab-started-functioning-in-the-new-building-of-chc-meerut-news-c-73-1-mct1008-108810-2026-09-24"}]},
-    {"rank": 4, "english": "Groundbreaking done for a new cancer screening centre building at the Police Line urban health centre in Meerut", "hindi": "*मेरठ पुलिस लाइन में कैंसर स्क्रीनिंग सेंटर के नए भवन का भूमि पूजन हुआ", "inference": true, "basis": "Inference: Meerut city (Police Line urban PHC), not Kithore. Source says the bhoomi pujan was held and officials expect better early cancer screening. Not a completed benefit. AC membership not applicable.", "sources": [{"outlet": "Amar Ujala", "date": "2026-08-26", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-meerut-bhoomi-pujan-held-for-new-cancer-screening-centre-building-2026-08-26"}]},
-    {"rank": 5, "english": "Sugarcane crop has so far not suffered major damage from the recent rain and hail", "hindi": "*बारिश और ओलों से गन्ने की फसल को फिलहाल खास नुकसान नहीं", "inference": true, "basis": "Inference: same Meerut district report on the Machhra and Rajpura area. The article says sugarcane has so far not suffered major damage. This is relief from a risk, not a delivered benefit, so it is the weakest positive. AC membership unconfirmed.", "sources": [{"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"}]}
+    {
+      "rank": 1,
+      "english": "*Ganga embankment kept crops in more than a dozen villages safe from flooding",
+      "hindi": "*गंगा के बांध से एक दर्जन से ज्यादा गांवों की फसल बाढ़ से बची",
+      "inference": true,
+      "basis": "Inference: Amar Ujala Meerut report (11 Oct 2026, Meerut Bureau) says the Irrigation Department's Ganga embankment protected crops in more than a dozen villages from flooding. The report is about the Hastinapur khadar area (Hastinapur, Tarapur, Latifpur, Fatehpur Prem, Mundali, Mawana). It names Machhra and Rajpura blocks as the storm area but no Kithore village. AC membership unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "*Mawana sugar mill has paid over Rs 311 crore to farmers for cane bought up to 7 January 2026",
+      "hindi": "*मवाना मिल ने जनवरी तक गन्ने का 311 करोड़ से ज्यादा भुगतान किया",
+      "inference": true,
+      "basis": "Inference: Amar Ujala Meerut report (17 Jan 2026): Mawana Chini Mill sent Rs 18.98 crore to cane committees for cane bought 4-7 Jan and has paid Rs 311.34 crore for cane bought through 7 Jan in the 2025-26 season. Mawana town is not named in the Kithore extent (only Kithore NP of Mawana tehsil is). Mill-level figure, not a per-farmer figure. AC membership unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-01-17",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/the-mill-paid-sugarcane-farmers-for-their-sugarcane-meerut-news-c-40-1-smrt1041-111371-2026-01-17"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "*Drain and CC road work on Ikdi Road is finished and an inspection found no waterlogging",
+      "hindi": "*ईकड़ी रोड पर नाले और सीसी सड़क का काम पूरा, जलभराव नहीं मिला",
+      "inference": true,
+      "basis": "Inference: Sardhana-datelined Amar Ujala report (23 Sep 2026): drain and road work on Ikdi Road is complete and an SDM-ordered on-site inspection found no waterlogging. The article does not name Kithore, Kharkhauda, Machhra, Rajpura or Mawana, and Sardhana is not in the Kithore extent. AC membership unconfirmed, and probably outside the AC.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-problem-on-ikdi-road-resolved-meerut-news-c-44-1-smrt1055-113691-2026-09-23"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Pathology lab has started in the new Sarurpur CHC building so patients get tests locally",
+      "hindi": "*सरूरपुर सीएचसी के नए भवन में पैथोलॉजी लैब शुरू, मरीजों को राहत",
+      "inference": true,
+      "basis": "Inference: Amar Ujala Meerut report (24 Sep 2026, Sarurpur dateline): the pathology lab has started in the new CHC building and patients in the area are expected to get relief. A new testing machine is still to be started. Sarurpur is not named in the Kithore extent and the article does not name Kithore. AC membership unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/pathology-lab-started-functioning-in-the-new-building-of-chc-meerut-news-c-73-1-mct1008-108810-2026-09-24"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Sugarcane crop has so far not suffered major damage from the recent rain and hail",
+      "hindi": "*बारिश और ओलों से गन्ने की फसल को फिलहाल खास नुकसान नहीं",
+      "inference": true,
+      "basis": "Inference: same Amar Ujala Meerut report (11 Oct 2026) on the Machhra and Rajpura block area: sugarcane has so far not suffered major damage. This is relief from a risk, not a delivered benefit, so it is the weakest positive. AC membership unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"
+        }
+      ]
+    }
   ],
   "negatives": [
-    {"rank": 1, "english": "Rain water stands in fields in Machhra and cut paddy is floating in it", "hindi": "बारिश का पानी खेतों में भरा है, कटी धान पानी में तैर रही है", "inference": false, "basis": "Amar Ujala Meerut report: after rain and hail, cut and standing paddy was submerged in water in Machhra; farmers fear waterlogging will lower crop quality. The article places this in the Machhra and Rajpura blocks. Wikipedia's Kithore extent lists KC Machhara, but the block is not confirmed to be the same as the AC. AC membership unconfirmed.", "sources": [{"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"}]},
-    {"rank": 2, "english": "Pending sugarcane dues are not being paid on time and farmers are angry", "hindi": "*गन्ने का बकाया भुगतान समय पर नहीं मिल रहा, किसान नाराज़ हैं", "inference": true, "basis": "Inference: Meerut district-level report. BKU's protest at Meerut Commissioner's Chowk demanded timely payment of pending sugarcane dues, a fair cane price, power and fertiliser supply. No Kithore or Kharkhauda mill or dues figure was found. The article gives no dues amount.", "sources": [{"outlet": "ChiniMandi", "date": "2026-09-02", "url": "https://www.chinimandi.com/uttar-pradesh-farmers-protest-in-meerut-over-sugarcane-dues-frp-and-farm-issues/"}]},
-    {"rank": 3, "english": "Allegedly, waste from illegal slaughterhouses flows into the Kali river", "hindi": "अवैध बूचड़खानों का गंदा पानी कली नदी में जाने का आरोप है", "inference": false, "basis": "Swarajya ground report, dated 2019-02-02 (old; not 2024-2026). Residents of Kharkhauda villages (Kaul, Allipur, Setkuan, Peepli Kheda, Bijauli, Bahrampur, Khaspur, Aadh) allege that slaughterhouse waste goes into drains and reaches the Kali Nadi. Kharkhauda nagar panchayat and KC Kharkhauda are in the AC per Wikipedia, but these named villages are not confirmed inside the AC, so the count below is 0. Allegations stay as allegations.", "sources": [{"outlet": "Swarajya", "date": "2019-02-02", "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"}]},
-    {"rank": 4, "english": "Hand-pump water in some villages is discoloured and looks like sugarcane juice, allegedly", "hindi": "कुछ हैंडपंपों का पानी गन्ने के रस जैसा रंगीन निकलने का आरोप है", "inference": false, "basis": "Same 2019 Swarajya ground report on Kharkhauda villages. Residents say hand-pump water is so discoloured that one sample resembled sugarcane juice. The government stopped installing hand-pumps and one village gets a water tank supply about once a week. Old source; AC membership of the named villages unconfirmed.", "sources": [{"outlet": "Swarajya", "date": "2019-02-02", "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"}]},
-    {"rank": 5, "english": "Residents allege that cancer cases are rising near the slaughterhouse discharge area of Kharkhauda", "hindi": "आरोप है कि खरखौदा के आसपास के गांवों में कैंसर के मामले बढ़े हैं", "inference": false, "basis": "Same 2019 Swarajya report. Residents claim cancer is increasingly common and that at least 40 people died of cancer in nearby villages in the past year. This is an unverified allegation from residents, not a medical finding. Old source; AC membership of the named villages unconfirmed.", "sources": [{"outlet": "Swarajya", "date": "2019-02-02", "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"}]}
+    {
+      "rank": 1,
+      "english": "Rain water stands in fields in Machhra and cut paddy is floating in it",
+      "hindi": "माछरा में खेतों में पानी भरा है, कटी धान पानी में तैर रही है",
+      "inference": false,
+      "basis": "Amar Ujala Meerut report (11 Oct 2026): after rain and hail, cut paddy was seen floating in rainwater in Machhra; farmers fear long-term waterlogging will lower crop quality. Machhra is inside the AC at KC level: Wikipedia's Kithore extent lists KC Machhara (Mawana tehsil). Village-by-village membership of Machhra in KC Machhara not checked. The same report quotes the SDM saying hail caused no major loss in the khadar area.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://amarujala.com/uttar-pradesh/meerut/mixed-impact-of-rain-and-hailstorms-on-crops-farmers-in-machhra-distressed-meerut-news-c-228-1-mwn1001-105612-2026-10-11"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "*Pending sugarcane dues are not being paid on time and farmers are angry",
+      "hindi": "*गन्ने का बकाया भुगतान समय पर नहीं मिल रहा, किसान नाराज़ हैं",
+      "inference": true,
+      "basis": "Inference: Meerut district-level report (ChiniMandi, 2 Sep 2026): BKU protest at Commissioner's Chowk demanded timely payment of pending sugarcane dues, a fair cane price, power and fertiliser supply. No Kithore or Kharkhauda mill and no dues amount named. District-level, not AC-specific.",
+      "sources": [
+        {
+          "outlet": "ChiniMandi",
+          "date": "2026-09-02",
+          "url": "https://www.chinimandi.com/uttar-pradesh-farmers-protest-in-meerut-over-sugarcane-dues-frp-and-farm-issues/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "*Allegedly, waste from illegal slaughterhouses flows into the Kali river",
+      "hindi": "*खरखौदा के बूचड़खानों का गंदा पानी कली नदी में जाने का आरोप है",
+      "inference": true,
+      "basis": "Inference: Swarajya ground report dated 2 Feb 2019 (old; not 2024-2026). It says one long-running plant's waste went into local drains that drained into Kali Nadi, in the Kharkhauda area (Kharkhauda KC and NP are inside the AC). Named villages (Kaul, Allipur, Setkuan, Peepli Kheda, Bijauli, Bahrampur) are not confirmed inside the AC. Persistence not shown: 2024-2026 searches on Kharkhauda and Kali Nadi found nothing, so flagged as inference under the old-source rule. Allegations stay allegations.",
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "date": "2019-02-02",
+          "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Hand-pump water in some villages is discoloured and looks like sugarcane juice, allegedly",
+      "hindi": "*कुछ हैंडपंपों का पानी गन्ने के रस जैसा रंगीन आने का आरोप है",
+      "inference": true,
+      "basis": "Inference: same 2019 Swarajya report. It says a Kaul hand-pump's water could pass off as sugarcane juice by its colour, and an Allipur hand-pump looked yellowish. Old source; persistence not shown in 2024-2026 searches; named villages not confirmed inside the AC.",
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "date": "2019-02-02",
+          "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Residents allege that cancer cases are rising near the slaughterhouse discharge area of Kharkhauda",
+      "hindi": "*आरोप है कि खरखौदा के आसपास के गांवों में कैंसर के मामले बढ़े हैं",
+      "inference": true,
+      "basis": "Inference: same 2019 Swarajya report. Residents say cancer is as common as fever and that at least 40 people died of cancer in nearby villages in the last year. This is a residents' claim, not a medical finding. Old source; persistence not shown; named villages not confirmed inside the AC.",
+      "sources": [
+        {
+          "outlet": "Swarajya",
+          "date": "2019-02-02",
+          "url": "https://swarajyamag.com/politics/ground-report-despite-yogis-ban-illegal-slaughterhouses-flourish-in-meerut-residents-bear-the-brunt"
+        }
+      ]
+    }
   ],
-  "ac_specific_negatives": 0,
-  "notes": "Identity confirmed from the Wikipedia list (No. 46 Kithore, Meerut district, General/None). Kithore extent per Wikipedia: KC Machhara and Kithore NP of Mawana tehsil; KCs Rajpura, Kharkhauda and Kharkhauda NP of Meerut tehsil. Villages are not listed. Kithore's current MLA is Shahid Manzoor (SP, 2022). Local coverage was very thin: about 30 Hindi and English searches found no 2024-2026 article naming Kithore, Kithore NP, Kharkhauda or Machhara for a civic problem. Negatives 3 and 4 and 5 rely on one 2019 report and are not AC-confirmed. Positives 2-5 are Meerut district items with no AC link and are flagged as inference. Positive 5 is relief from a risk, not a benefit, and is the weakest item. Excluded: ETV Bharat tourism review of a Ramlila ground in Kithore (a review, not a delivered project); Hastinapur erosion (another AC); Sivalkhas and Sambhal items; Grokipedia and other aggregator pages. Field check recommended: Kithore NP drainage and garbage, Kharkhauda sugar mill dues, Kali Nadi condition, and the Kithore police station area."
+  "ac_specific_negatives": 1,
+  "notes": "Round 2. Wikipedia extent confirmed: KC Machhara and Kithore NP of Mawana tehsil; KCs Rajpura, Kharkhauda and Kharkhauda NP of Meerut tehsil. The Amar Ujala article spells it Machhra, Wikipedia spells it Machhara. Searches (about 12 more, Hindi and English) found no 2024-2026 AC-specific report on Kharkhauda slaughterhouse waste, Kali Nadi, hand-pumps, Kharkhauda CHC, Kithore power, Kithore NP drains or Kithore roads. A Kharkhauda underpass Lok Sabha record (c.2022) appeared in search but its host did not resolve, so it is not cited. Kinauni sugar mill: no 2024-2026 report found. Mawana mill payments are confirmed, but Mawana town is not in the extent. A Kithore NP road tender (June 2026) was found but a tender is not a delivered benefit, so it is excluded. The Kharkhauda police station mosque-land dispute (June 2026) is communal and legal, not a voter civic complaint, so it is excluded. Only one negative is AC-specific and sourced (Machhra). Negatives 3-5 are old (2019) and flagged as inference. Field check recommended: Kharkhauda slaughterhouse waste and Kali Nadi, Kharkhauda CHC, Kithore NP drainage and garbage, Machhra paddy after the rain, and the Kharkhauda railway underpass.",
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 1,
+    "ac_specific_negatives": 1,
+    "changes": "Wikipedia extent checked (KC Machhara, Kithore NP; KCs Rajpura, Kharkhauda, Kharkhauda NP). Opened and checked all item URLs. Removed Police Line cancer-screening groundbreaking (Meerut city, groundbreaking only). Added Mawana mill cane-payment report (AC membership unconfirmed). Ganga embankment wording changed from 'built' to what the article says ('protected crops'). Flagged 2019 Kharkhauda negatives 3-5 as inference (persistence not shown). Negative 1 kept as sourced, Machhra confirmed at KC level. Summary and notes updated."
+  }
 }
