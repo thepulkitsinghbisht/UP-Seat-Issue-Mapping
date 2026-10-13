@@ -5,70 +5,70 @@
   "reserved": "None",
   "district": "Baghpat",
   "region": "Paschim UP",
-  "summary": "Complaints centre on sugarcane dues, land acquisition in Khekra, bus and health services, while farmers credit timely cane payments, easier fertiliser supply and better irrigation power.",
+  "summary": "Complaints centre on sugar mill cane dues, Khekra land acquisition, health and bus services; farmers' views on power and fertiliser are inference only.",
   "identity_source": "https://en.wikipedia.org/wiki/Baghpat_Assembly_constituency",
   "ac_specific_negatives": 3,
   "positives": [
     {
       "rank": 1,
-      "english": "Sugarcane payments now reach farmers on time",
-      "hindi": "गन्ने का भुगतान अब समय पर मिल रहा है",
+      "english": "Three Baghpat sugar mills have paid farmers in full",
+      "hindi": "बागपत की तीनों चीनी मिलों ने किसानों का पूरा भुगतान कर दिया",
       "inference": false,
-      "basis": "Aaj Tak ground report (26 Sep 2026) with Baghpat farmers: earlier there was trouble with cane purchase and payment, now payments are timely. District-level; the article names no AC place.",
+      "basis": "Amar Ujala (12 Oct 2026) states 'बागपत की तीनों चीनी मिलों ने किसानों का संपूर्ण भुगतान कर दिया है'; the three mills named are Malakpur, Baghpat and Ramala. District-level; AC membership of the mills not confirmed.",
       "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Three Baghpat sugar mills have paid farmers in full",
-      "hindi": "बागपत की तीन चीनी मिलों ने किसानों का पूरा भुगतान किया",
-      "inference": false,
-      "basis": "Amar Ujala (12 Oct 2026) states 'बागपत की तीनों चीनी मिलों ने किसानों का संपूर्ण भुगतान कर दिया है'; the three mills named are Malakpur, Baghpat and Ramala. District-level; AC membership of the mills not confirmed.",
-      "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"}
-      ]
+      "english": "* Sugarcane payments are coming on time now",
+      "hindi": "* गन्ने का भुगतान अब समय पर मिलने लगा है",
+      "inference": true,
+      "basis": "Inference: the Aaj Tak 26 Sep 2026 Baghpat farmers' ground report appears to say payments are now timely, but the page returned 403 and could not be read, so no source is cited. District-level.",
+      "sources": []
     },
     {
       "rank": 3,
-      "english": "Fertiliser no longer means long queues like before",
-      "hindi": "खाद के लिए अब पहले जैसी लंबी लाइन नहीं लगानी पड़ती",
-      "inference": false,
-      "basis": "Aaj Tak (26 Sep 2026): 'अब खाद के लिए पहले जैसी लंबी कतारों का सामना नहीं करना पड़ता'. District-level; article names only Baghpat.",
-      "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
-      ]
+      "english": "* Fertiliser no longer means long queues like before",
+      "hindi": "* खाद के लिए अब पहले जैसी लंबी लाइन नहीं लगानी पड़ती",
+      "inference": true,
+      "basis": "Inference: the Aaj Tak 26 Sep 2026 Baghpat ground report is reported to say this, but the page could not be opened, so no source is cited. District-level.",
+      "sources": []
     },
     {
       "rank": 4,
-      "english": "Power availability for irrigation has improved",
-      "hindi": "सिंचाई के लिए बिजली की उपलब्धता में सुधार हुआ है",
-      "inference": false,
-      "basis": "Aaj Tak (26 Sep 2026): 'सिंचाई के लिए बिजली की उपलब्धता में भी सुधार महसूस होता है'. Farmers' view as reported by the reporter; no figures given. District-level.",
-      "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
-      ]
+      "english": "* Power availability for irrigation has improved",
+      "hindi": "* सिंचाई के लिए बिजली की उपलब्धता कुछ सुधरी है",
+      "inference": true,
+      "basis": "Inference: the Aaj Tak 26 Sep 2026 Baghpat ground report is reported to say this, but the page could not be opened, so no source is cited. District-level.",
+      "sources": []
     },
     {
       "rank": 5,
-      "english": "Farmers no longer feel the same fear of going to fields at night",
-      "hindi": "रात में खेत पर जाने का पहले जैसा डर नहीं रहा",
-      "inference": false,
-      "basis": "Aaj Tak (26 Sep 2026): 'पहले रात के वक्त खेत पर जाने में डर महसूस होता था', presented as improved under the current government. District-level.",
-      "sources": [
-        {"outlet": "Aaj Tak", "date": "2026-09-26", "url": "https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26"}
-      ]
+      "english": "* Farmers no longer feel the same fear of going to fields at night",
+      "hindi": "* रात में खेत पर जाने का पहले जैसा डर नहीं रहा",
+      "inference": true,
+      "basis": "Inference: the Aaj Tak 26 Sep 2026 Baghpat ground report is reported to say this, but the page could not be opened, so no source is cited. District-level.",
+      "sources": []
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "Sugar mills still owe farmers ₹29 crore in cane dues",
-      "hindi": "मिलों पर अभी भी गन्ने का 29 करोड़ रुपये बकाया है",
+      "english": "Kinauni and Bhainsana sugar mills still owe farmers ₹20 crore and ₹9 crore",
+      "hindi": "किनौनी और भैंसाना मिलों पर अभी भी किसानों का गन्ना बकाया है",
       "inference": false,
-      "basis": "Amar Ujala (12 Oct 2026): Kinauni mill owes ₹20 crore and Bhainsana mill ₹9 crore; notices issued with one week to pay and a warning of action. District-level. Kinauni and Bhainsana are not confirmed inside this AC.",
+      "basis": "Amar Ujala (12 Oct 2026): Kinauni mill owes ₹20 crore and Bhainsana mill ₹9 crore; the district cane officer issued notices to clear dues within a week; the two mills are not showing interest in paying. District-level. AC membership of Kinauni and Bhainsana unconfirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/baghpat/sugar-mill-baghpat-news-c-28-1-bpt1002-160376-2026-10-12"
+        }
       ]
     },
     {
@@ -76,20 +76,32 @@
       "english": "Land acquisition for an industrial area in 12 Khekra villages, farmers want 4x compensation",
       "hindi": "खेकड़ा में 12 गांवों की जमीन का अधिग्रहण, चार गुना मुआवजा चाहिए",
       "inference": false,
-      "basis": "Univarta/Varta (25 Aug 2026): land acquisition for a proposed industrial area in 12 villages of the Khekra area; farmers insist on four times market rate; meeting chaired by SDM ended without agreement. Khekra tehsil is in the AC per Wikipedia extent.",
+      "basis": "Univarta (25 Aug 2026): land acquisition of 12 villages for a proposed industrial area in the Khekra area; farmers insist on four times market rate; SDM-chaired meeting ended without agreement and the demand is to be forwarded to the state government. Khekra tehsil is in the AC per Wikipedia extent. ETV Bharat (7 Jun 2026) reports the same four-times demand for a 2,000 ha UPSIDA corridor with a mahapanchayat of 12 villages; it does not name Khekra or any tehsil, and its villages (Lahchauda, Sarfabad, Garhi Kalanjari) are not confirmed inside the AC.",
       "sources": [
-        {"outlet": "Univarta", "date": "2026-08-25", "url": "https://univarta.com/%E0%A4%B2%E0%A4%96%E0%A4%A8%E0%A4%8A/%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A4%9A%E0%A5%80%E0%A4%A4/158619"},
-        {"outlet": "ETV Bharat", "date": "2026-06-07", "url": "https://www.etvbharat.com/hi/state/baghpat-news-upsida-land-acquisition-protest-farmers-mahapanchayat-lahchauda-four-times-compensation-ups26060704015"}
+        {
+          "outlet": "Univarta",
+          "date": "2026-08-25",
+          "url": "https://univarta.com/%E0%A4%B2%E0%A4%96%E0%A4%A8%E0%A4%8A/%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3-%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A4%9A%E0%A5%80%E0%A4%A4/158619"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-06-07",
+          "url": "https://www.etvbharat.com/hi/state/baghpat-news-upsida-land-acquisition-protest-farmers-mahapanchayat-lahchauda-four-times-compensation-ups26060704015"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "23 doctors missing in Baghpat district, CHCs including Khekra and Baghpat short-staffed",
+      "english": "23 doctors missing in Baghpat district, Khekra and Baghpat CHCs short-staffed",
       "hindi": "बागपत में 23 डॉक्टर लापता, सीएचसी पर इलाज की दिक्कत",
       "inference": false,
-      "basis": "Amar Ujala (15 Sep 2026): 23 doctors missing and a shortage of 47 doctors in the district; CHCs named include Khekra and Baghpat. Article says people are not getting health services. District-level, with the named CHCs inside the AC.",
+      "basis": "Amar Ujala (15 Sep 2026): '47 चिकित्सकों की कमी' and '23 चिकित्सक लापता' in the district; doctors listed missing from Khekra CHC and Baghpat CHC; 'लोगों को स्वास्थ्य सेवाएं नहीं मिल पा रहीं'. District-level, with the two named CHCs inside the AC (Khekra tehsil; Baghpat CHC in Baghpat town).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-15", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/doctor-news-baghpat-news-c-28-1-smrt1010-158788-2026-09-15"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/baghpat/doctor-news-baghpat-news-c-28-1-smrt1010-158788-2026-09-15"
+        }
       ]
     },
     {
@@ -97,9 +109,13 @@
       "english": "Hours-long waits at Baghpat bus stand on Raksha Bandhan, passengers forced to hang onto vehicles",
       "hindi": "बागपत बस अड्डे पर घंटों इंतजार, लोग लटककर सफर करने को मजबूर",
       "inference": false,
-      "basis": "Amar Ujala (29 Aug 2026): on Raksha Bandhan, buses ran out at Baghpat's Bawli Chungi bus stand, passengers waited hours and were forced onto daggamar vehicles; a passenger said 'इनमें भी जगह नहीं मिल रही है और लटककर सफर करना पड़ रहा है'. Tatiri (Agarwal Mandi) also named; both are in the AC per Wikipedia extent.",
+      "basis": "Amar Ujala (29 Aug 2026): on Raksha Bandhan, buses could not be found at the Bawli Chungi bus stand in Baghpat, passengers waited for hours and were forced onto daggamar vehicles; a passenger said 'इनमें भी जगह नहीं मिल रही है'. Baghpat town (Baghpat MB) is inside the AC per Wikipedia extent.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-29", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/traffic-news-baghpat-news-c-28-1-bpt1003-157811-2026-08-29"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/baghpat/traffic-news-baghpat-news-c-28-1-bpt1003-157811-2026-08-29"
+        }
       ]
     },
     {
@@ -107,11 +123,21 @@
       "english": "15-hour power cut stopped water supply, villagers crowd handpumps",
       "hindi": "15 घंटे बिजली गुल, पानी के लिए हैंडपंपों पर भीड़",
       "inference": false,
-      "basis": "Amar Ujala (6 Sep 2026): power stopped for 15 hours in Pooranpur Nawada and Garhi Kalanjari, Ratol tehsil; water supply stopped and women crowded government handpumps; residents complained and protested. Ratol is not named in the AC extent, so AC membership is unconfirmed.",
+      "basis": "Amar Ujala (6 Sep 2026), dateline Ratol: power stopped for 15 hours in Pooranpur Nawada and Garhi Kalanjari; drinking water supply stopped, women crowded government handpumps, residents protested. Ratol and these villages are not named in the AC extent, so AC membership is unconfirmed; district-level only.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-06", "url": "https://www.amarujala.com/uttar-pradesh/baghpat/water-news-baghpat-news-c-28-1-bag1001-158254-2026-09-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/baghpat/water-news-baghpat-news-c-28-1-bag1001-158254-2026-09-06"
+        }
       ]
     }
   ],
-  "notes": "AC identity: Wikipedia list shows No. 52 as 'Bagpat' in Baghpat district, unreserved; the AC article uses Baghpat and Bagpat interchangeably. Extent per AC article: Khekra tehsil plus parts of Baghpat tehsil (KC Pilana, Pali, Pawla Bagamabad, Tatiri, Baghpat MB, Aminagar Sarai NP, Agarwal Mandi NP); the AC's area was not verified against the official delimitation order. Positives 1, 3, 4, 5 come from one Aaj Tak ground report, which is district-level and paraphrases farmers without village names. Not found despite searches: AC-specific reports on Baghpat town roads, drains, garbage (Aminagar Sarai, Agarwal Mandi), stray cattle, or water supply; no source was used for these. Lahchaura and the Sarfabad/Garhi Kalanjari villages named in the June 2026 ETV Bharat piece are not confirmed inside this AC, and the Kinauni and Bhainsana mills are unconfirmed. Baraut depot tyre shortage (Amar Ujala, 29 Sep 2026) was excluded since Baraut is AC 51. Field check suggested: Khekra land acquisition status, Baghpat town bus and drain conditions, sugarcane dues at Kinauni and Bhainsana mills, and the Baghpat CHC doctor vacancies."
+  "round2": {
+    "verified_sources": 6,
+    "removed_sources": 4,
+    "ac_specific_negatives": 3,
+    "changes": "Removed 4 Aaj Tak source entries (URL returned 403, not readable; search snippet did not confirm fertiliser or night-fear claims). Positives 2-5 converted to flagged inference. Positive 1 is now the sourced mills-paid-in-full item. Negative 1 restated as Kinauni 20 cr and Bhainsana 9 cr (the 29 cr total was our sum, removed). Negative 2 now cites Univarta as primary with ETV as supporting (ETV does not name Khekra). Negative 3 names both CHCs and the 47/23 figures. Negative 4 dropped the unverified Tatiri mention and the misquoted passenger line. Negative 5 kept as district-level with AC membership unconfirmed. Rejected sources: Doula CHC (2022, tehsil unknown), construction report (projects not started), Ratol power-cut villages not confirmed in AC."
+  },
+  "notes": "AC identity: Wikipedia list shows No. 52 as 'Bagpat' in Baghpat district, unreserved. Extent per Wikipedia AC page (re-verified this round): 'Khekra Tehsil; KC Pilana, PCs Baghpat, Pali, Pawla Bagamabad' and 'Tatiri of Baghpat KC, Baghpat MB, Aminagar Sarai NP & Agarwal Mandi NP of Baghpat Tehsil'. Khekra tehsil is therefore in the AC; Tatiri is in the AC (Baghpat KC). The page does not expand the abbreviations KC/PCs/MB/NP, and the AC area was not checked against the official delimitation order. Positives 2-5 are inference (*) because the only source for them, Aaj Tak 26 Sep 2026, returned 403 and could not be read. Aaj Tak should be re-checked by hand. Negatives 1 and 5 are district-level; Kinauni, Bhainsana, Ratol, Pooranpur Nawada and Garhi Kalanjari are not confirmed inside the AC. Searches for AC-specific positives (completed Khekra or Baghpat roads, drains, CHC openings in 2026) found nothing usable: the Doula CHC report is from 2022 and does not name a tehsil; the Baghpat construction report says projects have not started. Field check suggested: Khekra land acquisition status, Baghpat town bus stand and drain conditions, sugarcane dues at Kinauni and Bhainsana mills, Baghpat CHC doctor vacancies, and whether the Aaj Tak report supports the four inference positives."
 }
