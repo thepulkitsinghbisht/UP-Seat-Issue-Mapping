@@ -5,7 +5,7 @@
   "reserved": "SC",
   "district": "Hapur",
   "region": "Paschim UP",
-  "summary": "Complaints centre on waterlogged roads, water cuts and power outages in Hapur city and its nagar panchayat, while the few appreciated items are a fixed transformer, a delayed tanker and the Dasna-Hapur highway.",
+  "summary": "Complaints centre on waterlogged roads, water cuts and power outages in Hapur city and its nagar panchayat, while the few appreciated items are a fixed transformer, a new dialysis unit at the district hospital and the Dasna-Hapur highway.",
   "identity_source": "https://en.wikipedia.org/wiki/Hapur_Assembly_constituency",
   "positives": [
     {
@@ -15,17 +15,30 @@
       "inference": false,
       "basis": "Amar Ujala reports that after a night-long power problem in localities linked to the Modinagar Road power station, a new transformer was installed overnight and power was restored on Wednesday morning (8 Jul 2026)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-08", "url": "https://www.amarujala.com/uttar-pradesh/hapur/power-station-shut-down-for-two-and-a-half-hours-supply-disrupted-to-8000-homes-hapur-news-c-135-1-hpr1002-144424-2026-07-08"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/hapur/power-station-shut-down-for-two-and-a-half-hours-supply-disrupted-to-8000-homes-hapur-news-c-135-1-hpr1002-144424-2026-07-08"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Water tanker finally reached Mandi mohalla after residents protested",
-      "hindi": "मंडी मोहल्ले में विरोध के बाद आखिर टैंकर पहुंचा",
+      "english": "Dialysis unit opened at district hospital, kidney patients no longer need Meerut or Delhi",
+      "hindi": "जिला अस्पताल में डायलिसिस शुरू हुई, अब मरीजों को मेरठ-दिल्ली नहीं जाना पड़ता",
       "inference": false,
-      "basis": "Dynamite News reports that after residents protested, a water tanker was sent to Mohalla Mandi about 36 hours into the outage; residents said one tanker was not enough (24 May 2026)",
+      "basis": "Pratahkal and Khabarwala24 (both 28 Sep 2026) report a new dialysis unit at the Hapur district hospital on Modinagar Road, Hapur city (Hapur MB, inside the AC), inaugurated by the Hapur Sadar MLA. Patients earlier had to travel to Meerut, Delhi or Ghaziabad for regular dialysis; the unit now treats them locally",
       "sources": [
-        {"outlet": "Dynamite News (Hindi)", "date": "2026-05-24", "url": "https://hindi.dynamitenews.com/uttar-pradesh/hapur-grapples-with-water-crisis-for-36-hours-people-thirst-for-every-drop-amidst-scorching-heat"}
+        {
+          "outlet": "Pratahkal",
+          "date": "2026-09-28",
+          "url": "https://www.pratahkal.com/uttar-pradesh/hapur-district-hospital-dialysis-unit-inaugurated-vijay-pal-1636208"
+        },
+        {
+          "outlet": "Khabarwala24",
+          "date": "2026-09-28",
+          "url": "https://www.khabarwala24.com/health/hapur-district-hospital-dialysis-unit-inaugurated-by-mla-vijay-pal-aadhti/187802/"
+        }
       ]
     },
     {
@@ -33,9 +46,13 @@
       "english": "District hospital has a separate full ward for serious patients",
       "hindi": "जिला अस्पताल में गंभीर मरीजों के लिए अलग पूरा वार्ड है",
       "inference": false,
-      "basis": "Amar Ujala (16 May 2026) says the district hospital has a separate complete ward and serious cases from the CHC are sent there; the CHC has 10 emergency beds. District-level, CHC and district hospital not confirmed as inside the AC",
+      "basis": "Amar Ujala (16 May 2026) quotes a CHC doctor: \"जिला अस्पताल में अलग से पूरा वार्ड है\" - the district hospital has a separate complete ward, and serious cases are sent there from the CHC (10 emergency beds in the CHC emergency area). Khabarwala24 places the district hospital on Modinagar Road in Hapur city, inside Hapur MB",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-05-16", "url": "https://www.amarujala.com/uttar-pradesh/hapur/dehydration-and-food-poisoning-patients-increased-due-to-heat-hapur-news-c-135-1-hpr1005-141507-2026-05-16"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-16",
+          "url": "https://www.amarujala.com/uttar-pradesh/hapur/dehydration-and-food-poisoning-patients-increased-due-to-heat-hapur-news-c-135-1-hpr1005-141507-2026-05-16"
+        }
       ]
     },
     {
@@ -43,9 +60,13 @@
       "english": "Six-lane Dasna to Hapur highway opened and travel towards Meerut became easier",
       "hindi": "डासना से हापुड़ तक छह लेन सड़क खुली, सफर आसान हुआ",
       "inference": false,
-      "basis": "Patrika reports Nitin Gadkari inaugurated the 22.30 km six-lane Dasna to Hapur national highway with two-lane service roads on each side (30 Sep 2019). District-level and old; the article does not say whether it passes Hapur city",
+      "basis": "Patrika (30 Sep 2019) reports Nitin Gadkari inaugurated the 22.30 km six-lane Dasna to Hapur national highway with two-lane service roads on each side, and that travel towards Moradabad and Meerut via Hapur became easier. District-level and old; the article does not say whether it passes Hapur city",
       "sources": [
-        {"outlet": "Patrika", "date": "2019-09-30", "url": "https://www.patrika.com/ghaziabad-news/nitin-gadkari-inaugurated-third-phase-of-delhi-meerut-expressway-5160078/"}
+        {
+          "outlet": "Patrika",
+          "date": "2019-09-30",
+          "url": "https://www.patrika.com/ghaziabad-news/nitin-gadkari-inaugurated-third-phase-of-delhi-meerut-expressway-5160078/"
+        }
       ]
     },
     {
@@ -53,9 +74,13 @@
       "english": "*Road repair tenders issued for Hapur block, no work reported as started",
       "hindi": "*हापुड़ ब्लॉक की सड़कों की मरम्मत के टेंडर निकले हैं",
       "inference": true,
-      "basis": "Inference: Amar Ujala (9 Oct 2026) says PWD issued tenders for five village link-road repairs across the district, about Rs 15 lakh for Hapur; the article names no road or village in the AC and says no work has started",
+      "basis": "Inference, not an appreciated delivered benefit: Amar Ujala (9 Oct 2026) reports PWD tenders totalling Rs 75 lakh for five district road repairs (about Rs 15 lakh each; Hapur among the places named). The article names no road or village in the AC, does not say work has started, and no completed local work was found. Kept only as a flagged placeholder for field check",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://www.amarujala.com/uttar-pradesh/hapur/75-lakh-will-be-spent-on-road-repairs-in-the-district-hapur-news-c-135-1-hpr1005-149955-2026-10-09"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-09",
+          "url": "https://www.amarujala.com/uttar-pradesh/hapur/75-lakh-will-be-spent-on-road-repairs-in-the-district-hapur-news-c-135-1-hpr1005-149955-2026-10-09"
+        }
       ]
     }
   ],
@@ -67,8 +92,16 @@
       "inference": false,
       "basis": "DM Kavita Meena inspected waterlogging on LN Public School Road and Swarg Ashram Road, which daily troubles thousands of schoolchildren; she reprimanded municipal officials (28 Sep 2026). At Doyami Phatak on Swarg Ashram Road the drain work is incomplete and rainwater stands on the road (29 Sep 2026). Doyami is a polling circle listed in the AC extent",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-28", "url": "https://www.amarujala.com/uttar-pradesh/hapur/dm-reprimands-officials-over-waterlogging-on-ln-and-swarg-ashram-roads-orders-drainage-of-water-hapur-news-c-135-1-hpr1005-149248-2026-09-28"},
-        {"outlet": "Pratahkal", "date": "2026-09-29", "url": "https://www.pratahkal.com/uttar-pradesh/hapur-swarg-ashram-road-waterlogging-dm-inspection-1636529"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/hapur/dm-reprimands-officials-over-waterlogging-on-ln-and-swarg-ashram-roads-orders-drainage-of-water-hapur-news-c-135-1-hpr1005-149248-2026-09-28"
+        },
+        {
+          "outlet": "Pratahkal",
+          "date": "2026-09-29",
+          "url": "https://www.pratahkal.com/uttar-pradesh/hapur-swarg-ashram-road-waterlogging-dm-inspection-1636529"
+        }
       ]
     },
     {
@@ -78,7 +111,11 @@
       "inference": false,
       "basis": "Mohalla Mandi, Hapur Nagar Palika area, was without drinking water for about 36 hours; residents allege the Nagar Palika did not act seriously despite complaints, and say one tanker was insufficient for hundreds of houses. No Nagar Palika statement in the article (24 May 2026)",
       "sources": [
-        {"outlet": "Dynamite News (Hindi)", "date": "2026-05-24", "url": "https://hindi.dynamitenews.com/uttar-pradesh/hapur-grapples-with-water-crisis-for-36-hours-people-thirst-for-every-drop-amidst-scorching-heat"}
+        {
+          "outlet": "Dynamite News (Hindi)",
+          "date": "2026-05-24",
+          "url": "https://hindi.dynamitenews.com/uttar-pradesh/hapur-grapples-with-water-crisis-for-36-hours-people-thirst-for-every-drop-amidst-scorching-heat"
+        }
       ]
     },
     {
@@ -88,7 +125,11 @@
       "inference": false,
       "basis": "Amar Ujala (8 Jul 2026): Atarpura power station, fed from the 220 kV Anand Vihar station, was shut for about 2.5 hours on Wednesday, cutting supply to more than 8,000 homes. The district lacks fault locator machines so linemen patrol lines by hand. Atarpura localities (Swarg Ashram Road, Gol Market, Sarraf Bazar, Chandi Road) are Hapur city areas",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-08", "url": "https://www.amarujala.com/uttar-pradesh/hapur/power-station-shut-down-for-two-and-a-half-hours-supply-disrupted-to-8000-homes-hapur-news-c-135-1-hpr1002-144424-2026-07-08"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-08",
+          "url": "https://www.amarujala.com/uttar-pradesh/hapur/power-station-shut-down-for-two-and-a-half-hours-supply-disrupted-to-8000-homes-hapur-news-c-135-1-hpr1002-144424-2026-07-08"
+        }
       ]
     },
     {
@@ -98,7 +139,11 @@
       "inference": false,
       "basis": "Residents of Mohalla Chahkamal in Hapur town say a sanctioned 250 KVA transformer has not been installed and drinking water is short; they gave a memorandum to the DM, who promised action within seven days. The article does not say whether this was done (5 Oct 2026)",
       "sources": [
-        {"outlet": "Khabarwala24", "date": "2026-10-05", "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-chahkamal-electricity-water-issue-dm-assures-action-in-one-week/188173/"}
+        {
+          "outlet": "Khabarwala24",
+          "date": "2026-10-05",
+          "url": "https://www.khabarwala24.com/uttar-pradesh/hapur/hapur-chahkamal-electricity-water-issue-dm-assures-action-in-one-week/188173/"
+        }
       ]
     },
     {
@@ -106,12 +151,22 @@
       "english": "Om Vihar Colony road on Station Asaura Road is broken and waterlogged, complaints ignored",
       "hindi": "ओम विहार कॉलोनी की सड़क तालाब बनी, कई बार शिकायत की पर सुनवाई नहीं",
       "inference": false,
-      "basis": "Residents of Om Vihar Colony on Station Asaura Road, Hapur, say the about 100 m main road is broken and dirty drain water always stands on it; they complained several times and gave a memorandum to the DM with no action taken (26 Sep 2026). Asaura is a polling circle in the AC extent, but the exact location of the colony is not confirmed beyond Hapur",
+      "basis": "Residents of Om Vihar Colony on Station Asaura Road, Hapur, say the about 100 m main road is broken and dirty drain water always stands on it; they complained several times and gave a memorandum to the DM with no action taken (26 Sep 2026). Asaura is listed in the AC extent (Hapur KC group, Wikipedia), but the colony's exact location is not confirmed beyond Hapur, so it is counted conservatively as not AC-specific. The Royal Bulletin URL carries a draft-style slug and the byline date (26 Sep 2026) conflicts with some related-story dates on the page",
       "sources": [
-        {"outlet": "Royal Bulletin", "date": "2026-09-26", "url": "https://royalbulletin.in/uttar-pradesh/%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A5%9C/-draft--add-your-title/article-234593"}
+        {
+          "outlet": "Royal Bulletin",
+          "date": "2026-09-26",
+          "url": "https://royalbulletin.in/uttar-pradesh/%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A5%9C/-draft--add-your-title/article-234593"
+        }
       ]
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed from Wikipedia: No. 59, Hapur (SC), Hapur district; extent is PCs Hapur, Doyami, Asaura and other PCs of Hapur KC, Babugarh KC, plus Babugarh NP and Hapur MB of Hapur Tehsil. Hapur city localities are treated as inside Hapur MB. Negative 5 (Om Vihar) is counted conservatively as not confirmed, so the count is 4. Positives are weak: 2026 searches found almost no completed Hapur city works; positive 4 is a 2019 district-level highway; positive 5 is an inference from a district-level tender. Excluded after checking: Pilkhuwa, Dhaulana (Dhaulana AC), Garhmukteshwar and Brijghat/Garh flood and Nayabaans items (other ACs), a 2018 Simbhaoli sugar mill protest, a 2021 Amar Ujala municipal Rs 6.24 crore plan (undelivered, undated in search), a 2022 Patrika rat-outage piece (Baghpat, Jasrupur), and a Halchal India Congress protest page that returned 404. Sugarcane dues, stray cattle, and Babugarh-specific 2026 problems were not found; Babugarh cantonment and Babugarh NP are in the AC extent but no sourced local issue was found for them. The Hapur railway overbridge parliamentary reply was not read (eparlib returned 503). Field check: confirm Atarpura, Modinagar Road and Mandi power/water areas with the UPPCL and Nagar Palika, and look for Babugarh NP and rural Hapur KC issues."
+  "notes": "AC confirmed from Wikipedia: No. 59, Hapur (SC), Hapur district; extent lists Hapur KC (incl. Doyami, Asaura), Babugarh KC (incl. Hirdaypur, Chhapkauli), and Babugarh NP and Hapur MB of Hapur Tehsil. Hapur city localities (Atarpura, Modinagar Road, Mandi, Chahkamal, district hospital on Modinagar Road) are treated as inside Hapur MB. Positive 2 is now the dialysis unit (28 Sep 2026, two outlets). The delayed tanker item was removed as a positive (it remains as negative 2). Positive 5 is still a flagged inference: the only 2026 road item found is a tender, which is an announcement and not appreciation. Weak positives remain: positive 4 is a 2019 district-level highway. Negative 5 (Om Vihar) is counted as not AC-specific, so ac_specific_negatives is 4. Excluded after checking: Pilkhuwa and Dhaulana (Dhaulana AC), Metro Hospital at Pilkhuwa chowk (Dhaulana, private), Garhmukteshwar, Brijghat/Garh and Nayabaans items (other ACs), a 2018 Simbhaoli sugar mill protest, a 2021 Amar Ujala municipal Rs 6.24 crore plan (undelivered, undated in search), a 2022 Patrika rat-outage piece (Baghpat), and a Halchal India page that returned 404. Searches for 2026 completed Hapur city roads, drains, parks, water tanks, CHC machines and 33 kV substations found nothing sourced. Sugarcane dues, stray cattle, and Babugarh-specific 2026 problems were not found; Babugarh NP only had a 2026 sanitation workshop (Royal Bulletin), which is not a benefit. The Hapur railway overbridge parliamentary reply was not read (eparlib returned 503). Field check: confirm Atarpura, Modinagar Road and Mandi power/water areas with UPPCL and the Nagar Palika, verify the Om Vihar location, and look for Babugarh NP and rural Hapur KC issues.",
+  "round2": {
+    "verified_sources": 12,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Re-fetched and checked every cited URL (Amar Ujala x4, Dynamite News, Patrika, Pratahkal x2, Khabarwala24 x2, Royal Bulletin, Wikipedia). All opened and support their claims. Positive 2 replaced: delayed tanker (not appreciation) -> district hospital dialysis unit opened 28 Sep 2026 (Pratahkal, Khabarwala24). Positive 3 basis now names the Modinagar Road district hospital inside Hapur MB. Positive 4 basis now carries the Patrika wording on travel via Hapur. Positive 5 remains a flagged inference, reworded to say it is a tender, not appreciation. Negative 5 basis flags the Royal Bulletin draft-style slug and date conflict. Summary and notes updated. Negatives 1-4 unchanged apart from verification."
+  }
 }
