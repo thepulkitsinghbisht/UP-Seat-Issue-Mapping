@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Drains for Jaibhim Nagar, Sarai Kazi and nearby colonies were inaugurated for construction",
-      "hindi": "जयभीम नगर, सराय काजी, मयूर विहार में नालों का काम शुरू हुआ",
+      "english": "Drain work has started in Jaibhim Nagar, Sarai Kazi and Mayur Vihar",
+      "hindi": "जयभीम नगर, सराय काजी और मयूर विहार में नालों का काम शुरू हुआ",
       "inference": false,
       "basis": "Amar Ujala, 6 Oct 2025 (opened and verified): mayor inaugurated about Rs 8.5 crore of works in the 'मेरठ दक्षिण विधानसभा क्षेत्र'. Three drains (about Rs 5.69 crore) in Jaibhim Nagar, Takshshila Colony, Sarai Kazi, Mayur Vihar and Jagriti Vihar Sector 8 were inaugurated; the article says the drains are 'to be built' (बनने वाले).",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Eight roads in Meerut South got development works inaugurated in October 2025",
-      "hindi": "मेरठ दक्षिण में आठ सड़कों के काम का उद्घाटन हुआ",
+      "english": "Work on eight roads in Meerut South has started",
+      "hindi": "मेरठ दक्षिण में आठ सड़कों का काम शुरू हो गया",
       "inference": false,
       "basis": "Same Amar Ujala report (opened and verified): 'इसके अलावा आठ सड़कों का भी उद्घाटन किया है'. No separate rupee figure for the eight roads. The article names the Meerut South assembly constituency.",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "Namo Bharat corridor and Meerut Metro were dedicated to Meerut in February 2026, ending a seven-year wait (district-level, not AC-specific)",
-      "hindi": "नमो भारत और मेरठ मेट्रो की सौगात मिली",
+      "english": "After seven years, Meerut got Namo Bharat and Metro",
+      "hindi": "सात साल बाद मेरठ को नमो भारत और मेट्रो मिली",
       "inference": false,
       "basis": "Amar Ujala, 22 Feb 2026 (opened and verified): PM and CM dedicated the Namo Bharat rapid corridor and Meerut Metro; 'सात साल से चल रहा इंतजार समाप्त हो गया'. Namo Bharat service had already started on a 55 km stretch. City-wide project; the article names no vidhan sabha.",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "Mayor had pumps installed in Shastri Nagar L-Block to drain waterlogging (AC membership unconfirmed)",
-      "hindi": "शास्त्रीनगर में पंप लगने से जलभराव का पानी निकला",
+      "english": "Pumps were installed in Shastri Nagar L-Block and the waterlogged water was drained",
+      "hindi": "शास्त्रीनगर एल-ब्लॉक में पंप लगवाकर जलभराव का पानी निकलवाया",
       "inference": false,
       "basis": "Amar Ujala, 24 May 2026 (opened and verified): mayor visited Shastri Nagar L-Block, 'वहां पंपिंग सेट लगवाकर पानी की निकासी कराई'; the article says the waterlogging problem was resolved 'तत्काल'. AC membership unconfirmed: the article names no vidhan sabha and I could not confirm Shastri Nagar lies inside Meerut South.",
       "sources": [
@@ -82,7 +82,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Waterlogging in Jaibhim Nagar, Sarai Kazi and similar localities of Meerut South",
+      "english": "Waterlogging is a problem in Jaibhim Nagar, Sarai Kazi and similar localities",
       "hindi": "जयभीम नगर और सराय काजी जैसे इलाकों में जलभराव से परेशानी है",
       "inference": false,
       "basis": "Amar Ujala, 6 Oct 2025 (opened and verified): drains in Jaibhim Nagar, Takshshila Colony, Sarai Kazi, Mayur Vihar and Jagriti Vihar Sector 8 are to relieve waterlogging and other problems. The waterlogging is implied by the purpose of the drains, not described in voter words in the article. The article names the Meerut South constituency.",
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "Dairy dung dumped into drain chokes the sewer and causes waterlogging in Shastri Nagar L-Block (AC membership unconfirmed)",
-      "hindi": "शास्त्रीनगर में डेयरी का गोबर नाले में बहने से सीवर चोक हो जाता है",
+      "english": "In Shastri Nagar, dairy dung in the drain chokes the sewer and causes waterlogging",
+      "hindi": "शास्त्रीनगर में डेयरी का गोबर नाले में, सीवर चोक और जलभराव",
       "inference": false,
       "basis": "Amar Ujala, 24 May 2026 (opened and verified): dairy operators 'गोबर नाले में बहा देते हैं, जिससे सीवर चॉक होने से जलभराव होता है'; the waterlogging extends from the L-Block crossing to the Bijli Bamba bypass; traders confirmed the problem. Article blames illegal dairies. AC membership unconfirmed: no vidhan sabha named.",
       "sources": [
@@ -110,8 +110,8 @@
     },
     {
       "rank": 3,
-      "english": "Repeated waterlogging at Kotla Bazaar after road was raised without a proper drain, complaints unresolved (AC membership unconfirmed)",
-      "hindi": "कोटला बाजार में बार-बार जलभराव, शिकायतों पर कोई ठोस कार्रवाई नहीं",
+      "english": "Kotla Bazaar waterlogs again and again, and complaints bring no action",
+      "hindi": "कोटला बाजार में बार-बार पानी भरता है, शिकायत पर कुछ नहीं होता",
       "inference": false,
       "basis": "Amar Ujala, 11 Jun 2026 (opened and verified): trader spokesperson Nitin Gupta says the road was raised near the Gurudwara culvert without an adequate drain; drains stay clogged; fourth waterlogging episode; complaints to municipal officials gave no concrete action; traders threatened protest. Article names no vidhan sabha, so AC membership is unconfirmed.",
       "sources": [
@@ -124,7 +124,7 @@
     },
     {
       "rank": 4,
-      "english": "After heavy rain the Abu drain overflowed and water spilled onto a Meerut road (city-level, no AC named)",
+      "english": "The Abu drain overflows in rain and water comes onto the road",
       "hindi": "बारिश में आबू नाला लबालब, सड़क पर पानी आ गया",
       "inference": false,
       "basis": "Amar Ujala video page, 28 Jul 2026 (opened and verified): headline 'बारिश के कारण लबालब भरा आबू नाला, सड़क पर आया पानी'; the drain overflowed after heavy rain and no area or constituency is named. City-level, not AC-specific.",
@@ -138,15 +138,15 @@
     },
     {
       "rank": 5,
-      "english": "*Potholes, garbage and sewer complaints remain pending in the AC's wards",
-      "hindi": "*गड्ढे, कूड़ा और सीवर की शिकायतें वार्डों में लंबित हैं",
+      "english": "*Complaints about potholes, garbage and sewers are still pending in the wards",
+      "hindi": "*गड्ढों, कूड़े और सीवर की शिकायतें अभी भी पड़ी हैं",
       "inference": true,
       "basis": "Inference: no sourced item. A Newstrack report of 11 Oct 2026 on Ward 46 listed pending potholes, garbage and sewer complaints, but Newstrack returned HTTP 403 on every attempt and no other outlet confirmed it, so the claim is removed from the sourced list and kept only as a flagged guess.",
       "sources": []
     }
   ],
   "ac_specific_negatives": 1,
-  "notes": "AC identity confirmed from the Wikipedia UP constituency list (No. 49 Meerut South, district Meerut, reserved None). The list page has no region column; region 'Paschim UP' is the brief's classification. The Wikipedia Meerut South page lists the extent as KC Meerut and Meerut M Corp. wards 2, 3, 5, 10, 11, 13, 16, 19, 25, 28, 30, 31, 33, 34, 35, 39, 41 and 46 of Meerut tehsil, so ward 46 is inside the AC per Wikipedia. Newstrack (ward 46 report, 11 Oct 2026) returned HTTP 403 on all attempts and no mirror confirmed it, so the four items sourced to it were removed; positive 5 and negative 5 are flagged inferences. Shastri Nagar and Kotla Bazaar: AC membership unconfirmed. Neither the Wikipedia extent nor the articles name them; they are kept as Meerut-city sources and excluded from ac_specific_negatives. Abu nala (negative 4) and Namo Bharat/Metro (positive 3) are city-level, not AC-specific. Excluded: Bombay Bazaar (Jan 2026, Cantonment area, a different AC); MSN report on Rs 16.06 crore road widening (no article text); Newstrack Ward 31 (403); undated Quint Shobhapur report. MLA status for 2026 is not verified and is not named in any statement. Field check recommended: confirm Kotla Bazaar, Shastri Nagar L-Block and Jail Road stretch against the AC ward map; find local Hindi coverage of Meerut South drains and roads, which searches did not surface.",
+  "notes": "AC identity confirmed from the Wikipedia UP constituency list (No. 49 Meerut South, district Meerut, reserved None). The list page has no region column; region 'Paschim UP' is the brief's classification. The Wikipedia Meerut South page lists the extent as KC Meerut and Meerut M Corp. wards 2, 3, 5, 10, 11, 13, 16, 19, 25, 28, 30, 31, 33, 34, 35, 39, 41 and 46 of Meerut tehsil, so ward 46 is inside the AC per Wikipedia. Newstrack (ward 46 report, 11 Oct 2026) returned HTTP 403 on all attempts and no mirror confirmed it, so the four items sourced to it were removed; positive 5 and negative 5 are flagged inferences. Shastri Nagar and Kotla Bazaar: AC membership unconfirmed. Neither the Wikipedia extent nor the articles name them; they are kept as Meerut-city sources and excluded from ac_specific_negatives. Abu nala (negative 4) and Namo Bharat/Metro (positive 3) are city-level, not AC-specific. Excluded: Bombay Bazaar (Jan 2026, Cantonment area, a different AC); MSN report on Rs 16.06 crore road widening (no article text); Newstrack Ward 31 (403); undated Quint Shobhapur report. MLA status for 2026 is not verified and is not named in any statement. Field check recommended: confirm Kotla Bazaar, Shastri Nagar L-Block and Jail Road stretch against the AC ward map; find local Hindi coverage of Meerut South drains and roads, which searches did not surface. P5 weak positive: forecast only; the sources do not show the drains finished or relief delivered.",
   "round2": {
     "verified_sources": 5,
     "removed_sources": 4,

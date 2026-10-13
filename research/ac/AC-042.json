@@ -25,8 +25,8 @@
     },
     {
       "rank": 2,
-      "english": "An unregistered clinic in Hasanpur has been sealed",
-      "hindi": "बिना रजिस्ट्रेशन चल रहा क्लीनिक सील हुआ",
+      "english": "An unregistered clinic on Rahra Road was sealed, and that is good",
+      "hindi": "राहरा रोड पर बिना रजिस्ट्रेशन चल रहा क्लीनिक सील हुआ, अच्छा हुआ",
       "inference": false,
       "basis": "Amar Ujala (Moradabad Bureau, dateline Hasanpur, 7 Oct 2026): a health team sealed New Family Health Care Centre on Rahra Road for running without registration, and issued a notice (no sealing yet, children admitted) to Saloni Baal Clinic on the same road. The inspection followed complaints; the article does not say who complained. An enforcement action, not a voter's view.",
       "sources": [
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "english": "*Seven roads worth about Rs 10 crore in the Hasanpur area have been approved",
-      "hindi": "*हसनपुर में 10 करोड़ की सात सड़कें मंजूर हुई हैं",
+      "hindi": "*हसनपुर में करीब 10 करोड़ की सात सड़कें मंजूर हुई हैं",
       "inference": true,
       "basis": "Inference: approval only. Amar Ujala (dateline Hasanpur, 26 Aug 2026): about Rs 10 crore approved for seven roads (Agrola Kala crossroads to Fattehpur, Sohraka to Allipur Milak, and five others), on MLA Mahendra Khadgavanshi's proposal. The article uses future tense and does not say any road has started or finished. No voter view found; field check needed.",
       "sources": [
@@ -54,7 +54,7 @@
     {
       "rank": 4,
       "english": "*Repair of three roads in the Hasanpur area has been approved and tendering has started",
-      "hindi": "*हसनपुर क्षेत्र की तीन सड़कों की मरम्मत मंजूर हुई है",
+      "hindi": "*हसनपुर की तीन सड़कों की मरम्मत मंजूर हो गई, टेंडर भी लग गया",
       "inference": true,
       "basis": "Inference: approval and tendering only. Amar Ujala (Amroha, 11 Sep 2026): PWD approved repair of nine roads in the district, three of them in the Hasanpur area (Sambhal-Dayarsi to Pandika crossing, Rahra-Gaya to Dehri Khadar, Aitmali to Kasaipura). The article says tendering has started but no repair work is reported, and the PWD XEN said work would finish in 30 days if it does not rain. Weak positive; field check needed.",
       "sources": [
@@ -67,8 +67,8 @@
     },
     {
       "rank": 5,
-      "english": "*Basic first treatment is available at the Hasanpur CHC",
-      "hindi": "*सीएचसी में पहला इलाज मिल जाता है",
+      "english": "*The CHC gave an injured child first aid",
+      "hindi": "*सीएचसी में घायल बच्चे को पहला इलाज मिला",
       "inference": true,
       "basis": "Inference: Amar Ujala (dateline Hasanpur, 19 Jun 2026) shows the community health centre gave an injured child first aid and referred him to the district hospital. No resident praised the CHC and no later report was found. Weakest positive; field check needed.",
       "sources": [
@@ -97,8 +97,8 @@
     },
     {
       "rank": 2,
-      "english": "Stray dogs are attacking children and no action is taken even after complaints",
-      "hindi": "आवारा कुत्ते बच्चों को काट रहे हैं, शिकायत पर कार्रवाई नहीं",
+      "english": "Stray dogs are attacking children, and complaints lead to no action",
+      "hindi": "आवारा कुत्ते बच्चों को काट रहे हैं, शिकायत पर कोई कार्रवाई नहीं होती",
       "inference": false,
       "basis": "Amar Ujala (dateline Hasanpur, 19 Jun 2026), Abdullah Colony on Sambhal Road: a pack of stray dogs mauled a 7-year-old deaf-mute boy on Thursday night. Residents said stray dogs had attacked three children in four months and that written and verbal complaints to the nagar palika had led to no action. These are residents' allegations as reported.",
       "sources": [
@@ -111,8 +111,8 @@
     },
     {
       "rank": 3,
-      "english": "Open drains in Hasanpur town have people falling in and getting hurt, and the municipality is not serious",
-      "hindi": "खुले नालों में गिरकर लोग घायल, नगर पालिका गंभीर नहीं",
+      "english": "People fall into the open drains in Hasanpur and get hurt, and the municipality is not serious",
+      "hindi": "हसनपुर के खुले नालों में गिरकर लोग घायल होते हैं, पालिका गंभीर नहीं",
       "inference": false,
       "basis": "Amar Ujala (dateline Hasanpur, 16 Jul 2026): deep open drains on main roads and in dense mohallas, named spots HS Public School road, Rahra Adda to Sambhal Adda, Ambedkar Chowk to hospital road and the truck union bypass. Two- and four-wheeler riders fell in at night and were hurt; residents say there have been earlier deaths and accuse the municipality of not being serious. Municipal board chairman Rajpal Saini said barricading of open drains will start soon, with no timeline. Residents' allegations as reported.",
       "sources": [
@@ -139,8 +139,8 @@
     },
     {
       "rank": 5,
-      "english": "The Hasanpur to Rahra road has deep potholes and is hard to use in the rain",
-      "hindi": "हसनपुर-राहरा रोड पर गहरे गड्ढे, बारिश में निकलना मुश्किल",
+      "english": "The Hasanpur to Rahra road has deep potholes and is hard to get through in the rain",
+      "hindi": "हसनपुर-राहरा रोड पर गहरे गड्ढे हैं, बारिश में निकलना मुश्किल होता है",
       "inference": false,
       "basis": "Amar Ujala (Moradabad Bureau, 2 Oct 2026): after two days of rain, the Hasanpur-Rahra road has deep potholes, worst near Rustampur Khadar; two-wheeler riders slip and get injured. The Hasanpur end is in the AC town; whether Rustampur Khadar and Rahra lie inside the AC is not confirmed, so this is not counted as AC-specific. The same article's jam report refers to Amroha city roads, not this road.",
       "sources": [
@@ -152,7 +152,7 @@
       ]
     }
   ],
-  "notes": "Thin local evidence: positives 3, 4 and 5 are inferences (approval-only or a weak first-aid report), and the sourced positives are an MLA's statement and an enforcement action. AC extent is not confirmed: the Wikipedia AC page, the amroha.nic.in constituency page and the Hindi Wikipedia AC page list no tehsils, blocks, villages or areas. Hasanpur town is the AC's namesake and the dateline of negatives 1-3; this is counted as AC-specific but no source states the town's AC membership. Rukhalu (Univarta 8 Oct 2026, Amrit Vichar 21 May 2025) was dropped: both place it in Hasanpur tehsil, which is not the AC; the 26 Aug 2026 Amar Ujala expressway article also names Rukhalu only in the 'Hasanpur area' list. Ganga Expressway: the 26 Aug 2026 Amar Ujala article says the expressway starts at the Mangrola T-point and that 52 villages of Hasanpur and Mandi Dhanaura tehsils are in the project scope; it does not give Mangrola's tehsil or AC. Mangrola's toll plaza is mentioned in Amar Ujala (4 May 2026) with no AC link. Membership of the Hasanpur expressway stretch and of Mangrola is unconfirmed. Hasanpur industrial park: Amar Ujala (4 May 2026, Hasanpur dateline) reports about 2,200 bigha for an industrial corridor, about 65% acquired, with no factories named and no village named. Not used as a positive (no delivered benefit, location unconfirmed). A 120-hectare park claim seen in search snippets was not fetched and is not used. Dropped positives: the cane-survey item (the source reports 88 teams to demonstrate the survey, not village-level corrections) and the advance-notice item (the source gives no direct SDO quote). Rahra AC membership and Rustampur Khadar AC membership remain unconfirmed. Field check needed: power supply, stray dogs, open drains, the Hasanpur-Rahra road, and whether the approved road works have started.",
+  "notes": "Thin local evidence: positives 3, 4 and 5 are inferences (approval-only or a weak first-aid report), and the sourced positives are an MLA's statement and an enforcement action. AC extent is not confirmed: the Wikipedia AC page, the amroha.nic.in constituency page and the Hindi Wikipedia AC page list no tehsils, blocks, villages or areas. Hasanpur town is the AC's namesake and the dateline of negatives 1-3; this is counted as AC-specific but no source states the town's AC membership. Rukhalu (Univarta 8 Oct 2026, Amrit Vichar 21 May 2025) was dropped: both place it in Hasanpur tehsil, which is not the AC; the 26 Aug 2026 Amar Ujala expressway article also names Rukhalu only in the 'Hasanpur area' list. Ganga Expressway: the 26 Aug 2026 Amar Ujala article says the expressway starts at the Mangrola T-point and that 52 villages of Hasanpur and Mandi Dhanaura tehsils are in the project scope; it does not give Mangrola's tehsil or AC. Mangrola's toll plaza is mentioned in Amar Ujala (4 May 2026) with no AC link. Membership of the Hasanpur expressway stretch and of Mangrola is unconfirmed. Hasanpur industrial park: Amar Ujala (4 May 2026, Hasanpur dateline) reports about 2,200 bigha for an industrial corridor, about 65% acquired, with no factories named and no village named. Not used as a positive (no delivered benefit, location unconfirmed). A 120-hectare park claim seen in search snippets was not fetched and is not used. Dropped positives: the cane-survey item (the source reports 88 teams to demonstrate the survey, not village-level corrections) and the advance-notice item (the source gives no direct SDO quote). Rahra AC membership and Rustampur Khadar AC membership remain unconfirmed. Field check needed: power supply, stray dogs, open drains, the Hasanpur-Rahra road, and whether the approved road works have started. Voice pass (round 3): P2-P5 Hindi reworded to match the basis (sealed clinic, first-aid event, approvals with no forecast). P4 English now matches the Hindi (tendering is in the Hindi). N2, N3 and N5 are in voter voice; the dog and drain claims stay residents' allegations. N4 is district-level, not Hasanpur-specific. P1 weak positive: the appreciation is the MLA's statement, no voter praise found. P2 weak positive: an enforcement action, with no voter view in the source. P3 weak positive: approval only, no work started. P4 weak positive: approval and tendering only. P5 weak positive: one first-aid incident, no resident praise.",
   "round2": {
     "verified_sources": 9,
     "removed_sources": 3,

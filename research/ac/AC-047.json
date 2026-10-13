@@ -102,8 +102,8 @@
     },
     {
       "rank": 2,
-      "english": "Drain work in Ganganagar stalled for weeks, leaving an open pit that is a fall and mosquito risk",
-      "hindi": "गंगानगर में नाला कई हफ्तों से रुका है, खुला गड्ढा खतरा है",
+      "english": "Drain work in Ganganagar has been stalled for weeks and the open pit is dangerous",
+      "hindi": "गंगानगर में नाले का काम कई हफ्तों से रुका, खुला गड्ढा खतरनाक",
       "inference": false,
       "basis": "Amar Ujala (30 Jun 2026): PWD drain work in Ganganagar stalled for 17 days near Hotel Royal 9, leaving an open pit with risk of someone falling at night and mosquito breeding. Amar Ujala (3 Jul 2026): stalled for 19 days, with barricades, warning boards and lighting missing. Ganganagar is ward 37, which lies inside the AC per the Wikipedia extent and Newsprahari",
       "sources": [
@@ -140,8 +140,8 @@
     },
     {
       "rank": 4,
-      "english": "Rainwater stands in Ganganagar, Sadar and Patel Nagar every year, the MLA says",
-      "hindi": "गंगानगर, सदर और पटेल नगर में बारिश में पानी भर जाता है",
+      "english": "Rainwater stands in Ganganagar, Sadar and Patel Nagar every year",
+      "hindi": "गंगानगर, सदर, पटेल नगर में हर साल बारिश में पानी भर जाता है",
       "inference": false,
       "basis": "Newsprahari (dated 9 July 2026 in the article, year from URL): Cantt MLA Amit Agarwal inspected waterlogged areas including Ganganagar, Sadar, Patel Nagar, Begumpul, Jali Kothi, Lalkurti and Rajban, and said areas that flood every year need a long-term plan. Ganganagar is ward 37 (inside AC per Wikipedia extent). Sadar and Patel Nagar membership is not on the extent list; implied only by the MLA's inspection",
       "sources": [
@@ -154,7 +154,7 @@
     },
     {
       "rank": 5,
-      "english": "Power goes off for three to five hours in several Meerut areas in summer",
+      "english": "Power goes off for three to five hours in several Meerut areas",
       "hindi": "मेरठ में कई इलाकों में तीन से पांच घंटे बिजली गुल रहती है",
       "inference": false,
       "basis": "Amar Ujala (Meerut bureau, 24 Jun 2026, 10:01 PM): power cuts of three to five hours in many parts of the city; areas named include Kankarkheda, TP Nagar, Garh Road and Khairnagar; a Dawa Market chemists' leader said business and equipment were affected. District-level, not AC-specific",
@@ -167,7 +167,7 @@
       ]
     }
   ],
-  "notes": "AC number, name, district and reserved status confirmed from the Wikipedia UP constituency list (row 47 Meerut Cantt., None; rows 46 Kithore and 48 Meerut as context; district cell is merged so Meerut is read from the Meerut Lok Sabha context). The Meerut Cantonment Assembly constituency page gives the extent as Meerut (CB) plus MNC wards 1, 6-9, 18, 23, 26, 30, 32, 37, 40, 44, 52, 59, 61, 63, 64, 66, 67, 70; no locality names are given. Ward numbers confirmed by news: ward 37 Ganganagar, ward 46 Sanjay Nagar, ward 67 Durga Nagar Kailashpuri (Newsprahari). Kankarkhera is treated as inside AC only because Amar Ujala reports Cantt MLA fund works there; it is not on the extent list. Sharma Nagar, Durganagar, Sadar, Patel Nagar and Sadar Bazar AC membership is unconfirmed: the Sharma Nagar and Durganagar positives and the Sadar Bazar negative carry this flag in basis. The Newsprahari 60.html article has no printed date (URL month 2026-05; it says only 'Saturday'). A Newsprahari piece (Aug 2026, drains worth Rs 67.73 crore approved for Jali Kothi and Rohta railway crossing) is an approval only, not a delivered benefit, so it is not used. Bharatpedia's copy of the constituency article lists Satya Prakash Agarwal as MLA (2017); current news names Amit Agarwal as Cantt MLA, which is what is used. Searches for AC-specific civic problems in Hindi and English mostly returned city-wide or other-city results. The Abu Nala overflow (Amar Ujala video, 28 Jul 2026) was dropped as a negative because no AC locality is named. Field check recommended on Ganganagar drain pit status after monsoon, Kankarkhera power supply, and whether Sadar and Patel Nagar lie inside the AC.",
+  "notes": "AC number, name, district and reserved status confirmed from the Wikipedia UP constituency list (row 47 Meerut Cantt., None; rows 46 Kithore and 48 Meerut as context; district cell is merged so Meerut is read from the Meerut Lok Sabha context). The Meerut Cantonment Assembly constituency page gives the extent as Meerut (CB) plus MNC wards 1, 6-9, 18, 23, 26, 30, 32, 37, 40, 44, 52, 59, 61, 63, 64, 66, 67, 70; no locality names are given. Ward numbers confirmed by news: ward 37 Ganganagar, ward 46 Sanjay Nagar, ward 67 Durga Nagar Kailashpuri (Newsprahari). Kankarkhera is treated as inside AC only because Amar Ujala reports Cantt MLA fund works there; it is not on the extent list. Sharma Nagar, Durganagar, Sadar, Patel Nagar and Sadar Bazar AC membership is unconfirmed: the Sharma Nagar and Durganagar positives and the Sadar Bazar negative carry this flag in basis. The Newsprahari 60.html article has no printed date (URL month 2026-05; it says only 'Saturday'). A Newsprahari piece (Aug 2026, drains worth Rs 67.73 crore approved for Jali Kothi and Rohta railway crossing) is an approval only, not a delivered benefit, so it is not used. Bharatpedia's copy of the constituency article lists an older MLA (2017); current news names a different Cantt MLA, which is what is used. Searches for AC-specific civic problems in Hindi and English mostly returned city-wide or other-city results. The Abu Nala overflow (Amar Ujala video, 28 Jul 2026) was dropped as a negative because no AC locality is named. Field check recommended on Ganganagar drain pit status after monsoon, Kankarkhera power supply, and whether Sadar and Patel Nagar lie inside the AC.",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 1,

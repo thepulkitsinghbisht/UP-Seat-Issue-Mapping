@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Work has started on the 14 km Joya to Manauta road",
-      "hindi": "जोया से मनौटा तक 14 किलोमीटर सड़क का काम शुरू हो गया है",
+      "english": "Work has started on the roughly 14 km road from Joya to Manauta",
+      "hindi": "जोया से मनौटा की करीब 14 किलोमीटर सड़क पर काम शुरू हो गया",
       "inference": false,
       "basis": "Amroha Dehat booth list on NIC 41-Amroha includes Joya block office polling station, so Joya is listed under AC 41; Manauta not checked. Article (Amar Ujala, 8 Oct 2026): Joya crossing to Manauta, about 14 km, repair work being started after rain halted it; Executive Engineer says work has begun on the Joya-Sambhal widening; carriageway 5.5 m widened to 7 m; about Rs 19 crore; no completion date",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "*First instalment has come for the Faraspura-Afzalpur road, work to start soon",
-      "hindi": "*फरासपुरा-अफजलपुर सड़क की पहली किस्त आ गई, काम जल्द शुरू होगा",
+      "english": "*The first instalment has come for the Faraspura-Afzalpur road",
+      "hindi": "*फरासपुरा-अफजलपुर सड़क के लिए पहली किस्त आ गई",
       "inference": true,
       "basis": "Inference: funds and approval only, work not started. Amar Ujala (23 Sep 2026) explicitly names the Amroha Assembly area: Faraspura link road via Naseerpur bypass to Afzalpur road, Mukhyamantri Gramin Sadak Yojana, about 1.5 km, Rs 1.19 crore; first instalment released; work to start soon, no date",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "*Rs 6 crore has come for the wards added to the municipality, drains to be built",
-      "hindi": "*नगर पालिका में जुड़े वार्डों के लिए छह करोड़ मिले, नालियां बनेंगी",
+      "english": "*Rs 6 crore has been received for the newly added wards of the municipality",
+      "hindi": "*नगर पालिका के नए जुड़े वार्डों के लिए छह करोड़ मिले हैं",
       "inference": true,
       "basis": "Inference: Executive Officer says Rs 6 crore received for newly added wards of Amroha municipality (Amar Ujala, 5 Apr 2026); drains in waterlogged areas, roads, street lights planned. Work not started, no start date, wards not named. Weak positive pending field check",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "*Roads have got better and travel has become easier, says a trader",
-      "hindi": "*सड़कें पहले से अच्छी हुई हैं, आना-जाना आसान हुआ है",
+      "english": "*State roads have become better than before and travel has become easier",
+      "hindi": "*प्रदेश की सड़कें पहले से अच्छी हुईं, आना-जाना आसान हुआ",
       "inference": true,
       "basis": "Inference: one dholak trader (Deepak Agarwal, Hemlata Handicraft) in a district-level ground report (Amar Ujala, 5 Sep 2026) says state roads have improved since the Yogi government and transport is easier. The quote is about the state, names no road or stretch in Amroha and gives no date. Opinion only, weak positive",
       "sources": [
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Transformer failed, Pirgarh mohalla without power for 36 hours, water tanks dry",
-      "hindi": "ट्रांसफार्मर खराब, पीरगढ़ में 36 घंटे बिजली गुल, टंकियां भी खाली",
+      "english": "The transformer is broken, Pirgarh has had no power for 36 hours, and the tanks are empty",
+      "hindi": "ट्रांसफार्मर खराब है, पीरगढ़ में 36 घंटे से बिजली नहीं, टंकियां खाली हैं",
       "inference": false,
       "basis": "Amroha city mohalla Pirgarh; AC 41 membership of the city confirmed by exclusion (AC 40 extent lists only KCs Naugawan Sadat and Kailsa and Naugawan Sadat NP) and city booths on the NIC 41-Amroha booth list. Article (Amar Ujala, 11 Oct 2026): 400 kVA transformer at Pirgarh failed on Friday afternoon (9 Oct), about 36 hours without supply; about 250 people and about 250 families both stated; residents say empty water tanks cause a drinking water shortage; SDO says a second transformer will be installed",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "Stray dogs bit 17 people in Amroha city, eight of them children",
-      "hindi": "शहर में कुत्तों ने 17 लोगों को काटा, इनमें आठ बच्चे भी शामिल",
+      "english": "Stray dogs have bitten 17 people in the city, eight of them children",
+      "hindi": "शहर में कुत्तों ने 17 लोगों को काट लिया, इनमें आठ बच्चे हैं",
       "inference": false,
       "basis": "Amroha city mohallas Pirzada and Mullana (both on NIC 41-Amroha booth list), Chahmullana, Jhanda Shaheed. Attacks on Saturday 10 Oct 2026 (Amar Ujala, 12 Oct 2026): 8 children and 9 others bitten; victims given anti-rabies vaccine at district hospital; residents fear a rabid dog; article reports no official response",
       "sources": [
@@ -110,8 +110,8 @@
     },
     {
       "rank": 3,
-      "english": "When power goes the tank stops, five Amroha neighbourhoods go without water",
-      "hindi": "बिजली जाते ही टंकी बंद, पांच मोहल्लों में पानी को तरसे लोग",
+      "english": "When power goes the tank stops, and people in five neighbourhoods are desperate for water",
+      "hindi": "बिजली जाते ही टंकी बंद, पांच मोहल्लों में पानी को तरसते हैं",
       "inference": false,
       "basis": "Five Amroha city mohallas: Lakshmanwali and Hussainpura Madhaiya are on NIC 41-Amroha booth list; Mehmadi Sarai, Chunni Wali Madhaiya, Imli Wali Madhaiya city mohallas. Amar Ujala, 3 Oct 2026: tanks run on electricity so supply stops during cuts; residents petitioned municipal chairman for solar lights and a generator; EO Dinesh Kumar says a generator-based supply will be arranged",
       "sources": [
@@ -124,8 +124,8 @@
     },
     {
       "rank": 4,
-      "english": "Drains full of filth in Amroha city, cleaning is only a formality",
-      "hindi": "नाले गंदगी से भरे, सफाई के नाम पर खानापूर्ति",
+      "english": "Drains in the city are full of filth, and cleaning is only in name",
+      "hindi": "शहर के नाले गंदगी से भरे हैं, सफाई बस नाम की है",
       "inference": false,
       "basis": "Amroha city; Katkui, Nai Basti, Bijnor Road, Joya Road and Kailsa Road (Amroha city stretch) are on NIC 41-Amroha booth list; Chhebra, Beriyan, Atrasi Road, Mangalvar Bazar and Gandhi Murti crossing are city places, confirmed by city membership. Amar Ujala, 5 May 2026: drains clogged with waste, polythene and dirt; cleaning called token and only half done by residents; municipality's lakh-rupee cleaning claims submerged in light rain; article has no official response",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Potholes and standing water on Subodh Nagar road, bikers fall and get hurt",
-      "hindi": "सुबोध नगर मार्ग पर गड्ढे और भरा पानी, बाइक सवार गिरकर घायल",
+      "english": "The Subodh Nagar road has potholes and standing water, and bike riders fall and get hurt",
+      "hindi": "सुबोध नगर की सड़क पर गड्ढे और भरा पानी, बाइक सवार गिरकर घायल",
       "inference": false,
       "basis": "Subodh Nagar and Pushkar Nagar link road, Amroha dateline. Amar Ujala, 31 May 2026: potholes and standing water on the main road for a long time, water always pooled near a primary school, several bikers fallen and injured; residents say municipal and PWD officials have not acted. AC 41 membership of Subodh Nagar not confirmed (not on NIC booth list); article reports no official response",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "AC confirmed as No. 41 Amroha, district Amroha, reservation None (Wikipedia list row 41 and AC page). AC 41 extent text is still not retrieved: the English AC page has no extent section; retried this round, no tehsil/KC/ward detail. Membership of Amroha city is inferred by exclusion from the AC 40 extent (Wikipedia Naugawan Sadat page: tehsil Amroha KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP; city not listed) and confirmed by the NIC 41-Amroha polling-station list, which includes many city mohallas (Pirzada, Mullana, Madhaiya Lakshmanwali and Hussainpura, Katkui, Bijnor Road, Joya Road, Nal Nayi Basti, Kailsa Road block campus) and Joya block. This is a strong but indirect confirmation. Pirgarh, Chhebra, Subodh Nagar are not on the booth list. Subodh Nagar is not counted. Excluded earlier: Kalali Road (Dhanaura side), Nawada and Pushkarnagar items (ward membership unconfirmed), Gajraula, Hasanpur, Dhanaura items. Transformer article gives 250 people and 250 families, unreconciled. Sugarcane dues: no Amroha-specific report found. Positive 3 names the Amroha Assembly area but is only an approval, so inference. Positives 4 and 5 are weak inferences. Searches for completed local projects (roads, drains, CHC) in Amroha city found only plans and tenders, not completion reports. Field check recommended: confirm AC 41 extent from the UP delimitation order or district NIC site; whether Pirgarh, Subodh Nagar, Darana Nagar and Manauta are inside AC 41; and whether Faraspura-Afzalpur work has started.",
+  "notes": "AC confirmed as No. 41 Amroha, district Amroha, reservation None (Wikipedia list row 41 and AC page). AC 41 extent text is still not retrieved: the English AC page has no extent section; retried this round, no tehsil/KC/ward detail. Membership of Amroha city is inferred by exclusion from the AC 40 extent (Wikipedia Naugawan Sadat page: tehsil Amroha KCs Naugawan Sadat, Kailsa and Naugawan Sadat NP; city not listed) and confirmed by the NIC 41-Amroha polling-station list, which includes many city mohallas (Pirzada, Mullana, Madhaiya Lakshmanwali and Hussainpura, Katkui, Bijnor Road, Joya Road, Nal Nayi Basti, Kailsa Road block campus) and Joya block. This is a strong but indirect confirmation. Pirgarh, Chhebra, Subodh Nagar are not on the booth list. Subodh Nagar is not counted. Excluded earlier: Kalali Road (Dhanaura side), Nawada and Pushkarnagar items (ward membership unconfirmed), Gajraula, Hasanpur, Dhanaura items. Transformer article gives 250 people and 250 families, unreconciled. Sugarcane dues: no Amroha-specific report found. Positive 3 names the Amroha Assembly area but is only an approval, so inference. Positives 4 and 5 are weak inferences. Searches for completed local projects (roads, drains, CHC) in Amroha city found only plans and tenders, not completion reports. Field check recommended: confirm AC 41 extent from the UP delimitation order or district NIC site; whether Pirgarh, Subodh Nagar, Darana Nagar and Manauta are inside AC 41; and whether Faraspura-Afzalpur work has started. Voice pass (round 3): P1 says 'roughly 14 km' as in the basis. P3 now says only that the first instalment came; the 'work to start soon' forecast is removed. P4 now says funds were received; drains and work are not started. P5 is one trader's view of state roads, not Amroha roads. P3 weak positive: funds released, no work started. P4 weak positive: funds received, drains not started. P5 weak positive: one trader's view of state roads, names no Amroha road.",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 0,

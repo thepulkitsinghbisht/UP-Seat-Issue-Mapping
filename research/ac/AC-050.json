@@ -80,8 +80,8 @@
     },
     {
       "rank": 3,
-      "english": "Groundwater is falling in Baghpat and water quality is a problem",
-      "hindi": "बागपत में भूजल गिर रहा है, पानी की गुणवत्ता भी खराब",
+      "english": "Groundwater is falling in Baghpat and there are problems with water quality",
+      "hindi": "बागपत में भूजल गिर रहा है, पानी की गुणवत्ता में भी दिक्कत",
       "inference": false,
       "basis": "Wikipedia Bagpat district page: the Central Ground Water Board has reported declining groundwater levels and quality issues in Bagpat district, singling out Binauli, Pilana and Khekra blocks. District-level; Binauli block is not the same as the AC; AC membership unconfirmed. CGWB report itself not opened",
       "sources": [
@@ -94,7 +94,7 @@
     },
     {
       "rank": 4,
-      "english": "Chhaprauli to Haridwar bus via Doghat was announced, but no start is confirmed",
+      "english": "A Chhaprauli to Haridwar bus was announced, but there is no news of it starting",
       "hindi": "छपरौली से हरिद्वार बस का ऐलान हुआ, पर चलने की खबर नहीं",
       "inference": false,
       "basis": "Amar Ujala (17 Jun 2025): the article says a Chhaprauli to Haridwar bus via Doghat would run at 6:30 am, that the facility had not been available until then, and that an official said it would begin soon. No start date given; no report of its start found in later searches. Verify on the ground. Route starts in Chhaprauli town, inside the AC",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 5,
-      "english": "Night fire in a Chhaprauli town warehouse, owner suspects anti-social elements",
+      "english": "A night fire in a Chhaprauli town warehouse, anti-social elements suspected",
       "hindi": "छपरौली कस्बे में रात को गोदाम में आग, असामाजिक तत्वों पर शक है",
       "inference": false,
       "basis": "Amar Ujala (19 May 2025): cardboard warehouse fire in Mohalla Qureshiyan, Chhaprauli town, late on Sunday night (18 May 2025); cardboard worth over Rs 50,000 burnt; owner suspected anti-social elements. Cause not confirmed. Single incident, not a broad complaint",
@@ -128,5 +128,5 @@
     "ac_specific_negatives": 3,
     "changes": "Aaj Tak 26 Sep 2026 ground report could not be opened (HTTP 403): its sources removed from positives 1-4 and those items flagged as inference. Positive 5 (all three mills paid in full) removed as contradicted by the same 12 Oct article and by its dues figures. Cane-payment positive dropped. Negative 1 basis now quotes the 30 Sep article and confirms NP membership via the Wikipedia AC page. Negative 2 keeps the dues notice and drops the contradictory 'paid in full' claim. Negative 3 Hindi shortened to 11 words. Negative 4 reworded to 'announced, start not confirmed' because the 2025 article cannot show the current status. Re-ranked: road dispute 1, cane dues 2, groundwater 3, bus 4, fire 5. Verified this round: Wikipedia AC list row 50, Wikipedia Chhaprauli AC extent, Bagpat district Wikipedia, both Amar Ujala 2026 articles, bus and fire articles. Searches for 2026 Chhaprauli-specific news returned nothing usable; an MP-meets-CM Amar Ujala article (1 May 2026) names only Malakpur mill and was not used"
   },
-  "notes": "AC identity confirmed: Wikipedia list row 50 (Chhaprauli, Bagpat, None) and the Chhaprauli Assembly constituency page (Baraut tehsil; Chhaprauli, Doghat and Tikri NPs). Spelling: Bagpat on Wikipedia, Baghpat in official usage. Hindi name from press usage. Positives: all five are inference because the only source for them (Aaj Tak, 26 Sep 2026, https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26) returned HTTP 403 and could not be read; re-open it on a retry or find an outlet copy before citing. Cane contradiction resolved with the latest dated source (12 Oct 2026): dues of Rs 20 crore (Kinauni) and Rs 9 crore (Bhainsana) with notices; the 'paid in full' sentence in that article contradicts its own figures and is not used. AC membership of Kinauni and Bhainsana mills is unconfirmed. Coverage gap: no 2026 Chhaprauli-specific report on water, roads, power or jobs was found. The 21-road Rs 30 crore plan (26 Aug 2026) is an announcement and was not verified in this round, so not used. Excluded: Idrishpur killing (11 Oct 2026), location not confirmed inside AC; Eastern Yamuna canal RLD post (not opened). Field check recommended: Chhaprauli and Doghat water supply, the Haridwar bus start, the nagar panchayat road proposal dispute, and the cane-payment position at the mills."
+  "notes": "AC identity confirmed: Wikipedia list row 50 (Chhaprauli, Bagpat, None) and the Chhaprauli Assembly constituency page (Baraut tehsil; Chhaprauli, Doghat and Tikri NPs). Spelling: Bagpat on Wikipedia, Baghpat in official usage. Hindi name from press usage. Positives: all five are inference because the only source for them (Aaj Tak, 26 Sep 2026, https://www.aajtak.in/uttar-pradesh/story/baghpat-sugarcane-farmers-ground-report-electricity-fertilizer-payment-ntc-apdy-utrath-rptc-2653619-2026-09-26) returned HTTP 403 and could not be read; re-open it on a retry or find an outlet copy before citing. Cane contradiction resolved with the latest dated source (12 Oct 2026): dues of Rs 20 crore (Kinauni) and Rs 9 crore (Bhainsana) with notices; the 'paid in full' sentence in that article contradicts its own figures and is not used. AC membership of Kinauni and Bhainsana mills is unconfirmed. Coverage gap: no 2026 Chhaprauli-specific report on water, roads, power or jobs was found. The 21-road Rs 30 crore plan (26 Aug 2026) is an announcement and was not verified in this round, so not used. Excluded: Idrishpur killing (11 Oct 2026), location not confirmed inside AC; Eastern Yamuna canal post (not opened). Field check recommended: Chhaprauli and Doghat water supply, the Haridwar bus start, the nagar panchayat road proposal dispute, and the cane-payment position at the mills. P5 weak positive: unsourced placeholder (no source found this round), so no delivered benefit is shown."
 }

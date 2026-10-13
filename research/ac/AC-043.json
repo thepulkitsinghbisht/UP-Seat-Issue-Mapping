@@ -10,104 +10,144 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Interlocking roads were inaugurated in Kalind, Mainaputhi and Harra villages.",
-      "hindi": "कालंद, मैनापूठी और हर्रा में इंटरलॉकिंग रास्तों का उद्घाटन हुआ",
+      "english": "Interlocking roads have been built in Kalind, Mainaputhi and Harra",
+      "hindi": "कालंद, मैनापूठी और हर्रा में इंटरलॉकिंग रास्ते बन गए हैं",
       "inference": false,
       "basis": "Siwalkhas MLA Haji Gulam Mohammad inaugurated about Rs 61.45 lakh of works: interlocking-tile roads in Kalind (Rs 27.31 lakh), Mainaputhi (Rs 16.96 lakh) and Harra (Rs 17.18 lakh). The report names the Siwalkhas assembly seat, so the villages are inside AC 43 per the report. Verified 2026-10-11.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Roads costing about Rs 20 lakh were inaugurated in Kalind and Pithlokar villages.",
-      "hindi": "कालंद और पिठलोकर में 20 लाख के रास्तों का लोकार्पण हुआ",
+      "english": "Roads costing about Rs 20 lakh have been built in Kalind and Pithlokar",
+      "hindi": "कालंद और पिठलोकर में करीब 20 लाख के रास्ते बन गए",
       "inference": false,
       "basis": "Siwalkhas MLA inaugurated about Rs 20 lakh of schemes: an interlocking road from one house to the main road in Kalind (Rs 10 lakh, MLA's constituency fund) and a road from one house to another in Pithlokar (Rs 10 lakh; article spells it Pitholokar; funding source not stated). Article places the works in Sardhana development block, Sarurpur area. Dated 20 Aug 2025 (event on Tuesday, 19 Aug). The URL is a video page, but the fetched page carries a written article.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-08-20", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-siwalkhas-mla-inaugurated-development-schemes-prepared-at-a-cost-of-rs-20-lakh-2025-08-20"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-08-20",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-siwalkhas-mla-inaugurated-development-schemes-prepared-at-a-cost-of-rs-20-lakh-2025-08-20"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Tourism development work at the Pandeshwar Mahadev temple in Puthkhas was inaugurated.",
-      "hindi": "पूठखास के पांडेश्वर महादेव मंदिर का पर्यटन विकास कार्य लोकार्पित हुआ",
+      "english": "Tourism development work at the Pandeshwar Mahadev temple in Puthkhas is done",
+      "hindi": "पूठखास के पांडेश्वर महादेव मंदिर में पर्यटन का काम हो गया",
       "inference": false,
       "basis": "Tourism minister Jaiveer Singh inaugurated the tourism development work at the Pandeshwar Mahadev temple in village Puthkhas, Rohta development block, Siwalkhas assembly constituency, costing Rs 58.10 lakh. Article dated 14 Mar 2026. This was a state minister's event, not the MLA's.",
       "sources": [
-        {"outlet": "ETV Bharat", "date": "2026-03-14", "url": "https://www.etvbharat.com/hi/state/meerut-tourism-minister-gifts-projects-worth-rs-33-crore-to-meerut-uttar-pradesh-news-ups26031400458"}
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-03-14",
+          "url": "https://www.etvbharat.com/hi/state/meerut-tourism-minister-gifts-projects-worth-rs-33-crore-to-meerut-uttar-pradesh-news-ups26031400458"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Five of Meerut's six sugar mills cleared cane dues of Rs 229 crore for the 2025-26 season.",
-      "hindi": "मेरठ की पांच चीनी मिलों ने 229 करोड़ का गन्ना भुगतान किया",
+      "english": "Five of Meerut's six sugar mills have cleared Rs 229 crore of cane payments",
+      "hindi": "मेरठ की पांच चीनी मिलों ने 229 करोड़ का गन्ना भुगतान कर दिया",
       "inference": false,
       "basis": "District-level, not AC-specific. ChiniMandi (2 Dec 2025, citing Amar Ujala): five of six Meerut district mills have cleared payments totalling Rs 229 crore for cane procured up to 22 Nov (Daurala 87.99, Mawana 75.83, Nanglamal 36.10, Mohiuddinpur 15.76, Sakhoti 13.30 crore). The one lagging mill is Kinauni, which has received notices.",
       "sources": [
-        {"outlet": "ChiniMandi", "date": "2025-12-02", "url": "https://www.chinimandi.com/meerut-five-sugar-mills-clear-on-time-sugarcane-payments/"}
+        {
+          "outlet": "ChiniMandi",
+          "date": "2025-12-02",
+          "url": "https://www.chinimandi.com/meerut-five-sugar-mills-clear-on-time-sugarcane-payments/"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "*Interlocking village roads may make it easier to move around inside the villages.",
+      "english": "*Interlocking roads may make it easier to move inside the villages",
       "hindi": "*इंटरलॉकिंग रास्तों से गांव के अंदर आना-जाना आसान हो सकता है",
       "inference": true,
       "basis": "Inference: no source records residents' reaction to the interlocking roads. The fetched Oct 2026 article quotes only the MLA, and the Aug 2025 article records no resident reaction either. The point is drawn from the interlocking roads inaugurated in Kalind, Mainaputhi, Harra and Pithlokar. Searches for a sourced replacement found nothing.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/development-works-in-siwalkhas-gain-momentum-meerut-news-c-73-1-mct1008-109025-2026-10-11"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "The main road in Pithlokar village has been waterlogged for about ten years with no proper drainage.",
-      "hindi": "पिठलोकर में मुख्य रास्ते पर दस साल से जलभराव, निकासी नहीं",
+      "english": "The main road in Pithlokar has been waterlogged for about ten years, with no drainage",
+      "hindi": "पिठलोकर में मुख्य रास्ते पर दस साल से पानी भरता है, निकासी नहीं",
       "inference": false,
       "basis": "Villagers say the main road has been waterlogged for about ten years, with no proper drainage and no cleaning, so walking is hard in the rain. They say they complained several times to the gram pradhan and the Siwalkhas MLA. Article dated 23 Sep 2026 (Sarurpur development block). AC 43 is confirmed because the article names the Siwalkhas MLA, and Sarurpur is in the Saroorpur KC listed in the AC 43 extent.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-23", "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-problem-for-ten-years-passing-through-the-main-road-is-difficult-meerut-news-c-44-1-smrt1055-113694-2026-09-23"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/waterlogging-problem-for-ten-years-passing-through-the-main-road-is-difficult-meerut-news-c-44-1-smrt1055-113694-2026-09-23"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Potholes on the Sardhana-Binauli road at Harra fill with water, so drivers cannot judge depth and risk accidents.",
-      "hindi": "हर्रा में सरधना-बिनौली सड़क के गड्ढों में पानी भरा, हादसे का डर",
+      "english": "On the Sardhana-Binauli road in Harra, potholes are full of water and there is fear of accidents",
+      "hindi": "सरधना-बिनौली सड़क पर हर्रा में गड्ढों में पानी, हादसे का डर",
       "inference": false,
       "basis": "Amar Ujala (29 Sep 2026): Baghpat MP Rajkumar Sangwan inspected the Sardhana-Binauli road at the outer edge of Harra, a qasba near Sarurpur. Locals said waterlogging is long-running and worsens after rain, and water in the potholes hides their depth. Also complaints about parking and encroachment. The MP directed PWD to fix it immediately. The Sep article does not name an AC. Harra is inside AC 43 per the Amar Ujala 11 Oct 2026 report that names the Siwalkhas seat and the MLA's works in Harra.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/meerut/mp-furious-over-waterlogging-and-potholes-in-harra-meerut-news-c-73-1-mct1008-108865-2026-09-29"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/mp-furious-over-waterlogging-and-potholes-in-harra-meerut-news-c-73-1-mct1008-108865-2026-09-29"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Power cuts and low voltage in Sardhana, Phalawda, Daurala and Lawar stop farmers irrigating their fields.",
-      "hindi": "कटौती और कम वोल्टेज से सरधना में खेतों की सिंचाई रुकी",
+      "english": "Power cuts and low voltage in Sardhana, Phalawda, Daurala and Lawar have stopped irrigation of fields",
+      "hindi": "सरधना, फलावदा, दौराला, लावर में कटौती और कम वोल्टेज, खेतों की सिंचाई रुकी",
       "inference": false,
       "basis": "District/tehsil-level, not AC-specific. Amar Ujala (24 May 2026): an SP delegation led by Seema Pradhan submitted a memorandum to the PVVNL MD on Saturday (23 May 2026, weekday-derived). It cites excessive cuts and low voltage in Sardhana, Phalawda, Daurala, Lawar and nearby villages. Farmers cannot irrigate, and transformers burn out in the heat. The MD promised a quick fix. Sardhana town is not in the AC 43 extent (Saroorpur KC and Karnawal NP of Sardhana tehsil), and it is the seat of AC 44. AC 43 membership of the named villages is not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-05-24", "url": "https://www.amarujala.com/uttar-pradesh/meerut/sp-workers-enraged-over-power-crisis-surrounded-md-meerut-news-c-72-1-mct1004-153742-2026-05-24"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/sp-workers-enraged-over-power-crisis-surrounded-md-meerut-news-c-72-1-mct1004-153742-2026-05-24"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "The old pond in Jasad Sultan Nagar, Sarurpur, has not been cleaned for years and is nearly overflowing.",
-      "hindi": "सरूरपुर के जसड़ सुल्तान नगर में पुराने तालाब से जलभराव, सफाई नहीं",
+      "english": "The old pond in Jasad Sultan Nagar is nearly overflowing and has not been cleaned for years",
+      "hindi": "जसड़ सुल्तान नगर का पुराना तालाब छलकने को है, सालों से सफाई नहीं",
       "inference": false,
       "basis": "Amar Ujala video page with written article (6 Aug 2025): villagers say the old pond in Jasad Sultan Nagar, a locality of Sarurpur village, is nearly overflowing after continuous rain, has not been cleaned for several years and has turned into marsh. They say there is no proper drainage, and that complaints to officials have gone unanswered. Allegations of land grabbing by influential people are reported as villagers' claims. No official responds in the article. AC 43 membership is inferred from Sarurpur being in the Saroorpur KC listed in the AC 43 extent. Neither the article nor the KC extent names the assembly.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-08-06", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-pond-overflows-in-jasad-sultan-nagar-village-of-sarurpur-villagers-troubled-by-waterlogging-2025-08-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-08-06",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/video-pond-overflows-in-jasad-sultan-nagar-village-of-sarurpur-villagers-troubled-by-waterlogging-2025-08-06"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Bastaura Narang has no cremation ground, and access roads break in every flood.",
-      "hindi": "बस्तौरा नारंग में श्मशान घाट नहीं, बाढ़ में रास्ते टूटते हैं",
+      "english": "Bastaura Narang has no cremation ground, and access roads break every year in rain and floods",
+      "hindi": "बस्तौरा नारंग में श्मशान घाट नहीं, हर साल बारिश-बाढ़ में रास्ते टूटते हैं",
       "inference": false,
       "basis": "Amar Ujala (29 Sep 2026): in Bastaura Narang, a flood-prone Ganga khadar village, an 80-year-old woman's funeral procession waded through 2-3 feet of water. The village has no cremation ground, so the last rites were held about 10 km away in Hastinapur. Access roads are damaged every year in rain and floods, and villagers want a raised CC road. The article does not name the tehsil, block or assembly. AC membership is unconfirmed: searches found no source placing Bastaura Narang in any AC. Meerut district only.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-dire-situation-in-this-meerut-village-water-levels-have-reached-two-feet-2026-09-29"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-dire-situation-in-this-meerut-village-water-levels-have-reached-two-feet-2026-09-29"
+        }
       ]
     }
   ],
@@ -118,5 +158,5 @@
     "ac_specific_negatives": 3,
     "changes": "Verified all cited URLs by fetching them; fixed Pithlokar block name, Lawar spelling, Kalind/Pithlokar funding wording and Pitholokar spelling, Bastaura roads wording (roads break, not submerge), Sardhana power item wording. Removed the Kinauni negative: the Dec 2025 ChiniMandi report supports only the lagging status, the Sep 2026 ChiniMandi source does not mention Kinauni, and the mill's AC is unknown; source removed. Added Jasad Sultan Nagar pond (Sarurpur, Amar Ujala 6 Aug 2025) as an AC 43 negative. Re-ranked negatives by likely vote impact. Confirmed AC 43 Siwalkhas, reserved None, Meerut from the Wikipedia list and extent (Meerut tehsil: Rohta and Jani Khurd KCs, Siwalkhas NP; Sardhana tehsil: Saroorpur KC, Karnawal NP). Positive 5 remains an honest inference."
   },
-  "notes": "AC 43 Siwalkhas (None, Meerut district) confirmed from the Wikipedia list (row 43) and the Siwalkhas constituency extent. Three negatives are confirmed inside AC 43: Pithlokar (named by the article as the Siwalkhas MLA's constituency and in Saroorpur KC), Harra (MLA's works named in the Oct 2026 report), and Jasad Sultan Nagar in Sarurpur village (Saroorpur KC). Negative 3 (power) is district/tehsil level and AC membership is unconfirmed. Negative 5 (Bastaura Narang) is Meerut district only, with AC membership unconfirmed. The Kinauni mill's location is not confirmed; the only Kinauni-related AU report found (1 Dec 2019) is datelined Rohta, a KC in AC 43, but that is not proof of location, and the item was dropped. Positive 3 is a state minister's inauguration, not the MLA's. Positive 4 is district-level. Positive 5 is an inference, flagged with *; repeated searches found no sourced resident reaction. Searches found no 2026 Siwalkhas-specific reporting on drinking water, schools or health facilities, so none were used. Sardhana town waterlogging and power reports belong to AC 44 and were excluded where the article did not place them in AC 43. The Aug 2026 AIMIM accusation against the MLA is political and was not used. The Hindi AC name is taken from Amar Ujala usage; the Wikipedia list page did not show a Hindi name. Field check suggested: Pithlokar main road drainage, Harra Sardhana-Binauli stretch, Jasad Sultan Nagar pond, Kinauni mill location relative to Rohta KC, and whether Bastaura Narang lies in AC 43 (Jani Khurd or Saroorpur KC) or AC 45 Hastinapur area."
+  "notes": "AC 43 Siwalkhas (None, Meerut district) confirmed from the Wikipedia list (row 43) and the Siwalkhas constituency extent. Three negatives are confirmed inside AC 43: Pithlokar (named by the article as the Siwalkhas MLA's constituency and in Saroorpur KC), Harra (MLA's works named in the Oct 2026 report), and Jasad Sultan Nagar in Sarurpur village (Saroorpur KC). Negative 3 (power) is district/tehsil level and AC membership is unconfirmed. Negative 5 (Bastaura Narang) is Meerut district only, with AC membership unconfirmed. The Kinauni mill's location is not confirmed; the only Kinauni-related AU report found (1 Dec 2019) is datelined Rohta, a KC in AC 43, but that is not proof of location, and the item was dropped. Positive 3 is a state minister's inauguration, not the MLA's. Positive 4 is district-level. Positive 5 is an inference, flagged with *; repeated searches found no sourced resident reaction. Searches found no 2026 Siwalkhas-specific reporting on drinking water, schools or health facilities, so none were used. Sardhana town waterlogging and power reports belong to AC 44 and were excluded where the article did not place them in AC 43. The Aug 2026 AIMIM accusation against the MLA is political and was not used. The Hindi AC name is taken from Amar Ujala usage; the Wikipedia list page did not show a Hindi name. Field check suggested: Pithlokar main road drainage, Harra Sardhana-Binauli stretch, Jasad Sultan Nagar pond, Kinauni mill location relative to Rohta KC, and whether Bastaura Narang lies in AC 43 (Jani Khurd or Saroorpur KC) or AC 45 Hastinapur area. Voice pass (round 3): P1 and P2 say 'built' for works the MLA inaugurated, taking inauguration as completion. P4 English drops 'for the 2025-26 season', which the basis does not state. P3 is a state minister's event, not the MLA's. N3 (Sardhana, Phalawda, Daurala, Lawar) is district/tehsil level; the basis says Sardhana town is outside the AC 43 extent, so it is not AC-specific. P4 weak positive: district-level, not AC-specific. P5 weak positive: forecast only, no resident reaction in the sources."
 }

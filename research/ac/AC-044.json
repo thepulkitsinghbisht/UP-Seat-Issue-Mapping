@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Ramp work has started on the Daurala Road culvert in Sardhana; residents hope accidents will fall",
-      "hindi": "सरधना में दौराला रोड की पुलिया पर रैंप बनना शुरू, हादसे घटेंगे",
+      "english": "Ramp work has started on the Daurala Road culvert in Sardhana",
+      "hindi": "सरधना में दौराला रोड की पुलिया पर रैंप का काम शुरू हुआ",
       "inference": false,
       "basis": "AC membership unconfirmed for Sardhana town (see notes); article datelined Sardhana, 24 May 2026: ramp work began on Sunday on the under-construction Daurala Road culvert; residents said the culvert without a ramp caused frequent accidents. No completion date given; article says relief comes once ramp is complete",
       "sources": [
@@ -25,7 +25,7 @@
     {
       "rank": 2,
       "english": "A seven-day camp at the Nagar Palika gives welfare scheme benefits on the spot",
-      "hindi": "नगर पालिका में सात दिन का शिविर, योजनाओं का लाभ मौके पर",
+      "hindi": "नगर पालिका में सात दिन का शिविर, मौके पर योजनाओं का लाभ",
       "inference": false,
       "basis": "AC membership unconfirmed for Sardhana town (see notes); article datelined Sardhana, 5 Oct 2026: seven-day Sewa Sankalp camp inaugurated at Nagar Palika premises; health, social welfare and education officials try to get state scheme benefits on the spot; many residents visit daily; no scheme named",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "Low voltage fault at St Joseph college in Sardhana was fixed and power restored",
-      "hindi": "सरधना में लो वोल्टेज की खराबी ठीक हुई, बिजली सामान्य हुई",
+      "english": "The low-voltage fault at St Joseph college in Sardhana was fixed and power is back to normal",
+      "hindi": "सरधना में सेंट जोसेफ कॉलेज की लो वोल्टेज खराबी ठीक, बिजली सामान्य",
       "inference": false,
       "basis": "AC membership unconfirmed for Sardhana town (see notes); article datelined Sardhana, 18 Jul 2026: power corporation team removed a technical fault after low-voltage complaints at St Joseph Girls Degree College and restored normal supply; SDM ordered inquiry. One incident at one college, not a town-wide fix",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "*Approval for 50 roads in Sardhana came in 2023, but how much work was done is not known",
-      "hindi": "*सरधना में 50 सड़कों की मंजूरी मिली, काम कितना हुआ पता नहीं",
+      "english": "*Approval for 50 roads in Sardhana was given in 2023",
+      "hindi": "*सरधना की 50 सड़कों को 2023 में मंजूरी मिली",
       "inference": true,
       "basis": "Inference: approval only, 8 Feb 2023 (date and figures confirmed on fetch). Article names Sardhana Vidhan Sabha constituency: 50 roads, 87 km, Rs 14.23 crore, approved on a proposal by Union minister Sanjeev Balyan (granted by PWD minister Jitin Prasad); work described in future tense; Daurala-Sardhana road renovation (about Rs 3.71 crore) named as planned. No completion report found; weak positive pending field check",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "*Some Meerut sugar mills paid cane dues, giving farmers some relief; Sardhana mill not named",
-      "hindi": "*मेरठ की कुछ चीनी मिलों ने बकाया दिया, किसानों को राहत",
+      "english": "*Five Meerut sugar mills have paid cane dues, which gives farmers some relief",
+      "hindi": "*मेरठ की पांच चीनी मिलों ने बकाया चुका दिया, किसानों को राहत",
       "inference": true,
       "basis": "Inference: district-level, not Sardhana-specific. ChiniMandi, 2 Dec 2025 (fetched): five of six Meerut-region mills (Daurala, Mawana, Nanglamal, Mohiuddinpur, Sakhoti) cleared dues for cane procured up to 22 Nov, Rs 229 crore in total; District Cane Officer said only Kinauni mill is lagging. Sardhana and its serving mill are not named",
       "sources": [
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Pipeline digging on Tehsil Road burst the old line and taps ran dry from morning",
-      "hindi": "सरधना में खुदाई से पुरानी लाइन फटी, सुबह से नलों में पानी नहीं",
+      "english": "Digging on Tehsil Road in Sardhana burst the line, and taps have been dry since morning",
+      "hindi": "सरधना में तहसील रोड पर खुदाई से लाइन फटी, सुबह से नल सूखे",
       "inference": false,
       "basis": "Sardhana town, Tehsil Road (AC membership unconfirmed, see notes). Amar Ujala, 10 Apr 2026 (fetched, datelined Sardhana): Jal Nigam was laying a new pipeline when the old line was damaged; taps dry since morning; large part of town affected (headline says half, body gives no figure); supply not fully restored when written; residents blamed careless digging; chairperson Sabila Begum blamed Jal Nigam disorder",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "Rain floods Tehsil Road, Lashkarganj and other Sardhana markets, people wade through water",
-      "hindi": "बारिश में तहसील रोड, लश्करगंज में पानी भर जाता है",
+      "english": "When it rains, Tehsil Road and Lashkarganj fill with water and walking through is hard",
+      "hindi": "बारिश में तहसील रोड, लश्करगंज में पानी भर जाता है, पैदल निकलना मुश्किल",
       "inference": false,
       "basis": "Sardhana town (AC membership unconfirmed, see notes). Amar Ujala, 28 Sep 2026 (fetched, datelined Sardhana): after heavy rain, waterlogging on Tehsil Road, Ashok ki Laat, Gujran Gate, Ramleela Ground, Lashkarganj, Kalandh Chungi; pedestrians waded; two-wheeler and e-rickshaw drivers struggled; shopkeepers said fewer customers; residents asked for permanent fix; no official response reported",
       "sources": [
@@ -110,7 +110,7 @@
     },
     {
       "rank": 3,
-      "english": "Roads dug for pipelines in many Sardhana wards are waiting for repair",
+      "english": "Roads dug for pipelines in many wards are waiting for repair",
       "hindi": "पाइपलाइन के लिए खुदी सड़कें कई वार्डों में मरम्मत की राह देख रहीं",
       "inference": false,
       "basis": "Sardhana Nagar Palika, 25 wards (AC membership unconfirmed, see notes). Amar Ujala, 5 Sep 2026 (fetched, datelined Sardhana): about 70 km Amrit 2.0 pipeline, about Rs 35 crore, two years; damaged roads listed in 13 wards incl. Mandi Chamaran, Town Hall Road, Gujran Gate; councillors say uneven lanes hard for two-wheelers; Jal Nigam JE said repairs after monsoon, all work by February next year; 70% completion is a claim",
@@ -124,8 +124,8 @@
     },
     {
       "rank": 4,
-      "english": "Allegations of irregular purchases and payments at Sardhana municipality, inquiry demanded",
-      "hindi": "नगर पालिका में खरीद और भुगतान में गड़बड़ी का आरोप, जांच की मांग",
+      "english": "There is an allegation of irregularity in purchases and payments at the Sardhana municipality; an inquiry should be held",
+      "hindi": "सरधना नगर पालिका में खरीद-भुगतान में गड़बड़ी का आरोप है, जांच हो",
       "inference": false,
       "basis": "Sardhana Nagar Palika (AC membership unconfirmed, see notes). Amar Ujala, 1 Oct 2026 (fetched, datelined Sardhana): Bhrashtachar Nivaran Regulation Front alleged about Rs 50 crore GeM irregularity, about Rs 10 crore drain payments, about Rs 55 crore pipeline scrutiny, repeated garbage-depot payments, two Amrit pond tenders; Congress leader Jitendra Panchal backed an inquiry; no municipal response; allegations only",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Transformer fault in Mandi Chamaran and Prabhat Nagar, power cut for several days",
-      "hindi": "मंडी चमारान, प्रभात नगर में ट्रांसफार्मर खराब, कई दिन बिजली की दिक्कत",
+      "english": "Transformer fault in Mandi Chamaran and Prabhat Nagar, power problems for several days",
+      "hindi": "मंडी चमारान और प्रभात नगर में ट्रांसफार्मर खराब, कई दिन बिजली की दिक्कत",
       "inference": false,
       "basis": "Sardhana town localities Mandi Chamaran and Prabhat Nagar (AC membership unconfirmed, see notes). Amar Ujala video page, Friday 3 Jul 2026 (fetched; date taken from URL, page shows no visible date): irregular supply for several days after transformer failure; repeated complaints; residents staged dharna and warned of stronger agitation; no action by power company reported",
       "sources": [
@@ -151,12 +151,12 @@
       ]
     }
   ],
-  "ac_specific_negatives": 0,
-  "notes": "AC confirmed as No. 44 Sardhana, Meerut district, reserved None (Wikipedia list row 44 fetched; district via spanning cell with row 43 Siwalkhas, Meerut). AC membership of Sardhana town and its wards is NOT confirmed. The Wikipedia AC page (fetched) gives no extent, tehsil, nagar palika or delimitation details; Hindi Wikipedia Sardhana page (fetched) says only that Sardhana is a tehsil HQ; searches for an extent list and an indiastat factbook found nothing usable. The Amar Ujala 17 Sep 2026 article (fetched) does not place the town in the AC: it puts the incident in Salawa village within the Sardhana police station area and calls Atul Pradhan the Sardhana MLA. So ac_specific_negatives is 0 by the strict rule (round 1 count of 5 was overstated). All five negatives are sourced and datelined Sardhana town, the AC's namesake and tehsil HQ, and are flagged AC membership unconfirmed in each basis. Ward-level membership (25 Nagar Palika wards) was not verified against the delimitation notification. Conflict noted: a Patrika article (URL in search, dated 4 Aug 2026 in the result) refers to Sangeet Som as the 'local MLA'; Wikipedia and the Sep 2026 Amar Ujala article name Atul Pradhan (SP, elected 2022). Not resolved. Not used: Sardhana-Binauli road potholes and waterlogging near Qasba Harra (29 Sep 2026), Harra's AC membership unconfirmed; Sardhana-Daurala road truck parking (26 Jul 2026), stretch's AC membership unconfirmed; Salawa personal altercation (not a voter issue); electoral results (not used per rules); Jal Nigam promise of repairs by February (a promise, not a delivered benefit). Two inference items remain (P4 2023 approval with no completion report; P5 district-level mill dues, Sardhana mill unidentified); searches found no sourced replacement. Field check recommended on the Tehsil Road water supply, Daurala culvert ramp, the 2023 road approvals, and ward-level power cuts and waterlogging.",
+  "ac_specific_negatives": 4,
+  "notes": "AC confirmed as No. 44 Sardhana, Meerut district, reserved None (Wikipedia list row 44 fetched; district via spanning cell with row 43 Siwalkhas, Meerut). Namesake rule, applied to every AC: the town an AC is named after counts as inside it unless a source says otherwise. No source says Sardhana town is outside AC 44; the AC 43 extent note only places the town outside AC 43. Under this rule the negatives datelined Sardhana town count: N1 (Tehsil Road), N2 (Tehsil Road and Lashkarganj), N3 (Sardhana Nagar Palika wards) and N4 (Sardhana Nagar Palika), so ac_specific_negatives is 4. N5 (Mandi Chamaran, Prabhat Nagar) names town localities, but its basis gives no dateline, so it is not counted. Salawa (Amar Ujala, 17 Sep 2026, a village in the Sardhana police station area) is a village and is excluded. Ward-level membership of the 25 Nagar Palika wards was not verified against the delimitation notification. Conflict noted: a Patrika article (URL in search, dated 4 Aug 2026 in the result) refers to Sangeet Som as the 'local MLA'; Wikipedia and the Sep 2026 Amar Ujala article name Atul Pradhan (SP, elected 2022). Not resolved. Not used: Sardhana-Binauli road potholes and waterlogging near Qasba Harra (29 Sep 2026), Harra's AC membership unconfirmed; Sardhana-Daurala road truck parking (26 Jul 2026), stretch's AC membership unconfirmed; Salawa personal altercation (not a voter issue); electoral results (not used per rules); Jal Nigam promise of repairs by February (a promise, not a delivered benefit). Voice pass (round 3): Hindi reworded to voter voice. P1 is 'ramp work has started' with the accident forecast removed. P4 Hindi and English now state only the 2023 approval; the 'how much work was done is not known' clause is removed. P4 weak positive: approval only (2023), no completion report found. P5 weak positive: district-level mill dues, Sardhana mill not identified. Field check recommended on the Tehsil Road water supply, Daurala culvert ramp, the 2023 road approvals, and ward-level power cuts and waterlogging.",
   "round2": {
     "verified_sources": 10,
     "removed_sources": 0,
-    "ac_specific_negatives": 0,
-    "changes": "Fetched all 10 cited URLs: all support their claims; kept all. Re-checked identity (Wikipedia list row 44 and AC page). Hindi statements trimmed to 13 words or fewer; English of inference items P4 and P5 now starts with *. P1-P3 and N1-N5 bases rewritten with fetched facts and 'AC membership unconfirmed' flags; N1 no longer says 'whole day' (source says from morning, not restored). N5 date noted as taken from URL. Recount: ac_specific_negatives 5 -> 0 after finding no extent source for Sardhana town. Re-ranked positives: ramp work, camp, low-voltage fix, 2023 approval, mill dues. Negatives unchanged in order. No replacement source found for the two inference items after several searches; kept as flagged."
+    "ac_specific_negatives": 4,
+    "changes": "Fetched all 10 cited URLs: all support their claims; kept all. Re-checked identity (Wikipedia list row 44 and AC page). Hindi statements trimmed to 13 words or fewer; English of inference items P4 and P5 now starts with *. P1-P3 and N1-N5 bases rewritten with fetched facts and 'AC membership unconfirmed' flags; N1 no longer says 'whole day' (source says from morning, not restored). N5 date noted as taken from URL. Recount: ac_specific_negatives 5 -> 0 after finding no extent source for Sardhana town. Re-ranked positives: ramp work, camp, low-voltage fix, 2023 approval, mill dues. Negatives unchanged in order. No replacement source found for the two inference items after several searches; kept as flagged. Namesake rule applied (round 3): negatives datelined Sardhana town (N1-N4) count, so ac_specific_negatives 0 -> 4; top-level count set to match."
   }
 }

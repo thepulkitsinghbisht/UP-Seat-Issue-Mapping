@@ -16,8 +16,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Mawana sugar mill has paid over Rs 311 crore for cane bought up to 7 January 2026",
-      "hindi": "मवाना चीनी मिल ने 311 करोड़ से ज्यादा का गन्ना भुगतान किया",
+      "english": "Mawana sugar mill has paid over Rs 311 crore for cane bought up to 7 January",
+      "hindi": "मवाना मिल ने 7 जनवरी तक 311 करोड़ से ज्यादा गन्ना भुगतान किया",
       "inference": false,
       "basis": "Mill (Mawana, Meerut) paid Rs 311.34 crore total cane price for cane bought up to 7 January 2026 (2025-26 season); 88.91 lakh quintal crushed up to 16 January. Mawana MB is inside AC 45 per Wikipedia extent (article dated 17 Jan 2026)",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 2,
-      "english": "After farmers protested the waterlogging, drainage was done and road repair started",
-      "hindi": "किसानों की मांग पर खेतों का पानी निकाला गया, फिर सड़क की मरम्मत शुरू",
+      "english": "After farmers protested over waterlogging, drainage was done and road repair has started",
+      "hindi": "किसानों के विरोध के बाद जलनिकासी हुई, अब सड़क की मरम्मत शुरू",
       "inference": false,
       "basis": "After farmers cut part of the Hastinapur-Chandpur link road over waterlogging, drainage work was carried out by agreement with administration and PWD began repairs (18 July 2026). AC membership of this road segment unconfirmed (Chandpur is in Bijnor)",
       "sources": [
@@ -72,8 +72,8 @@
     },
     {
       "rank": 5,
-      "english": "Water coolers have been installed at about 44 places in the town",
-      "hindi": "शहर में करीब 44 जगह ठंडे पानी के वाटर कूलर लगे हैं",
+      "english": "About 44 water coolers have been installed in the town, but more than six are out of order",
+      "hindi": "शहर में करीब 44 जगह कूलर लगे, पर छह से ज्यादा खराब हैं",
       "inference": false,
       "basis": "Nagar Panchayat has installed water coolers at about 44 locations; more than half a dozen are out of order (31 May 2026)",
       "sources": [
@@ -102,8 +102,8 @@
     },
     {
       "rank": 2,
-      "english": "Despite about Rs 16 crore of works, roads get waterlogged whenever it rains",
-      "hindi": "करीब 16 करोड़ खर्च हुए, फिर भी बारिश में सड़कों पर पानी भरता है",
+      "english": "Despite about Rs 16 crore spent, roads get waterlogged whenever it rains",
+      "hindi": "करीब 16 करोड़ खर्च, फिर भी बारिश में सड़कों पर पानी भरता है",
       "inference": false,
       "basis": "Article says tourism department spent about Rs 16 crore (करीब 16 करोड़ रुपये की लागत) on Hastinapur town roads, with stone slabs placed, but adequate rainwater drainage arrangements were not made and several major routes flood when it rains (28 July 2026). Hastinapur town is inside AC 45 (Nagar Panchayat)",
       "sources": [
@@ -130,7 +130,7 @@
     },
     {
       "rank": 4,
-      "english": "Repair of dilapidated ward roads is still waiting",
+      "english": "Repair of dilapidated ward roads is still pending",
       "hindi": "वार्डों की जर्जर सड़कों की मरम्मत अभी इंतजार में है",
       "inference": false,
       "basis": "Article (3 May 2026): DPR for about 25 roads in various wards prepared and sent to the state government; construction to start after final approval. Chairperson Sudha Khatik, Hastinapur Nagar Panchayat",
@@ -144,8 +144,8 @@
     },
     {
       "rank": 5,
-      "english": "Coolers are out of order in the scorching heat and people are thirsty",
-      "hindi": "भीषण गर्मी में कूलर खराब पड़े हैं, जनता प्यासी है",
+      "english": "Coolers are out of order in the scorching heat and people here are thirsty",
+      "hindi": "भीषण गर्मी में कूलर खराब पड़े हैं, यहां लोग प्यासे हैं",
       "inference": false,
       "basis": "More than half a dozen Nagar Panchayat coolers out of order, most not cleaned in two years; resident quote 'यहां जनता प्यासी है' (31 May 2026)",
       "sources": [
@@ -158,5 +158,5 @@
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "Identity: Wikipedia constituency page confirms no. 45 Hastinapur, SC, district Meerut, Bijnor Lok Sabha. Extent per that page (verified this round): KCs Hastinapur, Parikshatgarh; PCs Tatina, Niloha, Bana, Bhainsa, Mawana Kalan-I, Mawana Khurd; Mubarikpur, Sandhan, Dhikoli of Mawana KC; Mawana MB; Bahsooma NP, Hastinapur NP and Parikshatgarh NP of Mawana Tehsil. Confirmed inside AC: Mawana MB (sugar mill, Mawana sit-in), Hastinapur NP (town roads, coolers, ward roads, CC roads). Unconfirmed: Ganga erosion villages (Bastota Narang, Makhdumpur, Kishorpur, Jalalpur Jora) - not counted in ac_specific_negatives; Hastinapur-Chandpur link road segment (Chandpur is Bijnor side) - positive 2 membership unconfirmed. Round 2 source checks: all 10 kept sources opened and match stated figures/dates. Removed the 8 Sept 2026 Amar Ujala video from negative 1 because it reports waterlogging in Khadar fields with no Ganga erosion. Corrected negative 2 basis (tourism works are Hastinapur town, not district-level). Positive 4 (CC roads) is the chairperson's own claim, the weakest positive. Positive 5 coolers: the same article says more than six are out of order and most not cleaned in two years, so the positive is incomplete on its own. Searches for a better completed 2026 Hastinapur town project (road or otherwise) found nothing verified; Amar Ujala Nov 2025 seven-road widening is a proposal only, not used. Flood news (Patrika 1 Aug 2026, Amar Ujala 5 Aug 2026: Ganga bund breach near Fatehpur Prem, Khadar area) is flood not erosion, and was not used. Not used: Rs 3150 crore iconic site/National Museum approval (no start date); Patrika Jambudweep statues article (2018); Mawana-Bijnor road blockade Sept 2026 (murder protest). No 2026 Hastinapur-specific reports on electricity, hospital/CHC or drinking-water supply were found; these are field-check priorities."
+  "notes": "Identity: Wikipedia constituency page confirms no. 45 Hastinapur, SC, district Meerut, Bijnor Lok Sabha. Extent per that page (verified this round): KCs Hastinapur, Parikshatgarh; PCs Tatina, Niloha, Bana, Bhainsa, Mawana Kalan-I, Mawana Khurd; Mubarikpur, Sandhan, Dhikoli of Mawana KC; Mawana MB; Bahsooma NP, Hastinapur NP and Parikshatgarh NP of Mawana Tehsil. Confirmed inside AC: Mawana MB (sugar mill, Mawana sit-in), Hastinapur NP (town roads, coolers, ward roads, CC roads). Unconfirmed: Ganga erosion villages (Bastota Narang, Makhdumpur, Kishorpur, Jalalpur Jora) - not counted in ac_specific_negatives; Hastinapur-Chandpur link road segment (Chandpur is Bijnor side) - positive 2 membership unconfirmed. Round 2 source checks: all 10 kept sources opened and match stated figures/dates. Removed the 8 Sept 2026 Amar Ujala video from negative 1 because it reports waterlogging in Khadar fields with no Ganga erosion. Corrected negative 2 basis (tourism works are Hastinapur town, not district-level). Positive 4 (CC roads) is the chairperson's own claim, the weakest positive. Positive 5 coolers: the same article says more than six are out of order and most not cleaned in two years, so the positive is incomplete on its own. Searches for a better completed 2026 Hastinapur town project (road or otherwise) found nothing verified; Amar Ujala Nov 2025 seven-road widening is a proposal only, not used. Flood news (Patrika 1 Aug 2026, Amar Ujala 5 Aug 2026: Ganga bund breach near Fatehpur Prem, Khadar area) is flood not erosion, and was not used. Not used: Rs 3150 crore iconic site/National Museum approval (no start date); Patrika Jambudweep statues article (2018); Mawana-Bijnor road blockade Sept 2026 (murder protest). No 2026 Hastinapur-specific reports on electricity, hospital/CHC or drinking-water supply were found; these are field-check priorities. Voice pass (round 3): P1 uses the 7 January cutoff from the basis. P2 names drainage only, not fields. P5 now states that more than six coolers are out of order, as the basis does. P4 weak positive: the chairperson's own claim, not verified. P5 weak positive: about 44 coolers installed, but more than six out of order (31 May 2026)."
 }
