@@ -1,0 +1,161 @@
+{
+  "ac_no": 56,
+  "ac_name": "Ghaziabad",
+  "ac_name_hindi": "गाजियाबाद",
+  "reserved": "None",
+  "district": "Ghaziabad",
+  "region": "Paschim UP",
+  "summary": "Voters in the Ghaziabad city seat mostly cite waterlogging and jams after rain, broken roads and drains in Vijay Nagar, the unfinished Vijay Nagar bridge, and drinking water, while the appreciation found is limited to started works such as the Rs 1.26 crore Vijay Nagar project.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "ac_specific_negatives": 5,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Rs 1.26 crore worth of road and park works have started in Vijay Nagar",
+      "hindi": "विजय नगर में 1.26 करोड़ के सड़क और पार्क के काम शुरू हुए हैं",
+      "inference": false,
+      "basis": "Mayor Sunita Dayal and MLA Sanjeev Sharma laid foundation stones for about Rs 1.26 crore of works in Vijay Nagar (14 Jul 2026): road construction in Ward 35, Shastri Park development, a green belt boundary wall in Ward 15. Ward 15 and 35 are in the AC's ward list. Foundation stone only, not completed.",
+      "sources": [
+        {
+          "outlet": "Udaybhoomi",
+          "date": "2026-07-14",
+          "url": "https://udaybhoomi.com/featured/development-works-worth-%E2%82%B91-26-crore-launched-in-ghaziabads-vijay-nagar-mayor-and-mla-lay-the-foundation-stone/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The Hindon Elevated Road is built and running from Rajnagar Extension to UP Gate",
+      "hindi": "हिंडन एलिवेटेड रोड बना हुआ है, राजनगर एक्सटेंशन से यूपी गेट तक",
+      "inference": false,
+      "basis": "Wikipedia: 10.3 km road from Raj Nagar Extension to UP Gate, completed and in operation (infobox: March 2018 onward). AC membership unconfirmed for the road's stretch; older than 2024-2026 but a delivered benefit.",
+      "sources": [
+        {
+          "outlet": "Wikipedia (Hindon Elevated Road)",
+          "date": "2018-03-31",
+          "url": "https://en.wikipedia.org/wiki/Hindon_Elevated_Road"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Work on a CC road at the district hospital has started, from the TB department to the mortuary",
+      "hindi": "जिला अस्पताल में टीबी विभाग से शवगृह तक सीसी रोड का काम शुरू हुआ",
+      "inference": false,
+      "basis": "Upabtak (16 Jul 2025): MLA Sanjeev Sharma started CC road work at the District Hospital (MMG) from the TB department to the mortuary; media adviser said it would be completed soon. Started, not completed. Hospital's AC membership not stated in the article.",
+      "sources": [
+        {
+          "outlet": "Upabtak",
+          "date": "2025-07-16",
+          "url": "https://upabtak.com/mla-sanjeev-sharma-inaugurated-the-construction-work/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The process of building an overbridge in Vijay Nagar has started",
+      "hindi": "विजय नगर में ओवरब्रिज बनाने की प्रक्रिया शुरू हुई है",
+      "inference": false,
+      "basis": "Weak positive. Udaybhoomi (4 Sep 2025): Gadkari directed officials to begin the process of building an overbridge at the Vijaynagar exit; NHAI had started considering widening that exit. Described in the article as a future project, not a completed one.",
+      "sources": [
+        {
+          "outlet": "Udaybhoomi",
+          "date": "2025-09-04",
+          "url": "https://www.udaybhoomi.com/gajiabad/the-initiative-of-city-mla-sanjeev-sharma-proved-fruitful/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The MLA has written to the corporation for regular cleaning of the public toilets",
+      "hindi": "हमारे विधायक ने शौचालयों की नियमित सफाई के लिए नगर निगम को चिट्ठी लिखी",
+      "inference": false,
+      "basis": "Weak positive: Jan Sagar Today (29 Aug 2026): MLA Sanjeev Sharma wrote to the Municipal Commissioner for scheduled cleaning, repairs and maintenance of more than 50 public toilets in the Shahar assembly constituency. The article says this is a demand; no action by the corporation is confirmed.",
+      "sources": [
+        {
+          "outlet": "Jan Sagar Today",
+          "date": "2026-08-29",
+          "url": "https://www.jansagartoday.com/2026/08/29/%E0%A4%9C%E0%A4%A8%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A4%AD%E0%A5%82%E0%A4%A4-%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%AA/"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "As soon as it rains, underpasses and roads fill with water and traffic jams",
+      "hindi": "बारिश होते ही अंडरपास और सड़कों में पानी भर जाता है, जाम लग जाता है",
+      "inference": false,
+      "basis": "Amar Ujala (6 Sep 2026, rain on 5 Sep): about one foot of water at the NH-9 underpass in Vijaynagar Industrial Area (closed), and water in Karpuri Puram, Govindpuram and Vijayanagar Sectors 3 and 9; jam on the main road for about half an hour. Only the Vijay Nagar NH-9 underpass is clearly in Vijay Nagar; the other localities' AC membership is unconfirmed. Also raised district-level in Amar Ujala 2022 (listed as a major issue for the seat).",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-06",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/rain-causes-waterlogging-across-the-city-power-supply-also-disrupted-ghaziabad-news-c-30-gbd1013-970373-2026-09-06"
+        },
+        {
+          "outlet": "TNP News",
+          "date": "2026-09-17",
+          "url": "https://tnpnews.in/uttar-pradesh-election/assembly-elections-2027-ghaziabad-sadars-electoral-mathematics-bjps-hold-social-equations-and-big-issues-of-the-public-18003"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "In Vijay Nagar Sector 12 roads have been in bad shape for months, and the drains are filthy",
+      "hindi": "विजय नगर सेक्टर 12 में सड़कें महीनों से खराब हैं, नालियां गंदी पड़ी हैं",
+      "inference": false,
+      "basis": "Amar Ujala (19 Aug 2026), residents of Vijayanagar Sector 12 C Block (about 7,000 people): resident Shekhar said main roads and lanes have been poor for months with large potholes and accidents; Rahul Singh said choked drains flood the main road in rain. Ward councillor said repair work is ongoing; no timeline given.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-19",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/residents-of-vijayanagar-sector-12-grappling-with-broken-roads-and-dilapidated-parks-ghaziabad-news-c-30-gbd1013-956988-2026-08-19"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The bridge connecting Vijay Nagar to the city still isn't ready after five years",
+      "hindi": "विजय नगर को शहर से जोड़ने वाला पुल पांच साल में भी तैयार नहीं हुआ",
+      "inference": false,
+      "basis": "Amar Ujala city-seat issues section (page undated, from the 2022 election page): the bridge connecting Vijay Nagar and the city is not ready even after five years. Date of the issues text is not shown; no 2026 update found, so treat as possibly stale.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2022",
+          "url": "https://www.amarujala.com/election/vidhan-sabha-elections/uttar-pradesh/constituencies/ghaziabad-23"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "There are jams at the Vijaynagar exit, and a constant fear of accidents",
+      "hindi": "विजयनगर की निकासी पर जाम लगता है, हादसे का डर रहता है",
+      "inference": false,
+      "basis": "Udaybhoomi (4 Sep 2025): residents of Vijaynagar on the Delhi-Meerut Expressway face constant accident risk and traffic jams at the Vijaynagar exit; an accident there recently killed a traffic policeman, per the article. Overbridge is described as a future project.",
+      "sources": [
+        {
+          "outlet": "Udaybhoomi",
+          "date": "2025-09-04",
+          "url": "https://www.udaybhoomi.com/gajiabad/the-initiative-of-city-mla-sanjeev-sharma-proved-fruitful/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Drinking water has been a problem in Vijay Nagar Sector 12 for many years",
+      "hindi": "विजय नगर सेक्टर 12 में कई सालों से पेयजल की समस्या बनी हुई है",
+      "inference": false,
+      "basis": "Amar Ujala (19 Aug 2026): resident Rajeev said drinking water has been a problem in the area for many years, and he also cited frequent power cuts. Single resident's statement.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-19",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/residents-of-vijayanagar-sector-12-grappling-with-broken-roads-and-dilapidated-parks-ghaziabad-news-c-30-gbd1013-956988-2026-08-19"
+        }
+      ]
+    }
+  ],
+  "notes": "AC identity: Wikipedia list gives No. 56 Ghaziabad, reserved None, district Ghaziabad. The AC page's extent lists 23 M Corp wards (2-6, 10, 11, 15, 17, 21-23, 28, 29, 35-37, 42, 44, 46, 48, 52, 53, 57, 59); no localities are named. 'Sadar' and 'city' refer to this same seat (Amar Ujala and Aaj Tak 2024 bypoll for Ghaziabad Sadar; MLA Sanjeev Sharma). Vijay Nagar membership is inferred from the city MLA's works there and from wards 15 and 35 in the AC ward list; Sector 12 and the Vijay Nagar NH-9 underpass have no explicit ward number. The 14 Jul 2026 Udaybhoomi article names Ward 14 (Sarvodaya Nagar), which is not on the AC ward list, so ward numbering may differ between sources. Weak positives: P4 (overbridge process, from a government direction, not a built project) and P5 (MLA's letter; the corporation has not acted per the article). P2 (Hindon Elevated Road) is a 2018 Wikipedia-sourced delivered benefit; AC membership of the stretch is unconfirmed. P3 (district hospital road) is a 2025 start; hospital's AC membership not stated. Excluded as not in this AC: Amar Ujala 9 Oct 2026 works (Vaishali, Morta, Radha Kunj, Rahul Vihar; MLA Ajitpal Tyagi), Amar Ujala 8 Aug 2026 jam report (Sahibabad: Chijarsi Cut, UP Gate, Rapid Station). Excluded as AC membership unconfirmed: Ghaziabad Junction station road jam (Amar Ujala 11 Oct 2026). Negative N3 is from an undated section of a 2022 page and may be stale. Negative ranking is by frequency and recency across the sources read (waterlogging repeated in 2026; Sector 12 complaints recent). Sources read via WebFetch; the Amar Ujala 2022 page is an election results page, cited only for its issues section. Not found: any 2026 report confirming the Vijay Nagar bridge status, nor a Vijay Nagar underpass or flyover opening. Field check suggested for Vijay Nagar bridge status, Sector 12 drains, and the Vijaynagar exit overbridge."
+}

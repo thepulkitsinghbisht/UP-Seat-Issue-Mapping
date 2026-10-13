@@ -1,0 +1,118 @@
+{
+  "ac_no": 57,
+  "ac_name": "Modinagar",
+  "ac_name_hindi": "मोदीनगर",
+  "reserved": "None",
+  "district": "Ghaziabad",
+  "region": "Paschim UP",
+  "summary": "Complaints in the sparse sources found centre on monsoon waterlogging, peak-hour jams and the odd road incident, while the main appreciated change is the Namo Bharat (RRTS) station at Modinagar North running trains to Delhi.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "ac_specific_negatives": 1,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Namo Bharat trains now reach Modinagar North, the trip to Delhi is easier",
+      "hindi": "मोदीनगर नॉर्थ तक नमो भारत ट्रेन चलने से सफर आसान हुआ",
+      "inference": false,
+      "basis": "Amar Ujala (7 Mar 2024): PM inaugurated the Duhai to Modinagar North 17 km section virtually and regular service to Modinagar North began 8 March 2024; NCRTC officials say Sahibabad to Modinagar North takes 24 minutes. Wikipedia station page confirms Modinagar North station is in Modinagar town, Ghaziabad district, opened March 2024",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-03-07", "url": "https://www.amarujala.com/video/uttar-pradesh/meerut/progress-at-speed-namo-bharat-train-starts-operating-till-modinagar-north-2024-03-07"},
+        {"outlet": "Wikipedia", "date": "accessed 2026-10-12", "url": "https://en.wikipedia.org/wiki/Modinagar_North_RRTS_station"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Namo Bharat now runs from Modinagar line onward to Sarai Kale Khan in Delhi",
+      "hindi": "नमो भारत अब सराय काले खां तक दौड़ती है",
+      "inference": false,
+      "basis": "Amar Ujala (20 Feb 2026): the Delhi-Meerut Namo Bharat line now extends from Sarai Kale Khan to Begumpul, with a finished 5 km stretch from New Ashok Nagar to Sarai Kale Khan. Line-level fact, not Modinagar-specific; Wikipedia station page says Modinagar North platform 2 serves trains toward Sarai Kale Khan",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-20", "url": "https://www.amarujala.com/uttar-pradesh/meerut/namo-bharat-rapid-rail-extended-to-sarai-kale-khan-and-begumpul-pm-modi-to-inaugurate-on-feb-22-2026-02-20"},
+        {"outlet": "Wikipedia", "date": "accessed 2026-10-12", "url": "https://en.wikipedia.org/wiki/Modinagar_North_RRTS_station"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Many lanes in Modinagar have street lights",
+      "hindi": "*मोदीनगर की कई गलियों में स्ट्रीट लाइट लगी है",
+      "inference": true,
+      "basis": "Inference: SquareYards locality page (undated) says the locality is well-lit with street lamps in multiple areas. Listing-site summary, not a news report or official source",
+      "sources": [
+        {"outlet": "SquareYards", "date": "undated", "url": "https://www.squareyards.com/modinagar-in-ghaziabad-overview-2690"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Roads in many parts of Modinagar are well built with footpaths",
+      "hindi": "*मोदीनगर के कई इलाकों में सड़कें अच्छी बनी हैं",
+      "inference": true,
+      "basis": "Inference: SquareYards locality page (undated) lists well-built roads with sidewalk as a strength, but the same page also has undated resident reviews complaining of poor roads, so this is contested",
+      "sources": [
+        {"outlet": "SquareYards", "date": "undated", "url": "https://www.squareyards.com/modinagar-in-ghaziabad-overview-2690"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Modinagar North station has parking and step-free access",
+      "hindi": "*मोदीनगर स्टेशन पर गाड़ी पार्किंग और आसान रास्ता है",
+      "inference": true,
+      "basis": "Inference: Wikipedia station page says the station has side platforms, step-free access and four-wheeler parking. A facility fact, not a voter-voiced benefit",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "accessed 2026-10-12", "url": "https://en.wikipedia.org/wiki/Modinagar_North_RRTS_station"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Heavy waterlogging on Modinagar roads and lanes in the rainy season",
+      "hindi": "*बारिश के मौसम में मोदीनगर में भारी जलभराव होता है",
+      "inference": true,
+      "basis": "Inference: SquareYards locality page (undated, with a reviewer comment dated Nov 2022) says sufficient drainage is a problem and the area sees heavy waterlogging in peak rainy seasons. No 2024-26 Modinagar news report on waterlogging was found",
+      "sources": [
+        {"outlet": "SquareYards", "date": "undated (review Nov 2022)", "url": "https://www.squareyards.com/modinagar-in-ghaziabad-overview-2690"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Traffic jams in Modinagar are very heavy during peak hours",
+      "hindi": "*भीड़ के समय मोदीनगर में भारी जाम लगता है",
+      "inference": true,
+      "basis": "Inference: SquareYards locality page (undated) says traffic congestion is very high during peak hours. Listing-site summary, not a news report; no 2026 jam report for Modinagar town found",
+      "sources": [
+        {"outlet": "SquareYards", "date": "undated", "url": "https://www.squareyards.com/modinagar-in-ghaziabad-overview-2690"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "A youth returning from duty was stopped on a Modinagar road and beaten up",
+      "hindi": "ड्यूटी से लौटते एक युवक को मोदीनगर में सड़क पर रोककर पीटा गया",
+      "inference": false,
+      "basis": "Amar Ujala video page (15 Feb 2026): a youth returning from duty was stopped on the road by a group and beaten severely in Modinagar, Ghaziabad. Single incident; no victim, arrest or follow-up named on the page. Modinagar town is inside the AC (Wikipedia AC extent covers Modinagar KC)",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-02-15", "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-youth-returning-from-duty-beaten-up-in-modinagar-in-ghaziabad-2026-02-15"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Illegal colonies are being built around Modinagar and bulldozers are moving in",
+      "hindi": "*मोदीनगर में अवैध कॉलोनी बन रही हैं और बुलडोजर चल रहा है",
+      "inference": true,
+      "basis": "Inference: Pioneer (15 Sep 2026) reports GDA demolished RCC roads, walls and plotting of an illegal colony at Village Rori behind Mangal Vihar, Modinagar, and that local builders resisted. Rori AC membership unconfirmed; the voter-impact framing is inference",
+      "sources": [
+        {"outlet": "The Pioneer", "date": "2026-09-15", "url": "https://dailypioneer.com/news/gda-demolishes-illegal-colony-structures-in-modinagar"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "An accident on the Delhi-Meerut Expressway near Bhojpur causes a jam",
+      "hindi": "*दिल्ली-मेरठ एक्सप्रेसवे पर हादसे से जाम लग जाता है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (16 Aug 2026): a runaway truck hit a bike-borne kanwariya on the Delhi-Meerut Expressway in the Bhojpur police station area, and the crash created a jam-like situation. Single incident; Kalchhina village is not confirmed inside the AC",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-16", "url": "https://www.amarujala.com/delhi-ncr/truck-hits-bike-borne-kanwariya-on-dme-2026-08-16"}
+      ]
+    }
+  ],
+  "notes": "AC identity confirmed: Wikipedia list gives No. 57 Modinagar, reserved None, and the Modinagar Assembly constituency article says it is part of Ghaziabad district, covering KCs Modinagar, Bhojpur and Modinagar MB plus Faridnagar, Patla and Niwari nagar panchayats in Modi Nagar tehsil. The list page leaves the district cell blank on row 57 (it carries down from row 53 Loni), so Ghaziabad rests on the AC article and the Lok Sabha column reads Baghpat. Coverage gap: almost no 2024-26 Modinagar-specific civic news was found across about 45 Hindi and English searches; the search tool hit its session limit before more could be run, so the search is incomplete. Only 1 negative is sourced and AC-specific (the Feb 2026 youth assault); negatives 1, 2, 4 and 5 are inference, so the brief's 3-of-5 AC-specific target is NOT met. Excluded: two Amar Ujala pieces on 'Modinagar Road' drains (Jan 2025) and a Modinagar Road power outage (Jul 2026) are about Hapur city, a different district. Excluded: Lok Sabha records from 2006 on Modinagar factory-worker housing and factory closures (too old, and the current status unknown). Excluded: the Aug 2026 Amar Ujala guessed traders-gherao URL (not opened, returned 404). Excluded: 99acres review page (returned 403, could not be read). Excluded: Public App city feed (aggregator). Modinagar's Pioneer-reported Begambad shop demolition (Jun 2026, Aaj Tak) is a municipal-land enforcement story, not a voter complaint, so not used. Sahikri (Sikri) mela and Kanwar traffic advisories are 2026 pre-event notices, not used. Field check recommended for: monsoon waterlogging in Modinagar town lanes, peak-hour jams near the Modinagar railway and Delhi-Meerut road junctions, the RRTS station parking and access, and the Rori colony demolition status. Positives 3 to 5 are weak inference items drawn from a listing site and a station fact sheet, not from voter voice."
+}
