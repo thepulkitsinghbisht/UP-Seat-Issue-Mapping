@@ -11,7 +11,7 @@
     {
       "rank": 1,
       "english": "A Skill India Centre opened in Baraut town to train local youth",
-      "hindi": "बड़ौत में स्किल इंडिया केंद्र खुला, युवाओं को काम सीखने का मौका मिलेगा",
+      "hindi": "बड़ौत में स्किल सेंटर खुल गया, युवाओं को काम सीखने का मौका",
       "inference": false,
       "basis": "Union ministers inaugurated the Skill India Centre at Ch. Kehar Singh Divya Public School, Baraut, on 24 Nov 2025, targeting about 600 candidates from Baraut and Chhaprauli blocks; run by NSDC and Redington Foundation. Baraut town is inside the AC (Wikipedia extent: Baraut MB)",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Delhi DTC electric AC bus service to Baraut started, six trips each way daily",
-      "hindi": "दिल्ली से बड़ौत के लिए डीटीसी बस शुरू हुई, रोज़ छह चक्कर",
+      "english": "Delhi DTC bus to Baraut started running, six trips each way daily",
+      "hindi": "दिल्ली से बड़ौत की डीटीसी बस चलने लगी, रोज़ आने-जाने के छह चक्कर",
       "inference": false,
       "basis": "Tribune (24 Sep 2025): CM Rekha Gupta flagged off the fully electric Delhi-Baraut inter-state AC bus from Maharana Pratap ISBT; six trips each way covering Khajoori Khas, Loni, Baghpat and Baraut; CM called it 'the first of many'. Operation after launch not re-checked",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "* Baraut town's Baavli road work under way, completion promised soon",
-      "hindi": "* बड़ौत में बावली मार्ग का काम जल्द पूरा होने का भरोसा मिला",
+      "english": "* Baavli road work is under way in Baraut, drains and culverts being built first",
+      "hindi": "* बड़ौत में बावली मार्ग पर काम शुरू हुआ, पहले नाली-पुलिया बन रही हैं",
       "inference": true,
       "basis": "Inference: AC-specific but only under way, not completed. Feb 2025 Amar Ujala: Executive Officer Manoj Kumar said culverts and drains are being built first and work will finish soon; no completion report found, current status unverified",
       "sources": [
@@ -101,8 +101,8 @@
     },
     {
       "rank": 2,
-      "english": "Polluted water from Malakpur sugar mill, farmers want a permanent fix",
-      "hindi": "मलकपुर मिल का प्रदूषित पानी, स्थायी हल चाहिए",
+      "english": "Allegation: Malakpur sugar mill is letting out polluted water, causing problems in the area",
+      "hindi": "मलकपुर मिल का प्रदूषित पानी छोड़ने का आरोप है, दिक्कत हो रही है",
       "inference": false,
       "basis": "ChiniMandi (6 Oct 2026, citing Bhaskar): polluted water discharged from the Malkapur sugar mill to be raised at the 11 Oct 2026 mahapanchayat; residents say 'the discharge is causing problems in the area'. Allegation; no second source checked. AC membership as for item 1",
       "sources": [
@@ -115,8 +115,8 @@
     },
     {
       "rank": 3,
-      "english": "Baavli road in Baraut town dug up for two months, shops hit",
-      "hindi": "बड़ौत के बावली मार्ग की सड़क दो माह से उखड़ी, दुकानों पर असर",
+      "english": "Baavli road in Baraut was dug up for two months, shopkeepers say business fell 50 percent",
+      "hindi": "बावली मार्ग दो महीने खुदा रहा, दुकानदारों का 50 प्रतिशत धंधा गिरा",
       "inference": false,
       "basis": "Amar Ujala (10 Feb 2025), Baraut dateline: Baavli Marg near Thakurdwara in Baraut town dug up for about two months; shopkeepers say business fell 50 percent; school students face trouble daily. Article is from Feb 2025; current status unverified",
       "sources": [
@@ -130,7 +130,7 @@
     {
       "rank": 4,
       "english": "Plots bought in unapproved colonies on Saraya Road, Baraut cannot get maps or loans",
-      "hindi": "सराया रोड की अवैध कॉलोनी में प्लॉट लिया, न नक्शा पास, न लोन",
+      "hindi": "सराया रोड की अवैध कॉलोनी, प्लॉट लिया पर न नक्शा पास, न लोन",
       "inference": false,
       "basis": "Amar Ujala (26 Mar 2025): Baghpat-Baraut-Khekra Vikas Pradhikaran sealed four illegal colonies on Saraay Road, Baraut; AE Asif Hussain said plot maps cannot be passed while the colony map is unapproved, and buyers cannot get loans. Baraut town is inside the AC (Baraut MB)",
       "sources": [
@@ -143,8 +143,8 @@
     },
     {
       "rank": 5,
-      "english": "Seven villages from Baraut block object to move to Kanhad block",
-      "hindi": "बड़ौत ब्लॉक के सात गांव कान्हड़ ब्लॉक में भेजने का विरोध",
+      "english": "Seven villages object to being moved to Kanhad block, which is very far",
+      "hindi": "सात गांव कान्हड़ ब्लॉक में भेजने का विरोध, बहुत दूर है",
       "inference": false,
       "basis": "Amar Ujala (13 Sep 2025): villagers of Ashrafabad Thal, Khadana, Ibrahimpur Majra, Fatehpur, Kishanpur, Baral and Budhpur object to moving from Baraut block to Kanhad block, which they say is far. AC membership unconfirmed: these villages are not named in the Wikipedia extent list",
       "sources": [

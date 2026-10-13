@@ -7,7 +7,7 @@
   "region": "Paschim UP",
   "summary": "Complaints centre on broken municipal water supply, power cuts, stalled drain work in Muradnagar town and drownings at the Gangnahar canal ghat; appreciation is limited to the Delhi-Meerut RRTS station and some ongoing works.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (No. 54 Muradnagar, reserved None, district Ghaziabad); extent per https://en.wikipedia.org/wiki/Muradnagar_Assembly_constituency (Muradnagar KC and Muradnagar MB of Modinagar tehsil; 5 PCs of Ghaziabad KC; 17 wards of Ghaziabad MC)",
-  "ac_specific_negatives": 5,
+  "ac_specific_negatives": 3,
   "positives": [
     {
       "rank": 1,
@@ -16,18 +16,30 @@
       "inference": false,
       "basis": "DD News (5 Mar 2024): Muradnagar is one of three stations in the 17 km Duhai-Modinagar North section, which PM Modi was set to open on 6 March. The station opening and passenger start on 7 March 2024 are from Wikipedia only (no news report of the opening was found).",
       "sources": [
-        {"outlet": "DD News", "date": "2024-03-05", "url": "https://ddnews.gov.in/%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%AC%E0%A5%81%E0%A4%A7%E0%A4%B5%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%97/"},
-        {"outlet": "Wikipedia (Murad Nagar RRTS station)", "date": "2024-03-07", "url": "https://en.wikipedia.org/wiki/Murad_Nagar_RRTS_station"}
+        {
+          "outlet": "DD News",
+          "date": "2024-03-05",
+          "url": "https://ddnews.gov.in/%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%AC%E0%A5%81%E0%A4%A7%E0%A4%B5%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%97/"
+        },
+        {
+          "outlet": "Wikipedia (Murad Nagar RRTS station)",
+          "date": "2024-03-07",
+          "url": "https://en.wikipedia.org/wiki/Murad_Nagar_RRTS_station"
+        }
       ]
     },
     {
       "rank": 2,
       "english": "Drain work has started in Ward 23, though it is moving slowly",
-      "hindi": "वार्ड 23 में नाली का काम शुरू तो हुआ है पर धीमी चाल से",
+      "hindi": "वार्ड 23 में नाली का काम शुरू हुआ, पर धीमी चाल से",
       "inference": false,
       "basis": "Ward 23 of Muradnagar Nagar Palika, Naya Nooraganj Eidgah road: drain construction started, but less than half is built and work has been stop-start for about two months (Amar Ujala, 22 Jul 2026).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-22", "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-delay-in-drain-construction-in-muradnagars-ward-23-draws-public-ire-2026-07-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-22",
+          "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-delay-in-drain-construction-in-muradnagars-ward-23-draws-public-ire-2026-07-22"
+        }
       ]
     },
     {
@@ -37,17 +49,25 @@
       "inference": false,
       "basis": "Residents say pipeline laying runs from Ramlila Ground at Chungi No. 3 to a water tank under construction in Idgah Basti, Muradnagar; the article describes this in a pipeline-damage report and does not report residents appreciating it.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-04", "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/population-of-eight-thousand-in-muradnagar-grappled-with-drinking-water-crisis-after-pipeline-was-damaged-2026-07-04"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-04",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/population-of-eight-thousand-in-muradnagar-grappled-with-drinking-water-crisis-after-pipeline-was-damaged-2026-07-04"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Six Muradnagar roads are planned for renovation under a Rs 81 crore district plan",
-      "hindi": "*मुरादनगर की छह सड़कों की मरम्मत की योजना है",
+      "english": "* Six Muradnagar roads are planned for renovation under a Rs 81 crore district plan",
+      "hindi": "* मुरादनगर की छह सड़कों की मरम्मत की योजना है",
       "inference": true,
       "basis": "Inference: district-level Rs 81 crore PWD estimate for 34 roads plus four bridges; article says six roads in Muradnagar, none named, and one bridge proposed there. Estimate not yet approved; work starts only after approval (Amar Ujala, 26 Sep 2025). Not a completed benefit. A search for a completed Muradnagar road project in 2026 found nothing.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-09-26", "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/34-roads-in-the-district-will-be-renovated-with-rs-81-crore-ghaziabad-news-c-30-gbd1013-728852-2025-09-26"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-09-26",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/34-roads-in-the-district-will-be-renovated-with-rs-81-crore-ghaziabad-news-c-30-gbd1013-728852-2025-09-26"
+        }
       ]
     },
     {
@@ -57,19 +77,27 @@
       "inference": false,
       "basis": "Namami Gange district team held a daily Ganga maha-aarti at Gangnahar ghat, Muradnagar, from 30 July to 12 August 2026; the aarti has run every Wednesday and Saturday since 7 June 2025 (Amar Ujala, 31 Jul 2026). A faith event, not a service.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-31", "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/ganga-maha-aarti-will-be-held-daily-at-gangnahar-ghat-in-muradnagar-during-month-of-sawan-2026-07-31"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-31",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/ganga-maha-aarti-will-be-held-daily-at-gangnahar-ghat-in-muradnagar-during-month-of-sawan-2026-07-31"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "Municipal pipeline broke, no water for days and road digging causes jams",
-      "hindi": "नगर पालिका की पाइपलाइन टूटी, कई दिनों से पानी नहीं आ रहा",
+      "english": "Pipeline broke, no water for days, and road digging keeps traffic jammed all day",
+      "hindi": "पाइपलाइन टूटी, कई दिनों से पानी नहीं, खुदाई से दिन भर जाम",
       "inference": false,
       "basis": "Pipeline damaged for 3-4 days on Pipeline Road near Sarna Chowk, Chungi No. 3, Muradnagar; article says about 7,000-8,000 people affected; road digging keeps traffic jammed all day; EO says supply will be restored soon, no date given.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-04", "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/population-of-eight-thousand-in-muradnagar-grappled-with-drinking-water-crisis-after-pipeline-was-damaged-2026-07-04"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-04",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/population-of-eight-thousand-in-muradnagar-grappled-with-drinking-water-crisis-after-pipeline-was-damaged-2026-07-04"
+        }
       ]
     },
     {
@@ -79,17 +107,25 @@
       "inference": false,
       "basis": "Power halted for three days in six colonies (Radheshyam Vihar, Shivam Vihar, Shankar Vihar, Asalatnagar, Shobhapur and others), reported as Muradnagar; women went to the Asalatnagar substation; SDO said supply would be restored once the fault was fixed, no timeline given. Asalatnagar village membership unconfirmed; counted as Muradnagar namesake. (Amar Ujala, 23 May 2025.)",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-05-23", "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-angry-women-surrounded-the-substation-in-muradnagar-due-to-no-electricity-for-three-days-2025-05-23"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-05-23",
+          "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-angry-women-surrounded-the-substation-in-muradnagar-due-to-no-electricity-for-three-days-2025-05-23"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Drain work stalled for two months and dirty water stays in the lanes",
-      "hindi": "वार्ड 23 में नाली का काम अटका है, गंदा पानी भरा रहता है",
+      "english": "Drain in Ward 23 is being built stop-start, and dirty water collects in the lanes",
+      "hindi": "वार्ड 23 की नाली रुक-रुक कर बन रही है, गंदा पानी भरता है",
       "inference": false,
       "basis": "Ward 23, Muradnagar NPP, Naya Nooraganj Eidgah road: work on and off for about two months, less than half built; Mahtab Pathan (UP Minority Congress secretary) says work has been completely halted for about 15 days; contractor dumped soil making road slippery; residents want the current contractor's tender cancelled (Amar Ujala, 22 Jul 2026). Waterlogging from the clogged drain is the article's account of residents' complaint.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-22", "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-delay-in-drain-construction-in-muradnagars-ward-23-draws-public-ire-2026-07-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-22",
+          "url": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-delay-in-drain-construction-in-muradnagars-ward-23-draws-public-ire-2026-07-22"
+        }
       ]
     },
     {
@@ -99,25 +135,33 @@
       "inference": false,
       "basis": "Article says, per departmental data, a large number of people drown at the Muradnagar Ganga canal ghat every year (no figure given). Rs 5 crore canal-bed raise budget is sanctioned at state level; iron chains and railings are planned; work has not started and needs a canal water shutdown and tender (Amar Ujala, 28 Sep 2026).",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-28", "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/muradnagar-ganga-canal-water-level-to-be-raised-accidents-to-be-curbed-ghaziabad-news-c-30-gbd1036-987559-2026-09-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/muradnagar-ganga-canal-water-level-to-be-raised-accidents-to-be-curbed-ghaziabad-news-c-30-gbd1036-987559-2026-09-28"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Crematorium collapse victims' families still await jobs, houses and justice",
-      "hindi": "श्मशान घाट हादसे के पीड़ित परिवार अब भी नौकरी और मकान को तरस रहे हैं",
+      "english": "Families of crematorium collapse victims say they have not received a government job or house",
+      "hindi": "श्मशान घाट हादसे के पीड़ित परिवारों को नौकरी-मकान नहीं मिला",
       "inference": false,
       "basis": "Roof of a corridor at the Ukhlarsi Bamba Road crematorium, Muradnagar, collapsed on 3 Jan 2021 (25 dead per article). A year later families said no government job or house had been given; they held a dharna at Nagar Palika and a rotating hunger strike; they say accused were released (families' claim, not confirmed by article). Ukhlarsi village membership unconfirmed; counted as Muradnagar namesake. Report dated 3 Jan 2022. No 2024-2026 update found, so persistence after 2022 is unconfirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2022-01-03", "url": "https://www.amarujala.com/uttar-pradesh/meerut/ghaziabad-news-modinagar-news-gbd232091429"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2022-01-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/meerut/ghaziabad-news-modinagar-news-gbd232091429"
+        }
       ]
     }
   ],
   "round2": {
     "verified_sources": 9,
     "removed_sources": 0,
-    "ac_specific_negatives": 5,
-    "changes": "Opened all cited article URLs and fixed bases that overstated them: negative 4 (railings were planned, not sanctioned), negative 5 (collapse was 3 Jan 2021, article dated 3 Jan 2022), negative 1 (EO gave no date). Positive 1 now cites DD News (5 Mar 2024) for the Muradnagar station in the section and planned 6 March opening; Wikipedia kept for the 7 March passenger start. Gangnahar 2025 drownings article and 11 Jun 2025 seven-drownings article were searched for and not found, so not cited. Crematorium 2024-2026 update searched; none found. Positive 4 kept as inference after search for a completed Muradnagar road project found none. Asalatnagar and Ukhlarsi village membership left unconfirmed in basis; both are named with Muradnagar. Mismatch note: the 2022 crematorium article URL carries a modinagar slug, but the article is about Muradnagar."
+    "ac_specific_negatives": 3,
+    "changes": "Earlier round2 text follows. Recount: ac_specific_negatives is now 3. N2 (Asalatnagar) and N5 (Ukhlarsi) were removed from the count because the namesake-town rule covers only Muradnagar town itself, and no source places either village inside AC 54. N1, N3 and N4 stay counted (Pipeline Road and Chungi No. 3, Ward 23 NPP, Gangnahar ghat, all treated as Muradnagar town). Earlier changes: Opened all cited article URLs and fixed bases that overstated them: negative 4 (railings were planned, not sanctioned), negative 5 (collapse was 3 Jan 2021, article dated 3 Jan 2022), negative 1 (EO gave no date). Positive 1 now cites DD News (5 Mar 2024) for the Muradnagar station in the section and planned 6 March opening; Wikipedia kept for the 7 March passenger start. Gangnahar 2025 drownings article and 11 Jun 2025 seven-drownings article were searched for and not found, so not cited. Crematorium 2024-2026 update searched; none found. Positive 4 kept as inference after search for a completed Muradnagar road project found none. Asalatnagar and Ukhlarsi village membership left unconfirmed in basis; both are named with Muradnagar. Mismatch note: the 2022 crematorium article URL carries a modinagar slug, but the article is about Muradnagar."
   },
-  "notes": "Positives are thin: no local Hindi report of a completed benefit in Muradnagar was found. Positive 1 combines DD News (station in the Muradnagar section, planned 6 March 2024 opening) with Wikipedia for the 7 March passenger start; PIB pages returned 403. Positive 4 is an unapproved district estimate (inference, flagged with *). Positive 5 is a faith event, not a service. Positive 3 is a tank under construction mentioned in a pipeline-damage report. AC membership: the Wikipedia extent covers Muradnagar KC and Muradnagar MB (Modinagar tehsil). Chungi No. 3, Pipeline Road, Sarna Chowk, Idgah Basti, Ward 23 (Muradnagar NPP) and the Gangnahar ghat are reported as Muradnagar town and treated as inside. Asalatnagar and Ukhlarsi village-level membership could not be confirmed from searches; both are counted under the namesake-town rule. Negative 5 is from 2022 and nothing newer was found. Field check: 2026 power supply status in Muradnagar (only a 2025 report is sourced)."
+  "notes": "AC-054 voice pass: P3 weak positive: a tank under construction, mentioned in a pipeline-damage report; the source does not report residents appreciating it. P4 weak positive: an unapproved district estimate, not a delivered benefit (flagged *). P5 weak positive: a faith event, not a service, and the source does not report appreciation. Recount: N2 (Asalatnagar) and N5 (Ukhlarsi) are kept as items but not counted in ac_specific_negatives (3), because the namesake-town rule covers Muradnagar town only and no source places either village inside AC 54. Earlier notes follow. Positives are thin: no local Hindi report of a completed benefit in Muradnagar was found. Positive 1 combines DD News (station in the Muradnagar section, planned 6 March 2024 opening) with Wikipedia for the 7 March passenger start; PIB pages returned 403. Positive 3 is a tank under construction mentioned in a pipeline-damage report. AC membership: the Wikipedia extent covers Muradnagar KC and Muradnagar MB (Modinagar tehsil). Chungi No. 3, Pipeline Road, Sarna Chowk, Idgah Basti, Ward 23 (Muradnagar NPP) and the Gangnahar ghat are reported as Muradnagar town and treated as inside. Asalatnagar and Ukhlarsi village-level membership could not be confirmed from searches. Negative 5 is from 2022 and nothing newer was found. Field check: 2026 power supply status in Muradnagar (only a 2025 report is sourced)."
 }

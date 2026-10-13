@@ -11,8 +11,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Namo Bharat trains now reach Modinagar North, the trip to Delhi is easier",
-      "hindi": "मोदीनगर नॉर्थ तक नमो भारत ट्रेन चलने से सफर आसान हुआ",
+      "english": "The rapid rail now reaches Modinagar North and the trip has become easier",
+      "hindi": "मोदीनगर नॉर्थ तक रैपिड रेल चलने से सफर आसान हुआ",
       "inference": false,
       "basis": "Amar Ujala (7 Mar 2024, verified): PM virtually inaugurated the 17 km Duhai to Modinagar North section; regular passenger service was to start 8 March at 6 AM; NCRTC officials give 24 minutes from Sahibabad to Modinagar North. Wikipedia station page (verified): station is in Modinagar town, Ghaziabad district, inaugurated 6 March 2024",
       "sources": [
@@ -30,8 +30,8 @@
     },
     {
       "rank": 2,
-      "english": "Namo Bharat now runs from Sarai Kale Khan to Begumpul, and the line passes Modinagar North",
-      "hindi": "नमो भारत अब सराय काले खां से बेगमपुल तक चलती है",
+      "english": "From Modinagar you can now take rapid rail to Sarai Kale Khan",
+      "hindi": "मोदीनगर से सराय काले खां तक रैपिड रेल से जा सकते हैं",
       "inference": false,
       "basis": "Amar Ujala (20 Feb 2026, verified): the Delhi-Meerut Namo Bharat line now extends from Sarai Kale Khan to Begumpul. The article does not mention Modinagar; the link to Modinagar North comes from the Wikipedia station page (verified), whose infobox shows Platform 2 toward Sarai Kale Khan. Line-level fact, not a Modinagar-only change",
       "sources": [
@@ -49,7 +49,7 @@
     },
     {
       "rank": 3,
-      "english": "Many lanes in Modinagar have street lights",
+      "english": "*Many lanes in Modinagar have street lights",
       "hindi": "*मोदीनगर की कई गलियों में स्ट्रीट लाइट लगी है",
       "inference": true,
       "basis": "Inference: SquareYards locality page (undated, verified) says the locality is well-lit with street lamps in multiple areas. Listing-site summary, not a news report or official source",
@@ -63,7 +63,7 @@
     },
     {
       "rank": 4,
-      "english": "Roads in many parts of Modinagar are well built with footpaths",
+      "english": "*Roads in many parts of Modinagar are well built",
       "hindi": "*मोदीनगर के कई इलाकों में सड़कें अच्छी बनी हैं",
       "inference": true,
       "basis": "Inference: SquareYards page (undated, verified) lists 'Well Built Roads with Sidewalk' as a positive from reviews, but its overview also says residents dislike the poor road conditions, so this is contested",
@@ -77,8 +77,8 @@
     },
     {
       "rank": 5,
-      "english": "Modinagar North station has parking and step-free access",
-      "hindi": "*मोदीनगर स्टेशन पर गाड़ी पार्किंग और आसान रास्ता है",
+      "english": "*Modinagar station has a parking facility for cars",
+      "hindi": "*मोदीनगर स्टेशन पर गाड़ी पार्क करने की सुविधा है",
       "inference": true,
       "basis": "Inference: Wikipedia station page (verified) infobox lists Accessible: Yes and Four-Wheeler Parking. A facility fact, not a voter-voiced benefit",
       "sources": [
@@ -94,7 +94,7 @@
     {
       "rank": 1,
       "english": "The Modinagar-Kalchhina road is only 3.75 metres wide and broken in many places",
-      "hindi": "मोदीनगर-कलछीना सड़क 3.75 मीटर चौड़ी है, जगह-जगह टूटी है",
+      "hindi": "मोदीनगर-कलछीना सड़क सिर्फ 3.75 मीटर चौड़ी है, जगह-जगह टूटी है",
       "inference": false,
       "basis": "Amar Ujala (3 Aug 2026, verified): road is 3.75 m wide, damaged in many places, aggregate has come loose; 14.5 km road serves more than 50,000 people in villages along it. Widening (to 5.5 m, about Rs 35 crore) is proposed, not approved. AC membership unconfirmed: the Modinagar end is inside the AC, but Kalchhina village is not confirmed inside it (one postal listing says Hapur tehsil), so not counted in ac_specific_negatives",
       "sources": [
@@ -107,7 +107,7 @@
     },
     {
       "rank": 2,
-      "english": "Heavy waterlogging in Modinagar lanes in the rainy season",
+      "english": "*In the rainy season water fills up the lanes of Modinagar",
       "hindi": "*बारिश में मोदीनगर की गलियों में पानी भर जाता है",
       "inference": true,
       "basis": "Inference: SquareYards page (verified) quotes reviewers saying the area sees heavy waterlogging in peak rainy seasons and lacks proper drainage. Reviews are undated except Nov 2022 and are not a news report. No 2024-26 Modinagar news on waterlogging was found (a ghaziabad365 Modinagar drain-repair item returned 404 and is not used)",
@@ -121,7 +121,7 @@
     },
     {
       "rank": 3,
-      "english": "Scooter-borne men tried to take an 8-year-old from a Modinagar lane, and police had not filed a report two days later",
+      "english": "An attempt was made to take a child away in Modinagar, and police did not file a report",
       "hindi": "मोदीनगर में बच्चा उठाने की कोशिश हुई, पुलिस ने रिपोर्ट नहीं लिखी",
       "inference": false,
       "basis": "Amar Ujala video (16 Sep 2026, verified): the headline says abduction but the body describes an attempt; a neighbour followed and the suspects fled leaving the child; CCTV footage has surfaced; police had not registered an FIR two days after the incident. Lane is in Modinagar town (inside the AC)",
@@ -162,7 +162,7 @@
       ]
     }
   ],
-  "notes": "AC identity confirmed: Wikipedia list gives No. 57 Modinagar, reserved None. The Modinagar Assembly constituency Wikipedia page (verified) gives the extent as KCs Modinagar, Bhojpur, Modinagar MB, Faridnagar NP, Patla NP and Niwari NP of Modi Nagar Tehsil, in Ghaziabad district. Its MB entry is used as the Modinagar Nagar Palika Parishad. Coverage: about 45 searches in round 1 plus roughly 20 in round 2 (round 2 count approximate). Amar Ujala Ghaziabad turned up several 2026 Modinagar items, mostly enforcement or crime: illegal shops (Jun 2026), e-registry protest at the tehsil (Jun 2026), out-of-control car hitting eight vehicles (19 Jul 2026, no location or cause given), robbers encounter (Aug 2026), ACP change (Sep 2026), python rescue (Sep 2026). Not used as voter issues. Excluded: Modi Sugar Mill effluent and smell complaint (Amar Ujala, 3 Apr 2017, too old, no follow-up found); Sikri Kalan land survey death (Aug 2026, sensitive, not a civic issue for this AC); Raisapur waterlogging (Sep 2026, Raisapur is not in Modinagar); Hapur Modinagar Road drains and power (Hapur district); 99acres reviews (403). Modi mill workers and closures: no 2024-26 source found; 1985 Lok Sabha records are too old. Begambad: unauthorised construction halted (Pioneer, Sep 2026) not used as a voter issue. Gaps for field check: monsoon waterlogging in Modinagar lanes, peak-hour jams at the Modinagar railway and NH-58 junctions (no sourced 2026 item found), street-light upkeep, the Modinagar-Kalchhina road widening approval (proposed, expected Aug 2026, status unknown), and whether Kalchhina village is inside this AC. The tehsil garbage item has been partly addressed by cleanup.",
+  "notes": "AC identity confirmed: Wikipedia list gives No. 57 Modinagar, reserved None. The Modinagar Assembly constituency Wikipedia page (verified) gives the extent as KCs Modinagar, Bhojpur, Modinagar MB, Faridnagar NP, Patla NP and Niwari NP of Modi Nagar Tehsil, in Ghaziabad district. Its MB entry is used as the Modinagar Nagar Palika Parishad. Coverage: about 45 searches in round 1 plus roughly 20 in round 2 (round 2 count approximate). Amar Ujala Ghaziabad turned up several 2026 Modinagar items, mostly enforcement or crime: illegal shops (Jun 2026), e-registry protest at the tehsil (Jun 2026), out-of-control car hitting eight vehicles (19 Jul 2026, no location or cause given), robbers encounter (Aug 2026), ACP change (Sep 2026), python rescue (Sep 2026). Not used as voter issues. Excluded: Modi Sugar Mill effluent and smell complaint (Amar Ujala, 3 Apr 2017, too old, no follow-up found); Sikri Kalan land survey death (Aug 2026, sensitive, not a civic issue for this AC); Raisapur waterlogging (Sep 2026, Raisapur is not in Modinagar); Hapur Modinagar Road drains and power (Hapur district); 99acres reviews (403). Modi mill workers and closures: no 2024-26 source found; 1985 Lok Sabha records are too old. Begambad: unauthorised construction halted (Pioneer, Sep 2026) not used as a voter issue. Gaps for field check: monsoon waterlogging in Modinagar lanes, peak-hour jams at the Modinagar railway and NH-58 junctions (no sourced 2026 item found), street-light upkeep, the Modinagar-Kalchhina road widening approval (proposed, expected Aug 2026, status unknown), and whether Kalchhina village is inside this AC. The tehsil garbage item has been partly addressed by cleanup. P5 weak positive: parking is a station facility fact from Wikipedia, not a reported local improvement. Statement wording uses 'rapid rail' for the Namo Bharat (RRTS) line so that no political name appears in statements; the official name is in the basis. P5 weak positive: parking is a station facility fact from Wikipedia, not a reported local improvement. Statement wording uses 'rapid rail' for the Namo Bharat (RRTS) line so that no political name appears in statements; the official name is in the basis.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 2,

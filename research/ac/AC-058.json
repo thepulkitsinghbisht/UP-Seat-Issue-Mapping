@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "*Roads and drains are to be built in four Pilkhuwa wards (2, 3, 5 and 6)",
-      "hindi": "*पिलखुवा के चार वार्डों में सड़कें और नालियां बनने वाली हैं",
+      "english": "*Tenders have been issued for roads and drains in four Pilkhuwa wards",
+      "hindi": "*पिलखुवा के चार वार्डों में सड़क-नाली के लिए टेंडर निकल गए हैं",
       "inference": true,
       "basis": "Inference: Amar Ujala (24 Aug 2026, opened) says Rs 2.25 crore for about 2.5 km of roads and drains in Pilkhuwa wards 2, 3, 5 and 6; tenders issued, work planned to start end-September. No later source confirms the start. Pilkhuwa MB is inside the AC per Wikipedia extent.",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "*A proposal to repair 18 Dhaulana roads has been sent to the state government",
-      "hindi": "*धौलाना की 18 सड़कों की मरम्मत का प्रस्ताव सरकार को भेजा गया है",
+      "english": "*A proposal to repair 18 roads in Dhaulana has been sent",
+      "hindi": "*धौलाना की 18 सड़कों की मरम्मत का प्रस्ताव भेजा गया है",
       "inference": true,
       "basis": "Inference: Amar Ujala (22 Sep 2026, opened) says PWD sent MLA Dharmesh Tomar's proposal for special repair of 18 roads in the Dhaulana area, about Rs 6 crore; work starts only after state approval. Proposal only, not delivered. Named routes: Dasna-Dhaulana-Gulaothi road and the Badnauli route; Dhaulana KC and Dasna NP are inside the AC extent per Wikipedia.",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "*During rain, a municipal team was sent to waterlogged areas and drainage work is under way",
-      "hindi": "*बारिश के दौरान पालिका की टीम जलभराव वाले इलाकों में भेजी गई",
+      "english": "*During rain, a municipal team was sent to waterlogged areas",
+      "hindi": "*बारिश में पालिका की टीम पानी भरे इलाकों में भेजी गई",
       "inference": true,
       "basis": "Inference: Executive Officer Indrapal Singh is quoted in Amar Ujala (28 Jul 2026, opened) saying the municipal team was sent immediately to waterlogged areas during rain and drainage work is underway. An official claim only, not verified on the ground; not counted as a delivered benefit.",
       "sources": [
@@ -52,7 +52,7 @@
     },
     {
       "rank": 4,
-      "english": "*A planned extension of the Hapur Chungi flyover to 1200 metres",
+      "english": "*There is a plan to extend the Hapur Chungi flyover to 1200 metres",
       "hindi": "*हापुड़ चुंगी पर फ्लाईओवर 1200 मीटर तक बढ़ाने की योजना है",
       "inference": true,
       "basis": "Inference: Daily Jagran (28 Aug 2025, archived page, opened) says the flyover will be extended to 1200 m from the initial 800 m, funded by PWD, a plan only. The article names Ghaziabad localities (Raj Nagar, Shastri Nagar, Sanjay Nagar, Kavi Nagar) and not Dhaulana. Hapur Chungi is not named in the Wikipedia extent; AC membership unconfirmed.",
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "When it rains, water fills Railway Road and Gandhi Road in Pilkhuwa",
-      "hindi": "पिलखुवा में बारिश होते ही रेलवे रोड और गांधी रोड पर पानी भर जाता है",
+      "english": "In Pilkhuwa, water fills Railway Road and Gandhi Road when it rains",
+      "hindi": "पिलखुवा की रेलवे रोड, गांधी रोड पर बारिश में पानी भर जाता है",
       "inference": false,
       "basis": "Amar Ujala (28 Jul 2026, opened): waterlogging in several Pilkhuwa neighbourhoods and roads including Railway Road, Gandhi Road, Gandhi Bazaar and Jawahar Bazaar; the article attributes it to drains not cleaned on time and inadequate drainage. Residents are not quoted directly. Pilkhuwa MB is inside the AC per Wikipedia extent.",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "The Partapur Road underpass is unfinished and thousands in Isad Nagar and Saddikpura are suffering",
-      "hindi": "परतापुर रोड का अंडरपास अधूरा है इसाद नगर और सद्दीकपुरा के हजारों लोग परेशान हैं",
+      "english": "The Partapur Road underpass is unfinished, and there is water and filth in Isad Nagar-Saddikpura",
+      "hindi": "परतापुर रोड का अंडरपास अधूरा, इसाद नगर-सद्दीकपुरा में पानी और गंदगी",
       "inference": false,
       "basis": "Pratahkal (12 Oct 2026, opened): the Partapur Road underpass in Pilkhuwa is under construction and has stalled, causing waterlogging and filth for thousands in Isad Nagar and Saddikpura; AAP threatens a sit-in at the municipal premises. Pilkhuwa MB is inside the AC per Wikipedia extent.",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Smoke from factories in Partapur drew a complaint, and three units had their boilers sealed",
-      "hindi": "परतापुर में फैक्ट्रियों के धुएं की शिकायत आई, तीन यूनिटों के बॉयलर सील हुए",
+      "english": "There are complaints about factory smoke in Partapur",
+      "hindi": "परतापुर में फैक्ट्रियों के धुएं की शिकायत है",
       "inference": false,
       "basis": "Amar Ujala (18 Apr 2026, opened): a complaint about smoke was received; five people were booked; three units (Moon Processors, Shri Rama Industries, Shri Balaji Processors) were found burning plastic waste in boilers and their boilers and plants were sealed. The article does not quote villagers. It places Partapur in the Kotwali area, Pilkhuwa. Partapur's AC membership is unconfirmed, so this is not counted as AC-specific. District-level.",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 3,
-  "notes": "AC identity: Wikipedia Dholana Assembly constituency page gives No. 58, general seat, Hapur district in infobox (lead also says part of Ghaziabad district; source inconsistent, Hapur used). Extent: Hapur tehsil (KC Hapur, Pilkhuwa MB, KC Dhaulana incl. Shaulana, Dhikri, Karanpur, Kakrana, Sapnawat and others) and Ghaziabad tehsil (Ghaziabad KC excluding several PCs, Dasna NP). Hindi name spelled ढौलाना in file; sources use धौलाना. POSITIVES ARE WEAK: no completed or delivered benefit in AC 58 was found in any opened source or in 4 extra searches; all five positives are planned, proposed or official claims and are flagged as inference. Negatives 1, 2 and 4 are AC-specific (Pilkhuwa MB, Dhaulana KC, Dasna NP). Negatives 3 and 5 are district-level and Partapur/Sambhawali membership is unconfirmed. Not cited: Newstrack Pilkhuwa drain article (403), The Statesman Hapur pollution article (403), SquareYards/99acres property feeds and undated resident reviews (aggregators). EHapur News runs Dhaulana items through Oct 2026 but grievance articles found were not about residents' complaints; a power-theft raid at Dehra village is not a supply complaint and is not used. Field check suggested: ward-wise Pilkhuwa drain status and the Pilkhuwa wards 2, 3, 5, 6 works; Partapur underpass timeline; Dhaulana power supply hours; Dasna civic issues; whether Hapur Chungi lies in this AC; Partapur AC membership.",
+  "notes": "AC identity: Wikipedia Dholana Assembly constituency page gives No. 58, general seat, Hapur district in infobox (lead also says part of Ghaziabad district; source inconsistent, Hapur used). Extent: Hapur tehsil (KC Hapur, Pilkhuwa MB, KC Dhaulana incl. Shaulana, Dhikri, Karanpur, Kakrana, Sapnawat and others) and Ghaziabad tehsil (Ghaziabad KC excluding several PCs, Dasna NP). Hindi name spelled ढौलाना in file; sources use धौलाना. POSITIVES ARE WEAK: no completed or delivered benefit in AC 58 was found in any opened source or in 4 extra searches; all five positives are planned, proposed or official claims and are flagged as inference. Negatives 1, 2 and 4 are AC-specific (Pilkhuwa MB, Dhaulana KC, Dasna NP). Negatives 3 and 5 are district-level and Partapur/Sambhawali membership is unconfirmed. Not cited: Newstrack Pilkhuwa drain article (403), The Statesman Hapur pollution article (403), SquareYards/99acres property feeds and undated resident reviews (aggregators). EHapur News runs Dhaulana items through Oct 2026 but grievance articles found were not about residents' complaints; a power-theft raid at Dehra village is not a supply complaint and is not used. Field check suggested: ward-wise Pilkhuwa drain status and the Pilkhuwa wards 2, 3, 5, 6 works; Partapur underpass timeline; Dhaulana power supply hours; Dasna civic issues; whether Hapur Chungi lies in this AC; Partapur AC membership. P1 weak positive: tenders issued only; start not confirmed. P2 weak positive: repair proposal only, not approved or delivered. P3 weak positive: an official's claim, not verified on the ground. P4 weak positive: planned flyover extension only; Hapur Chungi AC membership unconfirmed. P5 weak positive: conditional; no completion or outcome sourced.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 0,
