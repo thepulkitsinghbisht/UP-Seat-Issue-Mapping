@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Bulandshahr",
   "region": "Paschim UP",
-  "summary": "Complaints centre on waterlogging when drains overflow onto Syana's main roads and bazaar, congestion on the narrow Syana road into the market, and a power cut during rain; the positives are planned road widening and a drain response, none yet a completed benefit.",
+  "summary": "Complaints centre on waterlogging when drains overflow onto Syana's main roads, bazaar and lanes, congestion on the narrow Syana road into the market, and a power cut during rain; the positives are a road widening that is approved but not confirmed started, and official drain-cleaning claims, none yet a verified completed benefit.",
   "identity_source": "https://en.wikipedia.org/wiki/Syana_Assembly_constituency",
   "positives": [
     {
@@ -13,10 +13,18 @@
       "english": "*Syana to Garh road is set to be widened",
       "hindi": "*स्याना से गढ़ तक की सड़क चौड़ी होने वाली है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (11 Dec 2025) says the Syana-Garh road (SH-65, km 6 to 24, 19 km, Rs 59 crore) was approved; Amar Ujala (24 Jan 2026) says the 19 km Bulandshahr-Syana state highway widening (Rs 58.91 crore, 7 m to 10 m) had its tender completed and construction would begin in February. Start of work is not verified and nothing shows it was completed. Highway name differs between the two reports",
+      "basis": "Inference: Amar Ujala (11 Dec 2025) says the Syana-Garh road (SH-65, km 6 to 24, 19 km, Rs 59 crore) was approved by the CM on the Sadar MLA's proposal. Amar Ujala (24 Jan 2026) says the 19 km Bulandshahr-Syana highway widening (7 m to 10 m, Rs 58.91 crore) had its tender completed and work would begin in February. Searches in Oct 2026 found no report that work started or finished. The two reports name the road differently, the Rs 90 crore headline does not match the roughly Rs 100 crore sum of the items, and the km 6-24 stretch's membership in Syana AC is unconfirmed",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-01-24", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-syana-highway-widening-to-begin-in-february-tender-process-complete-bulandshahr-news-c-133-1-bul1002-147520-2026-01-24"},
-        {"outlet": "Amar Ujala", "date": "2025-12-11", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/three-major-roads-will-be-widened-at-a-cost-of-rs-90-crore-bulandshahr-news-c-133-1-bul1007-145155-2025-12-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-01-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-syana-highway-widening-to-begin-in-february-tender-process-complete-bulandshahr-news-c-133-1-bul1002-147520-2026-01-24"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-12-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/three-major-roads-will-be-widened-at-a-cost-of-rs-90-crore-bulandshahr-news-c-133-1-bul1007-145155-2025-12-11"
+        }
       ]
     },
     {
@@ -24,9 +32,13 @@
       "english": "*Syana-Simbhaoli road widening has got its first funds",
       "hindi": "*स्याना-सिंभावली सड़क चौड़ी करने के लिए पैसा जारी हो गया है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (28 Sep 2026) says the government approved a Rs 14.44 crore estimate for the 7.35 km road and released Rs 7.22 crore as first instalment, with tender still to come. Only approval and funds are reported, no work done. AC membership of the Bibinagar-Simbhaoli-NH-9 route is unconfirmed",
+      "basis": "Inference: Amar Ujala (28 Sep 2026) says the government approved a Rs 14.44 crore estimate for the 7.35 km road and released Rs 7.22 crore as first instalment, with tender still to come. Only approval and funds are reported, no work done. The route is described as Bibinagar-Simbhaoli-NH-9; AC membership is unconfirmed",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-28", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/syana-simbhaoli-road-to-be-widened-at-a-cost-of-1444-crore-two-lakh-people-to-benefit-bulandshahr-news-c-133-1-bul1002-166699-2026-09-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/syana-simbhaoli-road-to-be-widened-at-a-cost-of-1444-crore-two-lakh-people-to-benefit-bulandshahr-news-c-133-1-bul1002-166699-2026-09-28"
+        }
       ]
     },
     {
@@ -34,29 +46,41 @@
       "english": "*Sanitation staff were sent to drain water from waterlogged spots in Syana",
       "hindi": "*जलभराव वाली जगहों से पानी निकालने के लिए सफाईकर्मी भेजे गए",
       "inference": true,
-      "basis": "Inference: Syana Executive Officer Sevaram Rajbhar is quoted (Amar Ujala, 23 Aug 2026) saying sanitation workers were sent to waterlogged places to drain the water. This is the official's claim only; the article reports no resident reaction in its favour",
+      "basis": "Inference: Syana Executive Officer Sevaram Rajbhar is quoted (Amar Ujala, 23 Aug 2026) saying sanitation workers were sent to waterlogged places to drain the water. This is the official's claim only; residents in the same article complained of silt in the drains and asked for a permanent drainage system",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-23", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "*Rain has helped crops and eased the humidity a little",
-      "hindi": "*बारिश से फसलों को फायदा और उमस में कुछ राहत मिली",
+      "english": "*Nagar Palika says drains were cleaned earlier and sanitation staff are working continuously",
+      "hindi": "*पहले नालियों की सफाई हो चुकी है, सफाईकर्मी लगातार काम पर हैं",
       "inference": true,
-      "basis": "Inference: a meteorologist at the Krishi Vigyan Kendra says the rain is proving a boon for crops and eases heat and humidity (Amar Ujala, 3 Jul 2026, Bugrasi and Syana report). This is a weather comment, not a project; it is district-level commentary carried in a Syana-area report",
+      "basis": "Inference: Syana Nagar Palika EO Sewaram Rajbhar is quoted (Amar Ujala, 3 Jul 2026, Bugrasi and Syana report) saying drains had been cleaned earlier and sanitation workers were continuously at work. This is the official's claim only; the same article reports drains overflowing and Syana shops flooded",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-03", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-caused-waterlogging-in-the-bugrasi-and-syana-areas-while-the-subsequent-sunshine-increased-humidity-bulandshahr-news-c-133-1-bul1002-158715-2026-07-03"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-caused-waterlogging-in-the-bugrasi-and-syana-areas-while-the-subsequent-sunshine-increased-humidity-bulandshahr-news-c-133-1-bul1002-158715-2026-07-03"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "*Most of Bulandshahr city's drains are now covered",
-      "hindi": "*शहर के ज़्यादातर नाले अब ढके हुए हैं",
+      "english": "*Rain has helped crops and eased the humidity a little",
+      "hindi": "*बारिश से फसलों को फायदा और उमस में कुछ राहत मिली",
       "inference": true,
-      "basis": "Inference: Amar Ujala (14 Aug 2026) says about 70% of the roughly 45 km of drains in Bulandshahr city are covered and Rs 1.20 crore is proposed for the rest. This is Bulandshahr city, not Syana, so it is outside this AC and is district-level context only",
+      "basis": "Inference: a meteorologist at the Krishi Vigyan Kendra says the rain is proving a boon for crops and eases heat and humidity (Amar Ujala, 3 Jul 2026, Bugrasi and Syana report). This is a weather comment, not a delivered benefit or project; it is district-level commentary carried in a Syana-area report. No better Syana benefit was found, so it is ranked last",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-14", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/officials-stirred-into-action-after-charus-death-120-crore-to-be-spent-on-covering-drains-bulandshahr-news-c-133-1-bul1034-162752-2026-08-14"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-caused-waterlogging-in-the-bugrasi-and-syana-areas-while-the-subsequent-sunshine-increased-humidity-bulandshahr-news-c-133-1-bul1002-158715-2026-07-03"
+        }
       ]
     }
   ],
@@ -66,11 +90,23 @@
       "english": "Rain turns Syana's bazaars and main roads into waterlogged streets as drains overflow",
       "hindi": "बारिश होते ही नालियों का पानी सड़कों और बाजार में भर जाता है",
       "inference": false,
-      "basis": "Amar Ujala (23 Aug 2026): in Syana, low-lying areas, main roads and markets were waterlogged and drain water was seen flowing onto the roads; residents blamed silt and dirt in the drains and asked for a permanent drainage system. Amar Ujala (3 Jul 2026, Bugrasi and Syana report) says drains overflowed within minutes and shops flooded. Amar Ujala (18 Jul 2026) says Syana's lanes were submerged and vehicles broke down in the water",
+      "basis": "Amar Ujala (23 Aug 2026): in Syana, low-lying areas, main roads and markets were waterlogged and drain water was seen flowing onto the roads; residents blamed silt and dirt in the drains and asked for a permanent drainage system. Amar Ujala (3 Jul 2026, Bugrasi and Syana report) says drains overflowed within minutes and Syana shops flooded, naming Main Bazaar and Kotwali Road. Amar Ujala (18 Jul 2026) says Syana's lanes were submerged, with Raj Market, Darshan Bazar and Kotwali Road under water, and vehicles stalled",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-23", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"},
-        {"outlet": "Amar Ujala", "date": "2026-07-03", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-caused-waterlogging-in-the-bugrasi-and-syana-areas-while-the-subsequent-sunshine-increased-humidity-bulandshahr-news-c-133-1-bul1002-158715-2026-07-03"},
-        {"outlet": "Amar Ujala", "date": "2026-07-18", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-syana-bugrasi-and-shikarpur-other-areas-still-waiting-bulandshahr-news-c-133-1-bul1002-160078-2026-07-18"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-caused-waterlogging-in-the-bugrasi-and-syana-areas-while-the-subsequent-sunshine-increased-humidity-bulandshahr-news-c-133-1-bul1002-158715-2026-07-03"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-18",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-syana-bugrasi-and-shikarpur-other-areas-still-waiting-bulandshahr-news-c-133-1-bul1002-160078-2026-07-18"
+        }
       ]
     },
     {
@@ -78,9 +114,13 @@
       "english": "Syana market gets jammed because the road into it is too narrow",
       "hindi": "स्याना बाजार में अक्सर जाम लगता है, सड़क बहुत संकरी है",
       "inference": false,
-      "basis": "Amar Ujala (24 Jan 2026): the Bulandshahr-Syana state highway is 7 m wide, congestion is frequent, and Aurangabad and Syana are named as towns with congested main markets. About 10,000 vehicles and roughly 60,000 people use the road daily. The earlier 5 km widening did not solve the problem",
+      "basis": "Amar Ujala (24 Jan 2026): the Bulandshahr-Syana state highway is 7 m wide, congestion is frequent, and Aurangabad and Syana are named as towns with congested main markets. About 10,000 vehicles and roughly 60,000 people use the road daily. The earlier 5 km widening from the Shikarpur crossing did not resolve congestion on the narrow stretch beyond it",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-01-24", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-syana-highway-widening-to-begin-in-february-tender-process-complete-bulandshahr-news-c-133-1-bul1002-147520-2026-01-24"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-01-24",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-syana-highway-widening-to-begin-in-february-tender-process-complete-bulandshahr-news-c-133-1-bul1002-147520-2026-01-24"
+        }
       ]
     },
     {
@@ -88,9 +128,13 @@
       "english": "The power also went off in Syana during the rain",
       "hindi": "बारिश में स्याना की बिजली भी गुल हो गई",
       "inference": false,
-      "basis": "Amar Ujala (18 Jul 2026): power supply was cut off in Syana during the rain, while the rain also flooded lanes and students returning from school faced difficulty. Reported for one rain event only",
+      "basis": "Amar Ujala (18 Jul 2026): power supply stayed off in Syana during the rain, while the rain also flooded lanes and students returning from school faced serious difficulty. The article does not say how long the outage lasted. Reported for one rain event only",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-18", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-syana-bugrasi-and-shikarpur-other-areas-still-waiting-bulandshahr-news-c-133-1-bul1002-160078-2026-07-18"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-18",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-syana-bugrasi-and-shikarpur-other-areas-still-waiting-bulandshahr-news-c-133-1-bul1002-160078-2026-07-18"
+        }
       ]
     },
     {
@@ -100,7 +144,11 @@
       "inference": false,
       "basis": "AC membership unconfirmed. Amar Ujala (28 Sep 2026): the road is currently about 3.50 to 3.75 m wide and will be raised to 5.50 m. The article describes the route from Bibinagar through Simbhaoli to NH-9, so it is not confirmed to lie inside Syana AC. The article reports no public complaint",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-28", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/syana-simbhaoli-road-to-be-widened-at-a-cost-of-1444-crore-two-lakh-people-to-benefit-bulandshahr-news-c-133-1-bul1002-166699-2026-09-28"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/syana-simbhaoli-road-to-be-widened-at-a-cost-of-1444-crore-two-lakh-people-to-benefit-bulandshahr-news-c-133-1-bul1002-166699-2026-09-28"
+        }
       ]
     },
     {
@@ -110,10 +158,20 @@
       "inference": false,
       "basis": "District-level, not Syana AC. Amar Ujala (30 Sep 2026), Khurja, Bulandshahr district: about 7 km of GT road built for about Rs 14 crore has waterlogging at several points, potholes, and no drain; PWD says only renovation and widening were sanctioned",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/road-built-at-a-cost-of-crores-fell-into-disrepair-within-a-year-and-a-half-bulandshahr-news-c-137-1-krj1001-114461-2026-09-30"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/road-built-at-a-cost-of-crores-fell-into-disrepair-within-a-year-and-a-half-bulandshahr-news-c-137-1-krj1001-114461-2026-09-30"
+        }
       ]
     }
   ],
   "ac_specific_negatives": 3,
-  "notes": "Identity confirmed from the Wikipedia Syana Assembly constituency page: No. 66, Syana, Bulandshahr district, reserved status None, extent Syana Tehsil. The statewide list page was also opened and gives the same name, district and reserved status. Negatives 1 to 3 are confirmed inside Syana town or the highway into it. Positives are all flagged inference: no completed or verified-started AC-specific benefit was found. Shikarpur reports (waterlogging, mandi maize loss) were excluded because Shikarpur is not confirmed inside Syana Tehsil. Bugrasi and Naveen Mandi were excluded because their AC membership is unconfirmed. Bulandshahr city items (Charu drowning, Kala Aam-Syana Adda road, Bhuteshwar temple drain) were excluded as city, not AC. The Syana-Garh road is named SH-65 km 6 to 24 in the Dec 2025 report and as the Bulandshahr-Syana state highway in the Jan 2026 report; the two reports differ on the name and the Rs 90 crore headline does not match the Rs 100 crore sum of its items. No Syana water supply, CHC, stray-cattle, or school report was found in the searches; the Hindi and English queries returned nothing AC-specific on those topics. Field check: whether the Syana-Garh widening has actually started; drain status in Syana market and Kotwali Road; and whether power cuts during rain are regular."
+  "notes": "Identity confirmed from the Wikipedia Syana Assembly constituency page: No. 66, Syana, Bulandshahr district, reserved status None, extent Syana Tehsil. The statewide list page was also opened and gives the same name, district and reserved status. Negatives 1 to 3 are confirmed inside Syana town or the highway into it. Positives are all flagged inference: no completed or verified-started AC-specific benefit was found. Shikarpur reports (waterlogging, mandi maize loss) were excluded because Shikarpur is not confirmed inside Syana Tehsil. Bugrasi and Naveen Mandi were excluded because their AC membership is unconfirmed. Bulandshahr city items (Charu drowning, Kala Aam-Syana Adda road, Bhuteshwar temple drain) were excluded as city, not AC. The Syana-Garh road is named SH-65 km 6 to 24 in the Dec 2025 report and as the Bulandshahr-Syana state highway in the Jan 2026 report; the two reports differ on the name and the Rs 90 crore headline does not match the Rs 100 crore sum of its items. No Syana water supply, CHC, stray-cattle, or school report was found in the searches; the Hindi and English queries returned nothing AC-specific on those topics. Field check: whether the Syana-Garh widening has actually started; drain status in Syana market and Kotwali Road; and whether power cuts during rain are regular. Round 2: no Syana benefit delivered in 2024-2026 was found, so all five positives remain inference. Searches for CHC, sugar mill payments, water supply and the Syana-Garh road start returned nothing AC-specific. Bulandshahr city drain item (Aug 14) removed as city, not AC. Khurja negative kept as district-level context, not counted in ac_specific_negatives. Field check still needed on whether Syana-Garh widening has started and on the km 6-24 stretch's AC membership.",
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 1,
+    "ac_specific_negatives": 3,
+    "changes": "Re-checked all 8 cited Amar Ujala URLs (7 kept, 1 removed); the Aug 14 Bulandshahr city drain article was removed because it is outside Syana AC and replaced by the Jul 3 Syana Nagar Palika EO claim that drains were cleaned earlier. Re-ranked positives: road approval (Dec 2025 and Jan 2026) first, Simbhaoli funds second, sanitation claim third, drain-cleaning claim fourth, rain/crops comment last. Confirmed the Jan 2026 and Jul 18 2026 negatives and the Syana Jul 3 and Aug 23 facts; added the Jul 18 Syana lanes and vehicle detail to negative 1. Searched for Syana-Garh work start, Syana CHC, Syana sugar mill payments, Syana water supply, Syana market jam and Syana power cut 2026: no AC-specific result found; the Hindi and English queries returned only other towns or tenders (a PVVNL tender for EDD-Syana STP and RS poles, bids closed May 2026, is not a delivered benefit). The Khurja negative is district-level and not counted"
+  }
 }
