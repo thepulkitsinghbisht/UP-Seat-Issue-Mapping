@@ -68,3 +68,9 @@ Reply with just: the file path, and a 2-line summary.
   inside the AC) at top level.
 - Run python3 /home/user/UP-Seat-Issue-Mapping/scripts/check_ac.py <your file> and fix until it prints OK.
 - Do not say "Draft (sourced)" yourself; just be honest in notes.
+- Namesake-town rule (from AC 41 on): the town an AC is named after counts as inside that AC unless a
+  source says otherwise. Nearby villages do NOT count unless the AC's Wikipedia extent or a news report
+  naming the vidhan sabha places them inside it. City seats split across several ACs (e.g. Meerut,
+  Moradabad, Ghaziabad, Aligarh, Noida) need a source naming the AC for each locality.
+- Avoid party names, politician names and election framing in statements; MLA works can be described
+  as "work done" only if the source shows the work.
