@@ -5,7 +5,7 @@
   "reserved": "None",
   "district": "Gautam Buddh Nagar",
   "region": "Paschim UP",
-  "summary": "Complaints centre on missing sewer lines and waterlogging in Sorkha and Chhajarsi villages, floodplain power cuts in Chhajarsi and Chotpur, and VIP-movement traffic jams in Noida city, while appreciation focuses on new sewer, road and pond projects in the villages and the Sector 51-52 metro skywalk.",
+  "summary": "Complaints centre on Sorkha's sewer line that never started and road flooding, floodplain power cuts in Chhajarsi and Chotpur, and VIP-movement jams in Noida city, while appreciation focuses on the Sector 51-52 metro skywalk and sewer, road and pond projects in the villages.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
@@ -13,101 +13,182 @@
       "english": "Metro skywalk between Sector 51 and 52 is open now, easier to reach the station",
       "hindi": "सेक्टर-51 और 52 के बीच मेट्रो स्काईवॉक खुल गया, आना-जाना आसान",
       "inference": false,
-      "basis": "Rs 36.90 crore skywalk between Sector-52 Blue Line and Sector-51 Aqua Line metro stations; trial opening in August, official inauguration on 4 Oct 2026. Sector 51-52 is in Noida city, which the AC Wikipedia extent covers ('It consists of the city of Noida').",
+      "basis": "Rs 36.90 crore skywalk linking the Sector-52 Blue Line and Sector-51 Aqua Line metro stations; trial opening in August 2026, formal inauguration reported 4 Oct 2026 (Amar Ujala). Sector 51-52 is in Noida city, which the AC Wikipedia extent covers ('It consists of the city of Noida').",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-04", "url": "https://www.amarujala.com/delhi-ncr/noida/mla-pankaj-singh-inaugurated-the-sector-52-51-metro-skywalk-2026-10-04"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-04",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/mla-pankaj-singh-inaugurated-the-sector-52-51-metro-skywalk-2026-10-04"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "A Rs 9.82 crore pond is being built in Sorkha, half the work is done",
-      "hindi": "सोरखा में 9.82 करोड़ का तालाब बन रहा है, आधा काम हो चुका है",
+      "english": "Sewer projects for Chhajarsi and Baraula villages have been launched",
+      "hindi": "छजारसी और बरौला में सीवर परियोजना का शिलान्यास हो गया",
       "inference": false,
-      "basis": "Pushkaneer pond at Sorkha Jahidabad, cost about Rs 9.82 crore, about 50% complete, expected to finish in about four months; aim is water conservation and groundwater recharge. Sorkha Jahidabad is named in the AC Wikipedia extent.",
+      "basis": "Foundation stones laid 14 May 2026 (Do Took Media): Rs 165.13 lakh sewer maintenance work in Chhajarsi with a 1,280 m sewer line in three lanes; Rs 978.68 lakh for a 10 MLD sewage sump well in Baraula. The article gives no completion date. Chhajarsi and Baraula are named in the AC Wikipedia extent.",
       "sources": [
-        {"outlet": "UP Ki Baat", "date": "2026-08-11", "url": "https://www.upkibaat.com/pushkaneer-pond-being-constructed-in-noidas-sorkha-jahidabad-at-a-cost-of-%E2%82%B99-82-crore-50-of-the-work-is-complete/"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Do Took Media",
+          "date": "2026-05-14",
+          "url": "https://www.dotookmedia.com/2026/05/blog-post_14.html"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Sewer projects for Chhajarsi and Baraula villages have been launched",
-      "hindi": "छजारसी और बरौला में सीवर परियोजना का शिलान्यास हो गया",
+      "english": "Road and drain projects worth Rs 4.23 crore have been started in Chhajarsi and Chotpur",
+      "hindi": "छजारसी और चोटपुर में 4.23 करोड़ की सड़क-नाली योजनाएं शुरू हुईं",
       "inference": false,
-      "basis": "Foundation laid on 14 May 2026 for sewer works in Chhajarsi (Rs 165.13 lakh, 1,280 m new sewer line in three lanes) and a 10 MLD sewage pumping station in Baraula (Rs 978.68 lakh). The article does not state completion. Chhajarsi and Baraula are named in the AC Wikipedia extent.",
+      "basis": "About Rs 4.23 crore for 16 road and drain projects in Chhajarsi, Chotpur, Bahlolpur and Garhi Chaukhandi, funded from MLA fund, Accelerated Economic Development Scheme and Rajya Sabha MP fund. The article says foundation stones were laid and projects inaugurated, without saying which ones; completion status unconfirmed. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
       "sources": [
-        {"outlet": "Do Took Media", "date": "2026-05-14", "url": "https://www.dotookmedia.com/2026/05/blog-post_14.html"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Royal Bulletin",
+          "date": "2026-07-12",
+          "url": "https://royalbulletin.in/delhi-ncr/noida/noida-mla-pankaj-singh-gifted-development-projects-worth-%E2%82%B9423-crore/article-199232"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "A new panchayat ghar has been built and opened in Naya Bans, Sector 15",
-      "hindi": "नया बांस गांव में नया पंचायत घर बनकर तैयार हो गया",
+      "english": "A Rs 9.82 crore pond is being built in Sorkha, half the work is done",
+      "hindi": "सोरखा में 9.82 करोड़ का तालाब, आधा काम हो चुका है",
       "inference": false,
-      "basis": "New village panchayat ghar in Naya Bans, Sector 15, Noida, opened on 12 Sep 2026; article gives construction cost of about Rs 230.86 lakh. Sector 15 is in Noida city (AC extent: 'It consists of the city of Noida').",
+      "basis": "Pushkaneer pond in village Sorkha Jahidabad, cost about Rs 9.82 crore, about 50% of work complete, expected to finish in about four months; aim is water conservation and groundwater recharge (UP Ki Baat, page dated 11 Aug 2026). Sorkha Jahidabad is named in the AC Wikipedia extent.",
       "sources": [
-        {"outlet": "Chetna Manch", "date": "2026-09-12", "url": "https://chetnamanch.com/noida/noida-pankaj-singh-inaugurates-panchayat-ghar-naya-bans"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "UP Ki Baat",
+          "date": "2026-08-11",
+          "url": "https://www.upkibaat.com/pushkaneer-pond-being-constructed-in-noidas-sorkha-jahidabad-at-a-cost-of-%E2%82%B99-82-crore-50-of-the-work-is-complete/"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Sixteen road and drain works are going on in Chhajarsi and Chotpur",
-      "hindi": "छजारसी और चोटपुर में सड़क और नाली के 16 काम हो रहे हैं",
+      "english": "A new panchayat ghar has been built and opened in Naya Bans, Sector 15",
+      "hindi": "नया बांस गांव में नया पंचायत घर बनकर तैयार हो गया",
       "inference": false,
-      "basis": "About Rs 4.23 crore for 16 road and drain projects in Chhijarsi, Chotpur, Bahlolpur and Garhi Chaukhandi, funded from MLA fund and other schemes. Article mixes foundation and inauguration and does not confirm which works are finished; completion status unconfirmed. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
+      "basis": "New panchayat ghar in Naya Bans village, Sector 15, Noida, inaugurated on a Saturday reported 12 Sep 2026 (Chetna Manch). The article gives two costs, about Rs 230.86 lakh and about Rs 328.78 lakh for the building, and does not reconcile them. Sector 15 is in Noida city (AC extent: 'It consists of the city of Noida'); Naya Bans is not named in the Wikipedia list.",
       "sources": [
-        {"outlet": "Royal Bulletin", "date": "2026-07-12", "url": "https://royalbulletin.in/delhi-ncr/noida/noida-mla-pankaj-singh-gifted-development-projects-worth-%E2%82%B9423-crore/article-199232"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Chetna Manch",
+          "date": "2026-09-12",
+          "url": "https://chetnamanch.com/noida/noida-pankaj-singh-inaugurates-panchayat-ghar-naya-bans"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "No sewer line in Sorkha for 20 years, even light rain floods the main road",
-      "hindi": "सोरखा में 20 साल से सीवर लाइन शुरू नहीं, हल्की बारिश में सड़क पर पानी",
+      "english": "Sorkha's sewer line laid 20 years ago never started; roads flood in light rain",
+      "hindi": "सोरखा में सीवर लाइन 20 साल से शुरू नहीं, सड़कें जलभराव से बेहाल",
       "inference": false,
-      "basis": "Sorkha village (Sector-115, Noida): without a sewer line, light rain floods the main roads (Amar Ujala, 30 Apr 2026); Bharatiya Kisan Union Kranti state president warned of agitation and said the authority's chaupal was a formality. Villagers said a sewer line laid about 20 years ago has still not been started, and the main road is too damaged for sanitation tankers (Amar Ujala video, 3 Jan 2025). Sorkha Jahidabad is named in the AC Wikipedia extent.",
+      "basis": "Sorkha village, Sector-115 Noida (Amar Ujala, 30 Apr 2026): without a sewer line, light rain floods main roads; Bharatiya Kisan Union Kranti state president warned of agitation and called the authority's chaupal a formality. Amar Ujala video (3 Jan 2025): villagers say a sewer line laid about 20 years ago has still not started, and the main road is too damaged for sanitation tankers. The two sources describe the sewer situation differently (no line vs. laid but not started); the statement follows the video. Sorkha Jahidabad is named in the AC Wikipedia extent.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-04-30", "url": "https://www.amarujala.com/delhi-ncr/noida/dfg-grnoida-news-c-1-noi1095-4227800-2026-04-30"},
-        {"outlet": "Amar Ujala", "date": "2025-01-03", "url": "https://www.amarujala.com/video/delhi-ncr/noida/video-people-of-sorkha-village-have-been-waiting-for-the-sewer-line-to-start-for-20-years"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-30",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/dfg-grnoida-news-c-1-noi1095-4227800-2026-04-30"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-01-03",
+          "url": "https://www.amarujala.com/video/delhi-ncr/noida/video-people-of-sorkha-village-have-been-waiting-for-the-sewer-line-to-start-for-20-years"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 2,
       "english": "Power cut for floodplain homes in Chhajarsi and Chotpur, residents want 24-hour supply",
-      "hindi": "डूब क्षेत्र में बिजली काट दी, अब 24 घंटे बिजली भी नहीं मिलती",
+      "hindi": "डूब क्षेत्र में सैकड़ों बिजली कनेक्शन काटे, 24 घंटे बिजली की मांग",
       "inference": false,
-      "basis": "Residents of Chijarsi, Chotpur and Behlolpur floodplain say hundreds of connections were cut over four days (ETV Bharat, 1 Sep 2026); they demand 24-hour power and permanent meters. The electricity department gave no comment in the article. Power department elsewhere cited theft and illegal connections as the reason; that is not reported here. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
+      "basis": "ETV Bharat (1 Sep 2026): residents of the Chijarsi, Chotpur and Behlolpur floodplain say hundreds of connections were cut over the past four days; they demand 24-hour power and permanent meters. The electricity department gave no statement in the article. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
       "sources": [
-        {"outlet": "ETV Bharat", "date": "2026-09-01", "url": "https://www.etvbharat.com/hi/state/residents-of-noida-floodplain-areas-protest-against-power-cut-at-mla-office-dls26090106524"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-09-01",
+          "url": "https://www.etvbharat.com/hi/state/residents-of-noida-floodplain-areas-protest-against-power-cut-at-mla-office-dls26090106524"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "Hours-long jams from Mahamaya flyover to Sector 51 whenever VIPs pass",
-      "hindi": "वीआईपी दौरे पर महामाया फ्लाईओवर से सेक्टर-51 तक घंटों जाम",
+      "english": "Sector 43 water supply keeps stopping, sewer blockages during monsoon",
+      "hindi": "सेक्टर-43 में पानी बार-बार बंद, बारिश में सीवर जाम हो जाते हैं",
       "inference": false,
-      "basis": "On 24 Sep 2026 a VIP movement caused jams from Mahamaya Flyover to Sector 51 (also Chilla Border and Dalit Prerna Sthal), with peak jams 7-10 am and 4-9 pm (Amar Ujala). Episodic, but traffic is named as a recurring Noida seat issue in a 2026 analysis (tnpnews). Noida city is covered by the AC extent.",
+      "basis": "ThePrint ground report (28 Dec 2025): frequent water supply disruptions left entire blocks dry for hours; sewage blockages spread during the monsoon; streetlights stayed broken until a complaint was made. The article does not name the assembly seat; Sector 43 is in Noida city, covered by the AC extent ('It consists of the city of Noida').",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-24", "url": "https://www.amarujala.com/delhi-ncr/noida/traffic-jam-grnoida-news-c-1-noi1095-4760916-2026-09-24"},
-        {"outlet": "TNP News", "date": "2026-10-14", "url": "https://tnpnews.in/uttar-pradesh-election/noida-assembly-elections-2027-the-electoral-contest-between-the-sheen-of-development-and-civic-challenges-17951"}
+        {
+          "outlet": "ThePrint",
+          "date": "2025-12-28",
+          "url": "https://theprint.in/ground-reports/noida-has-an-rwa-problem-office-holders-grab-power-residents-pay-the-price/2812986/"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Sector 43 water supply keeps breaking, sewers stay blocked",
-      "hindi": "सेक्टर-43 में पानी की सप्लाई बार-बार रुकती है, सीवर भी जाम रहता है",
+      "english": "VIP visits jam Mahamaya flyover to Sector 51 for hours",
+      "hindi": "वीआईपी दौरे पर महामाया फ्लाईओवर से सेक्टर-51 तक घंटों जाम",
       "inference": false,
-      "basis": "Sector 43 residents: frequent water supply disruptions left entire blocks dry for hours; sewage blockages spread during the monsoon; streetlights broken (ThePrint, 28 Dec 2025). The article does not name the assembly seat; Sector 43 is in Noida city, covered by the AC extent.",
+      "basis": "Amar Ujala (24 Sep 2026): VIP movement in the city caused jams from Mahamaya Flyover to Sector 51, also Dalit Prerna Sthal, Chilla Border and Sector 37 to 51; peak jams 7-10 am and 4-9 pm. One dated event; 'whenever VIPs pass' is not established. TNP News (16 Sep 2026) is an election-framed piece on the 2027 polls; used only for its statement that traffic and parking have long been a local issue in the Noida seat. Noida city is covered by the AC extent.",
       "sources": [
-        {"outlet": "ThePrint", "date": "2025-12-28", "url": "https://theprint.in/ground-reports/noida-has-an-rwa-problem-office-holders-grab-power-residents-pay-the-price/2812986/"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-24",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/traffic-jam-grnoida-news-c-1-noi1095-4760916-2026-09-24"
+        },
+        {
+          "outlet": "TNP News",
+          "date": "2026-09-16",
+          "url": "https://tnpnews.in/uttar-pradesh-election/noida-assembly-elections-2027-the-electoral-contest-between-the-sheen-of-development-and-civic-challenges-17951"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     },
     {
@@ -115,13 +196,27 @@
       "english": "Sector 31 has open drains and waterlogging",
       "hindi": "सेक्टर-31 में नाले खुले हैं और जलभराव की शिकायत है",
       "inference": false,
-      "basis": "Review meeting at Sector-27 club on 1 Apr 2026: officials were told to cover drains, clear waterlogging and clean the UGR in C-Block of Sector-31. Local outlet report; the assembly seat is not named in the article; Sector 31 is in Noida city, covered by the AC extent.",
+      "basis": "Review meeting at Sector-27 club (Do Took Media, 1 Apr 2026): officials were directed to cover drains in Sector 31, clear waterlogging and clean the UGR in C-Block of Sector-31. The article does not name the assembly seat; Sector 31 is in Noida city, covered by the AC extent.",
       "sources": [
-        {"outlet": "Do Took Media", "date": "2026-04-01", "url": "https://www.dotookmedia.com/2026/04/blog-post_521.html"},
-        {"outlet": "Wikipedia (Noida Assembly constituency)", "date": "2026-10-14", "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"}
+        {
+          "outlet": "Do Took Media",
+          "date": "2026-04-01",
+          "url": "https://www.dotookmedia.com/2026/04/blog-post_521.html"
+        },
+        {
+          "outlet": "Wikipedia (Noida Assembly constituency)",
+          "date": "2026-10-14",
+          "url": "https://en.wikipedia.org/wiki/Noida_Assembly_constituency"
+        }
       ]
     }
   ],
   "ac_specific_negatives": 5,
-  "notes": "AC identity confirmed from the Wikipedia UP constituency list: No. 61, Noida, district Gautam Budh Nagar (spelled 'Gautam Budh Nagar' there), reserved: None. The AC Wikipedia page's area list includes Sorkha Jahidabad, Chhajarsi, Chotpur, Baraula, Mamura, Jalpura, Sultanpur, Sadarpur and Salarpur Noida, and says the AC 'consists of the city of Noida'. Sector-level items (Sectors 15, 31, 43, 51-52) are inside Noida city, so they rely on that line; none of the sector-level sources names the AC itself, so a field check is advisable. Sorkha video is from Jan 2025 and is older than the other sources. Excluded: Greater Noida West (Dadri AC), Nagla Jahanu and Tirthali (Yamuna City/Jewar area, not in the AC extent), Sector 130/Nangli Wajidpur sewer work (AC membership not confirmed), a ncrkhabar report whose 50,000-people figure is unattributed, and an old Chhajarsi drain report whose date and URL I could not confirm. Traffic evidence is thin (one dated VIP-jam report plus analysis); a field check of recurring Noida city jams would strengthen it. Positives 1-5 are mostly project launches or status-unconfirmed items; only the metro skywalk and the Naya Bans panchayat ghar are clearly delivered. MLA-linked works are described without naming politicians in the statements."
+  "round2": {
+    "verified_sources": 14,
+    "removed_sources": 0,
+    "ac_specific_negatives": 5,
+    "changes": "Re-verified all 14 unique URLs (incl. Wikipedia AC and list pages) against fetched text. Fixed: Baraula 10 MLD facility is a sewage sump well, not pumping station; Naya Bans cost now shows both figures; Sorkha sewer statement corrected (line laid ~20 yrs ago, not started, rather than 'no line'); removed unsourced claim that power dept blamed theft; power-cut Hindi no longer says 'now no 24-hour power' (source says residents demand it); VIP-jam statement no longer says 'whenever'; Sector 43 statement no longer says sewers 'stay blocked'; road-drain statement changed from 'going on' to 'started' with completion unconfirmed; pond Hindi shortened to fit word limit. Re-ranked positives (sewer 2, roads 3, pond 4) and negatives (power 2, Sector 43 water 3, traffic 4). Dadri AC 62 page checked: names Surajpur (Greater Noida), Bisrakh villages, Dadri; does not name Greater Noida West, Sorkha, Chhajarsi, Chotpur or any Noida sector, so these stay in AC 61 per the Wikipedia list and extent."
+  },
+  "notes": "AC identity confirmed from Wikipedia UP constituency list: No. 61, Noida, district Gautam Budh Nagar, reserved None. Noida AC Wikipedia extent names Raghunathpur, Sorkha Jahidabad, Chhajarsi, Parthala Khanjarpur, Chotpur, Mamura, Gejha Tilpatabad, Chhalera Bangar, Jalpura, Sadarpur, Salarpur Noida, Sultanpur, Baraula, Bhangel Begampur, plus 'other parts of Noida' and says it 'consists of the city of Noida'. Dadri AC 62 (Wikipedia) covers Dadri, Bisrakh-block villages and Surajpur (Greater Noida); Greater Noida West is not named there or in the Noida AC. Sector-level items (Sectors 15, 31, 43, 51-52, 115) and Naya Bans are not named in either Wikipedia page; their AC membership rests on the 'city of Noida' line and no source names the seat for them, so a field check is advisable. Sorkha video is from Jan 2025 (older); the Apr 2026 article shows the problem persists. TNP News is election-framed and used only for one background line. Excluded earlier: Nagla Jahanu and Tirthali (Yamuna City/Jewar side, not in extent), Sector 130/Nangli Wajidpur sewer work (AC membership unconfirmed), an unattributed 50,000-people ncrkhabar figure, and an undated Chhajarsi drain report. Positives are mostly project launches or unconfirmed completion; only the metro skywalk and Naya Bans panchayat ghar are clearly delivered. MLA-linked works are described without naming politicians in the statements."
 }
