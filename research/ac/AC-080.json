@@ -5,17 +5,21 @@
   "reserved": "None",
   "district": "Hathras",
   "region": "Braj",
-  "summary": "Complaints centre on damaged roads and unfinished town drainage works, with a police-inaction allegation and a stalled CHC upgrade; appreciation is limited to the Har Ghar Jal pipeline and district-wide project launches.",
-  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "summary": "Complaints centre on road sinking after Har Ghar Jal pipe digging, town road and drain proposals still awaiting sanction, and a police-inaction allegation; appreciation is limited to the Har Ghar Jal pipeline and a district-wide project launch.",
+  "identity_source": "https://en.wikipedia.org/wiki/Sikandra_Rao_Assembly_constituency",
   "positives": [
     {
       "rank": 1,
       "english": "Har Ghar Jal pipelines have been laid through the town",
       "hindi": "शहर में हर घर जल की पाइपलाइन बिछ गई",
       "inference": false,
-      "basis": "Brajanchal (8 Jul 2026): road restoration followed pipeline laying under the Har Ghar Jal scheme in Sikandrarao town; the article frames the scheme as meant to strengthen town water supply. Article does not say taps are running.",
+      "basis": "Brajanchal (8 Jul 2026): road restoration followed pipeline laying under the Har Ghar Jal scheme in Sikandrarao town; the article does not say taps are running. AC membership of Sikandrarao town unconfirmed (see notes).",
       "sources": [
-        {"outlet": "Brajanchal", "date": "2026-07-08", "url": "https://www.brajanchal.com/%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%82%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%8A-%E0%A4%B9%E0%A4%B0-%E0%A4%98%E0%A4%B0-%E0%A4%9C%E0%A4%B2-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"}
+        {
+          "outlet": "Brajanchal",
+          "date": "2026-07-08",
+          "url": "https://www.brajanchal.com/%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%82%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%8A-%E0%A4%B9%E0%A4%B0-%E0%A4%98%E0%A4%B0-%E0%A4%9C%E0%A4%B2-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"
+        }
       ]
     },
     {
@@ -23,10 +27,18 @@
       "english": "143 development works were launched across the Hathras-district seats, including Sikandra Rao",
       "hindi": "सिकंदराराऊ सहित तीन सीटों पर 143 विकास कार्यों का लोकार्पण हुआ",
       "inference": false,
-      "basis": "DNP (28 Jun 2026): Rs 548 crore, 143 projects for Hathras, Sikandra Rao and Sadabad constituencies combined; no per-seat split or Sikandra Rao amount given. ITDC India Express reports them as inaugurated/foundation laid. Launch event, not verified works on the ground.",
+      "basis": "DNP (28 Jun 2026) and ITDC (28 Jun 2026): Rs 548 crore, 143 projects across the Hathras, Sikandra Rao and Sadabad constituencies; ITDC says inaugurated and foundation stones laid. No per-seat split or Sikandra Rao amount given. Launch event, not verified works on the ground.",
       "sources": [
-        {"outlet": "DNP India", "date": "2026-06-28", "url": "https://www.dnpindia.in/states/uttarpradesh/cm-yogi-adityanath-to-launch-and-inaugurate-143-development-projects-worth-%e2%82%b9548-crore-in-hathras/606604/"},
-        {"outlet": "ITDC India Express", "date": "2026-06-28", "url": "https://itdcindia.com/548-crore-development-projects-launched-hathras-district/"}
+        {
+          "outlet": "DNP India",
+          "date": "2026-06-28",
+          "url": "https://www.dnpindia.in/states/uttarpradesh/cm-yogi-adityanath-to-launch-and-inaugurate-143-development-projects-worth-%e2%82%b9548-crore-in-hathras/606604/"
+        },
+        {
+          "outlet": "ITDC India Express",
+          "date": "2026-06-28",
+          "url": "https://itdcindia.com/548-crore-development-projects-launched-hathras-district/"
+        }
       ]
     },
     {
@@ -36,17 +48,25 @@
       "inference": true,
       "basis": "Inference: Amar Ujala (22 Feb 2026) says a Mother and Child Care Unit is planned at every CHC in Hathras district and that Sikandrarau CHC work will start soon. Planned only, not delivered; no Sikandrarau-specific amount or date.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-22", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"
+        }
       ]
     },
     {
       "rank": 4,
       "english": "*Rs 59.20 lakh of town roads and drains proposed for Sikandrarao wards",
-      "hindi": "*नगर के कुछ वार्डों में सड़क और नाली के लिए 59.20 लाख का प्रस्ताव",
+      "hindi": "*नगर में सड़क-नाली के लिए 59.20 लाख का प्रस्ताव है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (16 Jun 2026) headline names Sikandrarau; CC road and drain proposals for several wards were sent to the state for sanction, not yet approved. Counted only as a planned fix.",
+      "basis": "Inference: Amar Ujala (16 Jun 2026) says CC road and drain proposals of Rs 59.20 lakh for Sikandrarau wards were sent to the government for approval; not sanctioned yet. Planned only, and the same proposal is also negative 2. Weak as a positive.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-16", "url": "https://www.amarujala.com/uttar-pradesh/hathras/construction-of-roads-and-drains-in-sikandra-rao-hathras-2026-06-16"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-16",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/construction-of-roads-and-drains-in-sikandra-rao-hathras-2026-06-16"
+        }
       ]
     },
     {
@@ -56,19 +76,27 @@
       "inference": true,
       "basis": "Inference: same Amar Ujala article (22 Feb 2026) says all seven Hathras CHCs are to be renovated; district-level plan, no amount, no start date, and status as of Oct 2026 not found.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-22", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "Roads sank and got potholes after the Har Ghar Jal pipe digging",
+      "english": "Residents say roads sank and got potholes after the Har Ghar Jal pipe digging",
       "hindi": "हर घर जल की पाइपलाइन के बाद सड़कें धंस गईं, गड्ढे बन गए",
       "inference": false,
-      "basis": "Brajanchal (8 Jul 2026): residents say restored roads were not repaired to standard; after rain several roads sank and potholes formed in several places including the tehsil campus. Residents allege trenches were not backfilled and compacted before asphalt/CC work. No official or contractor response in the article.",
+      "basis": "Brajanchal (8 Jul 2026): residents say restored roads were not repaired to standard; after rain several roads sank and potholes formed, including inside the tehsil campus. Residents allege trenches were not backfilled and compacted before asphalt/CC work. No official or contractor response in the article. AC membership of Sikandrarao town unconfirmed.",
       "sources": [
-        {"outlet": "Brajanchal", "date": "2026-07-08", "url": "https://www.brajanchal.com/%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%82%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%8A-%E0%A4%B9%E0%A4%B0-%E0%A4%98%E0%A4%B0-%E0%A4%9C%E0%A4%B2-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"}
+        {
+          "outlet": "Brajanchal",
+          "date": "2026-07-08",
+          "url": "https://www.brajanchal.com/%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%82%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%8A-%E0%A4%B9%E0%A4%B0-%E0%A4%98%E0%A4%B0-%E0%A4%9C%E0%A4%B2-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"
+        }
       ]
     },
     {
@@ -76,9 +104,13 @@
       "english": "Town road and drain works are stuck waiting for sanction",
       "hindi": "नाली और सड़क के काम मंजूरी में अटके हैं",
       "inference": false,
-      "basis": "Amar Ujala (16 Jun 2026): Rs 59.20 lakh CC road and drain proposals for Sikandrarau wards (including Eidgah Road area and near the police station) sent to the state for approval; work to begin only after sanction. Status as of this date.",
+      "basis": "Amar Ujala (16 Jun 2026): Rs 59.20 lakh CC road and drain proposals for Sikandrarau wards (incl. Eidgah Road area and ward 01 in front of the police station) sent to the government for approval; work to begin only after sanction. Status as of this date. AC membership of Sikandrarao town unconfirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-16", "url": "https://www.amarujala.com/uttar-pradesh/hathras/construction-of-roads-and-drains-in-sikandra-rao-hathras-2026-06-16"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-16",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/construction-of-roads-and-drains-in-sikandra-rao-hathras-2026-06-16"
+        }
       ]
     },
     {
@@ -86,9 +118,13 @@
       "english": "Police allegedly did not act on a complaint at Sikandrarau station",
       "hindi": "थाने में शिकायत के बाद भी कार्रवाई नहीं हुई, आरोप है",
       "inference": false,
-      "basis": "Amar Ujala (14 Oct 2026): CJM court in Hathras booked the Sikandrarau police station in-charge for not filing a required inquiry report; the complainant alleges police took no action after her complaint. These are the complainant's allegations as reported; article has no police response.",
+      "basis": "Amar Ujala (14 Oct 2026): CJM court in Hathras registered a separate case and summoned the Sikandrarau station in-charge for 17 Oct, after he neither appeared nor filed the inquiry report ordered within 15 days. The complainant alleges police took no action after her complaint; these are her claims as reported. Article has no police response. Station-area membership in AC unconfirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-14", "url": "https://www.amarujala.com/uttar-pradesh/hathras/case-registered-against-sikandrarau-sho-for-negligence-in-a-molestation-case-hathras-news-c-56-1-hts1004-155621-2026-10-14"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/case-registered-against-sikandrarau-sho-for-negligence-in-a-molestation-case-hathras-news-c-56-1-hts1004-155621-2026-10-14"
+        }
       ]
     },
     {
@@ -96,22 +132,36 @@
       "english": "A car hit a paddy-laden tractor on GT Road near Sardhla bridge, killing an elderly man",
       "hindi": "जीटी रोड पर सरधला पुल के पास टक्कर में बुजुर्ग की मौत",
       "inference": false,
-      "basis": "Hamara Hathras (12 Oct 2026): headline names Sikandrarao; car collided with a paddy-laden tractor near Sardhla bridge on GT Road, one elderly man died and two were seriously injured. Single incident, not a pattern.",
+      "basis": "Hamara Hathras (12 Oct 2026), datelined Sikandrarao: on the Etah-Aligarh GT Road near Sardhla bridge a car hit a paddy-laden tractor; an elderly man died after being taken to the CHC and two others were seriously injured. Single incident, not a pattern; location is near the town, AC membership unconfirmed.",
       "sources": [
-        {"outlet": "Hamara Hathras", "date": "2026-10-12", "url": "https://hamarahathras.com/sikandraraoo-men-bheeshhan-sadk-hadsa-jeetee-rod-pr-traiktr-se-tkraee-kar-ek-bujurg-kee-maut-do-ganbheer-roop-se-ghayl/"}
+        {
+          "outlet": "Hamara Hathras",
+          "date": "2026-10-12",
+          "url": "https://hamarahathras.com/sikandraraoo-men-bheeshhan-sadk-hadsa-jeetee-rod-pr-traiktr-se-tkraee-kar-ek-bujurg-kee-maut-do-ganbheer-roop-se-ghayl/"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Upgrade work at the Sikandrarau CHC had not started",
-      "hindi": "सिकंदराराऊ सीएचसी में सुधार का काम अभी शुरू नहीं हुआ",
+      "english": "Sikandrarau CHC upgrade work was still awaited",
+      "hindi": "सिकंदराराऊ सीएचसी के सुधार काम का इंतजार है",
       "inference": false,
-      "basis": "Amar Ujala (22 Feb 2026): work at Sikandrarau CHC described as 'soon' (जल्द); no start date, approval status or amount given. Status after Feb 2026 not found, so this may be out of date.",
+      "basis": "Amar Ujala (22 Feb 2026): work at Sikandrarau CHC 'will start soon' (जल्द); no start date, approval status or amount given. Status after Feb 2026 not found, so this reflects Feb 2026 only and may be out of date.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-02-22", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-02-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-government-hospitals-in-hathras-change-2026-02-22"
+        }
       ]
     }
   ],
-  "ac_specific_negatives": 5,
-  "notes": "AC 80 is Sikandra Rao, Hathras district, reserved None (Wikipedia list row 80, Hathras Lok Sabha). Wikipedia's AC page gives the extent as 'Hathras Tehsil', but Brajanchal refers to a tehsil office in Sikandrarao town itself, so AC membership of the town rests on the namesake-town rule; field-check the extent. Water: no sourced AC-specific negative was found. A 2022 Lok Sabha document (Rajvir Diler) on saline groundwater and distant drinking water in Sikandrarao and Sadabad villages was seen in search results but could not be opened (eparlib.nic.in unreachable), so it is not cited. Electricity, sugarcane/farm, stray cattle and sanitation searches returned nothing Sikandrarao-specific. Positives are thin: only the Har Ghar Jal pipeline and the 143-project launch are sourced as delivered or launched; items 3 to 5 are planned works flagged as inference. The Sikandrarao SHO item is a court-reported allegation about a sensitive case; the complainant is not named. The Sardhla GT Road crash is one incident, and the headline names Sikandrarao. The CHC item dates from Feb 2026. Several Amar Ujala Sikandrarau headlines in search results (market Eid shopping, Ramlila/Bhagwat katha, Kanwariya flower showers) are not benefits or grievances and were not used. Hasayan, Sadabad and Hathras city items were excluded as other constituencies or not AC-specific."
+  "ac_specific_negatives": 0,
+  "notes": "AC 80 Sikandra Rao, Hathras district, reserved None; AC page verified on Wikipedia. Wikipedia's extent says 'Hathras Tehsil' only, but the district's tehsil list names Sikandrarao as a separate tehsil, so the namesake-town rule is contradicted and town membership is UNCONFIRMED. ac_specific_negatives is 0 because no negative is confirmed inside the AC; field-check the extent (2008 delimitation order) before using negatives 1-5. Positives are thin: only the Har Ghar Jal pipeline and the 143-project launch are sourced as delivered or launched. Positives 3-5 are planned works flagged as inference and do not meet the 'appreciated benefit' rule; positive 4 duplicates negative 2. No completed Sikandrarau road, water, or CHC work was found in searches. A 2022 Lok Sabha document on saline groundwater and distant drinking water in Sikandrarao and Sadabad villages was seen but could not be opened, so it is not cited. Sikandrarao SHO item is a court-reported allegation about a sensitive case; the complainant is not named. Negative 4 is a single crash. Several Sikandrarau headlines (market, festival, flower showers) were not benefits or grievances and were not used.",
+  "round2": {
+    "verified_sources": 7,
+    "removed_sources": 0,
+    "ac_specific_negatives": 0,
+    "changes": "Re-opened all 7 cited URLs; dates and figures confirmed, none removed. identity_source now the AC Wikipedia page (AC 80, None, Hathras). Summary no longer says 'stalled' CHC. Negative 1 now attributes sinking to residents' claims. Negative 3 basis rewritten: court action, no police response, complainant's claims. Negative 4 basis corrected to Etah-Aligarh GT Road near Sardhla bridge. Negative 5 reworded to Feb 2026 status. Positive 4 Hindi cut to 10 words. Membership flags added to Sikandrarao-town items. Searched for completed Sikandrarau works and AC village lists; none found."
+  }
 }
