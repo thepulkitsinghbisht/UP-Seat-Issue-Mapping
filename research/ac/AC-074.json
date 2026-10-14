@@ -1,0 +1,156 @@
+{
+  "ac_no": 74,
+  "ac_name": "Chharra",
+  "ac_name_hindi": "छर्रा",
+  "reserved": "None",
+  "district": "Aligarh",
+  "region": "Braj",
+  "summary": "Local coverage of Chharra is thin: complaints centre on potholed state and village roads around Chharra Adda and Galibpur and on a violent dispute at the Chharra mandi, while appreciation is limited to the mandi as a market and a rural link road, and several positives are flagged inference.",
+  "identity_source": "https://en.wikipedia.org/wiki/Chharra_Assembly_constituency",
+  "ac_specific_negatives": 2,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "*The Chharra mandi gives our farmers a local place to sell their crops",
+      "hindi": "*छर्रा की मंडी में फसल बेचने की अपनी जगह है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (28 Sep 2026) reports the Chharra Krishi Utpadan Mandi Samiti is operating, with grain traders and porters working there. The article does not say farmers praise it; appreciation is inferred. Chharra town is the namesake town of AC 74, so the mandi is inside the AC.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-chharra-mandi-clash-labourer-loses-leg-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The PM Gram Sadak road from Galibpur is the main link for our villages",
+      "hindi": "गालिबपुर की प्रधानमंत्री ग्राम सड़क गांवों को मुख्य रास्ते से जोड़ती है",
+      "inference": false,
+      "basis": "Amar Ujala (2 Jul 2026): resident Vinod Kumar calls the 1.5 km PMGSY link road from Galibpur to the Chharra-Kasganj route 'the main link for several villages'. Gangiri block is named; AC membership unconfirmed for Galibpur. Road is in poor condition, so this praises the road's role, not its state.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-02",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/a-risky-journey-on-the-ghalibpur-road-aligarh-news-c-297-1-ddu1001-102285-2026-07-02"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Police checked the Ram Barat procession route in Chharra before the festival",
+      "hindi": "*त्योहार की सवारी के लिए पुलिस ने छर्रा का रूट देखा, सुरक्षा का इंतज़ाम हुआ",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (10 Oct 2026) reports the SSP inspected the Ram Barat route in Chharra, the Ravan dahan site, and gave security instructions to organisers. The report does not record any resident's praise; appreciation is inferred.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-10",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-chharara-ma-algaugdhha-esaesapa-na-rama-brata-nprta-ka-kaya-narakashhanae-2026-10-10"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Sanctioned road money for Chharra's 79 roads could mean repairs are coming",
+      "hindi": "*छर्रा की 79 सड़कों के लिए पैसा मंज़ूर हुआ है, मरम्मत का इंतज़ार है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (14 Sep 2026) budget list says Rs 216 crore for 79 roads of 250 km in the Chharra assembly area. This is a sanction, not a started or completed work, so it is only a weak positive; no resident praise is reported. Stated as an official budget allocation.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*The Atrauli-Kasganj state road is our route to towns beyond Chharra",
+      "hindi": "*अतरौली-कासगंज राज्य मार्ग से छर्रा से बाहर के शहरों तक जाना होता है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (14 Sep 2026) calls the Atrauli-Kasganj road a state highway that passes Pali Morh and Chharra Adda. The article does not say residents rely on it or praise it; the appreciation is inferred and this is the weakest positive in the set.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "The Atrauli-Kasganj road has deep potholes from Pali Morh to Chharra Adda",
+      "hindi": "अतरौली-कासगंज रोड पर पाली मोड़ से छर्रा अड्डा तक गहरे गड्ढे हैं",
+      "inference": false,
+      "basis": "Amar Ujala (14 Sep 2026), reporter narration with no named speaker: 'पाली मोड़ से छर्रा अड्डा तक एक किलोमीटर के टुकड़े में गहरे गड्ढे हैं', on a state highway. Article is district-level (17 ACs in four districts), so the stretch is quoted as reported. Chharra Adda is in Chharra town, the namesake town of AC 74, so it is inside the AC.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "A porter lost his leg in a fight at the Chharra mandi, and the case is still disputed",
+      "hindi": "छर्रा मंडी में व्यापारियों से झगड़े में पल्लेदार का पैर कटा, इंसाफ़ का इंतज़ार है",
+      "inference": false,
+      "basis": "Amar Ujala (28 Sep 2026): porter Raju was injured on 22 Sep at the Chharra Krishi Utpadan Mandi Samiti and his leg was amputated; the family alleges assault by two traders; FIR against 8 named and about 90 unnamed people; villagers allege police inaction (allegation only); clash at the mandi gate followed. Traders' version not in article.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-chharra-mandi-clash-labourer-loses-leg-2026-09-28"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The Galibpur link road is full of deep potholes and hard to use in rain",
+      "hindi": "गालिबपुर की सड़क में गहरे गड्ढे हैं, बारिश में निकलना मुश्किल हो जाता है",
+      "inference": false,
+      "basis": "Amar Ujala (2 Jul 2026): resident Vinod Kumar says 'हालत इतनी खराब हो चुकी है कि बारिश में निकलना मुश्किल हो जाता है'; Hemant Yadav says the PMGSY road has fallen into disrepair. Road links Galibpur (Gangiri block) to the Chharra-Kasganj route. AC membership unconfirmed for Galibpur; district-level.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-02",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/a-risky-journey-on-the-ghalibpur-road-aligarh-news-c-297-1-ddu1001-102285-2026-07-02"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The Nanau to Chharra-Sankra road is damaged and waiting for repair",
+      "hindi": "नानऊ से छर्रा-सांकरा की सड़क जर्जर है, मरम्मत का इंतज़ार है",
+      "inference": false,
+      "basis": "Amar Ujala (14 Sep 2026), reporter narration: 'नानऊ चौराहे से छर्रा-सांकरा जाने वाली सड़क भी जर्जर हो चुकी है', under PWD. The road also has broken stretches near Pilkhana. PWD SE Prabhat Kumar Chaudhary said tenders will be finalised soon. AC membership unconfirmed for Nanau and Sankra; district-level.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Aligarh is 40 km away and the only way there is by road, so care is hard to reach",
+      "hindi": "*इलाज के लिए अलीगढ़ 40 किमी दूर है, और वहां सिर्फ सड़क से जाते हैं",
+      "inference": true,
+      "basis": "Inference: Wikipedia (Chharra Rafatpur, undated) says the town is 40 km from Aligarh headquarters and 'The only way to commute to this place is by road'. The article names no hospital or health service; the health-access claim is inferred from distance and road-only access. Chharra Rafatpur is the nagar panchayat of AC 74 per the AC's extent.",
+      "sources": [
+        {
+          "outlet": "Wikipedia (Chharra Rafatpur)",
+          "date": "undated",
+          "url": "https://en.wikipedia.org/wiki/Chharra_Rafatpur"
+        }
+      ]
+    }
+  ],
+  "notes": "Local evidence is thin: about 25 searches in Hindi and English found only a few 2026 Amar Ujala items on Chharra; nothing on water, power, schools or hospitals in Chharra town. Only 2 negatives (Chharra Adda road and the Chharra mandi clash) are confirmed inside the AC; the Galibpur and Nanau-Sankra roads are district-level with AC membership unconfirmed, and the health-access negative is an inference. Positives are weak: P1, P3, P4 and P5 are inferred appreciation and P4 is only a budget sanction. The Wikipedia list of UP constituencies row for 74 showed district 'Hathras', but the AC's own Wikipedia page, the row for 73 and the Aligarh-district heading say Aligarh; Chharra is in Hathras Lok Sabha seat, which likely caused the mix-up. The Newstrack drainage report (Chharra Adda keyword) returned HTTP 403 and was not cited. Verify on a field visit: Chharra Rafatpur nagar panchayat water and drainage, Chharra Adda drain and the Chharra mandi, the Rafatpur PMGSY and village roads, and the 216 crore 79-road sanction. Keep the 'ac_specific_negatives' count at 2 until Galibpur and the Nanau road are confirmed inside AC 74."
+}
