@@ -6,51 +6,65 @@
   "district": "Bulandshahr",
   "region": "Paschim UP",
   "ac_specific_negatives": 4,
-  "summary": "Complaints centre on erratic power (10 to 12 hours of cuts a day, repeated tripping, unannounced outages), waterlogging in the Dibai market and an unfinished bypass; the only verified appreciation is a quick restoration after a sub-station VCB fire, and the other positives are thin and flagged.",
+  "summary": "Complaints centre on erratic power (10 to 12 hours of cuts a day in Dibai, repeated tripping, unannounced outages), waterlogging in Dibai's market after rain and an incomplete bypass; the verified appreciations are a 150-couple mass-marriage event and a quick restoration after a sub-station VCB fire, and the remaining positives are thin and flagged.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
       "rank": 1,
-      "english": "Power came back in about three hours after the VCB fire",
-      "hindi": "वीसीबी जली तो भी करीब तीन घंटे में बिजली लौट आई",
+      "english": "Sugar mills have sent the full cane payment into farmers' accounts",
+      "hindi": "चीनी मिलों ने गन्ने का पूरा पैसा किसानों के खाते में भेज दिया",
       "inference": false,
-      "basis": "Amar Ujala (30 Jun 2026): fire in a VCB machine at the 132 kV Bhimpur sub-station cut power to Dibai homes around 10:24 PM on the Monday night; supply was restored in about three hours once the fault was fixed. Consumers had faced low voltage, tripping and undeclared cuts for the three days before it",
+      "basis": "District-level, not Dibai-specific: ChiniMandi (8 Jul 2026) says the four Bulandshahr mills of the 2025-26 season (Sabitgarh; Anamika at Agauta; Wave at Bulandshahr; Di Kisan at Anupshahr) have sent 100% of the payment for cane bought to farmers' bank accounts, total Rs 1,09,209.12 lakh. The article does not mention Dibai or any mill in Dibai",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-30", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outage-in-shikarpur-for-36-hours-supply-disrupted-in-dibai-due-to-a-blown-vcb-bulandshahr-news-c-133-1-bul1004-158536-2026-06-30"}
+        {
+          "outlet": "ChiniMandi (Hindi)",
+          "date": "2026-07-08",
+          "url": "https://www.chinimandi.com/crushing-season-2025-26-bulandshahrs-four-sugar-mills-pay-100-percent-of-sugarcane-price-in-hindi/"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Sugar mills have sent the full cane payment into farmers' accounts",
-      "hindi": "चीनी मिलों ने गन्ने का पूरा पैसा किसानों के खाते में भेज दिया",
+      "english": "Power came back in about three hours after the VCB fire",
+      "hindi": "वीसीबी जली तो भी करीब तीन घंटे में बिजली लौट आई",
       "inference": false,
-      "basis": "District-level, not Dibai-specific: ChiniMandi (8 Jul 2026) says the four Bulandshahr mills of the 2025-26 season (named as Sabitgarh, Anamika at Agauta, Wave at Bulandshahr, Di Kisan at Anupshahr) have sent 100% of the payment for cane bought to farmers' bank accounts, total Rs 1,09,209.12 lakh. Dibai is not mentioned in the article",
+      "basis": "Amar Ujala (30 Jun 2026): a technical fault set fire to a VCB machine around 10:24 PM on the Monday night, cutting supply in Dibai for about three hours; power returned once the fault was fixed. Dibai consumers had faced low voltage, tripping and undeclared cuts for the three days before it. A single restoration, not a lasting fix",
       "sources": [
-        {"outlet": "ChiniMandi (Hindi)", "date": "2026-07-08", "url": "https://www.chinimandi.com/crushing-season-2025-26-bulandshahrs-four-sugar-mills-pay-100-percent-of-sugarcane-price-in-hindi/"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outage-in-shikarpur-for-36-hours-supply-disrupted-in-dibai-due-to-a-blown-vcb-bulandshahr-news-c-133-1-bul1004-158536-2026-06-30"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "*There is a 100-bed government hospital in Dibai",
-      "hindi": "*डिबाई में 100 बेड का सरकारी अस्पताल है",
-      "inference": true,
-      "basis": "Inference: a 2026 Amar Ujala district report surfaced in search (not opened, so no URL is cited) names the 100-bed Rajkiya Chikitsalaya Dibai among government hospitals in Bulandshahr. It is a facility, not a verified benefit delivered to voters. Field check needed",
-      "sources": []
+      "english": "150 couples were married under the state mass-marriage scheme in Dibai",
+      "hindi": "डिबाई में सामूहिक विवाह योजना से 150 शादियां हुईं",
+      "inference": false,
+      "basis": "Janmat News (19 Feb 2026): a mass-marriage event under the Chief Minister's Samuhik Vivah scheme was held at Ravan ki Patwari in Dibai nagar, with 150 weddings. The article does not say how many couples were from Dibai, so this is a scheme event held in Dibai, not a count of Dibai beneficiaries",
+      "sources": [
+        {
+          "outlet": "Janmat News (Hindi)",
+          "date": "2026-02-19",
+          "url": "https://janmatnews.com/150-marriages-were-solemnized-under-the-Chief-Minister-Mass-Marriage-Scheme"
+        }
+      ]
     },
     {
       "rank": 4,
       "english": "*Farmers can sell their crop at the Dibai mandi",
       "hindi": "*डिबाई की मंडी में किसान अपनी फसल बेच पाते हैं",
       "inference": true,
-      "basis": "Inference: Amar Ujala (2 Sep 2026) names Mandi Hardev as a waterlogged spot in Dibai, which implies a functioning mandi there; no source found on crop sales or prices at Dibai mandi this round. Field check needed",
+      "basis": "Inference: Amar Ujala (2 Sep 2026) names Mandi Hardev as a spot where waterlogging blocked traffic in Dibai, which implies a mandi operates there; no source found on crop sales, procurement or prices at the Dibai mandi (searches this round returned only other districts). Field check needed",
       "sources": []
     },
     {
       "rank": 5,
-      "english": "*Government offices are close by since Dibai is a tehsil headquarters",
-      "hindi": "*डिबाई तहसील होने से सरकारी दफ्तर पास में हैं",
+      "english": "*Dibai has a government hospital people can use for treatment",
+      "hindi": "*डिबाई में सरकारी अस्पताल में इलाज होता है",
       "inference": true,
-      "basis": "Inference: the Wikipedia Debai Assembly constituency page (fetched) says the extent is Debai Tehsil, so the tehsil office is local. No source found on a specific service or benefit delivered this round, so this is weak and should be replaced after a field check",
+      "basis": "Inference: a search result listed a Community Health Centre Dibai on the Bulandshahr district hospital page, but that page returned HTTP 503 when fetched, so it is not cited. No 2026 report on services at the Dibai facility was found. Field check needed; replaces an earlier tehsil-office item, which was a geography fact and not a benefit",
       "sources": []
     }
   ],
@@ -60,9 +74,13 @@
       "english": "Power is cut for 10 to 12 hours a day in Dibai",
       "hindi": "डिबाई में रोज़ 10 से 12 घंटे बिजली कटती है",
       "inference": false,
-      "basis": "Amar Ujala (13 Jul 2026): a table of daily average outage hours gives Dibai as 10 से 12 घंटे, the same as Shikarpur; the table sits in a report on a protest in Bulandshahr city (Manasarovar Colony), and the article also reports 8 to 10 hours of daily cuts in most villages. Chief Engineer Sanjeev Kumar blamed load in summer. Dibai is a town named after the AC, so it counts as inside the AC",
+      "basis": "Amar Ujala (13 Jul 2026): a table of daily average outage hours gives Dibai as 10 से 12 घंटे (Shikarpur, AC 69, is in the same table row and is not used here). The table sits in a report on a protest in Bulandshahr city, and the article also says most villages face 8 to 10 hours of daily cuts. Chief Engineer Sanjeev Kumar blamed higher summer load for the faults. Dibai is the namesake town of the AC, so it counts as inside the AC",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-13", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/outcry-over-power-outages-protest-held-after-fault-remains-unfixed-bulandshahr-news-c-133-1-bul1033-159673-2026-07-13"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-13",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/outcry-over-power-outages-protest-held-after-fault-remains-unfixed-bulandshahr-news-c-133-1-bul1033-159673-2026-07-13"
+        }
       ]
     },
     {
@@ -70,9 +88,13 @@
       "english": "Market shops in Dibai flood when it rains",
       "hindi": "डिबाई में बारिश हुई तो बाजार और दुकानों में पानी भर जाता है",
       "inference": false,
-      "basis": "Amar Ujala (2 Sep 2026): after about 45 minutes of heavy rain, Mahadev Chauraha, Paith Chauraha, Holi Gate and Bada Bazar had two to three feet of water, and Railway Road shops were flooded. Councillors said the market still has no relief from waterlogging and the matter was raised with the EO and the chairperson. No official response quoted",
+      "basis": "Amar Ujala (2 Sep 2026): after about 45 minutes of heavy rain, Mahadev Chauraha, Paith Chauraha, Holi Gate and Bada Bazar had two to three feet of water, and shops on Railway Road were flooded. Shopkeepers were angry and councillors said shopkeepers have long demanded a fix; the EO and chairperson were asked to solve it. The article says the rain exposed the municipality's drainage claims. No official response is quoted",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-the-anupshahr-ahar-and-bugrasi-areas-waterlogging-in-shops-and-streets-in-dibai-bulandshahr-news-c-133-1-bul1002-164257-2026-09-02"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-02",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-the-anupshahr-ahar-and-bugrasi-areas-waterlogging-in-shops-and-streets-in-dibai-bulandshahr-news-c-133-1-bul1002-164257-2026-09-02"
+        }
       ]
     },
     {
@@ -80,32 +102,54 @@
       "english": "Power trips and goes off without notice in Dibai",
       "hindi": "डिबाई में बार-बार ट्रिपिंग और बिना बताए बिजली कटौती से परेशानी",
       "inference": false,
-      "basis": "Amar Ujala (1 Jul 2026): residents of Dibai faced unannounced cuts and repeated tripping for 10 days; flour mills could not grind wheat and children's studies were affected. Trader representative Deepak Agarwal gave a memorandum to XEN Rahul Ratn Bodhi seeking advance notice of cuts. XEN said transformer overloading causes it. The article also says work is ongoing on the first and second feeders",
+      "basis": "Amar Ujala (1 Jul 2026): residents of Dibai faced unannounced cuts and repeated tripping for ten days; flour mills could not grind wheat and children's studies were affected. Trader representative Deepak Agarwal gave a memorandum to XEN Rahul Ratn Bodhi seeking advance notice of cuts. The XEN attributed the disruptions to transformer overloading, and the article says work is ongoing on feeders one and two",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-01", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outages-in-rural-areas-due-to-rain-residents-of-dibai-troubled-by-tripping-bulandshahr-news-c-133-1-bul1004-158672-2026-07-01"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outages-in-rural-areas-due-to-rain-residents-of-dibai-troubled-by-tripping-bulandshahr-news-c-133-1-bul1004-158672-2026-07-01"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "Dibai bypass is still unfinished and highway jams continue",
+      "english": "Dibai bypass is incomplete and highway jams happen in Dibai",
       "hindi": "डिबाई का बाईपास अधूरा पड़ा है और हाईवे पर जाम लगता है",
       "inference": false,
-      "basis": "Amar Ujala (14 May 2025, district-level plan article): the lead says the incomplete bypass in Dibai will be completed, and a 6.80 km Dibai bypass costing Rs 45.50 crore is only a proposal sent for approval, with no work reported as complete. Amar Ujala (2 Sep 2026) reports people stuck in highway jams in Dibai during the rain. No 2026 status report on the bypass was found, so the 'still unfinished' part rests on the 2025 article",
+      "basis": "Amar Ujala (14 May 2025, district plan article): says the incomplete bypass in Dibai and Sikandarabad will be completed, and gives a 6.80 km Dibai bypass costing Rs 45.50 crore as a proposal; no work reported as started or complete, and the plans await government approval. Amar Ujala (2 Sep 2026): people were stuck in highway jams in Dibai during the rain. No 2026 status report on the bypass was found, so 'incomplete' rests on the 2025 article",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-05-14", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/preparations-underway-for-construction-and-widening-of-543-roads-in-the-district-bulandshahr-news-c-133-1-bul1006-133957-2025-05-14"},
-        {"outlet": "Amar Ujala", "date": "2026-09-02", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-the-anupshahr-ahar-and-bugrasi-areas-waterlogging-in-shops-and-streets-in-dibai-bulandshahr-news-c-133-1-bul1002-164257-2026-09-02"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-05-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/preparations-underway-for-construction-and-widening-of-543-roads-in-the-district-bulandshahr-news-c-133-1-bul1006-133957-2025-05-14"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-02",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/heavy-rain-in-the-anupshahr-ahar-and-bugrasi-areas-waterlogging-in-shops-and-streets-in-dibai-bulandshahr-news-c-133-1-bul1002-164257-2026-09-02"
+        }
       ]
     },
     {
       "rank": 5,
-      "english": "Garbage piles up on the streets in the morning in towns like Dibai",
+      "english": "Garbage heaps line Bulandshahr streets in the morning",
       "hindi": "सुबह सड़कों पर कचरे के ढेर लगे मिलते हैं",
       "inference": false,
-      "basis": "District-level: Amar Ujala (1 Oct 2026) lists the Dibai nagar palika among Bulandshahr-district bodies, and the sentence says garbage heaps are seen on the streets in the morning. The article gives no Dibai-specific figure, so Dibai is named only inside a district list and this is not counted as AC-specific",
+      "basis": "District-level, not AC-specific: Amar Ujala (1 Oct 2026), in an article on cleanliness in Bulandshahr, says garbage heaps are found on the streets in the morning. Dibai nagar palika is named only in a list of district bodies, with no Dibai-specific figure, so this is not counted in ac_specific_negatives",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-01", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-shines-in-the-statistics-while-cleanliness-struggles-on-the-streets-bulandshahr-news-c-133-1-bul1001-167046-2026-10-01"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-shines-in-the-statistics-while-cleanliness-struggles-on-the-streets-bulandshahr-news-c-133-1-bul1001-167046-2026-10-01"
+        }
       ]
     }
   ],
-  "notes": "Identity confirmed: Wikipedia list gives Constituency No. 68 Debai, Bulandshahr district, reservation None, and neighbours 67 Anupshahr and 69 Shikarpur. Wikipedia Debai AC page says the extent is Debai Tehsil plus units from the Anupshahar KC (Bagsara, Bibiyana, Mau, Dubka, Suratgarh urf Lodhai, Rajour); those units are not individually confirmed as in Dibai's extent by the page's wording beyond that list, so they were not used. Dibai town is the namesake and counts as inside the AC. Power evidence is strong and local (Amar Ujala, May to Jul 2026), but the 1 Jul and 13 Jul 2026 articles report residents' accounts and official explanations only, not verified outage logs. The Dibai bypass status after May 2025 and any Dibai-specific road, water or sanitation project were not found in 2026 sources. Positives 3 to 5 are inferences with no cited source, and a field check should replace them. The 100-bed hospital and digital X-ray leads came from search snippets whose URLs did not match their titles, so they were not cited. The 15-hour supply and inverter report was not found. Chief Engineer Sanjeev Kumar and XEN Rahul Ratn Bodhi are the officials quoted for power."
+  "notes": "Identity verified on the Wikipedia list (67 Anupshahr, 68 Debai, 69 Shikarpur; reservation None; Bulandshahr). Wikipedia Debai AC page: extent is Debai Tehsil, plus Bagsara, Bibiyana, Mau, Dubka, Suratgarh urf Lodhai and Rajour of Anupshahar KC. These are named in the extent text; none is used in an item. Named places used: Dibai town (namesake, inside), Mahadev Chauraha, Paith Chauraha, Holi Gate, Bada Bazar, Railway Road, Mandi Hardev (all reported as Dibai locations in the 2 Sep 2026 article), and Dibai nagar (venue in Janmat). The Bhimpur sub-station named in an earlier draft is not in the article and was removed. Power evidence is the strongest local story and is verified (Amar Ujala 30 Jun, 1 Jul and 13 Jul 2026). The 1 Jul and 13 Jul articles give residents' accounts and official explanations, not verified outage logs. Positive 1 (cane) is district-level. Positive 3 is a scheme event held in Dibai; the article does not say how many couples were from Dibai. Positives 4 and 5 are unsourced inferences and need a field check. The district hospital page returned HTTP 503 and was not cited. No 2026 bypass status report was found. Searches for Dibai mandi procurement, substation commissioning, road or drain completion, and a theft-recovery item returned nothing for Dibai. The 15-hour supply and inverter report from an earlier draft was not found and is not used.",
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Opened all 8 item URLs and the Wikipedia list and AC pages. Removed the unsourced 100-bed hospital and the Bhimpur sub-station name (not in the article). Replaced the tehsil-office positive (geography, not a benefit) with a flagged hospital inference. Added a sourced positive (Janmat, 19 Feb 2026, 150 weddings under the state scheme in Dibai nagar). Re-ranked positives: cane payment (district) 1, power restoration 2. Rewrote negative 4 to match the 2025 proposal status and negative 5 to say it is district-level. Corrected negative 2 basis (councillor and EO detail as stated). Negative 3 wording and the Wikipedia extent note were checked against the sources."
+  }
 }

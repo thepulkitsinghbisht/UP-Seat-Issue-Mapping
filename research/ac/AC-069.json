@@ -5,27 +5,41 @@
   "reserved": "None",
   "district": "Bulandshahr",
   "region": "Paschim UP",
-  "summary": "Complaints centre on waterlogging on the roads and markets of Shikarpur town, long power cuts, a CHC accused of sending patients to buy medicines outside, and a dilapidated Khurja-Shikarpur road, while the main appreciation is a started road widening and quick compensation for expressway land, though most of the town works are still tendered or sanctioned rather than delivered.",
+  "summary": "Complaints centre on waterlogging on the roads, markets and CHC front of Shikarpur town after light rain, long power cuts and a dilapidated Khurja-Shikarpur road, with the CHC medicine issue an unconfirmed allegation; the main appreciation is a started Anupshahr-Shikarpur road widening, while most town works are still tendered or sanctioned rather than delivered.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "round2": {
+    "verified_sources": 14,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "(1) Opened and checked all 13 cited article URLs plus the identity page; all opened and supported their claims, so no source was removed. (2) Positives: #2 (SDM compensation claim) changed to inference because it is an official claim with no farmer confirmation; reordered positives by likely impact (started road, town roads and drains money, pipelines, compensation, handpumps). (3) Negative #1: removed the Girls Inter College claim (photo caption only) and the Syana-based EO attribution; rewrote Hindi to 13 words. (4) Negative #2: removed unverified 'fixed overnight' claim. (5) Negative #3: removed the prescription claim not in the article; Hindi shortened to 12 words. (6) Negative #4 and #5: basis corrected for dates, district-level sourcing and village/AC caveats. (7) Notes: removed the unverified MLA details and the unverified 2011 population figure. (8) Searched Hindi and English for delivered Shikarpur works 2024-2026; found none verifiable (a Statesman report of inaugurated Shikarpur projects returned HTTP 403, so it is not cited)."
+  },
   "positives": [
     {
       "rank": 1,
       "english": "Widening work on the Anupshahr road has started at last",
       "hindi": "अनूपशहर वाली सड़क का चौड़ीकरण शुरू हो गया है",
       "inference": false,
-      "basis": "Amar Ujala (12 May 2025): widening of the Anupshahr-Shikarpur road has begun, cost Rs 31.28 crore, first instalment of over Rs 10 crore received. The road connects Shikarpur and Khurja with Anupshahr; the article does not say which stretch is being widened, and it gives no completion date. Route-level, so AC membership of the stretch is not confirmed.",
+      "basis": "Amar Ujala (12 May 2025), opened and checked: widening of the Anupshahr-Shikarpur road has begun; cost Rs 31.28 crore; work started after the first instalment of over Rs 10 crore. The article says the road connects Shikarpur and Khurja; it does not name the stretch or give a completion date. Route-level, so AC membership of the stretch is not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-05-12", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/widening-of-anupshahr-shikarpur-road-started-bulandshahr-news-c-133-1-bul1002-133824-2025-05-12"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-05-12",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/widening-of-anupshahr-shikarpur-road-started-bulandshahr-news-c-133-1-bul1002-133824-2025-05-12"
+        }
       ]
     },
     {
       "rank": 2,
-      "english": "Farmers get their land compensation in the bank within seven days of the deed",
-      "hindi": "बैनामे के सात दिन में किसानों के खाते में मुआवजा पहुंच रहा है",
-      "inference": false,
-      "basis": "ETV Bharat (2 Jul 2026): SDM Ravindra Pratap Singh says RTGS payment reaches farmers within 7 days of the sale deed. About 62 deeds done in Shikarpur tehsil for the Bulandshahr-Jewar (Greenfield Link) expressway, about 6 km of which falls in Shikarpur tehsil. This is the official claim; no farmer confirmation is reported and the amount is not stated.",
+      "english": "*2.90 crore is to be spent on repairing broken town roads and drains",
+      "hindi": "*टूटी सड़कें और नालियां बनाने के लिए 2.90 करोड़ खर्च होंगे",
+      "inference": true,
+      "basis": "Inference: Amar Ujala (30 Sep 2026), opened and checked: Shikarpur Nagar Palika Parishad will spend Rs 2.90 crore on 20 works, mainly roads, drains and culverts, funded from the 15th Finance Commission, State Finance Commission and municipal funds. No start or completion date is given, so this is planned spending, not delivered work.",
       "sources": [
-        {"outlet": "ETV Bharat", "date": "2026-07-02", "url": "https://www.etvbharat.com/hi/state/bulandshahr-jewar-expressway-62-sale-deeds-executed-in-shikarpur-so-far-ups26070206114"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/20-development-works-to-be-carried-out-in-shikarpur-at-a-cost-of-290-crore-bulandshahr-news-c-133-1-bul1002-166875-2026-09-30"
+        }
       ]
     },
     {
@@ -33,19 +47,27 @@
       "english": "*Water pipelines are to be laid in Muftiwara and Kotsher Khan",
       "hindi": "*मुफ्तीवाड़ा और कोटशेर खां में पानी की पाइपलाइन बिछने वाली है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (3 Oct 2026) says Shikarpur Nagar Palika has finished tendering about Rs 1.22 crore of works, including pipelines of 783 m in Muftiwara (ward 4) and 1,490 m in Kotsher Khan (ward 19). The benefit is planned, not confirmed delivered, and no start date is reported.",
+      "basis": "Inference: Amar Ujala (3 Oct 2026), opened and checked: tenders are complete for about Rs 1.22 crore of works, including 783 m of pipeline in Muftiwara (ward 4, Rs 16.48 lakh) and 1,490 m in Kotsher Khan (ward 19, Rs 15.07 lakh). The works are planned; no start date and no completion are reported.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-03", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/development-works-worth-122-crore-to-be-carried-out-in-shikarpur-bulandshahr-news-c-133-1-bul1002-167142-2026-10-03"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/development-works-worth-122-crore-to-be-carried-out-in-shikarpur-bulandshahr-news-c-133-1-bul1002-167142-2026-10-03"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "*Money is sanctioned to repair our broken roads and drains in town",
-      "hindi": "*नगर की टूटी सड़कें और नालियां बनवाने का पैसा मंज़ूर हो गया है",
+      "english": "*Compensation is said to reach our accounts within seven days of the deed",
+      "hindi": "*बैनामे के सात दिन में मुआवजा खाते में आने की बात है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (30 Sep 2026) says Shikarpur Nagar Palika Parishad will spend Rs 2.90 crore on 20 works, mainly damaged roads, drains and culverts, funded from the 15th Finance Commission, State Finance Commission and municipal funds. The article gives no timeline and no completion report, so this is sanctioned money, not delivered work.",
+      "basis": "Inference: ETV Bharat (2 Jul 2026), opened and checked: SDM Ravindra Pratap Singh says payment is sent to farmers' accounts within 7 days of the official sale deed; 62 deeds are done so far, and about 6 km of the Bulandshahr-Jewar expressway route is affected in Shikarpur tehsil. This is an official claim. The article has no farmer confirmation and gives no amount, so delivery is not verified.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-30", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/20-development-works-to-be-carried-out-in-shikarpur-at-a-cost-of-290-crore-bulandshahr-news-c-133-1-bul1002-166875-2026-09-30"}
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-07-02",
+          "url": "https://www.etvbharat.com/hi/state/bulandshahr-jewar-expressway-62-sale-deeds-executed-in-shikarpur-so-far-ups26070206114"
+        }
       ]
     },
     {
@@ -53,9 +75,13 @@
       "english": "*Fifteen handpumps in town are to be repaired",
       "hindi": "*शहर के 15 हैंडपंप ठीक कराए जाने हैं",
       "inference": true,
-      "basis": "Inference: Amar Ujala (3 Oct 2026) lists re-boring of 15 India Mark handpumps among the Rs 1.22 crore works in Shikarpur town, and says the tender process is complete. Repair is planned; the article does not report it as done.",
+      "basis": "Inference: Amar Ujala (3 Oct 2026), opened and checked: re-boring of 15 India Mark handpumps is among the Rs 1.22 crore Nagar Palika works, and the article says tenders for all works are complete. Repair is planned; the article does not report it as done.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-03", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/development-works-worth-122-crore-to-be-carried-out-in-shikarpur-bulandshahr-news-c-133-1-bul1002-167142-2026-10-03"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/development-works-worth-122-crore-to-be-carried-out-in-shikarpur-bulandshahr-news-c-133-1-bul1002-167142-2026-10-03"
+        }
       ]
     }
   ],
@@ -63,14 +89,30 @@
     {
       "rank": 1,
       "english": "Light rain floods our roads, the market and the front of the CHC",
-      "hindi": "हल्की बारिश में शिकारपुर की सड़कें, बाज़ार और सीएचसी के सामने पानी भर जाता है",
+      "hindi": "हल्की बारिश में सड़कों, बाज़ार और सीएचसी के सामने पानी भर जाता है",
       "inference": false,
-      "basis": "Amar Ujala (23 Aug 2026) names Balaji Market, the Kotwali turn and the road in front of Government Girls Inter College in Shikarpur town as waterlogged; residents say silted drains and irregular cleaning are the cause and blame garbage in a culvert; EO Sevaram Rajbhar and EO Neetu Singh say drains were cleaned and problem spots will be inspected. Royal Bulletin (23 Aug 2026) reports main roads and crossings flooded in Shikarpur Nagar after light rain. Dynamite News (9 May 2026) names waterlogging in front of the CHC and block office in the Nagar Palika area. Amar Ujala (7 Jul 2026) reports the same spot on the Khurja-Shikarpur road in front of the CHC and block office. The Syana section of the Amar Ujala article is excluded because Syana is not confirmed inside this AC.",
+      "basis": "Amar Ujala (23 Aug 2026), opened and checked: Balaji Market and the Kotwali turn in Shikarpur town are waterlogged; residents blame garbage in a culvert and drains not cleaned on time; EO Neetu Singh says drains have been cleaned and problem spots will be inspected. Royal Bulletin (23 Aug 2026): water on the main roads and crossings of Shikarpur Nagar after light rain. Dynamite News (9 May 2026): waterlogging in front of the CHC and block office in the Nagar Palika area. Amar Ujala video (7 Jul 2026): the same spot on the Khurja-Shikarpur road in front of the CHC and block office. The Syana part of the 23 Aug article is excluded because Syana is not confirmed inside this AC. The Girls Inter College spot appears only in a photo caption, so it is not used.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-23", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"},
-        {"outlet": "Royal Bulletin", "date": "2026-08-23", "url": "https://royalbulletin.in/uttar-pradesh/bulandshahr/-draft--add-your-title/article-219097"},
-        {"outlet": "Dynamite News", "date": "2026-05-09", "url": "https://hindi.dynamitenews.com/uttar-pradesh/bulandshahr-news-shikarpur-nagar-palika-waterlogging-chc-block-road-issue"},
-        {"outlet": "Amar Ujala", "date": "2026-07-07", "url": "https://www.amarujala.com/video/uttar-pradesh/bulandshahr/video-shikarpur-municipalitys-development-claims-exposed-2026-07-07"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-23",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/rain-exposes-flaws-in-drainage-system-waterlogging-in-syana-shikarpur-bulandshahr-news-c-133-1-bul1016-163477-2026-08-23"
+        },
+        {
+          "outlet": "Royal Bulletin",
+          "date": "2026-08-23",
+          "url": "https://royalbulletin.in/uttar-pradesh/bulandshahr/-draft--add-your-title/article-219097"
+        },
+        {
+          "outlet": "Dynamite News",
+          "date": "2026-05-09",
+          "url": "https://hindi.dynamitenews.com/uttar-pradesh/bulandshahr-news-shikarpur-nagar-palika-waterlogging-chc-block-road-issue"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-07",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/bulandshahr/video-shikarpur-municipalitys-development-claims-exposed-2026-07-07"
+        }
       ]
     },
     {
@@ -78,19 +120,27 @@
       "english": "Power was off for 36 hours in Shikarpur even after a new cable was laid",
       "hindi": "नया केबल डालने के बाद भी शिकारपुर में 36 घंटे बिजली गुल रही",
       "inference": false,
-      "basis": "Amar Ujala (30 Jun 2026), headline and body: a storm and rain caused breakdowns in the Shikarpur feeders (Mangraul and Chitsaun), and the outage in Shikarpur continued for 36 hours even after a new cable was laid. The Executive Engineer says a 33 KVA line broke down in the storm and was fixed overnight. The article's other areas (Dibai, Narsena, Balrampur) are not part of this item. Feeder village membership is not confirmed.",
+      "basis": "Amar Ujala (30 Jun 2026), opened and checked: the outage in Shikarpur continued for 36 hours even after a new cable was laid. A storm and rain caused breakdowns on the Mangraul and Chitsaun feeders, which the article links to more than 10 villages; the Executive Engineer says a 33 KVA line broke down in the storm. Feeder village membership is not confirmed. The article's Dibai and other areas are not part of this item.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-30", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outage-in-shikarpur-for-36-hours-supply-disrupted-in-dibai-due-to-a-blown-vcb-bulandshahr-news-c-133-1-bul1004-158536-2026-06-30"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-outage-in-shikarpur-for-36-hours-supply-disrupted-in-dibai-due-to-a-blown-vcb-bulandshahr-news-c-133-1-bul1004-158536-2026-06-30"
+        }
       ]
     },
     {
       "rank": 3,
       "english": "It is alleged that patients are told to buy medicines from outside the CHC",
-      "hindi": "आरोप है कि सीएचसी में मरीजों को दवा बाहर से खरीदने को कहा जाता है",
+      "hindi": "आरोप है, सीएचसी में दवा बाहर से लेने को कहा जाता है",
       "inference": false,
-      "basis": "Knews (report dated 10 Sep 2026 per article metadata): allegations that poor patients at Shikarpur CHC were sent to private medical stores, and that some doctors wrote prescriptions for outside medicines, with a commission-taking claim. The article says these allegations are not independently confirmed. CMO Dr Sunil Kumar Dohri is quoted saying all necessary medicines are available. Allegation only.",
+      "basis": "Knews (10 Sep 2026), opened and checked: allegations that poor and labour patients at Shikarpur CHC are told to buy medicines from private medical stores, and a local allegation of a commission racket between the CHC in-charge and some doctors. The article says these allegations are not independently confirmed. CMO Dr Sunil Kumar Dohri says all necessary medicines are available in hospitals. Allegation only, not verified.",
       "sources": [
-        {"outlet": "Knews", "date": "2026-09-10", "url": "https://knewsindia.in/big-breaking-2/allegations-of-negligence-at-bulandshahrs-shikarpur-chc-patients-forced-to-buy-medicines-from-outside/"}
+        {
+          "outlet": "Knews",
+          "date": "2026-09-10",
+          "url": "https://knewsindia.in/big-breaking-2/allegations-of-negligence-at-bulandshahrs-shikarpur-chc-patients-forced-to-buy-medicines-from-outside/"
+        }
       ]
     },
     {
@@ -98,10 +148,18 @@
       "english": "Stray cattle wreck our crops and sugarcane dues are still pending",
       "hindi": "आवारा पशु फसल उजाड़ते हैं और गन्ने का बकाया पड़ा है",
       "inference": false,
-      "basis": "Amar Ujala (14 Jul 2025): Bharatiya Kisan Union farmers from Jakhaita village walked to the Shikarpur tehsil and listed crop damage by stray cattle, low electricity, dilapidated roads and unpaid sugarcane dues; a memorandum went to the SDM and CO and no official response is reported. The district-wide BKU demands in ETV Bharat (4 Apr 2026) also include stray cattle and pending sugarcane dues, but that report is district-level. The issues are dated 2025, so check for updates.",
+      "basis": "Amar Ujala (14 Jul 2025), opened and checked: BKU farmers' padyatra from Jakhaita village to Shikarpur tehsil listed crop damage by stray cattle, low electricity, damaged roads, unpaid sugarcane dues and fake fertiliser and seed; a memorandum went to the SDM and CO and no official response is reported. Jakhaita's tehsil membership is not confirmed. ETV Bharat (4 Apr 2026, district-level BKU demands) repeats the stray-animal and sugarcane-dues demands. No 2026 Shikarpur-specific update found.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2025-07-14", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/angry-farmers-surrounded-shikarpur-tehsil-and-protested-due-to-problems-bulandshahr-news-c-133-1-bul1002-137203-2025-07-14"},
-        {"outlet": "ETV Bharat", "date": "2026-04-04", "url": "https://www.etvbharat.com/hi/state/bulandshahr-khurja-farmer-protest-tractor-march-sdm-memorandum-circle-rate-increase-uttar-pradesh-news-ups26040403850"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-07-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/angry-farmers-surrounded-shikarpur-tehsil-and-protested-due-to-problems-bulandshahr-news-c-133-1-bul1002-137203-2025-07-14"
+        },
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-04-04",
+          "url": "https://www.etvbharat.com/hi/state/bulandshahr-khurja-farmer-protest-tractor-march-sdm-memorandum-circle-rate-increase-uttar-pradesh-news-ups26040403850"
+        }
       ]
     },
     {
@@ -109,13 +167,21 @@
       "english": "The Khurja-Shikarpur road has been dilapidated for about 15 years",
       "hindi": "खुर्जा-शिकारपुर सड़क 15 साल से जर्जर है",
       "inference": false,
-      "basis": "Amar Ujala (20 Dec 2024): the 13.65 km Khurja-Shikarpur road has been dilapidated for about 15 years; a Rs 22.11 crore renovation was sanctioned for about 35 villages, and the article says construction is still future work. Amar Ujala (7 Jul 2026) reports waterlogging on this road in front of the Shikarpur CHC and block office, which confirms the Shikarpur town stretch. The Khurja end of the road may lie in another AC, which is not confirmed here.",
+      "basis": "Amar Ujala (20 Dec 2024), opened and checked: the Khurja-Shikarpur road has been dilapidated for about 15 years; approval was given for about Rs 22.11 crore (article: Rs 22 crore 10 lakh 94 thousand) for about 35 villages, and construction is still to start after budget approval. Amar Ujala video (7 Jul 2026) confirms waterlogging on this road in front of the Shikarpur CHC and block office, which confirms the Shikarpur town stretch. The 2024 figure is dated. The article gives 13.650 km in the body (13 km in the lead). The Khurja end may lie in another AC, which is not confirmed.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2024-12-20", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/khurja-shikarpur-road-will-be-built-with-rs-22-crores-bulandshahr-news-c-137-1-krj1001-106302-2024-12-20"},
-        {"outlet": "Amar Ujala", "date": "2026-07-07", "url": "https://www.amarujala.com/video/uttar-pradesh/bulandshahr/video-shikarpur-municipalitys-development-claims-exposed-2026-07-07"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2024-12-20",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/khurja-shikarpur-road-will-be-built-with-rs-22-crores-bulandshahr-news-c-137-1-krj1001-106302-2024-12-20"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-07",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/bulandshahr/video-shikarpur-municipalitys-development-claims-exposed-2026-07-07"
+        }
       ]
     }
   ],
-  "ac_specific_negatives": 5,
-  "notes": "Identity: Wikipedia list gives No. 69 Shikarpur, district Bulandshahr, reserved None. The AC article's extent is 'Shikarpur Tehsil; PC Katiyawali of Jahangirabad KC of Anupshahr Tehsil', so the town of Shikarpur (municipal board, pop. 33,130 in 2011 per Wikipedia) is inside the AC under the namesake rule. Syana and Anupshahr places were excluded because they are not confirmed inside this AC. Current MLA is unconfirmed and was left out of all statements: the AC Wikipedia page lists Anil Sharma (BJP), while a Wikipedia search result and a Chetnamanch report say he died on 2 Sept 2026, and a 2022 Amar Ujala result lists Anil Kumar (BJP) as the winner. Electoral figures are excluded per the brief. Most positives are planned or sanctioned works, not delivered ones (no completed Shikarpur project found in searches), so these are flagged as inference. The Shikarpur CHC allegations are unverified and need a field check. The Bulandshahr-Shikarpur route ETV demand (Ganga Expressway access) was not used because the source does not confirm a Shikarpur-specific place. Field check suggested: drain status at Balaji Market and Kotwali turn, CHC pharmacy and prescription practice, the 33 KVA Shikarpur feeders, and whether the Anupshahr-Shikarpur road widening and the Khurja-Shikarpur road renovation have started."
+  "ac_specific_negatives": 4,
+  "notes": "Identity verified: Wikipedia list row 69 is Shikarpur, Bulandshahr, reserved None; the AC article's extent is 'Shikarpur Tehsil; PC Katiyawali of Jahangirabad KC of Anupshahr Tehsil'. Under the namesake rule the town of Shikarpur (Nagar Palika) is inside the AC. Syana and Anupshahr places are excluded because they are not confirmed inside this AC. The current MLA is unconfirmed and no MLA name or party appears in any statement. Electoral figures are excluded. Searches for completed Shikarpur works in 2024-2026 found only planned or tendered works, so positives 2-5 are flagged as inference. One Statesman report of inaugurated Shikarpur-constituency projects could not be opened (HTTP 403) and is not cited. Field check: drain status at Balaji Market and the Kotwali turn; CHC prescription and pharmacy practice; the Mangraul and Chitsaun feeders; whether the Anupshahr-Shikarpur widening and the Khurja-Shikarpur renovation have started; whether Jakhaita is in Shikarpur tehsil; and completed Shikarpur projects from the local press."
 }
