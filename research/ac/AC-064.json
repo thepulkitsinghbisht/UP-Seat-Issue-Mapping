@@ -5,56 +5,62 @@
   "reserved": "None",
   "district": "Bulandshahr",
   "region": "Paschim UP",
-  "summary": "Complaints centre on daily power cuts, waterlogging in the town and a filthy fruit and vegetable mandi, while the main appreciation is a road widening that is under way and relief and cane payments reported at district level.",
+  "summary": "Complaints centre on power cuts, waterlogging in the town, a filthy mandi and a child's death that villagers blame on a transformer, while the appreciation is a road widening under way plus district-level relief and cane payments.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "ac_specific_negatives": 5,
+  "round2": {
+    "verified_sources": 10,
+    "removed_sources": 0,
+    "ac_specific_negatives": 5,
+    "changes": "Opened all 10 cited URLs and the Sikandrabad AC Wikipedia extent page. Power item: dropped the Bulandshahr-wide '15 to 25 minutes' claim, kept the Sikandrabad 33-fault figure. Waterlogging: changed 'bhar jaata hai' (recurring) to 'bhar gaya' (single 9 July event). Mandi: removed unverified 'fruit and vegetable' and GT Road and stray-animal details. Child death: confirmed 5-year-old, Kala Peer mohalla, Sikandrabad Kotwali. Factory: now 'Sikandrabad industrial area'. Arnia item: the source says a foundation stone was laid and the rajwaha roads are pledged, so 'work started' was replaced with the foundation-stone claim. Dadri widening: sourced stretch described (Dadri-Chitehra-Bulandshahr-Sikandrabad), unsourced power-pole detail removed. Crop relief and cane: kept as district-level; no local delivered benefit found in searches. Road item: 'this year' removed (not in source). Rewrote all Hindi to 12 words or fewer."
+  },
   "positives": [
     {
       "rank": 1,
       "english": "The Dadri to Bulandshahr to Sikandrabad road is being widened with a median and drains",
-      "hindi": "दादरी से सिकंदराबाद तक सड़क चौड़ी हो रही है, डिवाइडर और नाले बन रहे हैं",
+      "hindi": "दादरी-सिकंदराबाद सड़क चौड़ी हो रही है, डिवाइडर बन रहा है",
       "inference": false,
-      "basis": "Work described as 'चौड़ीकरण का काम तेजी से चल रहा है'; divider, two lanes each side and drains being built; no length stated; power pole removal only proposed (funds deposited)",
+      "basis": "Source: 'दादरी से चिटहेरा होते हुए बुलंदशहर और सिकंदराबाद को जोड़ने वाली सड़क के चौड़ीकरण का काम तेजी से चल रहा है'; median divider, two lanes each side and drains being built; no length stated; the stretch inside this AC is not stated, Sikandrabad is only the endpoint (town counts as inside under the namesake rule)",
       "sources": [
         {"outlet": "ETV Bharat", "date": "2026-09-19", "url": "https://www.etvbharat.com/hi/state/dadri-development-projects-new-power-house-100-bed-hospital-stadium-road-widening-dls26091901225"}
       ]
     },
     {
       "rank": 2,
-      "english": "Village roads along the rajwaha canals near Sikandrabad were started after a foundation stone was laid",
-      "hindi": "सिकंदराबाद क्षेत्र में रजवाहे किनारे गांवों की सड़कों का काम शुरू हुआ",
+      "english": "A foundation stone was laid for road construction and repair in Arnia Kamalpur village",
+      "hindi": "अरनिया कमालपुर गांव में सड़क निर्माण का शिलान्यास हुआ",
       "inference": false,
-      "basis": "Foundation stone laid at Arnia Kamalpur village; four rajwaha road projects listed (e.g. Vair Rajwaha km 3.30 to 8.30, road construction); 'कार्य शुरू किए गए हैं'; completion not reported; article is datelined Sikandrabad and names the Sikandrabad constituency; funding amount not stated",
+      "basis": "Regional MLA laid the foundation stone for road construction and repair at Arnia Kamalpur village; the rajwaha roads (Vair km 3.30 to 8.30, Talada 2.5 to 4.75, Baroda 26 to 28.906, Hasanpur 10.20 to 13.60) are pledged or 'किया जाएगा' (future), not confirmed as started; no funding amount; article names Sikandrabad constituency and Sikandrabad area; AC membership of Arnia Kamalpur village unconfirmed (not named in the Wikipedia extent list, which covers all of Sikandrabad tehsil); published 12 Nov 2024",
       "sources": [
         {"outlet": "Raftar Today", "date": "2024-11-12", "url": "https://raftartoday.com/news-secunderabad-mla-laxmiraj-singh-is-taking-steps-towards-development/"}
       ]
     },
     {
       "rank": 3,
-      "english": "Farmers got crop loss relief certificates after the late September rain",
-      "hindi": "सितंबर की भारी बारिश से फसल खराब हुई, किसानों को राहत प्रमाण पत्र मिले",
+      "english": "Farmers got crop-loss relief certificates in the district after the late September rain",
+      "hindi": "सितंबर की बारिश से फसल खराब, जिले में राहत प्रमाण पत्र मिले",
       "inference": false,
-      "basis": "District-level: certificates distributed at Bulandshahr collectorate for damage from rain on 25 to 27 September 2026 under State Disaster Mitigation Fund; number of farmers and amount not stated; no village or tehsil named",
+      "basis": "District-level: certificates for relief aid and agricultural input subsidy given at Bulandshahr collectorate auditorium from the State Disaster Mitigation Fund, for rain between 25 and 27 September 2026; number of farmers and amount not stated; no village or tehsil named",
       "sources": [
         {"outlet": "Pratahkal", "date": "2026-10-13", "url": "https://www.pratahkal.com/uttar-pradesh/bulandshahr-farmers-receive-crop-loss-compensation-certificates-1641190"}
       ]
     },
     {
       "rank": 4,
-      "english": "Sugar mills in Bulandshahr say they paid farmers the full cane price",
-      "hindi": "चीनी मिलों ने गन्ने का पूरा पैसा किसानों के बैंक खातों में भेज दिया",
+      "english": "Sugar mills in Bulandshahr say they paid farmers 100 percent of the cane price",
+      "hindi": "चीनी मिलों ने गन्ने का पूरा पैसा किसानों के खाते में भेजा",
       "inference": false,
-      "basis": "District-level: 'चारों चीनी मिलों ने ... 100 प्रतिशत भुगतान' for 2025-26 season, over Rs 1,092 crore paid; Sikandrabad not mentioned; mills named include Sabitgarh, Pahasu, Anamika, Agauta, Wave and Di Kisan (none confirmed inside this AC)",
+      "basis": "District-level: four Bulandshahr mills say they sent 100 percent of 2025-26 cane dues, about Rs 1,092 crore, to farmers' bank accounts; mills named: Sabitgarh, Pahasu, Anamika, Agauta, Wave and Di Kisan; mill locations inside this AC not confirmed (Agauta is a name that may fall in the Agouta KC area, unverified); the figures are the mills' own statement",
       "sources": [
         {"outlet": "ChiniMandi", "date": "2026-07-08", "url": "https://www.chinimandi.com/crushing-season-2025-26-bulandshahrs-four-sugar-mills-pay-100-percent-of-sugarcane-price-in-hindi/"}
       ]
     },
     {
       "rank": 5,
-      "english": "A new road of about 10 crore was built in Sikandrabad earlier this year",
-      "hindi": "सिकंदराबाद में करीब 10 करोड़ की नई सड़क बनी थी",
+      "english": "A 5 km road costing about 10 crore was built in Sikandrabad",
+      "hindi": "सिकंदराबाद में करीब 10 करोड़ की 5 किलोमीटर सड़क बनी",
       "inference": false,
-      "basis": "Article states the road in Sikandrabad was built at about Rs 10 crore and was dug up by Jal Nigam about four months after construction, so the benefit was short lived; the damage is the article's main point, see negatives",
+      "basis": "Article: 'सिकंदराबाद की पांच किलोमीटर लंबी सड़क करीब 10 करोड़ की लागत से बनी है'; the road was dug up by Jal Nigam for a pipeline about four months after construction, so the benefit was short-lived; the damage is the article's main point, see negatives; the town counts as inside the AC under the namesake rule; published 6 July 2026",
       "sources": [
         {"outlet": "ETV Bharat", "date": "2026-07-06", "url": "https://www.etvbharat.com/hi/state/bulandshahr-secunderabad-mla-laxmiraj-singh-reproves-jal-nigam-officials-for-damaging-new-road-ups26070607168"}
       ]
@@ -63,20 +69,20 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Power in Sikandrabad goes off every 15 to 25 minutes during heat and overload",
-      "hindi": "सिकंदराबाद में हर 15 से 25 मिनट पर बिजली गुल हो जाती है",
+      "english": "Power in Sikandrabad keeps going off because of tripping, with 33 faults reported",
+      "hindi": "सिकंदराबाद में ट्रिपिंग से बार-बार बिजली गुल होती है",
       "inference": false,
-      "basis": "'हर 15 से 25 मिनट पर बिजली गुल हो जाती है'; causes listed as tripping, overload, faults and low voltage; 33 faults reported to the power corporation in the Sikandrabad area; cuts of 2 to 8 hours in town and rural areas",
+      "basis": "Article: 'सिकंदराबाद क्षेत्र में 33 जगह फॉल्ट होने की शिकायत ऊर्जा निगम से की गई'; cuts of 'दो से लेकर आठ घंटे' reported from the town to rural areas (district-wide report); the 'हर 15 से 25 मिनट पर' claim is Bulandshahr-wide and is not used for this AC; Sikandrabad area is inside the Sikandrabad tehsil extent; published 27 May 2026",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-05-27", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/power-goes-off-every-15-minutes-causing-chaos-bulandshahr-news-c-133-1-bul1002-155777-2026-05-27"}
       ]
     },
     {
       "rank": 2,
-      "english": "Waterlogging fills all the mohallas of Sikandrabad town in rain",
-      "hindi": "बारिश में सिकंदराबाद के सभी मोहल्लों में पानी भर जाता है",
+      "english": "Rain left all the mohallas of Sikandrabad town waterlogged, in July",
+      "hindi": "बारिश में सिकंदराबाद के सभी मोहल्लों में पानी भर गया",
       "inference": false,
-      "basis": "Article on 9 July 2026 rain: 'सिकंदराबाद नगर के सभी मोहल्लों के अलावा औद्योगिक क्षेत्र और तहसील परिसर' affected by waterlogging, including the tehsildar's residence; Sikandrabad recorded 75 mm rain; district-wide report, Sikandrabad named as a tehsil",
+      "basis": "Article (rain of Thursday 9 July 2026): 'सिकंदराबाद नगर के सभी मोहल्लों के अलावा औद्योगिक क्षेत्र और तहसील परिसर में तहसीलदार के आवास आदि जगह जलभराव'; Sikandrabad recorded 75 mm; a single event, not a stated recurring problem; the report is district-wide but names Sikandrabad nagar; published 9 July 2026",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-07-09", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/torrential-rain-roads-submerged-lanes-turned-into-ponds-water-flooded-shops-and-homes-bulandshahr-news-c-133-1-bul1002-159301-2026-07-09"}
       ]
@@ -86,31 +92,31 @@
       "english": "The Sikandrabad mandi is full of filth and its taps are broken",
       "hindi": "सिकंदराबाद मंडी में गंदगी का अंबार है, नल खराब पड़े हैं",
       "inference": false,
-      "basis": "Fruit and vegetable mandi on Sikandrabad GT Road: 'गंदा पानी, कूड़े के ढेर'; 'मंडी में लगे नल खराब पड़े हैं'; stray animals and drinking water problems cited; commission agents announced an indefinite strike until sanitation, drainage and drinking water are fixed; strike status after 14 Aug not confirmed",
+      "basis": "Article: 'मंडी परिसर में चारों तरफ गंदा पानी, कूड़े के ढेर'; 'मंडी में लगे नल खराब पड़े हैं'; commission agents announced an indefinite strike until the mandi's cleanliness, drainage and drinking water are fixed; strike status after 14 Aug 2026 not confirmed; published 14 Aug 2026",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-08-14", "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/indefinite-strike-announced-over-mismanagement-at-sikandrabad-mandi-in-bulandshahr-2026-08-14"}
       ]
     },
     {
       "rank": 4,
-      "english": "A child died from a transformer left on an unpaved road in Sikandrabad, villagers allege",
-      "hindi": "कच्चे रास्ते पर रखे ट्रांसफार्मर से बच्चे की मौत, आरोप है शिकायत अनसुनी हुई",
+      "english": "A five-year-old died from electric shock near a transformer, villagers allege complaints were ignored",
+      "hindi": "ट्रांसफार्मर के करंट से बच्चे की मौत, आरोप है शिकायत अनसुनी",
       "inference": false,
-      "basis": "Five-year-old died of electric shock in Kala Pir mohalla, Sikandrabad kotwali; villagers allege the transformer lay on the unpaved road for many days and repeated requests to remove it were ignored (allegation)",
+      "basis": "Article: a five-year-old died from current on Sunday morning in Mohalla Kala Peer, Sikandrabad Kotwali area; current ran through the iron angle supporting a transformer on the path, which is unpaved and waterlogged; villagers allege the transformer lay there for many days and repeated requests to remove it went unheeded (allegation); published 31 May 2026",
       "sources": [
         {"outlet": "ETV Bharat", "date": "2026-05-31", "url": "https://www.etvbharat.com/hi/state/bulandshahr-major-negligence-by-electricity-department-in-bulandshahr-5-year-old-child-dies-from-electric-shock-ups26053101313"}
       ]
     },
     {
       "rank": 5,
-      "english": "Workers at a Sikandrabad factory protest 12-hour shifts and pay of about 8000 a month",
-      "hindi": "12 घंटे की ड्यूटी, महिला कर्मियों को सिर्फ 8 हजार रुपए वेतन",
+      "english": "Workers at a Sikandrabad factory protest 12-hour shifts and low pay of about 8000 a month",
+      "hindi": "महिला कर्मियों को 8 हजार वेतन, 12 घंटे की ड्यूटी",
       "inference": false,
-      "basis": "Workers at a private company in Sikandrabad industrial area protested low pay and 12-hour shifts, demanding Rs 15,000 (women) and Rs 20,000 (men); one worker said she gets Rs 8,000; company name not stated; workers returned after officials' assurance",
+      "basis": "Article: workers at a private company in Sikandrabad industrial area protested low pay and 12-hour shifts, demanding Rs 15,000 (women) and Rs 20,000 (men) minimum wage, and 8-hour days; the article reports women's pay of about Rs 8,000 a month; company not named; officials (ALC, SDM) promised to take demands to management; published 14 Apr 2026",
       "sources": [
         {"outlet": "ETV Bharat", "date": "2026-04-14", "url": "https://www.etvbharat.com/hi/state/employees-protest-for-increase-salary-in-bulandshahr-uttar-pradesh-news-ups26041401645"}
       ]
     }
   ],
-  "notes": "AC confirmed via Wikipedia list (no. 64 Sikandrabad, Bulandshahr, General). Extent per Sikandrabad Assembly constituency page: all of Sikandrabad tehsil plus named areas (Peerbiyavani, Chhapravat, Baral, Sainta, Kurli) and parts of Agouta KC and Gulaothi MB; one mirror omits Peerbiyavani. Positive 4 (cane payments) and the crop relief item are district-level, not AC-specific. The Sikandrabad mill is not confirmed. Positive 2 village (Arnia Kamalpur) is not verified against the extent list; included on the strength of the news report naming the Sikandrabad constituency. The Dadri to Sikandrabad widening is confirmed as a project toward Sikandrabad, but the exact stretch inside the AC is not stated. Positive 5 is a Sikandrabad road built but later dug up, so the appreciation is weak. Mandi strike status after mid-August 2026 is unknown; a Royal Bulletin report on a strike ending concerns the Navin fruit and vegetable mandi, not this one, so it is excluded. Excluded as not in this AC: Amar Ujala Rs 24 crore Madhuban-Bapudham works (Ghaziabad), Hapur and Khurja waterlogging reports, and a Khurja GT Road drain story. Excluded as weak or unverified: a social media post on a jan sunwai complaint and the Sikandrabad power grid aggregator items. Field check suggested: Sikandrabad nagar drains and the Kala Pir transformer, the GT Road mandi, and the status of the Dadri to Sikandrabad widening."
+  "notes": "AC confirmed via Wikipedia list (no. 64 Sikandrabad, Bulandshahr, General). Extent per the Sikandrabad Assembly constituency Wikipedia page (en.wikipedia.org/wiki/Sikandrabad_Assembly_constituency), read via a summarising fetch: 'Sikandrabad Tehsil' in full, plus PCs Peerbiyavani, Chhapravat, Baral, Sainta, Kurli, Kota, Bhamra, Anchana, Girdharpur Navada, Gulaothi (Dehat), Auladha and Maholi, plus parts of Agouta KC and Gulaothi MB. Negatives recounted against this extent: all five are in Sikandrabad town, tehsil or industrial area, so 5 of 5 are AC-specific; the power item's place is the Sikandrabad area (33 faults), and the cut-hour and mandi-strike details are district or not yet confirmed. Positives: items 1 and 5 are Sikandrabad-specific; item 2 (Arnia Kamalpur) has an unconfirmed AC membership, since the village is not named in the extent list and was not found in any search; items 3 and 4 are district-level, and no local delivered crop relief or cane payment for this AC was found in searches. Dadri-Sikandrabad widening: the stretch inside the AC is not stated, Sikandrabad is the endpoint. Positive 5 is a road later dug up, so the appreciation is weak. Mandi strike status after 14 Aug 2026 is unknown. Excluded: Royal Bulletin strike report (Navin mandi, not this one), Amar Ujala Madhuban-Bapudham works (Ghaziabad), Hapur and Khurja waterlogging reports, a Khurja GT Road drain story, a social media post on a jan sunwai complaint, and the Sikandrabad power grid aggregator items. Field check suggested: Arnia Kamalpur membership and the rajwaha road status, Sikandrabad nagar drains and the Kala Pir transformer, the mandi strike status, the Dadri-Sikandrabad widening stretch, and a local crop-relief or cane-payment list for Sikandrabad."
 }
