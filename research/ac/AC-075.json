@@ -1,0 +1,116 @@
+{
+  "ac_no": 75,
+  "ac_name": "Koil",
+  "ac_name_hindi": "कोल",
+  "reserved": "None",
+  "district": "Aligarh",
+  "region": "Braj",
+  "summary": "Local coverage is thin: farmers' complaints about power supply and waterlogging dominate district reporting, with Koil-specific items limited to a tehsil registry allegation, stalled road work and a June 2026 CM works launch.",
+  "identity_source": "https://en.wikipedia.org/wiki/Koil_Assembly_constituency",
+  "ac_specific_negatives": 2,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "CM inaugurated and laid foundation stones for development works in Koil",
+      "hindi": "कोल विधानसभा में मुख्यमंत्री ने विकास कार्यों का शिलान्यास और लोकार्पण किया",
+      "inference": false,
+      "basis": "Amar Ujala live blog: on 22 Jun 2026 at Numaish Ground the CM inaugurated and laid foundations for works in Aligarh Sadar, Koil assembly and the municipal corporation; no specific Koil project is named in the report",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-06-22", "url": "https://www.amarujala.com/live/uttar-pradesh/aligarh/cm-yogi-adityanath-aligarh-visit-live-update-2026-06-22"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "* After a newspaper report, the broken pipeline was fixed and water reached homes",
+      "hindi": "* खबर छपते ही पाइपलाइन ठीक हुई और घरों के नलों में पानी आने लगा",
+      "inference": true,
+      "basis": "Inference: this is a district-level fix in Siyakhas village, Jawan block; Koil membership of the village is not confirmed. Amar Ujala 15 Sep 2026: solar wire had been stolen from the tank and pipeline, was replaced, and water started reaching homes",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-15", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/water-pipeline-repaired-2026-09-15"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "* 85 development projects worth over Rs 462 crore were inaugurated in Aligarh",
+      "hindi": "* अलीगढ़ में 462 करोड़ से ज्यादा की 85 विकास परियोजनाओं का लोकार्पण हुआ",
+      "inference": true,
+      "basis": "Inference: district-wide event that the report says covered Aligarh, Koil and Nagar seats; the report does not list any Koil project. Figures quoted as stated by the source (Rs 462 crore, 85 projects)",
+      "sources": [
+        {"outlet": "Sangrah Rajneeti", "date": "2026-06-23", "url": "https://www.sangrahrajneeti.com/cm-yogi-aligarh-462-crore-development-projects/"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "* Many sugar mills have paid cane farmers their full dues",
+      "hindi": "* कई चीनी मिलों ने गन्ना किसानों का पूरा भुगतान कर दिया",
+      "inference": true,
+      "basis": "Inference: statewide figure only. UNI 16 Sep 2026: 102 sugar mills made 100 pc payment to cane farmers in the 2025-26 crushing season; 23 cooperative mills paid Rs 2,820 crore. No Aligarh or Koil figure in the report",
+      "sources": [
+        {"outlet": "UNI", "date": "2026-09-16", "url": "https://www.uniindia.com/north-india/admin-sugar-mills-up/181532"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Tenders are out for six roads in the Koil seat",
+      "hindi": "कोल की 6 सड़कों के लिए टेंडर जारी हो गए हैं",
+      "inference": false,
+      "basis": "Amar Ujala 11 Oct 2026: tenders issued for 12 roads worth about Rs 21 crore under the CM Gramin Sadak scheme, six of them in the Koil seat (e.g. Manoharpur Kayastha to Bhakarola); PWD SE says construction will start soon and no work has begun yet. Announcement-stage only",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/construction-of-12-roads-in-aligarh-2026-10-11"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "* Farmers say they get only four to five hours of power a day",
+      "hindi": "* गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
+      "inference": true,
+      "basis": "Inference: district-level. Farmers sat in at Gangiri power station, Amar Ujala 21 Sep 2026, saying the government orders more supply but they get four to five hours in 24. The report does not name Koil, and Gangiri's assembly membership is not confirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-21", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/farmers-staged-a-sit-in-at-the-power-station-aligarh-news-c-426-1-sali1011-2262-2026-09-21"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Koil roads have tenders but construction has not started",
+      "hindi": "कोल की सड़कों का टेंडर हुआ, पर बनना अभी शुरू नहीं हुआ",
+      "inference": false,
+      "basis": "Amar Ujala 11 Oct 2026: tenders issued for 12 roads, six in the Koil seat; the PWD Superintending Engineer says construction will start soon and no work has started yet",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/construction-of-12-roads-in-aligarh-2026-10-11"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "* Gonda health centre building is crumbling and its campus floods in rain",
+      "hindi": "* गोंडा सीएचसी की इमारत जर्जर है और रोज 200 से ज्यादा मरीज आते हैं",
+      "inference": true,
+      "basis": "Inference: district-level. Amar Ujala 9 Oct 2026 says the Gonda CHC building is dilapidated, with plaster falling and cracks, over 200 OPD patients daily, and a campus about one foot below road level that waterlogs in rain. The report places Gonda in Aligarh district only; its Koil membership is not confirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/gonda-chc-building-dilapidated-2026-10-09"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "* Farmers waited a whole night at Dhanipur mandi and paddy still did not sell",
+      "hindi": "* धनीपुर मंडी में किसान पूरी रात इंतजार करते रहे, फिर भी धान नहीं बिका",
+      "inference": true,
+      "basis": "Inference: district-level. Amar Ujala 11 Oct 2026: farmers waited all night at Dhanipur mandi as nearby district mandis were shut; paddy still unsold by morning. The report does not name Dhanipur's tehsil or assembly seat",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-dhanipur-mandi-paddy-sale-chaos-2026-10-11"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Allegations of under-the-table dealings at the Koil tehsil registry office",
+      "hindi": "कोल तहसील के रजिस्ट्री दफ्तर में लेनदेन का आरोप है",
+      "inference": false,
+      "basis": "Amar Ujala 1 Apr 2026: a seven-minute video circulating online alleges transactions at the Koil tehsil registry office; AIG (Stamp) has started an inquiry. Allegation only, no findings reported",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-04-01", "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-7-manata-ka-vadaya-aaya-samana-jasana-khal-algaugdhha-ka-tahasal-kal-ka-nabthhana-karayalya-ma-lnathana-ka-pal-2026-04-01"}
+      ]
+    }
+  ],
+  "notes": "AC confirmed as No. 75 Koil, Aligarh district, reserved None, per the Wikipedia Koil constituency page (extent: Koil tehsil, KC Koil, PC Bhamola Mafi of Morthal KC, and Aligarh M Corp wards 7, 22, 28, 30-34, 36, 40-44, 47-49, 51-53, 57); the Wikipedia list page shows 75 Koil / None but leaves the district cell blank for that row. Koil-specific coverage is very thin. The Gangiri, Gonda, Dhanipur and Siyakhas items are district-level and their AC membership is unconfirmed; villageinfo.in could not be fetched (403) to check village lists. Excluded on purpose: SIR voter-roll deletions and margin figures (electoral data), party infighting in Saray Hakim, and the Khadi Board camp at Koil tehsil (source returned 403). Kali river bridge at Kaudiyaganj (newstrack) also returned 403 and is not used. A 2022 Amar Ujala report on delayed income, caste and domicile certificates in Koil tehsil was found but not used because it is four years old and its current status is unknown. The Koil roads positive (rank 5) is an announcement only and is flagged for field check. Positives 1, 3 and 4 are events or statewide figures, not confirmed local delivery. Field check recommended: Gangiri power supply hours, Koil tehsil registry inquiry outcome, status of the six Koil roads, and whether the Koil ward 22 and rural drainage complaints exist."
+}
