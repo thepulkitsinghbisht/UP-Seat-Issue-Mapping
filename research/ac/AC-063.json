@@ -1,0 +1,117 @@
+{
+  "ac_no": 63,
+  "ac_name": "Jewar",
+  "ac_name_hindi": "जेवर",
+  "reserved": "None",
+  "district": "Gautam Buddha Nagar",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on airport-land compensation and jobs still pending, plus waterlogged village roads and a CHC lacking a radiologist, while the new airport flights and the CHC's new operation theatre are the main appreciated changes.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (No. 63 Jewar, Reservation None, District Gautam Buddha Nagar); https://en.wikipedia.org/wiki/Jewar_(Assembly_constituency) (extent: Jewar Tehsil plus parts of Ranhera, Dankaur, Bilaspur and Gautam Budh Nagar tehsils; unreserved since 2022)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Thousands of farmers who gave land for the airport have received compensation.",
+      "hindi": "एयरपोर्ट के लिए जमीन देने वाले हजारों किसानों को मुआवजा मिल चुका है",
+      "inference": false,
+      "basis": "Chetna Manch (21 Apr 2026): about 7,000 farmers received Rs 8,016 crore after about 2,420 hectares were acquired in two phases; the article presents this with allegations of wasteful spending. Business Today (30 Mar 2026): officials estimate around 50-60 farmers received more than Rs 5 crore, some over Rs 10 crore. AC membership: airport is named after Jewar town and the sources tie it to Jewar; the Rohi and Dayanatpur/Raunera village locations are not individually confirmed inside the AC.",
+      "sources": [
+        {"outlet": "Chetna Manch", "date": "2026-04-21", "url": "https://chetnamanch.com/jewar/jewar-airport-compensation-ground-report-21-scorpio-village-reality"},
+        {"outlet": "Business Today", "date": "2026-03-30", "url": "https://www.businesstoday.in/india/story/not-all-splurged-how-jewar-farmers-reinvested-crores-from-noida-airport-land-deals-523098-2026-03-30"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Direct flights now run from Jewar airport, including to Hyderabad and Bengaluru.",
+      "hindi": "जेवर एयरपोर्ट से अब सीधी उड़ानें मिल रही हैं, हैदराबाद और बेंगलुरु के लिए",
+      "inference": false,
+      "basis": "Daily Pioneer (16 Jun 2026): IndiGo's first commercial flight from Lucknow landed on Monday (15 June 2026); IndiGo starts with eight daily flights to Hyderabad, Amritsar, Bengaluru and Jammu; Akasa Air starts four daily flights to Bengaluru and Navi Mumbai. District-level airport facility, not a village-level benefit.",
+      "sources": [
+        {"outlet": "Daily Pioneer", "date": "2026-06-16", "url": "https://dailypioneer.com/news/noida-airport-begins-operations-with-first-indigo-flight"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "A new modular operation theatre is ready at the Jewar CHC.",
+      "hindi": "जेवर सीएचसी में नया मॉड्यूलर ऑपरेशन थिएटर तैयार हो गया है",
+      "inference": false,
+      "basis": "Amar Ujala (5 Oct 2026): the modular OT at Jewar CHC is 'तैयार हो गया है' (prepared) with air filters, centralised AC and a 5 kW power backup; it is ready but not yet operational, and the article gives no start date. Chief Medical Superintendent Dr. Sarfe Jaya says patients will get better facilities once it starts.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-05", "url": "https://www.amarujala.com/delhi-ncr/noida/modern-modular-operation-theatre-ready-at-jewar-chc-noida-news-c-491-1-rgh1002-11180-2026-10-05"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "The airport rehabilitation colonies look modern.",
+      "hindi": "एयरपोर्ट की पुनर्वास कॉलोनियां देखने में आधुनिक लगती हैं",
+      "inference": false,
+      "basis": "Chetna Manch (21 Apr 2026) reporter's observation that the R&R colonies look modern; the same article reports waterlogging and a shortage of jobs in them, so this is a looks-only positive. Village names in the article (Dayanatpur, Raunera) not individually confirmed inside the AC.",
+      "sources": [
+        {"outlet": "Chetna Manch", "date": "2026-04-21", "url": "https://chetnamanch.com/jewar/jewar-airport-compensation-ground-report-21-scorpio-village-reality"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Airport is expected to bring jobs and business to the area.",
+      "hindi": "*एयरपोर्ट से इलाके में रोजगार और कारोबार बढ़ने की उम्मीद है",
+      "inference": true,
+      "basis": "Inference: Daily Pioneer (16 Jun 2026) reports the Union minister saying the airport would generate employment across a region from western UP to Agra and that cargo capacity is expected to serve western UP agriculture. These are expectations, not outcomes; no Jewar-specific job figures were found.",
+      "sources": [
+        {"outlet": "Daily Pioneer", "date": "2026-06-16", "url": "https://dailypioneer.com/news/noida-airport-begins-operations-with-first-indigo-flight"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "We gave land for the airport, but compensation and residential plots are still stuck.",
+      "hindi": "एयरपोर्ट के लिए जमीन दी, मुआवजा और आवासीय भूखंड अब भी अटके हैं",
+      "inference": false,
+      "basis": "Bharatiya Kisan Parishad press note carried by Chetna Manch (9 Oct 2026, 3:42 PM): lists pending 10% and 5% residential plot demands for affected families, abadi regularisation and pending compensation cases from land acquisition in Jewar airport, YEIDA, Greater Noida and Noida areas. No amounts are given. Press note by a farmers' body, so treat as the organisation's claim.",
+      "sources": [
+        {"outlet": "Chetna Manch", "date": "2026-10-09", "url": "https://chetnamanch.com/jewar/jewar-airport-farmers-demands-election-2027-sudhir-chauhan-appeal"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "335 people who chose a job over the Rs 5 lakh payment are still waiting for permanent jobs.",
+      "hindi": "जमीन के बदले नौकरी चुनने वाले 335 लोग स्थायी नौकरी का इंतजार कर रहे हैं",
+      "inference": false,
+      "basis": "Business Today (30 Mar 2026): Rohi resident Daryab Singh says at least 335 candidates who did not take the Rs 5 lakh compensation and opted for jobs are still awaiting permanent employment. AC membership unconfirmed for Rohi village; the airport itself is in the Jewar area.",
+      "sources": [
+        {"outlet": "Business Today", "date": "2026-03-30", "url": "https://www.businesstoday.in/india/story/not-all-splurged-how-jewar-farmers-reinvested-crores-from-noida-airport-land-deals-523098-2026-03-30"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Aliyabad roads have turned into ponds for about three years, and complaints to the pradhan have had no effect.",
+      "hindi": "आलियाबाद में तीन साल से सड़कें पोखर बनी हैं, शिकायत का असर नहीं",
+      "inference": false,
+      "basis": "Amar Ujala video report (15 Sep 2026): Aliyabad, also called Mehdipur, in Jewar. Stretch from panchayat building to graveyard towards Chhatanga is waterlogged; villagers say the road has been in poor condition for about three years and complained several times to the pradhan and secretary. Article says the road is still not built. Based on the written summary of a video report.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-15", "url": "https://www.amarujala.com/video/delhi-ncr/noida/video-residents-of-aliyabad-village-in-jewar-troubled-by-dilapidated-roads-2026-09-15"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Waterlogging on Myana's main road, and children wade through mud to reach school.",
+      "hindi": "म्याना की मुख्य सड़क पर जलभराव, बच्चे कीचड़ से होकर स्कूल जाते हैं",
+      "inference": false,
+      "basis": "Amar Ujala video report (7 Oct 2026), dateline Jewar: standing water on the main road of Myana village at a spot where a primary school is located; small children are forced through the muddy road to reach school. No official response in the article. Based on the written summary of a video report.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-07", "url": "https://www.amarujala.com/amp/video/delhi-ncr/noida/video-jewar-waterlogging-on-the-main-road-of-myana-village-2026-10-07"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "The Jewar CHC has an ultrasound machine, but no radiologist to run it.",
+      "hindi": "जेवर सीएचसी में अल्ट्रासाउंड मशीन है, पर चलाने वाला रेडियोलॉजिस्ट नहीं",
+      "inference": false,
+      "basis": "Amar Ujala (17 Mar 2026): Jewar CHC has an ultrasound machine but the radiologist post has been vacant for a long time; patients needing non-pregnancy ultrasounds must go to private hospitals or labs. Medical in-charge Dr. Sarfe Jeya says no action has been taken on the demand made last year. Newer item (5 Oct 2026) reports the new OT, not a radiologist appointment.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-17", "url": "https://www.amarujala.com/delhi-ncr/noida/no-radiologist-at-jewar-chc-patients-face-hardship-grnoida-news-c-491-1-gnd1001-4993-2026-03-17"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 4,
+  "notes": "AC 63 confirmed as Jewar, Gautam Buddha Nagar district, reserved status None, per the Wikipedia list (No. 63) and the Jewar Assembly constituency page (extent: Jewar Tehsil plus parts of Ranhera, Dankaur, Bilaspur and GB Nagar tehsils). Jewar is named after the town, so Jewar-town items count as inside. Airport membership: airport is at Jewar per sources; the exact land/villages (Rohi, Dayanatpur, Raunera, Modelpur, Falaida Bangar) were not confirmed as inside the AC, so the Rohi-based jobs item is counted as not AC-confirmed (ac_specific_negatives = 4). Myana and Aliyabad items rely on written summaries of Amar Ujala video reports; the full text was truncated and no official response was visible. The Chetna Manch 9 Oct 2026 item is a farmers' organisation press note and the 21 Apr 2026 item is a feature with allegations attributed to unnamed farmers and leaders; both are flagged in basis. Positive 2 (flights) and 5 (job expectation) are district-level airport facts, not village benefits. Positive 5 is an inference (asterisked). Excluded: Lalluram airport-renaming item (political framing), a Jewar crime report (private individual), the 2024 Zee News plot scheme (planned, not delivered), and the YEIDA plot-scheme blogs (aggregators). Aaj Tak (first-flight) returned 403 and was not cited. The Tribune airport-compensation piece has an unclear date (updated 18 Jun 2026) and no Jewar-specific figures, so it was not used. Field check suggested: the Myana school waterlogging, Aliyabad road, Jewar CHC radiologist post and the 335-job-option group (Rohi) are the items most worth verifying on the ground."
+}
