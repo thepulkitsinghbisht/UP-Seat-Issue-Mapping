@@ -38,7 +38,7 @@
     {
       "rank": 3,
       "english": "*85 development projects worth over Rs 462 crore were inaugurated in Aligarh",
-      "hindi": "* अलीगढ़ में 462 करोड़ से ज्यादा की 85 विकास परियोजनाओं का लोकार्पण हुआ",
+      "hindi": "*अलीगढ़ में 462 करोड़ से ज्यादा की 85 विकास परियोजनाओं का लोकार्पण हुआ",
       "inference": true,
       "basis": "Inference: an event, not a delivered benefit. Sangrah Rajneeti (verified): 85 projects worth over Rs 462 crore for Aligarh, with the event covering Aligarh city and Koil assembly constituency; no Koil project is named. The article dateline is 23 Jun 2026 and it describes the event as Monday (22 Jun)",
       "sources": [
@@ -57,8 +57,8 @@
     },
     {
       "rank": 5,
-      "english": "* Many sugar mills have paid cane farmers their full dues",
-      "hindi": "* कई चीनी मिलों ने गन्ना किसानों का पूरा भुगतान कर दिया",
+      "english": "*Many sugar mills have paid cane farmers their full dues",
+      "hindi": "*कई चीनी मिलों ने गन्ना किसानों का पूरा भुगतान कर दिया",
       "inference": true,
       "basis": "Inference: statewide figure only. UNI 16 Sep 2026 (verified): 102 sugar mills made 100 pc payment to cane farmers in the 2025-26 crushing season; 23 cooperative mills paid Rs 2,820 crore. No Aligarh or Koil figure in the report",
       "sources": [
@@ -70,7 +70,7 @@
     {
       "rank": 1,
       "english": "*Farmers say they get only four to five hours of power in 24 hours at Gangiri",
-      "hindi": "* गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
+      "hindi": "*गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
       "inference": true,
       "basis": "Inference: district-level, Gangiri's Koil membership is not confirmed. Amar Ujala 21 Sep 2026 (verified): farmers sat in at Gangiri power station, saying the government orders more supply but they get four to five hours in 24. The report does not mention Koil or any assembly seat",
       "sources": [
@@ -90,7 +90,7 @@
     {
       "rank": 3,
       "english": "*The Gonda CHC building is dilapidated and more than 200 patients come to it daily",
-      "hindi": "* गोंडा सीएचसी की इमारत जर्जर, रोज 200 से ज्यादा मरीज आते हैं",
+      "hindi": "*गोंडा सीएचसी की इमारत जर्जर, रोज 200 से ज्यादा मरीज आते हैं",
       "inference": true,
       "basis": "Inference: district-level, Gonda's Koil membership is not confirmed. Amar Ujala 9 Oct 2026 (verified): Gonda CHC building dilapidated with cracks and falling plaster, over 200 OPD patients daily, and the campus about one foot below road level waterlogs in rain. The report names Aligarh only and does not mention Koil or any assembly seat",
       "sources": [
