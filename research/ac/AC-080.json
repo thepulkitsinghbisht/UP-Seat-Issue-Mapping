@@ -13,7 +13,7 @@
       "english": "Har Ghar Jal pipelines have been laid through the town",
       "hindi": "शहर में हर घर जल की पाइपलाइन बिछ गई",
       "inference": false,
-      "basis": "Brajanchal (8 Jul 2026): road restoration followed pipeline laying under the Har Ghar Jal scheme in Sikandrarao town; the article does not say taps are running. AC membership of Sikandrarao town unconfirmed (see notes).",
+      "basis": "Brajanchal (8 Jul 2026): road restoration followed pipeline laying under the Har Ghar Jal scheme in Sikandrarao town; the article does not say taps are running. Sikandrarao town is counted as inside AC 80 under the namesake-town rule (Wikipedia extent wording 'Hathras Tehsil'; field check advised).",
       "sources": [
         {
           "outlet": "Brajanchal",
@@ -90,7 +90,7 @@
       "english": "Residents say roads sank and got potholes after the Har Ghar Jal pipe digging",
       "hindi": "हर घर जल की पाइपलाइन के बाद सड़कें धंस गईं, गड्ढे बन गए",
       "inference": false,
-      "basis": "Brajanchal (8 Jul 2026): residents say restored roads were not repaired to standard; after rain several roads sank and potholes formed, including inside the tehsil campus. Residents allege trenches were not backfilled and compacted before asphalt/CC work. No official or contractor response in the article. AC membership of Sikandrarao town unconfirmed.",
+      "basis": "Brajanchal (8 Jul 2026): residents say restored roads were not repaired to standard; after rain several roads sank and potholes formed, including inside the tehsil campus. Residents allege trenches were not backfilled and compacted before asphalt/CC work. No official or contractor response in the article. Sikandrarao town is counted as inside AC 80 under the namesake-town rule (Wikipedia extent wording 'Hathras Tehsil'; field check advised).",
       "sources": [
         {
           "outlet": "Brajanchal",
@@ -104,7 +104,7 @@
       "english": "Town road and drain works are stuck waiting for sanction",
       "hindi": "नाली और सड़क के काम मंजूरी में अटके हैं",
       "inference": false,
-      "basis": "Amar Ujala (16 Jun 2026): Rs 59.20 lakh CC road and drain proposals for Sikandrarau wards (incl. Eidgah Road area and ward 01 in front of the police station) sent to the government for approval; work to begin only after sanction. Status as of this date. AC membership of Sikandrarao town unconfirmed.",
+      "basis": "Amar Ujala (16 Jun 2026): Rs 59.20 lakh CC road and drain proposals for Sikandrarau wards (incl. Eidgah Road area and ward 01 in front of the police station) sent to the government for approval; work to begin only after sanction. Status as of this date. Sikandrarao town is counted as inside AC 80 under the namesake-town rule (Wikipedia extent wording 'Hathras Tehsil'; field check advised).",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -162,6 +162,6 @@
     "verified_sources": 7,
     "removed_sources": 0,
     "ac_specific_negatives": 3,
-    "changes": "Re-opened all 7 cited URLs; dates and figures confirmed, none removed. identity_source now the AC Wikipedia page (AC 80, None, Hathras). Summary no longer says 'stalled' CHC. Negative 1 now attributes sinking to residents' claims. Negative 3 basis rewritten: court action, no police response, complainant's claims. Negative 4 basis corrected to Etah-Aligarh GT Road near Sardhla bridge. Negative 5 reworded to Feb 2026 status. Positive 4 Hindi cut to 10 words. Membership flags added to Sikandrarao-town items. Searched for completed Sikandrarau works and AC village lists; none found."
+    "changes": "Re-opened all 7 cited URLs; dates and figures confirmed, none removed. identity_source now the AC Wikipedia page (AC 80, None, Hathras). Summary no longer says 'stalled' CHC. Negative 1 now attributes sinking to residents' claims. Negative 3 basis rewritten: court action, no police response, complainant's claims. Negative 4 basis corrected to Etah-Aligarh GT Road near Sardhla bridge. Negative 5 reworded to Feb 2026 status. Positive 4 Hindi cut to 10 words. Membership flags added to Sikandrarao-town items. Searched for completed Sikandrarau works and AC village lists; none found. The count was revised to 3 in round 3 under the namesake-town rule."
   }
 }

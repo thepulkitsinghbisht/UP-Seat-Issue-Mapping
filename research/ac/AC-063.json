@@ -10,7 +10,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Thousands of farmers who gave land for the airport have received compensation.",
+      "english": "Thousands of farmers who gave land for the airport have received compensation",
       "hindi": "एयरपोर्ट के लिए जमीन देने वाले हजारों किसानों को मुआवजा मिल चुका है",
       "inference": false,
       "basis": "Chetna Manch (21 Apr 2026, district-level airport acquisition, not village-level): about 7,000 farmers received Rs 8,016 crore for about 2,420 hectares acquired. The article gives these figures without naming a source, and it also reports allegations from unnamed farmers and leaders about unfair compensation. AC membership: airport-level; not confined to this AC.",
@@ -66,7 +66,7 @@
     },
     {
       "rank": 5,
-      "english": "*Airport is expected to bring jobs and business to the area.",
+      "english": "*Airport is expected to bring jobs and business to the area",
       "hindi": "*एयरपोर्ट से इलाके में रोजगार और कारोबार बढ़ने की उम्मीद है",
       "inference": true,
       "basis": "Inference: Daily Pioneer (16 Jun 2026) reporter's words, not a minister's quote: manufacturing, IT, hospitality, cargo and MRO are expected around the airport, 'generating employment across a region stretching from western Uttar Pradesh to Agra'; a significant share of cargo capacity is expected to serve western UP agriculture. These are expectations, not outcomes; no Jewar-specific job figures were found.",
@@ -82,7 +82,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "We gave land for the airport, but compensation and residential plots are still stuck.",
+      "english": "We gave land for the airport, but compensation and residential plots are still stuck",
       "hindi": "एयरपोर्ट के लिए जमीन दी, मुआवजा और आवासीय भूखंड अब भी अटके हैं",
       "inference": false,
       "basis": "Press note by Bharatiya Kisan Parishad (Thakur Sudhir Chauhan, national secretary), carried by Chetna Manch (9 Oct 2026, 3:42 PM). It lists pending 10% and 5% residential plot demands, abadi regularisation and pending compensation cases from land acquisition in the Jewar airport, YEIDA, Greater Noida and Noida areas. No amounts are given. This is a farmers' organisation's claim and is district/region-level, not AC-specific.",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 4,
-      "english": "Waterlogging on Myana's main road, and children wade through mud to reach school.",
+      "english": "Waterlogging on Myana's main road, and children wade through mud to reach school",
       "hindi": "म्याना की मुख्य सड़क पर जलभराव, बच्चे कीचड़ से होकर स्कूल जाते हैं",
       "inference": false,
       "basis": "Amar Ujala video report (7 Oct 2026, dateline Jewar, reporter Anuj Kumar): headline 'जेवर: म्याना गांव के मुख्य रास्ते पर जलभराव, स्कूल जाने में दिक्कत'. Standing water on the main road at a spot next to a primary school (the article names it as Aakalpur village's school); small children pass through the muddy road. AC membership unconfirmed: Myana's tehsil or AC was not confirmed from an opened source. Based on the page summary; no official response was visible.",
@@ -138,7 +138,7 @@
     },
     {
       "rank": 5,
-      "english": "The Jewar CHC has an ultrasound machine, but no radiologist to run it.",
+      "english": "The Jewar CHC has an ultrasound machine, but no radiologist to run it",
       "hindi": "जेवर सीएचसी में अल्ट्रासाउंड मशीन है, पर चलाने वाला रेडियोलॉजिस्ट नहीं",
       "inference": false,
       "basis": "Amar Ujala (17 Mar 2026): Jewar CHC has an ultrasound machine, but the radiologist post has been vacant for a long time; patients needing non-pregnancy ultrasounds go to private hospitals or labs. Medical in-charge Dr. Sarfe Jeya says no action has been taken on last year's demand for a radiologist. Jewar town is the namesake of the AC, so this counts as AC-specific.",
