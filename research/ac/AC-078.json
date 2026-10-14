@@ -5,15 +5,15 @@
   "reserved": "SC",
   "district": "Hathras",
   "region": "Braj",
-  "summary": "Voters in Hathras city and its surrounding belt complain most about waterlogged and broken roads, rail gate jams and a closed Sasni-Jalesar overbridge, while appreciating the drain-cleaning drive, the planned permanent gaushala and the rail survey work.",
-  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 78: Hathras, SC, Hathras district, Hathras LS); https://en.wikipedia.org/wiki/Hathras_Assembly_constituency (Constituency No. 78, Hathras district, extent: Sasni Tehsil; KC Hathras, Hathras MB & Mendu NP of Hathras Tehsil)",
+  "summary": "Voters in Hathras city and its surrounding belt complain most about waterlogged and broken roads, rail gate jams and a closed Sasni-Jalesar overbridge, while appreciating the drain-cleaning drive, the gaushala under construction and the rail survey work.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 78: Hathras, SC, Hathras district, Hathras LS; rows 79-80 Sadabad and Sikandra Rao are also Hathras district); https://en.wikipedia.org/wiki/Hathras_Assembly_constituency (Constituency No. 78, Hathras district, extent: Sasni Tehsil; KC Hathras, Hathras MB & Mendu NP of Hathras Tehsil)",
   "positives": [
     {
       "rank": 1,
       "english": "Drains in the city are being cleaned before the monsoon",
       "hindi": "शहर में नालों की सफाई का अभियान चल रहा है",
       "inference": false,
-      "basis": "Chairperson Shweta Chaudhary inspected drain cleaning on Aligarh Road from Ram Mandir to Khemka Petrol Pump; municipality cleaning 18 of 29 drains, 11 reported complete; 13 more through outsourcing. Article says the aim is smooth drainage for residents. Work status after May 2026 not confirmed.",
+      "basis": "Chairperson Shweta Chaudhary inspected drain cleaning on Aligarh Road from Ram Mandir to Khemka Petrol Pump (Nagar Palika Parishad Hathras). Article gives 29 drains in total; 18 cleaned by the municipality, 11 of them finished; 13 more through outsourcing. The stated numbers do not add up (18 + 13 = 31, not 29). Work status after 30 May 2026 not confirmed.",
       "sources": [
         {"outlet": "Dainik Bhaskar", "date": "2026-05-30", "url": "https://bhaskardigital.com/municipal-chairperson-conducted-an-inspection-in-light/"}
       ]
@@ -23,7 +23,7 @@
       "english": "A permanent gaushala for stray cattle is being built in the city",
       "hindi": "आवारा गोवंश के लिए शहर में स्थायी गोशाला बन रही है",
       "inference": false,
-      "basis": "Permanent gaushala on Jalesar Road in the city, on sewage farm land, capacity about 500 cattle, about Rs 1.65 crore fully released; construction in final stage with target completion October 2025. EO Rohit Singh said it will shelter stray cattle roaming the city. Operational status after Oct 2025 not verified.",
+      "basis": "Permanent gaushala on Jalesar Road in the city, on sewage farm land, initially about 500 cattle, about Rs 1.65 crore, full amount released; construction in final phase with completion targeted for October. EO Rohit Singh said it will shelter stray cattle roaming the city. Article dated 29 Sep 2025; operational status after October 2025 not verified (searches found no 2026 update).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2025-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-work-of-permanent-cowshed-will-be-completed-in-october-hathras-news-c-56-1-hts1003-138122-2025-09-29"}
       ]
@@ -33,7 +33,7 @@
       "english": "Survey done for overbridges at three city rail gates",
       "hindi": "तीन रेल फाटकों पर ओवरब्रिज का सर्वे हो गया",
       "inference": false,
-      "basis": "Northeast Railway team surveyed Bagla College Road (gate 308-C), Bijli Cotton Mill Tiraha (307-C) and Iglas Road (310) on 25 Sep 2026. Survey done; no approval, budget or timeline yet. Railway PRO said no gate will close until an alternative is provided.",
+      "basis": "Northeast Railway team surveyed Bagla College Road (gate 308-C), Bijli Cotton Mill Tiraha (307-C) and Iglas Road (310) on Friday 25 Sep 2026. Survey done only; no approval, budget or timeline. Railway PRO Safdar Hussain said no gate will be closed until an overbridge, underpass or other facility is provided.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/hathras/preparations-underway-to-construct-overbridges-or-underpasses-at-three-railway-crossings-in-the-city-hathras-news-c-56-1-hts1003-154717-2026-09-26"}
       ]
@@ -43,17 +43,17 @@
       "english": "Final location survey for Mendu to Hathras Junction rail link has started",
       "hindi": "मेंडू से हाथरस जंक्शन रेल लिंक का फाइनल सर्वे शुरू हो गया",
       "inference": false,
-      "basis": "Final Location Survey for a rail link from Mendu station to Hathras Junction has started, expected to finish by end of November 2026; DPR to follow. Not approved or funded yet, so this is a started step, not a delivered benefit. Mendu Nagar Panchayat is inside the AC per Wikipedia extent.",
+      "basis": "Final location survey for a rail link from Mendu station to Hathras Junction has started, expected to finish by end of November 2026; DPR to follow. Not approved or funded, so this is a started step, not a delivered benefit. Mendu Nagar Panchayat is inside the AC per the Wikipedia extent (Mendu NP of Hathras Tehsil).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-10-14", "url": "https://www.amarujala.com/uttar-pradesh/hathras/ten-year-wait-to-end-mendu-hathras-junction-rail-link-to-be-built-hathras-news-c-56-1-hts1003-155623-2026-10-14"}
       ]
     },
     {
       "rank": 5,
-      "english": "Roads to the city's temples are being repaired",
-      "hindi": "मंदिरों के रास्तों की मरम्मत हो रही है",
-      "inference": false,
-      "basis": "Only an official claim: EO Rohit Singh said roads in the city are being repaired and other routes will be repaired ahead of the festival; a Gaurav Path proposal for Mursan Gate Road awaits approval. No completed repair reported in the article. Weakest positive.",
+      "english": "* Officials say temple roads are being repaired",
+      "hindi": "* मंदिरों के रास्तों की मरम्मत होने की बात कही जा रही है",
+      "inference": true,
+      "basis": "Inference: only an official claim. EO Rohit Singh said roads in the city are being repaired and other routes will be fixed before the festival; the same article reports no completed repair. Gaurav Path proposal for Mursan Gate Road awaits state approval. An official statement alone is not a delivered benefit, so this is flagged and should be replaced in a field check if a completed repair is found.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/hathras/an-arduous-journey-to-the-mothers-temple-dilapidated-roads-will-only-add-to-the-suffering-hathras-news-c-56-1-sali1018-155506-2026-10-12"}
       ]
@@ -62,10 +62,10 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Sasni-Jalesar railway overbridge is shut and the narrow road below jams daily",
+      "english": "Sasni-Jalesar railway overbridge was closed to vehicles and the narrow road below jams daily",
       "hindi": "सासनी-जलेसर का रेलवे ओवरब्रिज बंद है, नीचे की सकरी सड़क पर रोज जाम",
       "inference": false,
-      "basis": "Rs 6 crore overbridge in Sasni town on Sasni-Jalesar road; potholes within about two months of opening; closed to vehicles about a month before the report. Traffic diverted to a narrow unpaved service road where two heavy vehicles cannot pass; gate closures cause 20-30 minute waits; repairs described as slow. Thousands of daily commuters affected. AC membership via Wikipedia extent (Sasni Tehsil).",
+      "basis": "Rs 6 crore overbridge on the Sasni-Jalesar road; large potholes within about two months of opening; closed to vehicles about a month before the 29 Sep 2026 report, repairs described as slow. Traffic diverted to a narrow unpaved service road where two heavy vehicles cannot pass at once; gate closures cause 20-30 minute waits; residents take 5-6 km detours. AC membership confirmed: Wikipedia extent for AC 78 includes Sasni Tehsil, and Hathras district has no separate Sasni AC (only 78, 79 Sadabad, 80 Sikandra Rao).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/road-condition-of-railway-overbridge-2026-09-29"}
       ]
@@ -75,7 +75,7 @@
       "english": "Waterlogged and broken roads in city wards",
       "hindi": "बारिश में गलियों और सड़कों पर पानी भर जाता है, चलना मुश्किल",
       "inference": false,
-      "basis": "Ward 13 (Balram Colony) road still unpaved, estimate of June 2025 not yet placed before the board, IGRS complaint no result. Ward 3 (Awas-Vikas Colony) CC road dug for pipeline and not restored, water standing for months. Ward 6 Meeti village merged into city limits: new road built two feet higher than lanes. Top Road (in municipal area per article) waterlogged even without rain. Some roads in Nagla Chaubey and Surangpura also badly damaged.",
+      "basis": "Ward 13 (Balram Colony) lane still unpaved; Rs 8.9 lakh estimate of June 2025 not yet placed before the board; IGRS complaints with no result. Ward 3 (Awas-Vikas Colony) concrete road dug for pipeline and not restored, water standing for months. Ward 6 Meeti: new road raised about two feet above lanes so water does not drain. Nagla Chaubey-Water Works road in poor condition for about 25 years; Top Road waterlogged even without rain (residents' claim).",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-05-30", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-the-wards-of-hathras-city-2026-05-30"},
         {"outlet": "Amar Ujala", "date": "2026-07-19", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-the-villages-included-in-hathras-city-2026-07-19"}
@@ -86,7 +86,7 @@
       "english": "Daily jams and long waits at city rail gates",
       "hindi": "रेल फाटक पर रोज जाम, लंबे इंतजार से परेशानी",
       "inference": false,
-      "basis": "Article states residents face daily traffic jams and long gate closures at Hathras city crossings (Bagla College Road, Bijli Cotton Mill Tiraha, Iglas Road); this is the problem the overbridge plan is meant to solve. Jam description is the reporter's framing, not a direct quote from residents.",
+      "basis": "Article says the Bagla College Road, Bijli Cotton Mill Tiraha and Iglas Road gates cause daily jams and gates staying closed for hours; the overbridge plan is meant to end this. The jam description is the reporter's framing, not a direct quote from residents; no closure durations are given.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/hathras/preparations-underway-to-construct-overbridges-or-underpasses-at-three-railway-crossings-in-the-city-hathras-news-c-56-1-hts1003-154717-2026-09-26"}
       ]
@@ -94,24 +94,30 @@
     {
       "rank": 4,
       "english": "Roads to the city's temples are broken and waterlogged",
-      "hindi": "मां के मंदिरों तक जाने वाली सड़कें टूटी हैं, रोज हजारों लोग गुजरते हैं",
+      "hindi": "मंदिर जाने वाली सड़कें टूटी हैं, रोज हजारों लोग गुजरते हैं",
       "inference": false,
-      "basis": "Four temples in Hathras city: Bauhare Wali Devi (Mursan Gate route, over 20,000 people daily; CC road broken), Chamunda Devi on Jalesar Road (about 10,000 devotees; potholes and drain water on road), Ramanpur Chamunda Devi path (drain water and mud), Hathrasi Devi (about 20,000 devotees; waterlogging and mud). Footfall figures are the article's own estimates.",
+      "basis": "Four temples in Hathras city: Bauhare Wali Devi (Mursan Gate route, CC road broken; article says over 20,000 use it daily); Chamunda Devi on Jalesar Road (potholes and drain water; about 10,000 devotees); Chamunda Devi Ramanpur (drain water and mud); Hathrasi Devi (waterlogging and mud; about 20,000 devotees). Footfall figures are the article's own estimates.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/hathras/an-arduous-journey-to-the-mothers-temple-dilapidated-roads-will-only-add-to-the-suffering-hathras-news-c-56-1-sali1018-155506-2026-10-12"}
       ]
     },
     {
       "rank": 5,
-      "english": "Stray cattle roam the city streets",
-      "hindi": "शहर की सड़कों पर आवारा गोवंश घूमते हैं",
-      "inference": false,
-      "basis": "Nagar Palika EO Rohit Singh said the permanent gaushala will shelter stray cattle roaming the city. Source describes the problem as an official statement; no resident complaint or count is given in the article.",
+      "english": "* Stray cattle roam the city streets",
+      "hindi": "* शहर की सड़कों पर आवारा गोवंश घूमते हैं",
+      "inference": true,
+      "basis": "Inference: the only source (29 Sep 2025) is the EO's statement that the gaushala will shelter stray cattle roaming the city. No resident complaint, count or 2026 report was found for Hathras city, so this is flagged and not counted as AC-specific.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2025-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-work-of-permanent-cowshed-will-be-completed-in-october-hathras-news-c-56-1-hts1003-138122-2025-09-29"}
       ]
     }
   ],
-  "ac_specific_negatives": 5,
-  "notes": "Reservation conflict: the Wikipedia list page (row 78 'Hathras (SC)'), the 18th UP Assembly page, the Anjula Singh Mahaur article and mapsofindia all say SC; the Hathras Assembly constituency article infobox says 'None'. Recorded as SC on majority of sources; the ECI results page returned 404 so could not be checked. Hathras town (Hathras MB) and Mendu NP are inside the AC per the Wikipedia extent; Sasni tehsil is also listed in the extent, so the Sasni overbridge is counted on that basis; a field check of Sasni town membership is advised since Sasni is a sizeable town. Items deliberately excluded: Kajrauthi power cut and Jal Jeevan stalls (Kajrauthi is in Sadabad tehsil, likely AC 79); Nagla Vishi drain/school waterlogging (SDM Sadabad, Sadabad area); Nagla Alagarji road waterlogging (viral video, Prabhat Khabar and Aaj Tak could not be fetched, 410 and 403); Makdoom Nagar (Aligarh); Hathras Junction bypass (no source found). No positive is a fully delivered project in the AC: the gaushala status after Oct 2025, the drain-cleaning progress and the temple road repairs are unverified; positives 3 and 4 are surveys only. The 109-road Rs 11.15 crore interlocking plan (Amar Ujala 7 May 2026) is only proposed (tender prep) so not used as a positive. Field check recommended for the Hathras city ward complaints and the Sasni overbridge status."
+  "ac_specific_negatives": 4,
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Verified all 8 unique URLs by fetching them (all opened, all support the stated facts; no URL removed). Reserved set to SC (Wikipedia list row 78, Anjula Singh Mahaur article, indiavotes 2022 SC header, mapsofindia all say SC; only the Hathras Assembly infobox says None). Confirmed Sasni is inside AC 78 (Sasni Tehsil in extent; no separate Sasni AC among Hathras district ACs 78/79/80). Positive 5 (official claim only) and negative 5 (official statement only, 2025) changed to inference with * prefix. Removed unverified details: 'Thousands of commuters' (Sasni), 'smooth drainage' aim (Bhaskar), and the 'Top Road in municipal area per article' wording (Top Road is a residents' claim in the 19 Jul 2026 article). Hindi of negative 4 shortened to 10 words; Hindi of positive 5 and negative 5 starred. Ranks and order kept. Sourced AC-specific negatives: 4 (Sasni, wards, rail gates, temples). Searches for a 2026 gaushala update, a completed Hathras city road project, the 109-road interlocking plan and a 2026 Hathras stray-cattle complaint found nothing usable."
+  },
+  "notes": "Reservation: recorded as SC. Four sources (Wikipedia list row 78, Wikipedia Anjula Singh Mahaur article, indiavotes 2022 page header, mapsofindia) say SC; the Wikipedia Hathras Assembly infobox says 'None'. The ECI and UP CEO result pages were not reachable/found, so the official ECI order could not be checked; a field check or ECI gazette check is recommended before final publication. Constituency membership: Hathras MB and Mendu NP are inside AC 78 per the Wikipedia extent; Sasni Tehsil is also inside per the same extent and no separate Sasni AC exists in Hathras district, so the Sasni overbridge is inside. Iglas (AC 77) lists district Aligarh on its page, so it is not part of this AC; Kajrauthi (Sadabad tehsil, AC 79), Nagla Vishi and Nagla Alagarji items were excluded. No positive is a fully delivered project in the AC: gaushala status after Oct 2025 unverified; drain-cleaning progress after May 2026 unverified; positives 3 and 4 are surveys only; positive 5 is an official claim (flagged). Drain figures in the Bhaskar article do not reconcile (29 vs 18 + 13). Field check recommended for the Hathras city ward complaints, the Sasni overbridge status and a current gaushala/stray cattle status."
 }
