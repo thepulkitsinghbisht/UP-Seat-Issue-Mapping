@@ -1,0 +1,112 @@
+{
+  "ac_no": 72,
+  "ac_name": "Barauli",
+  "ac_name_hindi": "बरौली",
+  "reserved": "None",
+  "district": "Aligarh",
+  "region": "Braj",
+  "summary": "Complaints centre on broken link and village roads and on crop losses at Harduaganj mandi, with unsafe handpump water raised at district level, while sourced local positives are few.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "ac_specific_negatives": 3,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Passenger sheds and a wedding hall have been built in Barauli.",
+      "hindi": "बरौली में यात्री शेड और बारात घर बन गए हैं",
+      "inference": false,
+      "basis": "Amar Ujala reporter states the Barauli MLA got a passenger shed, barat ghar and similar works built, funded from 2022-23 and 2023-24 MLA funds.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-10-26", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/people-troubled-by-dilapidated-roads-2024-10-26"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Development works have been carried out in several villages of the constituency.",
+      "hindi": "बरौली के कई गांवों में विकास कार्य हुए हैं",
+      "inference": false,
+      "basis": "Amar Ujala (28 Aug 2026) says plaques for development works carried out by the Barauli MLA in more than six villages (names six: Thanpur, Hinsail, Nawabpur, Chandner, Karanpur, Barka) were broken on 19 Aug; the story is about vandalism and a police case, not the works themselves.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-08-28", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/foundation-stones-bearing-the-barauli-mlas-name-were-smashed-aligarh-news-c-426-1-sali1005-1401-2026-08-28"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Farmers' paddy was bought at Harduaganj sub-mandi.",
+      "hindi": "हरदुआगंज उप मंडी में किसानों से धान खरीदा गया",
+      "inference": false,
+      "basis": "Subkuz (13 Oct 2026) says the wet paddy kept at Harduaganj sub-mandi had already been bought from farmers. Weak positive: only shows procurement took place, not that prices or payment were good.",
+      "sources": [
+        {"outlet": "Subkuz", "date": "2026-10-13", "url": "https://subkuz.com/news/hindi/details/aligarh-unseasonal-rain-paddy-farmers-losses-mandi/224103"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Construction of the Palwal-Aligarh highway has started.",
+      "hindi": "पलवल-अलीगढ़ हाईवे का निर्माण शुरू हो गया है",
+      "inference": false,
+      "basis": "District-level, not confirmed inside Barauli AC: Amar Ujala (19 Jul 2025) says NH 334D Palwal-Tappal-Aligarh construction started, 72 km, two-year target. Villages named are Khair, Jattari, Andla, Arrana, Rajpura and Lodha; Barauli is not named.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-07-19", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/construction-of-aligarh-palwal-highway-started-2025-07-19"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*The first kilometre of the Harduaganj-Pipli-Bhamraula link road is built.",
+      "hindi": "*हरदुआगंज-पिपली-भमराउला संपर्क मार्ग का पहला किलोमीटर बन चुका है",
+      "inference": true,
+      "basis": "Inference: a Newstrack search snippet (July 2026) says the first 1 km of this 3.3 km link road is complete and the rest awaits sanction. The Newstrack page returned HTTP 403 and was not opened, so no URL is cited. Pipli and Bhamraula locations are not confirmed inside Barauli AC.",
+      "sources": []
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "A three-kilometre link road from the Jawan area to the Barauli-Aligarh road has been broken for three years; potholes fill with rain.",
+      "hindi": "तीन साल से लिंक सड़क टूटी पड़ी है, बारिश में गड्ढों में पानी भरता है",
+      "inference": false,
+      "basis": "Amar Ujala (30 Mar 2026): link road from a nagar panchayat (photo caption: Jawan) to the Barauli-Aligarh road, about 3 km, broken for three years; serves Sumera, Faridpur, Sunana, Khurdariyapur, Dariyapur and Madhaugarh. Gram pradhan says complaints were made many times with no action. AC membership: Jawan Sikandpur nagar panchayat is listed under Barauli VS on Wikipedia; the article itself does not name the nagar panchayat.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-03-30", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/the-dilapidated-road-has-been-in-disrepair-for-three-years-aligarh-news-c-117-1-sali1021-101839-2026-03-30"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The Sadhu Ashram road in Kheda Bujurg is badly broken, and people keep falling and getting hurt on it.",
+      "hindi": "खेड़ा बुजुर्ग का साधु आश्रम मार्ग बेहद जर्जर, आए दिन लोग गिरकर चोटिल",
+      "inference": false,
+      "basis": "Amar Ujala (26 Oct 2024): former Kheda Bujurg pradhan Chandrabhan Singh says the road is 'बेहद जर्जर' and people keep falling and getting injured; the article places Kheda Bujurg in its Barauli section, but the piece covers three ACs and no date after Oct 2024 was found for this road.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2024-10-26", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/people-troubled-by-dilapidated-roads-2024-10-26"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Paddy kept in the open at Harduaganj mandi got soaked in rain, and farmers fear losses.",
+      "hindi": "हरदुआगंज मंडी में खुले में रखा धान भीगा, किसानों के नुकसान की आशंका",
+      "inference": false,
+      "basis": "Subkuz (13 Oct 2026): thousands of quintals of paddy kept in the open at Harduaganj sub-mandi (उप मंडी) were soaked by rain; a 20% loss on the wet paddy is feared, per a former Khair mandi committee chairman; no current official quoted. Harduaganj Nagar Panchayat is inside Barauli AC per Wikipedia extent.",
+      "sources": [
+        {"outlet": "Subkuz", "date": "2026-10-13", "url": "https://subkuz.com/news/hindi/details/aligarh-unseasonal-rain-paddy-farmers-losses-mandi/224103"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Handpump water in several villages is not fit to drink, with high fluoride.",
+      "hindi": "कई गांवों के हैंडपंप का पानी पीने लायक नहीं, फ्लोराइड ज्यादा",
+      "inference": false,
+      "basis": "District-level, not confirmed inside Barauli AC: Amar Ujala (7 Jul 2022) says Jal Nigam tests of handpumps in Rorawar and Lodha area villages (Chamraula, Amarpur Kondla, Makdum Nagar, Shahpur Kutub) failed standards, with high fluoride and turbidity, and villagers were advised not to drink. Older than preferred; no 2024-26 Barauli water report found.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2022-07-07", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/the-water-of-the-handpumps-of-many-villages-found-very-bad-city-office-news-ali295497287"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Stray cattle destroy crops and farmers struggle to protect their fields.",
+      "hindi": "*आवारा पशु खेत उजाड़ देते हैं, फसल बचाना मुश्किल",
+      "inference": true,
+      "basis": "Inference: no Barauli- or Aligarh-specific 2024-26 report was found in about 35 searches. Only a 2019 district stray-cattle count in a Lok Sabha reply (not opened) and western UP coverage outside Aligarh turned up. Not confirmed as a Barauli problem; a field check is needed.",
+      "sources": []
+    }
+  ],
+  "notes": "Thin local coverage: about 35 Hindi and English searches found few Barauli-specific reports. Sourced local negatives are the Jawan link road (Mar 2026), Kheda Bujurg road (Oct 2024) and Harduaganj mandi paddy (Oct 2026); the Jawan Sikandpur AC link rests on Wikipedia's infobox because the article does not name the nagar panchayat. The Oct 2024 article covers three ACs, so the Kheda Bujurg and Jawan-Barauli road items depend on its Barauli section. Positives are weak: P1 and P2 come from an MLA-related story (P2 is about vandalism and a police case, so it is framed neutrally), P3 only shows procurement, P4 is district-level and not Barauli-confirmed, P5 is an unverified inference from a search snippet. Excluded as not qualifying: the MLA road-fund dispute and plaque-vandalism politics; the Badhari Buzurg to Tikri road (Chharra area); Aligarh city power outages (city localities, not Barauli); the 12-road Rs 21 crore tender (Kol and Atrauli ACs only, not started); the Aligarh-Moradabad four-lane land acquisition (announcement of 45 villages in Gabhana and Koil tehsils, not a benefit); the Gonda CHC building (not Barauli). Unopened lead for a field check: a Newstrack report (Jul 2026) on the Harduaganj-Pipli-Bhamraula link road, which returned HTTP 403. Field check priorities: Jawan link road, Kheda Bujurg road, Harduaganj mandi storage and payment, Barauli handpump water, and the cattle inference."
+}
