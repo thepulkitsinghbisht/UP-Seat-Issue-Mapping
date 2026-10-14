@@ -1,0 +1,156 @@
+{
+  "ac_no": 76,
+  "ac_name": "Aligarh",
+  "ac_name_hindi": "अलीगढ़",
+  "reserved": "None",
+  "district": "Aligarh",
+  "region": "Braj",
+  "summary": "Complaints centre on monsoon waterlogging around Ramghat and Khair Road, daily power tripping and outages in the city, and power faults hurting Talanagari factories; appreciation is limited to a few pump, road and substation fixes that are new or started.",
+  "identity_source": "https://en.wikipedia.org/wiki/Aligarh_Assembly_constituency",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Three new pumps installed in Shahjamal to clear waterlogging",
+      "hindi": "शाहजमाल में बारिश का पानी निकालने के लिए नए पंप लगे हैं",
+      "inference": false,
+      "basis": "ETV Bharat (5 Aug 2026): three new high-capacity pumps, each 10,000 litres per minute, were installed, adding about 30,000 litres per minute of drainage capacity at the Shahjamal sewage pumping station area. Municipal Commissioner called freeing Shahjamal from waterlogging the top priority. City-level; the article does not name the AC, and Shahjamal is not on the district NIC polling-part list, so AC membership is unconfirmed",
+      "sources": [
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-08-05",
+          "url": "https://www.etvbharat.com/hi/state/aligarh-nagar-nigam-takes-major-action-over-waterlogging-water-works-gm-removed-ups26080500439"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Bad road in Panchavati Colony is being rebuilt after a student's video",
+      "hindi": "पंचवटी कॉलोनी की खराब सड़क का निर्माण शुरू हो गया है",
+      "inference": false,
+      "basis": "ETV Bharat (14 Aug 2026): after a Panchavati Colony student posted a video of the road on 29 Jul 2026, the Nagar Nigam started work at about Rs 45 lakh in ward 24 (Devsaini area); groundwork under way, target two months. Construction started, not completed. The article does not name an assembly constituency, so AC membership of ward 24 is unconfirmed",
+      "sources": [
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-08-14",
+          "url": "https://www.etvbharat.com/hi/state/road-construction-begins-in-aligarh-following-a-female-students-appeal-ups26081405950"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "A small substation near UPCDA is being used to cut tripping in Talanagari",
+      "hindi": "तालानगरी में ट्रिपिंग कम करने के लिए छोटा सब-स्टेशन चालू है",
+      "inference": false,
+      "basis": "Amar Ujala (27 Sep 2026): XEN Rahul Katihar said a small substation near UPCDA is being used as a temporary alternative to reduce tripping in Talanagari. The article says a permanent substation is still pending. Talanagari is a city industrial area; the article names no assembly constituency, so AC membership is unconfirmed",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-27",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-talanagari-industry-growth-hit-by-power-tripping-crisis-2026-09-27"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Power is restored once utility teams are sent after faults, says the utility",
+      "hindi": "खराबी होने पर टीमें भेजी जाती हैं और बिजली बहाल होती है",
+      "inference": false,
+      "basis": "Amar Ujala (14 Aug 2026) and (22 Aug 2026): Superintending Engineer (Urban) Anshuman Yadav said teams were sent and supply restored after faults. This is the utility's own statement; the articles do not give residents' view of the restoration. City-level, not AC-specific",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/residents-of-several-areas-faced-inconvenience-due-to-power-outages-aligarh-news-c-2-gur1004-1043498-2026-08-14"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Complaints raised in the press sometimes get quick action",
+      "hindi": "*शिकायत अखबार में छपते ही कई बार काम शुरू हो जाता है",
+      "inference": true,
+      "basis": "Inference: drawn from two examples: the Panchavati Colony road work started after a student's video (ETV Bharat, 14 Aug 2026), and a Siyakhas village pipeline repaired after an Amar Ujala report (Amar Ujala, 15 Sep 2026). The Siyakhas village is in Jawan block and is not in this AC; the pattern is not confirmed for this AC. Field check needed",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/water-pipeline-repaired-2026-09-15"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Rain water enters shops on Ramghat and Khair Road and stays for hours",
+      "hindi": "रामघाट और खैर रोड पर बारिश में दुकानों तक पानी घुस जाता है",
+      "inference": false,
+      "basis": "Amar Ujala (4 Jul 2026): the drains report lists ADA Colony, Vishnupuri, Sudamapuri, Gurudwara Road, Chharra Adda, Naurangabad, Mamu Bhanja, Achal Tal, Govind Nagar, Shahjamal Eidgah Road and Turkman Gate as flooded along the Ramghat Road route, with water entering homes and shops; Gular Road, Khair Road and Melrose Bypass were still waterlogged 36 hours after rain. AC membership: Ramghat Road and Khair Road polling parts are listed under AC 'अलीगढ़' on the district NIC page (last updated 22 Nov 2025). The flooding list is district-level city reporting, not an AC-only figure",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-04",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-drains-in-aligarh-2026-07-04"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Power keeps tripping on Ramghat and Medical Road, residents say appliances are at risk",
+      "hindi": "रामघाट और मेडिकल रोड पर बिजली बार-बार ट्रिप होती है",
+      "inference": false,
+      "basis": "Amar Ujala (14 Aug 2026): power went off in the Khair Road area around 10 PM from Elampur power station; residents of Sasni Gate, Medical Road and others had no supply for hours; resident Satish Maheshwari said power was tripping repeatedly since morning in ADA Colony, Avantika Phase-1 and Ramghat Road and warned appliances could be damaged. AC membership: Khair Road, Sasni Darwaza, Medical Road and Ramghat Road polling parts are listed under AC 'अलीगढ़' on the district NIC page",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/residents-of-several-areas-faced-inconvenience-due-to-power-outages-aligarh-news-c-2-gur1004-1043498-2026-08-14"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Power cuts on Maris Road and Ramghat Road also left people without drinking water",
+      "hindi": "मैरिस रोड और रामघाट रोड पर बिजली गई, पानी का संकट भी हुआ",
+      "inference": false,
+      "basis": "Amar Ujala (22 Aug 2026): supply was cut through Friday from morning to late night; the Maris Road feeder linked to Lal Digi power station had interrupted supply; Choudhary Vihar-Ramghat Road and Nagla Patwari were affected through Qila power station; the article says the outage also caused a drinking water shortage. The Superintending Engineer said supply was restored after faults were fixed. AC membership: Maris Road, Kila Road and Ramghat Road polling parts are listed under AC 'अलीगढ़' on the district NIC page; the article itself names no AC",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-22",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/people-were-troubled-by-power-outages-from-morning-till-night-aligarh-news-c-2-gur1004-1049220-2026-08-22"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Power tripping every day in Talanagari, factories lose production",
+      "hindi": "तालानगरी में रोज़ बिजली ट्रिप होती है, फैक्ट्रियों का काम रुकता है",
+      "inference": false,
+      "basis": "Amar Ujala (27 Sep 2026): tripping has become a daily problem in the Talanagari industrial area, where more than 1,000 factories operate and production is affected; the area is fed from a 132 kVA substation at Bounar about 11 km away, and a new substation has been pursued for three years without a site. Some large units have faulty VCB equipment, per officials. City industrial area; the article names no assembly constituency, so AC membership is unconfirmed and this item is not counted as AC-specific",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-27",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-talanagari-industry-growth-hit-by-power-tripping-crisis-2026-09-27"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Drains in Quarsi are foul and garbage piles up despite the smart city label",
+      "hindi": "क्वार्सी में नाले गंदे हैं, कूड़ा पड़ा रहता है",
+      "inference": false,
+      "basis": "Amar Ujala (4 Jul 2026): resident Jaiprakash Verma (Quarsi) said drains are foul and garbage piles up despite the smart city label; resident Gajraj Singh (Quarsi) said colonies have grown without matching resources. The reporter found encroachment on drains, sewer lines connected to drains and no master plan. The Municipal Commissioner said all drains were cleaned before the monsoon. AC membership of Quarsi is unconfirmed, so this item is not counted as AC-specific",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-04",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-drains-in-aligarh-2026-07-04"
+        }
+      ]
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC 76 is 'Aligarh', reserved None, Aligarh district, Lok Sabha Aligarh (Wikipedia list and constituency page; the constituency page explicitly says Aligarh district). The Wikipedia constituency page gives no extent (tehsils, wards or localities). AC membership for localities relies on the district NIC page 'अलीगढ़' AC polling-part list (aligarh.nic.in, last updated 22 Nov 2025), which names Ramghat Road, Khair Road, Sasni Darwaza, Medical Road, Kila Road, Maris Road, Dodpur, Jamalpur, Begpur, Jaigunj. That list's AC number reads 357 and is not the ECI AC number, so it is used only for locality membership. Shahjamal, Talanagari, Quarsi, Swarn Jayanti Nagar and Panchavati Colony (ward 24) are not on that list and their AC membership is unconfirmed. Koil (AC 75) also covers city areas (the 22 Jun 2026 event report says the projects belong to Aligarh and Koil seats), so city localities need checking against the ward and AC maps. The Rs 462 crore, 85-project event of 22 Jun 2026 (ETV Bharat) was not used as a positive because it names no individual projects and locations. Field check: confirm whether Shahjamal and Khair Road sit in AC 76 or AC 75 or the Khair AC."
+}
