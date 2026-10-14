@@ -5,14 +5,14 @@
   "reserved": "None",
   "district": "Aligarh",
   "region": "Braj",
-  "summary": "Koil-specific coverage is thin: the only Koil-named negatives are unstarted road tenders and a tehsil registry allegation, while the other items are district-level, events or statewide figures.",
+  "summary": "Koil-specific coverage is thin: sourced Koil-named negatives are drains on Maris Road and the Quarsi bypass, unstarted Koil road tenders and a tehsil registry allegation, while the positives are events, approvals, statewide figures or a village outside Koil.",
   "identity_source": "https://en.wikipedia.org/wiki/Koil_Assembly_constituency",
-  "ac_specific_negatives": 2,
+  "ac_specific_negatives": 4,
   "round2": {
-    "verified_sources": 10,
+    "verified_sources": 11,
     "removed_sources": 0,
-    "ac_specific_negatives": 2,
-    "changes": "Re-verified all 10 cited URLs and the Wikipedia extent (Koil tehsil, KC Koil, PC Bhamola Mafi of Morthal KC, Aligarh M Corp wards). Positive 5 (Koil road tenders) moved out because the same article already supports negative 2; replaced with a Aug 2026 Aligarh drain approval, flagged inference. Corrected positives 1 and 2 wording to what the sources say; flagged the CM event and 85-project event as inference (events, no delivered benefit). Negatives 1, 3 and 4 flagged inference with basis now stating the report does not name Koil. Negative 3 and 4 Hindi shortened to 12 words or fewer. Searched for further Koil-specific 2026 items (Koil tehsil villages, Koil wards, Gangiri, Koil CHC, Koil power) and found none; the Aug 2026 Aligarh power outage and Karbala waterlogging reports name city localities only, not Koil."
+    "ac_specific_negatives": 4,
+    "changes": "Re-opened 4 sources this round: the Siyakhas water article (P1), Maris Road 2024 and 2025 Amar Ujala articles, and the Quarsi bypass video. Earlier round checks carry the other items. Replaced N1 (Gangiri power, inference) rank order: Gangiri stays but now rank 5 as the only inference negative. Replaced N3 (Gonda CHC, inference) and N4 (Dhanipur mandi, inference) with sourced Maris Road drains (2024 and 2025 sources) and Quarsi bypass bamba (2026 video). Koil roads tender and Koil tehsil registry items kept, now ranks 2 and 4. P1 basis rewritten to match the Siyakhas source; kept as inference because no Koil-extent positive was found. Searched Koil and Dodpur, Jamalpur, Quarsi and Maris Road in Hindi and English; no Dodpur or Jamalpur report found. Summary and ac_specific_negatives recounted: 4 (Maris Road, Koil roads, Quarsi bypass, Koil tehsil registry)."
   },
   "positives": [
     {
@@ -20,9 +20,13 @@
       "english": "*After a newspaper report, the stolen solar wire was replaced and water reached taps",
       "hindi": "*खबर छपते ही सोलर तार बदला गया, नलों में पानी आने लगा",
       "inference": true,
-      "basis": "Inference: Siyakhas village (Jawan block) is not named as part of Koil. Amar Ujala 15 Sep 2026 (verified): the solar wire of the tank and pipeline had been stolen; officials ordered new wire, it was replaced, and water began reaching the village taps that afternoon. The article does not mention Koil",
+      "basis": "Inference: Siyakhas (Jawan block, Aligarh district) is outside Koil per the AC-76 polling-part list check, so this is not an AC 75 benefit. Kept only because no Koil-extent positive was found this round. Amar Ujala 15 Sep 2026 (checked): 'गांव सिया खास में बनी पानी की टंकी व पाइप लाइन से सोलर वायर चोरी हो गई थी।'; a new wire was installed and 'ग्रामीणों के घरों में अब नलों से पानी आना शुरू हो गया है।' The article says the original report ran on Monday (14 Sep). Koil does not appear in the article.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-15", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/water-pipeline-repaired-2026-09-15"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-15",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/water-pipeline-repaired-2026-09-15"
+        }
       ]
     },
     {
@@ -32,7 +36,11 @@
       "inference": true,
       "basis": "Inference: an event report, not a delivered benefit. Amar Ujala live blog 22 Jun 2026 (verified): the CM inaugurated and laid foundations for works in Aligarh Sadar, Koil assembly and the municipal corporation at Numaish Ground; no Koil project is named",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-06-22", "url": "https://www.amarujala.com/live/uttar-pradesh/aligarh/cm-yogi-adityanath-aligarh-visit-live-update-2026-06-22"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-06-22",
+          "url": "https://www.amarujala.com/live/uttar-pradesh/aligarh/cm-yogi-adityanath-aligarh-visit-live-update-2026-06-22"
+        }
       ]
     },
     {
@@ -42,7 +50,11 @@
       "inference": true,
       "basis": "Inference: an event, not a delivered benefit. Sangrah Rajneeti (verified): 85 projects worth over Rs 462 crore for Aligarh, with the event covering Aligarh city and Koil assembly constituency; no Koil project is named. The article dateline is 23 Jun 2026 and it describes the event as Monday (22 Jun)",
       "sources": [
-        {"outlet": "Sangrah Rajneeti", "date": "2026-06-23", "url": "https://www.sangrahrajneeti.com/cm-yogi-aligarh-462-crore-development-projects/"}
+        {
+          "outlet": "Sangrah Rajneeti",
+          "date": "2026-06-23",
+          "url": "https://www.sangrahrajneeti.com/cm-yogi-aligarh-462-crore-development-projects/"
+        }
       ]
     },
     {
@@ -52,7 +64,11 @@
       "inference": true,
       "basis": "Inference: city-wide approval only; no Koil ward is named. Amar Ujala 6 Aug 2026 (verified): State Level Apex Committee approved Rs 105.28 crore for a 6.2 km RCC drain from Kwarsi crossing to Boneere nala; construction waits for the CM's final approval",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-08-06", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/105-crore-drainage-project-approved-will-provide-relief-from-waterlogging-aligarh-news-c-2-gur1004-1036710-2026-08-06"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-06",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/105-crore-drainage-project-approved-will-provide-relief-from-waterlogging-aligarh-news-c-2-gur1004-1036710-2026-08-06"
+        }
       ]
     },
     {
@@ -62,19 +78,32 @@
       "inference": true,
       "basis": "Inference: statewide figure only. UNI 16 Sep 2026 (verified): 102 sugar mills made 100 pc payment to cane farmers in the 2025-26 crushing season; 23 cooperative mills paid Rs 2,820 crore. No Aligarh or Koil figure in the report",
       "sources": [
-        {"outlet": "UNI", "date": "2026-09-16", "url": "https://www.uniindia.com/north-india/admin-sugar-mills-up/181532"}
+        {
+          "outlet": "UNI",
+          "date": "2026-09-16",
+          "url": "https://www.uniindia.com/north-india/admin-sugar-mills-up/181532"
+        }
       ]
     }
   ],
   "negatives": [
     {
       "rank": 1,
-      "english": "*Farmers say they get only four to five hours of power in 24 hours at Gangiri",
-      "hindi": "*गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
-      "inference": true,
-      "basis": "Inference: district-level, Gangiri's Koil membership is not confirmed. Amar Ujala 21 Sep 2026 (verified): farmers sat in at Gangiri power station, saying the government orders more supply but they get four to five hours in 24. The report does not mention Koil or any assembly seat",
+      "english": "Drains on Maris Road overflow and dirty water comes onto the road",
+      "hindi": "मैरिस रोड पर नालियां ओवरफ्लो, गंदा पानी सड़क पर आता है",
+      "inference": false,
+      "basis": "Amar Ujala (21 Sep 2024, checked): 'पानी की निकासी के लिए जो नालियां हैं वह भी ओवरफ्लो रहती हैं जिससे गंदा पानी सड़क पर आ जाता है' and 'बरसात के दिनों में तो यहां से निकलना संभव ही नहीं है'. Amar Ujala (19 Sep 2025, checked): 'इतना ही नहीं नाला सड़क से ऊंचा बना दिया गया', and residents' drain defect complaints led to a three-member probe. Koil is not named in either report; Maris Road is placed in AC 75 by the AC-76 polling-part list the user supplied (that list was not re-opened: aligarh.nic.in was not found in search). The 2025 report's minister and probe details are not used in the statement.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-09-21", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/farmers-staged-a-sit-in-at-the-power-station-aligarh-news-c-426-1-sali1011-2262-2026-09-21"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2024-09-21",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/potholes-in-the-roads-of-aligarh-city-2024-09-21"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2025-09-19",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/poor-road-constructed-on-maris-road-in-aligarh-2025-09-19"
+        }
       ]
     },
     {
@@ -84,39 +113,55 @@
       "inference": false,
       "basis": "Amar Ujala 11 Oct 2026 (verified): tenders issued for 12 roads worth Rs 21 crore under the Mukhyamantri Gramin Sadak Yojana, six of them in the Koil seat (e.g. Manoharpur Kayastha to Bhakrola); PWD Superintending Engineer says construction will start soon and no work has started yet",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/construction-of-12-roads-in-aligarh-2026-10-11"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-11",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/construction-of-12-roads-in-aligarh-2026-10-11"
+        }
       ]
     },
     {
       "rank": 3,
-      "english": "*The Gonda CHC building is dilapidated and more than 200 patients come to it daily",
-      "hindi": "*गोंडा सीएचसी की इमारत जर्जर, रोज 200 से ज्यादा मरीज आते हैं",
-      "inference": true,
-      "basis": "Inference: district-level, Gonda's Koil membership is not confirmed. Amar Ujala 9 Oct 2026 (verified): Gonda CHC building dilapidated with cracks and falling plaster, over 200 OPD patients daily, and the campus about one foot below road level waterlogs in rain. The report names Aligarh only and does not mention Koil or any assembly seat",
+      "english": "The bamba on Quarsi bypass is clogged with garbage and not being cleaned",
+      "hindi": "क्वार्सी बाईपास का बंबा गंदगी से भरा है, सफाई पर ध्यान नहीं",
+      "inference": false,
+      "basis": "Amar Ujala video report (5 Mar 2026, checked, headline and summary): 'अलीगढ़ के क्वार्सी बाईपास स्थित बंबा गंदगी से अटा हुआ है', 'जनता बंबा में गंदगी डाल रही है', and 'बंबा की सफाई करने वाला विभाग का इस ओर ध्यान नहीं है'. Quarsi is placed in AC 75 by the AC-76 polling-part list the user supplied (not re-opened). No official or resident is quoted in the visible text.",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-09", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/gonda-chc-building-dilapidated-2026-10-09"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-03-05",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-algaugdhha-ka-kavarasa-biipasa-bb-ma-gathaga-ka-abra-2026-03-05"
+        }
       ]
     },
     {
       "rank": 4,
-      "english": "*Farmers waited a whole night at Dhanipur mandi and paddy still did not sell",
-      "hindi": "*धनीपुर मंडी में पूरी रात इंतज़ार किया, फिर भी धान नहीं बिका",
-      "inference": true,
-      "basis": "Inference: district-level, Dhanipur's tehsil and assembly seat are not confirmed. Amar Ujala 11 Oct 2026 (verified): farmers waited the whole night at Dhanipur mandi after it reopened, and paddy was still unsold by morning; the report does not name a tehsil or assembly seat",
-      "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-dhanipur-mandi-paddy-sale-chaos-2026-10-11"}
-      ]
-    },
-    {
-      "rank": 5,
       "english": "There is an allegation of transactions at the Koil tehsil registry office",
       "hindi": "कोल तहसील के रजिस्ट्री दफ्तर में लेनदेन का आरोप है",
       "inference": false,
       "basis": "Amar Ujala 1 Apr 2026 (verified): a seven-minute video circulating online alleges transactions at the Koil tehsil registry office; AIG (Stamp) has started an inquiry. Allegation only, no findings reported",
       "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-04-01", "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-7-manata-ka-vadaya-aaya-samana-jasana-khal-algaugdhha-ka-tahasal-kal-ka-nabthhana-karayalya-ma-lnathana-ka-pal-2026-04-01"}
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-01",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-7-manata-ka-vadaya-aaya-samana-jasana-khal-algaugdhha-ka-tahasal-kal-ka-nabthhana-karayalya-ma-lnathana-ka-pal-2026-04-01"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Farmers say they get only four to five hours of power in 24 hours at Gangiri",
+      "hindi": "*गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
+      "inference": true,
+      "basis": "Inference: district-level, Gangiri's Koil membership is not confirmed. Amar Ujala 21 Sep 2026 (verified): farmers sat in at Gangiri power station, saying the government orders more supply but they get four to five hours in 24. The report does not mention Koil or any assembly seat",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-21",
+          "url": "https://www.amarujala.com/uttar-pradesh/aligarh/farmers-staged-a-sit-in-at-the-power-station-aligarh-news-c-426-1-sali1011-2262-2026-09-21"
+        }
       ]
     }
   ],
-  "notes": "AC confirmed as No. 75 Koil, Aligarh district, reserved None, per the Wikipedia Koil constituency page. Extent (verified): Koil tehsil, KC Koil, PC Bhamola Mafi of Morthal KC, and Aligarh M Corp wards 7, 22, 28, 30-34, 36, 40-44, 47, 48, 49, 51, 52, 53, 57. The Wikipedia Koil tehsil page does not list its villages, so village membership is unconfirmed for every village in this file. Only 2 of 5 negatives (roads, registry) are Koil-named and sourced, which is below the 3-of-5 target. Repeated Hindi and English searches for other Koil-specific 2026 items (Koil tehsil villages, Koil wards, Gangiri power, Koil CHC, Koil roads completed, Koil drains) found none that name Koil. No Koil-specific delivered benefit was found, so all positives are events, approvals or statewide/district items and are flagged *. Checked and not used: the Aligarh power outage of 5 Aug 2026 and Karbala waterlogging of 4 Aug 2026 (city localities only, no Koil named); the Amar Ujala Aug 6 drain report names city roads and nalas only; a Koil tehsil land-map article (about four years old, 20 Koil tehsil villages) and a Gursikaran land dispute (old) were not used because their persistence is unknown; Kaudiyaganj boat-crossing report (Dec 2025) and Khair/Iglas items are in other tehsils or not confirmed inside Koil. Field check recommended: Gangiri power supply hours, Gonda CHC and Dhanipur mandi membership, Koil tehsil registry inquiry outcome, status of the six Koil road works, and any Koil-seat completed road, bridge or drain. Edit pass: P1 basis says Siyakhas is not named as part of Koil, so this positive is not Koil-specific until confirmed. P2 weak positive: event only, no Koil project named. P3 weak positive: event only, city-wide, no Koil project named. P4 weak positive: approval only, city-wide, work not begun. P5 is statewide, not Koil. P2 no longer names the CM. N3 English drops the flooding detail to match the Hindi."
+  "notes": "Edit pass (this round): replaced the three weakest inference negatives (Gonda CHC, Dhanipur mandi, and the earlier Gangiri-first ordering) with sourced Koil-named items. New negatives: Maris Road drains (Amar Ujala 2024 and 2025, both fetched) and Quarsi bypass bamba (Amar Ujala video, 5 Mar 2026, fetched). Koil-named sourced negatives are now 4 (Maris Road, Koil roads tender, Quarsi bypass, Koil tehsil registry allegation). Gangiri power stays as the only inference negative (rank 5, district-level, membership unconfirmed). Maris Road and Quarsi membership in AC 75 rests on the AC-76 polling-part list the user supplied; that page was not found via search, so it was not re-opened. Dodpur and Jamalpur: searched in Hindi and English (Dodpur power/water/road, Jamalpur drain/road/waterlogging); no Aligarh report found, so neither is used. Quarsi: no 2024-2026 road, power or water report beyond the bypass bamba item. P1 Siyakhas is outside Koil (Jawan block, per the AC-76 list check); its source was re-opened and matches, but no Koil-extent positive was found (searched Koil village roads, Quarsi roads and completed works), so P1 is kept as inference and should be dropped at field check. P2 (CM event 22 Jun 2026), P3 (85-project event), P4 (drain approval, work not begun) are event or approval items with no Koil project named. P5 is statewide. Field check: Maris Road drains and the 2025 drain-height complaint; Quarsi bypass bamba; Gangiri power hours; Koil roads tender status; Koil tehsil registry inquiry outcome; any completed Koil-seat road, drain or water scheme; Dodpur and Jamalpur membership and local problems."
 }
