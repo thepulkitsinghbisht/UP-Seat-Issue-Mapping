@@ -1,0 +1,117 @@
+{
+  "ac_no": 78,
+  "ac_name": "Hathras",
+  "ac_name_hindi": "हाथरस",
+  "reserved": "SC",
+  "district": "Hathras",
+  "region": "Braj",
+  "summary": "Voters in Hathras city and its surrounding belt complain most about waterlogged and broken roads, rail gate jams and a closed Sasni-Jalesar overbridge, while appreciating the drain-cleaning drive, the planned permanent gaushala and the rail survey work.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly (row 78: Hathras, SC, Hathras district, Hathras LS); https://en.wikipedia.org/wiki/Hathras_Assembly_constituency (Constituency No. 78, Hathras district, extent: Sasni Tehsil; KC Hathras, Hathras MB & Mendu NP of Hathras Tehsil)",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Drains in the city are being cleaned before the monsoon",
+      "hindi": "शहर में नालों की सफाई का अभियान चल रहा है",
+      "inference": false,
+      "basis": "Chairperson Shweta Chaudhary inspected drain cleaning on Aligarh Road from Ram Mandir to Khemka Petrol Pump; municipality cleaning 18 of 29 drains, 11 reported complete; 13 more through outsourcing. Article says the aim is smooth drainage for residents. Work status after May 2026 not confirmed.",
+      "sources": [
+        {"outlet": "Dainik Bhaskar", "date": "2026-05-30", "url": "https://bhaskardigital.com/municipal-chairperson-conducted-an-inspection-in-light/"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "A permanent gaushala for stray cattle is being built in the city",
+      "hindi": "आवारा गोवंश के लिए शहर में स्थायी गोशाला बन रही है",
+      "inference": false,
+      "basis": "Permanent gaushala on Jalesar Road in the city, on sewage farm land, capacity about 500 cattle, about Rs 1.65 crore fully released; construction in final stage with target completion October 2025. EO Rohit Singh said it will shelter stray cattle roaming the city. Operational status after Oct 2025 not verified.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-work-of-permanent-cowshed-will-be-completed-in-october-hathras-news-c-56-1-hts1003-138122-2025-09-29"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Survey done for overbridges at three city rail gates",
+      "hindi": "तीन रेल फाटकों पर ओवरब्रिज का सर्वे हो गया",
+      "inference": false,
+      "basis": "Northeast Railway team surveyed Bagla College Road (gate 308-C), Bijli Cotton Mill Tiraha (307-C) and Iglas Road (310) on 25 Sep 2026. Survey done; no approval, budget or timeline yet. Railway PRO said no gate will close until an alternative is provided.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/hathras/preparations-underway-to-construct-overbridges-or-underpasses-at-three-railway-crossings-in-the-city-hathras-news-c-56-1-hts1003-154717-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Final location survey for Mendu to Hathras Junction rail link has started",
+      "hindi": "मेंडू से हाथरस जंक्शन रेल लिंक का फाइनल सर्वे शुरू हो गया",
+      "inference": false,
+      "basis": "Final Location Survey for a rail link from Mendu station to Hathras Junction has started, expected to finish by end of November 2026; DPR to follow. Not approved or funded yet, so this is a started step, not a delivered benefit. Mendu Nagar Panchayat is inside the AC per Wikipedia extent.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-14", "url": "https://www.amarujala.com/uttar-pradesh/hathras/ten-year-wait-to-end-mendu-hathras-junction-rail-link-to-be-built-hathras-news-c-56-1-hts1003-155623-2026-10-14"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Roads to the city's temples are being repaired",
+      "hindi": "मंदिरों के रास्तों की मरम्मत हो रही है",
+      "inference": false,
+      "basis": "Only an official claim: EO Rohit Singh said roads in the city are being repaired and other routes will be repaired ahead of the festival; a Gaurav Path proposal for Mursan Gate Road awaits approval. No completed repair reported in the article. Weakest positive.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/hathras/an-arduous-journey-to-the-mothers-temple-dilapidated-roads-will-only-add-to-the-suffering-hathras-news-c-56-1-sali1018-155506-2026-10-12"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Sasni-Jalesar railway overbridge is shut and the narrow road below jams daily",
+      "hindi": "सासनी-जलेसर का रेलवे ओवरब्रिज बंद है, नीचे की सकरी सड़क पर रोज जाम",
+      "inference": false,
+      "basis": "Rs 6 crore overbridge in Sasni town on Sasni-Jalesar road; potholes within about two months of opening; closed to vehicles about a month before the report. Traffic diverted to a narrow unpaved service road where two heavy vehicles cannot pass; gate closures cause 20-30 minute waits; repairs described as slow. Thousands of daily commuters affected. AC membership via Wikipedia extent (Sasni Tehsil).",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/road-condition-of-railway-overbridge-2026-09-29"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Waterlogged and broken roads in city wards",
+      "hindi": "बारिश में गलियों और सड़कों पर पानी भर जाता है, चलना मुश्किल",
+      "inference": false,
+      "basis": "Ward 13 (Balram Colony) road still unpaved, estimate of June 2025 not yet placed before the board, IGRS complaint no result. Ward 3 (Awas-Vikas Colony) CC road dug for pipeline and not restored, water standing for months. Ward 6 Meeti village merged into city limits: new road built two feet higher than lanes. Top Road (in municipal area per article) waterlogged even without rain. Some roads in Nagla Chaubey and Surangpura also badly damaged.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-05-30", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-the-wards-of-hathras-city-2026-05-30"},
+        {"outlet": "Amar Ujala", "date": "2026-07-19", "url": "https://www.amarujala.com/uttar-pradesh/hathras/condition-of-the-villages-included-in-hathras-city-2026-07-19"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Daily jams and long waits at city rail gates",
+      "hindi": "रेल फाटक पर रोज जाम, लंबे इंतजार से परेशानी",
+      "inference": false,
+      "basis": "Article states residents face daily traffic jams and long gate closures at Hathras city crossings (Bagla College Road, Bijli Cotton Mill Tiraha, Iglas Road); this is the problem the overbridge plan is meant to solve. Jam description is the reporter's framing, not a direct quote from residents.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/hathras/preparations-underway-to-construct-overbridges-or-underpasses-at-three-railway-crossings-in-the-city-hathras-news-c-56-1-hts1003-154717-2026-09-26"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Roads to the city's temples are broken and waterlogged",
+      "hindi": "मां के मंदिरों तक जाने वाली सड़कें टूटी हैं, रोज हजारों लोग गुजरते हैं",
+      "inference": false,
+      "basis": "Four temples in Hathras city: Bauhare Wali Devi (Mursan Gate route, over 20,000 people daily; CC road broken), Chamunda Devi on Jalesar Road (about 10,000 devotees; potholes and drain water on road), Ramanpur Chamunda Devi path (drain water and mud), Hathrasi Devi (about 20,000 devotees; waterlogging and mud). Footfall figures are the article's own estimates.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-12", "url": "https://www.amarujala.com/uttar-pradesh/hathras/an-arduous-journey-to-the-mothers-temple-dilapidated-roads-will-only-add-to-the-suffering-hathras-news-c-56-1-sali1018-155506-2026-10-12"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Stray cattle roam the city streets",
+      "hindi": "शहर की सड़कों पर आवारा गोवंश घूमते हैं",
+      "inference": false,
+      "basis": "Nagar Palika EO Rohit Singh said the permanent gaushala will shelter stray cattle roaming the city. Source describes the problem as an official statement; no resident complaint or count is given in the article.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2025-09-29", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-work-of-permanent-cowshed-will-be-completed-in-october-hathras-news-c-56-1-hts1003-138122-2025-09-29"}
+      ]
+    }
+  ],
+  "ac_specific_negatives": 5,
+  "notes": "Reservation conflict: the Wikipedia list page (row 78 'Hathras (SC)'), the 18th UP Assembly page, the Anjula Singh Mahaur article and mapsofindia all say SC; the Hathras Assembly constituency article infobox says 'None'. Recorded as SC on majority of sources; the ECI results page returned 404 so could not be checked. Hathras town (Hathras MB) and Mendu NP are inside the AC per the Wikipedia extent; Sasni tehsil is also listed in the extent, so the Sasni overbridge is counted on that basis; a field check of Sasni town membership is advised since Sasni is a sizeable town. Items deliberately excluded: Kajrauthi power cut and Jal Jeevan stalls (Kajrauthi is in Sadabad tehsil, likely AC 79); Nagla Vishi drain/school waterlogging (SDM Sadabad, Sadabad area); Nagla Alagarji road waterlogging (viral video, Prabhat Khabar and Aaj Tak could not be fetched, 410 and 403); Makdoom Nagar (Aligarh); Hathras Junction bypass (no source found). No positive is a fully delivered project in the AC: the gaushala status after Oct 2025, the drain-cleaning progress and the temple road repairs are unverified; positives 3 and 4 are surveys only. The 109-road Rs 11.15 crore interlocking plan (Amar Ujala 7 May 2026) is only proposed (tender prep) so not used as a positive. Field check recommended for the Hathras city ward complaints and the Sasni overbridge status."
+}
