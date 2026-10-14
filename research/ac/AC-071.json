@@ -1,0 +1,96 @@
+{
+  "ac_no": 71,
+  "ac_name": "Khair",
+  "ac_name_hindi": "खैर",
+  "reserved": "SC",
+  "district": "Aligarh",
+  "region": "Braj",
+  "summary": "Complaints centre on jams and broken roads around Khair town, with a shut registry office and farmers' power cuts, while the Khair-Jattari road widening and a new CHC cooling ward are the main visible gains.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "ac_specific_negatives": 3,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Khair-Jattari road widening has started and people hope it will ease the jams",
+      "hindi": "खैर-जट्टारी मार्ग का चौड़ीकरण शुरू हुआ, जाम से राहत की उम्मीद",
+      "inference": false,
+      "basis": "Article says construction began 13 April from Arrana Kante to Hamidpur Yamuna bridge, cost about Rs 88 crore, target one year; MLA inspected the work",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-04-25", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/widening-of-khair-jattari-road-will-provide-relief-from-traffic-jams-aligarh-news-c-2-1-ald1025-959364-2026-04-25"}]
+    },
+    {
+      "rank": 2,
+      "english": "A four-bed cooling ward has been set up at Khair CHC for heatstroke patients",
+      "hindi": "खैर सीएचसी में लू से बचाव के लिए चार बेड का कूलिंग वार्ड बना है",
+      "inference": false,
+      "basis": "Cooling ward built next to CHC emergency with four beds; CHC president said the heat relief room will run as a permanent arrangement",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-05-28", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/a-cooling-ward-was-built-in-khair-chc-to-protect-from-the-heat-aligarh-news-c-2-1-ald1025-983904-2026-05-28"}]
+    },
+    {
+      "rank": 3,
+      "english": "Khair's registration office reopened after 25 days and registry work has resumed",
+      "hindi": "25 दिन बंद रहा खैर का निबंधन कार्यालय, अब रजिस्ट्री फिर शुरू हुई",
+      "inference": false,
+      "basis": "Registration work reopened on 3 July 2026 after the lawyers' protest ended; 120 registrations on the first day",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-07-04", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/khairs-registration-office-reopened-after-25-days-120-registrations-were-completed-aligarh-news-c-2-1-ald1025-1011402-2026-07-04"}]
+    },
+    {
+      "rank": 4,
+      "english": "*A 10 km bypass on the Aligarh-Palwal road at Khair is proposed to ease jams",
+      "hindi": "*खैर में जाम से राहत के लिए अलीगढ़-पलवल मार्ग पर बाईपास का प्रस्ताव है",
+      "inference": true,
+      "basis": "Inference: only a proposal awaiting board approval on 13 Aug 2026, not a started or completed project; included because no completed Khair-specific relief was found. Source gives 10 km, 35 m wide, about Rs 70 crore",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-08-12", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/a-new-10-km-long-bypass-will-be-built-at-khair-on-the-aligarh-palwal-route-2026-08-12"}]
+    },
+    {
+      "rank": 5,
+      "english": "*A Rs 362 crore plan for 114 roads totalling 169 km is planned for Khair constituency",
+      "hindi": "*खैर की 114 सड़कों के लिए 169 किमी की योजना आई है",
+      "inference": true,
+      "basis": "Inference: a plan figure from an Aligarh-division roads article, not confirmed as sanctioned or started; only the Khair constituency mention is Khair-specific",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-09-14", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"}]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Five hours of jam at Khair mandi left school buses stuck and children reached school late",
+      "hindi": "खैर मंडी में पांच घंटे जाम, स्कूल बसें फंसीं, बच्चे देर से पहुंचे",
+      "inference": false,
+      "basis": "Jam from about 4 AM on Friday 25 Sep 2026 at Khair mandi on the Aligarh-Palwal road lasted over five hours; private school managers said students were delayed 1.5 to 2 hours; CO said police were short-staffed; paddy arrivals rose because Igalas and Dhanipur mandis were closed",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-09-26", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/five-hour-traffic-jam-in-khair-children-unable-to-reach-school-aligarh-news-c-2-1-ald1025-1075283-2026-09-26"}]
+    },
+    {
+      "rank": 2,
+      "english": "The road from the Pathwari temple to Somna bypass in Khair is badly broken",
+      "hindi": "खैर में पथवारी मंदिर से सोमना बाईपास तक सड़क टूटी पड़ी है",
+      "inference": false,
+      "basis": "Article names the road from the historic Pathwari temple in Khair to Somna bypass as badly damaged, about one km, in poor condition for a long time; the article is district-wide (Aligarh division roads) but names Khair",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-09-14", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/condition-of-the-roads-in-aligarh-division-2026-09-14"}]
+    },
+    {
+      "rank": 3,
+      "english": "Khair's registration office stayed shut for 25 days and registry work stopped",
+      "hindi": "25 दिन तक खैर का निबंधन कार्यालय बंद रहा, रजिस्ट्री का काम ठप रहा",
+      "inference": false,
+      "basis": "Khair tehsil registration work was shut 25 days; lawyers boycotted the office from 9 June 2026 in protest against privatisation of registration; reopened 3 July 2026",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-07-04", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/khairs-registration-office-reopened-after-25-days-120-registrations-were-completed-aligarh-news-c-2-1-ald1025-1011402-2026-07-04"}]
+    },
+    {
+      "rank": 4,
+      "english": "A pest attack on millet has hit about 4,000 hectares in the Khair area",
+      "hindi": "बाजरे की फसल में कीड़ा लगा, खैर क्षेत्र में लगभग 4 हजार हेक्टेयर प्रभावित",
+      "inference": false,
+      "basis": "Tehsil-level (Khair tehsil), AC membership unconfirmed: about 10,000 ha under millet, about 4,000 ha hit by a pest farmers call 'girar'; expert says rain would end it and spraying helps where it does not rain; article says output could halve",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-05-29", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/millet-crop-in-khair-area-affected-by-insect-infestation-aligarh-news-c-2-1-ald1025-984281-2026-05-29"}]
+    },
+    {
+      "rank": 5,
+      "english": "Unannounced power cuts in the heat are troubling farmers, and they gave a memorandum at the substation",
+      "hindi": "अघोषित बिजली कटौती से गर्मी में किसान परेशान, बिजलीघर पर ज्ञापन दिया",
+      "inference": false,
+      "basis": "District-level: farmers and villagers gave a memorandum at Jattari substation to the SDO, warning of protest; article gives no hours and names no village; does not name Khair; AC membership of Jattari unconfirmed",
+      "sources": [{"outlet": "Amar Ujala", "date": "2026-05-28", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/farmers-angry-over-power-cuts-submitted-memorandum-aligarh-news-c-2-1-ald1025-983791-2026-05-28"}]
+    }
+  ],
+  "notes": "AC 71 confirmed on the Wikipedia constituency list as Khair (SC), Aligarh district; the Wikipedia AC page has no extent or tehsil list, so Khair town is treated as inside the AC under the namesake rule, and Khair tehsil villages and blocks are not confirmed. Three negatives (mandi jam, Pathwari-Somna road, registry closure) are Khair-town specific; millet (tehsil) and Jattari power (district) are not counted. Positives 4 and 5 are proposals or plans, not delivered works, and are flagged as inference; they were included only because no completed Khair-specific benefit was found, so treat them as weak. The Patrika Khair farmers' memorandum (BKU Harpal faction) was found but its page shows publication 16 Jul 2022, so it was not used. Excluded as electoral: the Jan 2026 Amar Ujala report on documents sought from 20,000 voters. Not used: Udayavani 2018 stray-cattle report (old), Amar Ujala Dec 2024 Anni village cow remains (old, village AC membership unconfirmed), and Khair Samadhan Diwas reports (dates or Khair-specific lines unverified). Searches in Dainik Jagran and Hindustan for Khair returned nothing useful. Field check suggested: drinking water supply in Khair town (no Khair-specific report found), CHC staffing, stray cattle and gaushala status, and whether Jattari substation serves AC 71 villages."
+}
