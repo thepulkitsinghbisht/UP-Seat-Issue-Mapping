@@ -5,35 +5,35 @@
   "reserved": "None",
   "district": "Hathras",
   "region": "Braj",
-  "summary": "Voters in Sadabad mostly raise contaminated tubewell water, power cuts from substation faults, a market road that was broken for years and is only half rebuilt, and waterlogged drains, while the main appreciation is a new waiting room and drinking-water kiosk and a partly built road widening.",
+  "summary": "Voters in Sadabad mostly raise contaminated tubewell water, power cuts from a substation fault, a market road that was rebuilt only in part, and waterlogged drains, while the main appreciation is a new waiting room and drinking-water kiosk and a partly built road widening.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
       "rank": 1,
-      "english": "A drinking water kiosk and a waiting room have been built near the bus stand",
-      "hindi": "बस स्टैंड के पास प्याऊ और प्रतीक्षालय बन गया है, गर्मी और बारिश में राहत",
+      "english": "The road through Sadabad town is being widened, and most of its concrete work is done",
+      "hindi": "शहर में सड़क चौड़ी हो रही है, ज्यादातर सीमेंट का काम हो चुका",
       "inference": false,
-      "basis": "Amar Ujala video report (published 14 Jul 2026; the event was on the Monday before, i.e. 13 Jul) says a pyau (free drinking water point) and a passenger waiting room near the Sadabad bus stand were inaugurated by the local MP and MLA, on the initiative of the Nagar Panchayat chairperson. The report says the facilities give relief from summer heat and monsoon rain. Completed facility, so a delivered benefit. Town-level, inside the Nagar Panchayat.",
-      "sources": [
-        {"outlet": "Amar Ujala", "date": "2026-07-14", "url": "https://www.amarujala.com/video/uttar-pradesh/hathras/video-sathabtha-ma-payauu-oura-paratakashhalya-ka-lkarapanae-2026-07-14"}
-      ]
-    },
-    {
-      "rank": 2,
-      "english": "The Sadabad to Raya road is being widened, and most of the town stretch is already done",
-      "hindi": "सादाबाद-राया सड़क चौड़ी हो रही है, शहर वाला ज्यादातर हिस्सा बन चुका है",
-      "inference": false,
-      "basis": "Amar Ujala (31 May 2026): PWD (Lok Nirman Vibhag) urban stretch of 2.025 km being widened from 7 m to 10 m, about Rs 3 crore, with about 1,100 m of cement-concrete road; 925 of the 1,100 m is already complete. No completion date given. The headline calls it the Sadabad-Raya road, while the body calls the route Sadabad-Mathura (29.6 km, of which PWD Hathras handles 12.6 km). Positive is limited to the urban stretch.",
+      "basis": "Amar Ujala (31 May 2026): the 2.025 km urban stretch is being widened from 7 m to 10 m at about Rs 3 crore; about 1,100 m is cement-concrete work, of which 925 m is already complete. No completion date. The headline calls the route Sadabad-Raya, while the body calls it Sadabad-Mathura (29.6 km total, of which PWD Hathras handles 12.6 km); the positive is limited to the Sadabad town stretch. Town-level, inside the Nagar Panchayat.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-05-31", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-sadabad-raya-road-to-get-a-makeover-will-become-pothole-free-hathras-news-c-56-1-hts1003-149271-2026-05-31"}
       ]
     },
     {
+      "rank": 2,
+      "english": "A drinking water kiosk and a waiting room have been built near the bus stand",
+      "hindi": "बस स्टैंड पर प्याऊ और प्रतीक्षालय बन गया, गर्मी में राहत",
+      "inference": false,
+      "basis": "Amar Ujala video report (published 14 Jul 2026; the inauguration was on the Monday before, i.e. 13 Jul) says a pyau (free drinking water point) and a passenger waiting room near the Sadabad bus stand were inaugurated by the local MP and MLA, on the initiative of the Nagar Panchayat chairperson. The report says the facilities give travellers relief from heat and rain. Completed facility, so a delivered benefit. Town-level, inside the Nagar Panchayat.",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-07-14", "url": "https://www.amarujala.com/video/uttar-pradesh/hathras/video-sathabtha-ma-payauu-oura-paratakashhalya-ka-lkarapanae-2026-07-14"}
+      ]
+    },
+    {
       "rank": 3,
       "english": "Two of the new water tanks under Amrit 2.0 are about 80 percent built",
-      "hindi": "पानी की दो नई टंकियां लगभग 80 प्रतिशत बन चुकी हैं",
+      "hindi": "पानी की दो नई टंकियां करीब अस्सी प्रतिशत बन चुकी हैं",
       "inference": false,
-      "basis": "Amar Ujala (31 Mar 2026), sidebar of the Amrit 2.0 report: 4 new overhead tanks planned, 2 are 80 percent complete; target completion stated as June 2026. The same article says the Rs 43.19 crore plan is practically impossible to deliver on the ground because of water quality, so this is a weak positive, not a working water supply.",
+      "basis": "Amar Ujala (31 Mar 2026), sidebar of the Amrit 2.0 report: 4 new overhead tanks planned, 2 are 80 percent complete; target completion stated as June 2026, which has passed with no later update found. The same article says the Rs 43.19 crore plan is practically impossible to deliver on the ground because of water quality, so this is a weak, dated positive, not a working water supply.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-03-31", "url": "https://www.amarujala.com/uttar-pradesh/hathras/contaminated-underground-water-in-saadabad-hathras-2026-03-31"}
       ]
@@ -41,9 +41,9 @@
     {
       "rank": 4,
       "english": "Complaints are heard at grievance days, and some are settled on the spot",
-      "hindi": "समाधान दिवस में शिकायतें सुनी जाती हैं, कुछ का मौके पर ही हल हुआ",
+      "hindi": "समाधान दिवस में शिकायतें सुनी गईं, कुछ का मौके पर हल हुआ",
       "inference": false,
-      "basis": "Dainik Bhaskar (published 16 May 2026): a Sampoorna Samadhan Diwas joint hearing was held in Sadabad tehsil with the MLA, the DM and the SP. 235 complaints were received across the district, and 15 were resolved on the spot. District-level event held in Sadabad tehsil; the article does not say the complaints were only from this AC.",
+      "basis": "Dainik Bhaskar (published 16 May 2026): a Sampoorna Samadhan Diwas joint hearing was held in Sadabad tehsil with the MLA, the DM and the SP. 235 complaints were received across the district, and 15 were resolved on the spot. District-level figures (the event covered all four tehsils); the article does not say how many complaints came from this AC.",
       "sources": [
         {"outlet": "Dainik Bhaskar", "date": "2026-05-16", "url": "https://bhaskardigital.com/hathras-during-the-sampoorna-samadhan-diwas/"}
       ]
@@ -51,9 +51,9 @@
     {
       "rank": 5,
       "english": "A power fault at the Marghat Road substation was repaired and supply came back the same day",
-      "hindi": "उपकेंद्र की खराबी उसी दिन ठीक हो गई, बिजली वापस आ गई",
+      "hindi": "उपकेंद्र की खराबी उसी दिन ठीक हुई, बिजली वापस आ गई",
       "inference": false,
-      "basis": "Amar Ujala (16 Sep 2026): a cable box fault in the cold feeder BCB at the 33/11 kV Marghat Road substation in Sadabad cut supply for about 2,000 consumers from about 8 AM to 1:30 PM; XEN Amit Kumar said it was repaired and supply restored. Single incident and an official account; weakest positive.",
+      "basis": "Amar Ujala (16 Sep 2026): a cable box fault in the cold feeder at the 33/11 kV Marghat Road substation in Sadabad cut supply for about 2,000 consumers from about 8 AM; XEN said it was repaired and supply restored, about 1:30 PM. Single incident and an official account, so this is the weakest positive. The same incident is used in negative 2.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-16", "url": "https://www.amarujala.com/uttar-pradesh/hathras/five-thousand-consumers-in-sadabad-faced-a-power-outage-for-five-hours-due-to-a-fault-hathras-news-c-58-1-sdb1001-102816-2026-09-16"}
       ]
@@ -62,10 +62,10 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "The water here is salty and heavy, and we cannot drink it without a filter",
-      "hindi": "यहां का पानी खारा और भारी है, बिना फिल्टर के पीना मुश्किल है",
+      "english": "The water here is salty and heavy, and it is impossible to drink without a filter",
+      "hindi": "यहां का पानी खारा और भारी है, बिना फिल्टर पीना नामुमकिन है",
       "inference": false,
-      "basis": "Amar Ujala (31 Mar 2026), Sadabad Nagar Panchayat: test borings for proposed tubewells show TDS of 1,800 to 2,000 (the article's drinking-water standard is below 500). Jal Nigam Executive Engineer says no suitable boring site has been found yet. Residents without RO filters say they have no option but to drink it; advocate Surendra Parashar says the water tastes bad, and resident Ashok Verma says it is too heavy and salty without filtering. The article gives 18 proposed tubewells in the text and 20 in the sidebar; the TDS figure is quoted as stated.",
+      "basis": "Amar Ujala (31 Mar 2026), Sadabad Nagar Panchayat: test borings for proposed tubewells show TDS 'above 1800-2000' (the article's drinking-water standard is below 500); the Jal Nigam Executive Engineer says the tubewell sites are still being sought and the current reading is 2000. Residents without RO filters say they have no option but to drink it; a resident says it is too heavy and salty to drink without filtering. The main text gives 18 proposed tubewells and the sidebar 20; the TDS figure is quoted as stated. Town-level, inside the Nagar Panchayat.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-03-31", "url": "https://www.amarujala.com/uttar-pradesh/hathras/contaminated-underground-water-in-saadabad-hathras-2026-03-31"}
       ]
@@ -75,27 +75,27 @@
       "english": "When power goes, we have to fetch water from handpumps",
       "hindi": "बिजली जाने पर हैंडपंप से पानी भरना पड़ता है",
       "inference": false,
-      "basis": "Amar Ujala (16 Sep 2026): about 2,000 consumers in Sadabad were without power for about five hours after a fault at the 33/11 kV Marghat Road substation (Town One and Cold feeders). Residents had to fetch water from handpumps, and flour mills stopped during the hot spell. The article does not record a public complaint.",
+      "basis": "Amar Ujala (16 Sep 2026): about 2,000 consumers in Sadabad were without power for about five hours after a fault at the 33/11 kV Marghat Road substation (Town One and Cold feeders), until about 1:30 PM. Residents had to fetch water from handpumps, and flour mills stopped. The article does not record a public complaint.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-09-16", "url": "https://www.amarujala.com/uttar-pradesh/hathras/five-thousand-consumers-in-sadabad-faced-a-power-outage-for-five-hours-due-to-a-fault-hathras-news-c-58-1-sdb1001-102816-2026-09-16"}
       ]
     },
     {
       "rank": 3,
-      "english": "The market road was broken for four years before it was rebuilt, and only half is done",
-      "hindi": "बाजार की सड़क चार साल खराब रही, अभी आधी ही बनी है",
+      "english": "The main market road was broken for four years and is still not fully rebuilt",
+      "hindi": "बाजार की सड़क चार साल खराब रही, अभी पूरी नहीं बनी",
       "inference": false,
-      "basis": "Amar Ujala (7 Jun 2026), headline 'Road in Sadabad's main market constructed after four years': about 1,100 m from Ganesh Dwar to Agra Chungi, about Rs 99 lakh, by the Nagar Panchayat. Half was built overnight; the rest is to follow in a later phase. Locals and traders said they had been travelling on a dilapidated road, though no direct quotes are given.",
+      "basis": "Amar Ujala (7 Jun 2026), headline 'after four years' (चार साल बाद बनी सादाबाद के मुख्य बाजार की सड़क): about 1,100 m from Ganesh Dwar to Agra Chungi, about Rs 99 lakh, by the Nagar Panchayat. Work done overnight covered a large part of the stretch; the rest is for a later phase, with no completion date. The article describes residents travelling on a damaged surface for years, with no direct quotes from residents. Town-level, inside the Nagar Panchayat.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-06-07", "url": "https://www.amarujala.com/uttar-pradesh/hathras/road-in-sadabads-main-market-constructed-after-four-years-hathras-news-c-56-1-sali1016-149590-2026-06-07"}
       ]
     },
     {
       "rank": 4,
-      "english": "Water stands on the roads and lanes when it rains, and the drains are poor",
-      "hindi": "बारिश में सड़क और गलियों में पानी भर जाता है, नालियां खराब हैं",
+      "english": "When it rains, water collects on the roads, and the drains are not working properly",
+      "hindi": "बारिश में सड़कों पर पानी भर जाता है, नालियां ठीक नहीं",
       "inference": false,
-      "basis": "Amar Ujala (21 Jun 2026): Rs 98.01 lakh of drain and sewer works sanctioned for the Nagar Panchayat from the 15th Finance Commission tied grant, including replacing old drains in Ward 08 and on Mathura Road, with the ADM saying the aim is to reduce waterlogging (works approved, not reported as completed). Amar Ujala (29 Sep 2026): the DM ordered a sanitation drive from 1 October focused on draining waterlogged areas. Waterlogging is acknowledged by officials; the voter line is a paraphrase.",
+      "basis": "Amar Ujala (21 Jun 2026): Rs 98.01 lakh of drain works sanctioned for the Nagar Panchayat from the 15th Finance Commission tied grant, to replace old drains including at Salempur Tiraha (Ward 08) and on Mathura Road; the article names waterlogging at Salempur Tiraha as the problem. Only administrative and financial sanction is reported, no work started. Amar Ujala (29 Sep 2026, video): the DM ordered a sanitation drive from 1 October focused on draining waterlogged areas in Nagar Panchayat Sadabad. The voter line is a paraphrase of these reports.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-06-21", "url": "https://www.amarujala.com/uttar-pradesh/hathras/drainage-and-sanitation-system-in-sadabad-2026-06-21"},
         {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/video/uttar-pradesh/hathras/video-nagara-pacayata-sathabtha-ka-daema-na-kaya-oucaka-narakashhanae-2026-09-29"}
@@ -103,15 +103,21 @@
     },
     {
       "rank": 5,
-      "english": "The Sadabad to Mathura road is still broken, and work on that side is only starting",
-      "hindi": "सादाबाद-मथुरा सड़क अभी जर्जर है, उस तरफ काम अभी शुरू हो रहा है",
+      "english": "The Sadabad to Mathura road is still broken, and repair work is only starting",
+      "hindi": "सादाबाद-मथुरा सड़क जर्जर है, काम अभी शुरू हो रहा है",
       "inference": false,
-      "basis": "Amar Ujala (31 May 2026): the 29.6 km Sadabad road is described as dilapidated, with travellers bouncing over it. The Mathura-side stretch (about 10.4 km) renovation is approved at about Rs 4.77 crore; the tender is finished and construction is being started. No completion date. AC membership unconfirmed for the stretch outside Sadabad town, since the Wikipedia extent page names no tehsils or villages.",
+      "basis": "Amar Ujala (31 May 2026): the 29.6 km Sadabad-Mathura road is described as dilapidated. The Mathura-side stretch (about 10.4 km) renovation is approved at about Rs 4.77 crore; the tender is finished and construction is being started. No completion date. AC membership unconfirmed for this road: the Wikipedia AC page names no tehsils or villages, and the article does not say which stretches are in Sadabad AC. Used as the fifth, lower-confidence negative; not counted in ac_specific_negatives.",
       "sources": [
         {"outlet": "Amar Ujala", "date": "2026-05-31", "url": "https://www.amarujala.com/uttar-pradesh/hathras/the-sadabad-raya-road-to-get-a-makeover-will-become-pothole-free-hathras-news-c-56-1-hts1003-149271-2026-05-31"}
       ]
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "Identity confirmed from the Wikipedia 'List of constituencies of the Uttar Pradesh Legislative Assembly' row: 79 Sadabad, district Hathras, reserved status None, Lok Sabha Hathras. The Sadabad Assembly constituency Wikipedia page names no tehsils, villages or extent, so AC membership rests on the namesake rule (Sadabad Nagar Panchayat town) and on the news reports naming Sadabad town. Sadabad-area villages such as Palhawat (Bhaskar, 28 May 2026, 3 days without power) and the 50-village saline water issue (Patrika 22 Mar 2018, which says 50 villages across Sadabad and Sikandrarao ACs) were not used because AC membership is unconfirmed or the source is too old. Sadabad-Raya and Sadabad-Mathura road naming conflicts between the Amar Ujala headline and body. The Hathras district page and an older MLA listing name Ramveer Upadhyay, while the Wikipedia AC page names Pradeep Kumar Singh (RLD) and Amar Ujala names Pradeep Chaudhary; no politician names are used in the statements. Sugarcane dues, stray cattle and highway accidents were searched but no Sadabad-specific 2024-2026 reporting was found (an Amar Ujala Dec 2023 road-accident video gives no date and does not name the highway, so it was not used). Election framing (2027 polls, caste arithmetic) was skipped per the brief. The Mar 2026 Amar Ujala report is internally inconsistent on tubewell count (18 vs 20) and the Amrit 2.0 completion date is stated as June 2026 with no later update found. Field checks recommended: current status of the Marghat Road substation cable, the drain works, and whether the Sadabad-Mathura road's Mathura-side stretch has started."
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 0,
+    "ac_specific_negatives": 4,
+    "changes": "Opened all 8 unique cited URLs and checked each claim. Corrected the TDS basis (article says 'above 1800-2000', not a range), the market road claim (article says a large part was built overnight, not half), and the road positive (the 925 of 1,100 m figure is the concrete stretch, not the whole town stretch). Shortened Hindi lines to 13 words or fewer; reworded positive 1 to say most concrete work is done. Re-ranked positives (road widening first). Replaced the saline-water and Sadabad-Raya naming in statements with the Sadabad town/Mathura wording the sources use. Searched for sugarcane dues, stray cattle, hospital and local project reports for Sadabad 2024-26: none found. Searched AC extent: Wikipedia AC page gives no extent; a community wiki and the Hathras district page do not map villages to Sadabad AC; Prabhat Khabar and Hindi Wikipedia could not be read (410/404/403). Dropped the Patrika 2018 saline report (too old, names two ACs) and the Ucha Gaon police chowki (police station area, not AC-confirmed)."
+  },
+  "notes": "Identity confirmed from the Wikipedia 'List of constituencies of the Uttar Pradesh Legislative Assembly' row: 79 Sadabad, district Hathras, reserved status None. The Sadabad Assembly constituency Wikipedia page gives no tehsils, villages or wards, so AC membership of the Sadabad town items rests on the namesake rule (Sadabad Nagar Panchayat town) and on news reports naming Sadabad town. A community wiki (bharatpedia, unverified, could not be opened) claims Sadabad tehsil plus KC Mursan and Mursan NP; the Hathras district Wikipedia page lists Sadabad as one of the three constituencies named in the district but does not map villages to it. Sadabad-area villages were not used because AC membership is unconfirmed. The MLA name differs between sources (Wikipedia AC page, Amar Ujala and Bhaskar reports, and an older listing), so no politician name is used in any statement. Road naming conflict: the Amar Ujala 31 May 2026 headline says Sadabad-Raya, the body says Sadabad-Mathura. The Mathura-side stretch is AC-unconfirmed (negative 5). No Sadabad-specific 2024-26 sugarcane dues or stray-cattle source was found. Field checks recommended: current status of the Marghat Road substation cable, the drain works, the Amrit 2.0 tanks (June 2026 target passed), the market road's next phase, and whether the Mathura-side stretch has started."
 }
