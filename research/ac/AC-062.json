@@ -5,15 +5,43 @@
   "reserved": "None",
   "district": "Gautam Buddh Nagar",
   "region": "Paschim UP",
-  "summary": "Complaints centre on Greater Noida West's missing government hospital and services, waterlogging and drains in Dadri town and villages, and society maintenance hikes, while people appreciate new CC roads and drains that have started in Devla, Dadri town and Dujana.",
+  "summary": "Complaints centre on Greater Noida West's missing government hospital, school and services, waterlogging in Greater Noida West and Dadri town, and society maintenance hikes, while people appreciate the Dadri-Greater Noida overbridge, new bypasses, road widening and the CC road started in Devla.",
   "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
   "positives": [
     {
       "rank": 1,
-      "english": "Devla village CC road construction has started, villagers had long demanded it",
+      "english": "Dadri to Greater Noida overbridge has been built",
+      "hindi": "दादरी से ग्रेटर नोएडा के लिए ओवरब्रिज बन गया है",
+      "inference": false,
+      "basis": "Amar Ujala (18 Sep 2026, updated same day): article lists a Dadri to Greater Noida overbridge among completed works, as stated by the local MLA at a press meeting; not independently verified. Completion date and cost not given. The article is Dadri-centred and does not name the vidhan sabha; Dadri town is inside AC 62 per the Wikipedia Dadri page extent.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-18",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/development-projects-transform-the-landscape-of-amenities-in-dadri-noida-news-c-23-1-lko1064-106399-2026-09-18"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Road widening from Dadri towards Bulandshahr is moving fast",
+      "hindi": "दादरी से बुलंदशहर की ओर सड़क चौड़ीकरण तेजी से चल रहा है",
+      "inference": false,
+      "basis": "ETV Bharat (19 Sep 2026, published 11:25 AM IST): widening of the road from Dadri via Chitehra to Bulandshahr and Sikandarabad is 'going fast' (तेजी से चल रहा है), with a median divider, two lanes each side and drains being built. Cost not stated. Under construction, not completed.",
+      "sources": [
+        {
+          "outlet": "ETV Bharat",
+          "date": "2026-09-19",
+          "url": "https://www.etvbharat.com/hi/state/dadri-development-projects-new-power-house-100-bed-hospital-stadium-road-widening-dls26091901225"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "CC road in Devla village has started, villagers had long demanded it",
       "hindi": "देवला में सीसी रोड का काम शुरू हुआ, लंबे समय से मांग थी",
       "inference": false,
-      "basis": "Amar Ujala (26 Jun 2026): about 238 m CC road at Devla village in Dadri assembly, Rs 27 lakh; construction just started. Article says villagers had long demanded the road and it will stop waterlogging on that path.",
+      "basis": "Amar Ujala (26 Jun 2026, 7:55 PM IST): about 238 m CC road at Devla village, from the Dadri-Noida road to Aryavrat School, Rs 27 lakh; article says villagers had long demanded it. Work has just started, not completed. Article names Dadri as the assembly constituency.",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -23,58 +51,30 @@
       ]
     },
     {
-      "rank": 2,
-      "english": "CC road and pucca drain from GT Road to the railway overbridge in Dadri town",
-      "hindi": "जीटी रोड से ओवरब्रिज तक सीसी रोड और पक्का नाला बनने लगा",
-      "inference": false,
-      "basis": "Raftar Today (page last updated 7 Mar 2026): about Rs 16 crore CC road and pucca drain, GT Road to railway overbridge, Dadri Nagar. Article says foundation stone laid and work launched; physical progress not confirmed. Date is the page's last-updated date.",
-      "sources": [
-        {
-          "outlet": "Raftar Today",
-          "date": "2026-03-07",
-          "url": "https://raftartoday.com/the-development-of-dadri-has-gained-momentum-modern-cc-road-and-pucca-drain-will-be-constructed-from-gt-road-to-railway-overbridge-at-a-cost-of-rs-16-crore-relief-from-the-problem-of-traffic-and-drain/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "english": "Foundation laid for repair of the broken Dujana to Dadri bypass road",
-      "hindi": "दुजाना से दादरी बाईपास तक जर्जर सड़क का शिलान्यास हुआ",
-      "inference": false,
-      "basis": "Raftar Today (page last updated 4 May 2026): 0.650 km Dujana-Sadulapur-Kheri-Dadri bypass road, about Rs 89.24 lakh under PWD; article names Dadri assembly. Only the foundation stone is reported, not completed work.",
-      "sources": [
-        {
-          "outlet": "Raftar Today",
-          "date": "2026-05-04",
-          "url": "https://raftartoday.com/short-distance-big-change-mla-tejpal-nagar-lays-foundation-stone-for-development-with-rs-89-lakh-road-in-dadri/"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "english": "Road widening from Dadri towards Bulandshahr is moving fast",
-      "hindi": "दादरी से बुलंदशहर की ओर सड़क चौड़ीकरण का काम तेजी से चल रहा है",
+      "english": "Rupwas bypass has been built to connect with GT Road",
+      "hindi": "रूपवास बाईपास बना, जीटी रोड से जोड़ा गया",
       "inference": false,
-      "basis": "ETV Bharat (19 Sep 2026): under-construction widening with median divider, two lanes each side and drains, for the Dadri to Chitehra-Bulandshahr-Sikandarabad road; article says work is going fast. Cost not stated.",
+      "basis": "Amar Ujala (18 Sep 2026): article says the Rupwas bypass was built to link with GT Road (जीटी रोड को जोड़ने के लिए रूपवास बाईपास का निर्माण कराया गया है), as stated by the local MLA; not independently verified. Cost and completion date not given.",
       "sources": [
         {
-          "outlet": "ETV Bharat",
-          "date": "2026-09-19",
-          "url": "https://www.etvbharat.com/hi/state/dadri-development-projects-new-power-house-100-bed-hospital-stadium-road-widening-dls26091901225"
+          "outlet": "Amar Ujala",
+          "date": "2026-09-18",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/development-projects-transform-the-landscape-of-amenities-in-dadri-noida-news-c-23-1-lko1064-106399-2026-09-18"
         }
       ]
     },
     {
       "rank": 5,
-      "english": "CC road from Kulesra to Surajpur and Tilpata is under construction",
-      "hindi": "कुलेसरा से सूरजपुर और तिलपता तक सीसी रोड बन रही है",
+      "english": "Canal bypass from Railway Road has eased travel towards Ghaziabad",
+      "hindi": "नहर बाईपास बनने से गाजियाबाद की ओर आने-जाने में राहत",
       "inference": false,
-      "basis": "ETV Bharat (19 Sep 2026): CC road work from Kulesra to Surajpur and Tilpata 'Dadri area' is continuing with a new contractor after the earlier one was blacklisted. AC membership of Kulesra, Surajpur and Tilpata is unconfirmed (article does not name the vidhan sabha for these villages).",
+      "basis": "Amar Ujala (18 Sep 2026): article says the bypass from Railway Road to the canal has given relief to people travelling towards Ghaziabad (रेलवे रोड से नहर बाईपास बनने से गाजियाबाद की ओर आने-जाने वाले लोगों को राहत मिली है), as stated by the local MLA; not independently verified. Article is Dadri-centred; Railway Road is taken to be in Dadri town (inside AC 62 per Wikipedia extent).",
       "sources": [
         {
-          "outlet": "ETV Bharat",
-          "date": "2026-09-19",
-          "url": "https://www.etvbharat.com/hi/state/dadri-development-projects-new-power-house-100-bed-hospital-stadium-road-widening-dls26091901225"
+          "outlet": "Amar Ujala",
+          "date": "2026-09-18",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/development-projects-transform-the-landscape-of-amenities-in-dadri-noida-news-c-23-1-lko1064-106399-2026-09-18"
         }
       ]
     }
@@ -85,7 +85,7 @@
       "english": "Greater Noida West has no full government hospital, only Bisrakh CHC",
       "hindi": "ग्रेटर नोएडा वेस्ट में पूरा सरकारी अस्पताल नहीं बिसरख सीएचसी ही सहारा",
       "inference": false,
-      "basis": "NCR Khabar (26 Jun 2026): Bisrakh CHC is the only government facility, a 30-bed CHC; district hospital in Noida 35-40 min away, GIMS 50-60 min. Quote from NEFOWA president: no fully developed government hospital for this population. Article states Greater Noida West falls under Dadri assembly.",
+      "basis": "NCR Khabar (last updated 26 Jun 2026): Bisrakh CHC, a 30-bed community health centre, is the only government facility for the area; district hospital in Noida 35-40 min away, GIMS 50-60 min. Resident association president quoted saying Greater Noida West is home to lakhs of people. Article states Greater Noida West falls under Dadri assembly (दादरी विधानसभा क्षेत्र के अंतर्गत आने वाले ग्रेटर नोएडा वेस्ट); Wikipedia extent says 'part of Greater Noida', without naming GNW.",
       "sources": [
         {
           "outlet": "NCR Khabar",
@@ -96,15 +96,20 @@
     },
     {
       "rank": 2,
-      "english": "Tilpata has waterlogging, garbage, broken road and jams at container depot",
-      "hindi": "तिलपता में जलभराव, गंदगी, जर्जर सड़क और कंटेनर डिपो पर रोज़ जाम",
+      "english": "In rain, Greater Noida West basement parking fills with water (Eco Village-1)",
+      "hindi": "बारिश में बेसमेंट पार्किंग में पानी भर जाता है",
       "inference": false,
-      "basis": "Chetna Manch (19 Sep 2026): villagers' anger in Tilpata (Dadri area, Greater Noida) lists waterlogging (जलभराव), garbage, damaged road, poor drainage and jams in front of the container depot; indefinite dharna from 20 Sep 2026. AC membership unconfirmed: article says Dadri area and Dadri sub-divisional magistrate but does not name the vidhan sabha.",
+      "basis": "ETV Bharat English (10 Jul 2026, 10:28 PM IST): residents of Eco Village-1 in Greater Noida West complained of waterlogging in the basement parking area, raising vehicle-safety concerns and water seeping from the basement ceiling. Replaces the earlier Tilpata item, whose AC membership could not be confirmed. AC 62 membership of Greater Noida West: Amar Ujala (25 Jul 2026) states Greater Noida West is currently part of Dadri vidhan sabha.",
       "sources": [
         {
-          "outlet": "Chetna Manch",
-          "date": "2026-09-19",
-          "url": "https://chetnamanch.com/greater-noida/tilpata-village-protest-dadri-greater-noida-waterlogging-jam"
+          "outlet": "ETV Bharat",
+          "date": "2026-07-10",
+          "url": "https://www.etvbharat.com/en/state/man-dies-after-falling-into-rainwater-filled-drain-in-noida-fresh-rain-damage-triggers-civic-action-enn26071007803"
+        },
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-07-25",
+          "url": "https://www.amarujala.com/delhi-ncr/noida/when-will-we-have-our-own-legislative-assembly-greater-noida-west-residents-are-asking-grnoida-news-c-23-1-lko1064-101190-2026-07-25"
         }
       ]
     },
@@ -113,7 +118,7 @@
       "english": "Rain floods Dadri town, drainage has been a long-standing problem",
       "hindi": "बारिश में दादरी नगर में पानी भर जाता है, निकासी नहीं",
       "inference": false,
-      "basis": "Raftar Today (page last updated 7 Mar 2026): article describes a long-standing drainage problem in the Dadri Nagar area, with waterlogging on rainy days causing big trouble for residents; names Dadri assembly. Date is the page's last-updated date.",
+      "basis": "Raftar Today (page 'Last Updated: 7 Mar 2026'; original publication date not shown on the page): article describes waterlogging on rainy days on the GT Road to railway overbridge stretch in Dadri Nagar, a long-dilapidated road where residents faced waterlogging; officials and locals expect a drainage fix. Dadri Nagar is Dadri MB, inside AC 62 per Wikipedia extent.",
       "sources": [
         {
           "outlet": "Raftar Today",
@@ -127,7 +132,7 @@
       "english": "Greater Noida West lacks government school, cremation ground and parks",
       "hindi": "ग्रेटर नोएडा वेस्ट में सरकारी स्कूल, श्मशान घाट और पार्क तक नहीं",
       "inference": false,
-      "basis": "NCR Khabar (4 Jul 2026): residents say even one government school is missing (सरकारी स्कूल तक नसीब नहीं हुआ है), no public cremation ground, and parks/stadium/Ramlila ground are lacking; demand for a government multi-specialty hospital for 7-8 years. Dadri link to Greater Noida West taken from the 26 Jun 2026 NCR Khabar article.",
+      "basis": "NCR Khabar (last updated 4 Jul 2026): residents say not even one government school is available, there is no public cremation ground, and parks, stadium and Ramlila ground are lacking; a resident says 7-8 years of demand for a government multi-specialty hospital. Article states Greater Noida West falls under Dadri vidhan sabha.",
       "sources": [
         {
           "outlet": "NCR Khabar",
@@ -146,7 +151,7 @@
       "english": "Society maintenance charges raised, residents fear services will be cut",
       "hindi": "सोसाइटी का मेंटेनेंस बढ़ा, अब सुविधाएं कटने का डर",
       "inference": false,
-      "basis": "NCR Khabar (Sep 2026, last updated 6 Sep 2026; article filed under Dadri assembly): a Greater Noida West society's maintenance charges were raised, residents are unhappy, and the maintenance company's email said non-essential services would be cut. Article says the issue has spread across Greater Noida West.",
+      "basis": "NCR Khabar (last updated 6 Sep 2026; original publication date not shown): a Greater Noida West society's maintenance charges were raised; residents are unhappy; the maintenance company's email said services beyond the main facilities would be reduced; the article cites inflation, fuel prices and a guard salary rise as cost drivers. Article is filed under Dadri assembly. Source is a politics-heavy column; only the maintenance facts are used here.",
       "sources": [
         {
           "outlet": "NCR Khabar",
@@ -156,6 +161,12 @@
       ]
     }
   ],
-  "ac_specific_negatives": 4,
-  "notes": "AC 62 Dadri confirmed from the Wikipedia constituency list (number 62, Dadri, None, district Gautam Buddha Nagar, Lok Sabha Gautam Buddh Nagar); the Wikipedia Dadri page extent names Dadri, Kacheda Warsabad, Kamnagar, Bisrakh Jalalpur, Patwari, Chipiyana Bujurg, Chhapraula, Roza Yakubpur, Haibatpur, Dadri MB, and Surajpur in Greater Noida. Greater Noida West is stated by NCR Khabar (26 Jun 2026) to fall under Dadri. Unconfirmed AC membership: Tilpata, Kulesra, Surajpur (only the 'Dadri area' phrase in sources). Bil Akbarpur (Dadri tehsil, ETV Bharat 15 Jul 2024, drains and waterlogging) was found but excluded because its AC is not confirmed. Several Raftar Today and Amar Ujala pages show last-updated dates rather than original publication dates; dates are noted as such. Positives 2 and 3 are foundation-stone reports, so physical progress needs a field check. Most local civic sourcing is from Hindi local outlets; no Amar Ujala or Dainik Jagran Dadri civic report was reachable through search. Haryana's Dadri (Charkhi Dadri) returns many results and was excluded."
+  "ac_specific_negatives": 5,
+  "round2": {
+    "verified_sources": 9,
+    "removed_sources": 2,
+    "ac_specific_negatives": 5,
+    "changes": "Positives: removed Dujana bypass (foundation stone only), GT Road-overbridge CC road (foundation/launch only) and Kulesra-Surajpur-Tilpata CC road (AC unconfirmed); added Dadri-Greater Noida overbridge, Rupwas bypass and Railway Road canal bypass (Amar Ujala 18 Sep 2026); kept Devla CC road and Dadri-Bulandshahr widening; re-ranked. Negatives: replaced Tilpata (AC membership unconfirmed; not in Wikipedia extent, no source names its vidhan sabha) with Eco Village-1 basement waterlogging (ETV Bharat 10 Jul 2026, plus Amar Ujala 25 Jul 2026 naming Dadri vidhan sabha for Greater Noida West); kept the other four, with basis rewritten to remove politics and names and dates labelled as last-updated where no publication date is shown. Summary updated. Removed sources: Raftar Today 4 May 2026 (Dujana) and Chetna Manch 19 Sep 2026 (Tilpata). Added sources: Amar Ujala 18 Sep and 25 Jul 2026, ETV Bharat 10 Jul 2026."
+  },
+  "notes": "AC 62 Dadri confirmed from the Wikipedia constituency list (No. 62, Dadri, Reservation None, Lok Sabha Gautam Buddh Nagar). The Wikipedia Dadri, Uttar Pradesh page extent names Dadri (Dadri MB, Dadri tehsil), villages of Bisrakh block (Kacheda Warsabad, Kamnagar, Bisrakh Jalalpur, Patwari, Chipiyana Bujurg, Chhapraula, Roza Yakubpur, Haibatpur, Khodana Kalan, Saini, Khedi, Khairpur Gujar, Achheja) and Surajpur (Greater Noida). Greater Noida West is not named on Wikipedia; it is 'part of Greater Noida'. Its AC 62 membership rests on news reports naming Dadri vidhan sabha for Greater Noida West (NCR Khabar 26 Jun and 4 Jul 2026; Amar Ujala 25 Jul 2026). Not confirmed inside AC 62: Tilpata and Kulesra (Wikipedia does not name them; no source names their vidhan sabha, and the Hindi web search found nothing). Surajpur is named on Wikipedia as Surajpur (Greater Noida), but no source ties the Kulesra-Surajpur road to AC 62. Dropped items: Dujana-Dadri bypass (foundation only), GT Road overbridge CC road (foundation/launch only), Kulesra-Surajpur-Tilpata road and Tilpata waterlogging (AC unconfirmed). Bil Akbarpur (ETV 2024) was excluded earlier because its AC is not confirmed. Dates: Raftar Today (7 Mar 2026) and NCR Khabar (26 Jun, 4 Jul, 6 Sep 2026) show last-updated dates; no original publication date was visible, so these are last-updated dates. Amar Ujala (26 Jun, 18 Sep, 25 Jul 2026) and ETV Bharat (19 Sep, 10 Jul 2026) show publication dates. Positives 1, 4 and 5 rest on MLA statements reported in Amar Ujala 18 Sep 2026 and are not independently verified; the article does not give completion dates or costs for the overbridge, Rupwas bypass or Railway Road bypass. Field check advised. Haryana's Dadri (Charkhi Dadri) was excluded."
 }

@@ -13,7 +13,7 @@
       "english": "Roadways buses run from Bulandshahr to Anupshahr every hour",
       "hindi": "बुलंदशहर से अनूपशहर के लिए हर घंटे रोडवेज बस मिलती है",
       "inference": false,
-      "basis": "Amar Ujala (22 Oct 2025, Ghaziabad Bureau, dateline Bulandshahr): the article says hourly service to Anupshahar is already running from about 6:30 AM to 6:30 PM from the Bulandshahr Roadways stand; the depot will add buses before Chhath and every 30 minutes at Kartik Purnima crowds (planned). No residents quoted. Service status after Oct 2025 not verified",
+      "basis": "Amar Ujala (22 Oct 2025, Ghaziabad Bureau, dateline Bulandshahr): article says buses to Anupshahar currently run every hour, about 6:30 AM to 6:30 PM, from the Bulandshahr roadways stand. Article also says extra buses start 25 Oct before Chhath and every 30 minutes once Kartik Mela begins (plans as stated). No residents quoted. Status after Oct 2025 not verified",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -27,7 +27,7 @@
       "english": "Repair work on the Anupshahr Ganga bridge is starting",
       "hindi": "अनूपशहर गंगा पुल की मरम्मत का काम शुरू होने जा रहा है",
       "inference": false,
-      "basis": "Amar Ujala (7 Apr 2026, Ghaziabad Bureau): PWD repair and strengthening of the dilapidated Ganga bridge at Anupshahr; route closed for about 15 days with diversions; article says work begins Wednesday 8 Apr 2026 at 7 AM. Headline says 'begins today', body gives the Wednesday date. No completion date stated; no residents quoted; whether the work finished is not found in any source checked",
+      "basis": "Amar Ujala (7 Apr 2026, Ghaziabad Bureau, dateline Bulandshahr/Anupshahar): PWD repair and strengthening of the Ganga bridge; work to begin Wednesday 8 Apr 2026 at 7 AM; traffic on the route diverted for about 15 days. Headline says 'from today', body gives 8 Apr. No completion date stated; no residents quoted; completion not found in any source checked",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -38,10 +38,10 @@
     },
     {
       "rank": 3,
-      "english": "*Flood-hit farmers in UP got Rs 493 crore input subsidy in their bank accounts",
+      "english": "*Rs 493 crore paid to 9,18,091 UP farmers hit by floods and rain losses",
       "hindi": "*बाढ़ से नुकसान वाले किसानों के खाते में 493 करोड़ रुपये आए",
       "inference": true,
-      "basis": "Inference: statewide DBT payment of Rs 493 crore to 9,18,091 farmers announced 12 Oct 2026 (AIR/newsonair) for losses from floods, heavy rain, hailstorm and cyclone. Neither Anupshahr nor Bulandshahr is named in the article, so local receipt is not confirmed. Weak positive pending field check",
+      "basis": "Inference: All India Radio (12 Oct 2026): Rs 493 crore to 9,18,091 farmers for losses from floods, heavy rain, hailstorm and cyclone; event organised in Gorakhpur. Neither Anupshahr nor Bulandshahr is named, so local receipt is not confirmed. Statewide; weak positive pending field check",
       "sources": [
         {
           "outlet": "All India Radio (newsonair)",
@@ -55,7 +55,7 @@
       "english": "*Roadways buses are planned from Shikarpur to Anupshahr and Pahasu",
       "hindi": "*शिकारपुर से अनूपशहर के लिए रोडवेज बसें चलने की योजना है",
       "inference": true,
-      "basis": "Inference: Amar Ujala (11 Dec 2025, Ghaziabad): Bulandshahr depot plans two buses each on Shikarpur-Anupshahr and Shikarpur-Pahasu routes; article says 'planned, not yet running', villages being surveyed, no start date. Not confirmed running",
+      "basis": "Inference: Amar Ujala (11 Dec 2025, Ghaziabad): Bulandshahr depot plans two buses each on Shikarpur-Anupshahr and Shikarpur-Pahasu routes. Article says buses are not running yet and villages are being surveyed first; no start date. A plan, not a delivered benefit, so it is weak under the positives rule",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -69,7 +69,7 @@
       "english": "*Bulandshahr-Anupshahr highway four-lane proposal has gone to the state for approval",
       "hindi": "*बुलंदशहर-अनूपशहर सड़क को चार लेन करने का प्रस्ताव शासन को भेजा गया",
       "inference": true,
-      "basis": "Inference: Amar Ujala (8 Jul 2026): PWD sent a Rs 175 crore four-lane proposal to the state; approval expected in about two months; construction to start in phases after approval; no start or completion date. This is an announcement only, which the template does not count as a positive; listed because it is the only other planned benefit found for Anupshahr",
+      "basis": "Inference: Amar Ujala (8 Jul 2026, Ghaziabad): PWD has sent a Rs 175 crore four-lane proposal to the state; approval expected within about two months. An announcement only, not a delivered benefit; listed because no other planned benefit for Anupshahr was found in sources checked",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -99,7 +99,7 @@
       "english": "A 10-hour jam in Anupshahr when pilgrims crowded the Ganga for Shraddh Purnima bath",
       "hindi": "श्राद्ध पूर्णिमा पर गंगा स्नान की भीड़ में अनूपशहर में 10 घंटे जाम",
       "inference": false,
-      "basis": "Amar Ujala (27 Sep 2026, Ghaziabad Bureau): jam lasted about 10 hours from late Friday night to Saturday afternoon; queues from Mastram Ghat to Roopwas, about 5 km on Anupshahar-Dibai road, about 2 km on Anupshahar-Bulandshahr road up to Karanpur village, and the Anupshahar Adda to Bulandshahr Adda bypass. SP Dehat and CO Bharat Sonkar cleared it; CO blamed wrong-way driving and parking. No future measures announced; no residents quoted",
+      "basis": "Amar Ujala (27 Sep 2026, Ghaziabad Bureau): jam lasted about 10 hours, Friday night to Saturday afternoon, during Shradh Purnima Ganga bath crowds. Queues from Mastram Ghat to Roopwas and about 2 km to Karanpur village on the Anupshahar-Bulandshahr road; the Anupshahar Adda to Bulandshahr Adda bypass was full. SP Dehat and CO Anupshahr came onto the roads with police; CO blamed sudden vehicle pressure and drivers going the wrong way. No future measures announced; no residents quoted. Mastram Ghat, Roopwas and Karanpur are not named in the Wikipedia extent; they are within Anupshahr town and its approaches, so membership is unconfirmed beyond the town itself",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -111,9 +111,9 @@
     {
       "rank": 3,
       "english": "Ganga flood covered Anupshahr ghats and the road to Gangadwar, and farm crops went under water",
-      "hindi": "गंगा उफान पर है, घाट डूबे और गंगा द्वार की सड़क तक पानी आ गया",
+      "hindi": "गंगा उफान पर, घाट डूबे, गंगा द्वार की सड़क तक पानी पहुंचा",
       "inference": false,
-      "basis": "Patrika (31 Jul 2026, Anupshahr, Bulandshahr): Bijnor barrage release raised Ganga about 2.5 feet in 24 hours at Anupshahr; several ghats submerged; water reached the Jahnavi Platform and main road to Gangadwar; villages Ahar, Mubarakpur, Margpur, Sirora, Torai and Bachchi Khera under water; maize, jowar, bajra and sugarcane submerged or at risk; green fodder short. Administration says situation under control. Ahar and Sirora (Serora) fall in the AC extent per Wikipedia",
+      "basis": "Patrika (published 31 Jul 2026, datelined Anupshahr, Bulandshahr): Ganga rose quickly at Anupshahr; several main ghats submerged; flood water reached the main road to Gangadwar; flood water covered forest and farm land in Ahar, Mubarakpur, Margpur, Sirora, Torai and Bachchi Khera; maize, jowar, bajra and sugarcane standing in fields began to go under water. Ahar and Serora (Sirora) appear in the Wikipedia extent of AC 67; Gangadwar and the ghats are within Anupshahr town. The source URL sits under a bijnor-news path but its content concerns Anupshahr",
       "sources": [
         {
           "outlet": "Patrika",
@@ -127,7 +127,7 @@
       "english": "The Bulandshahr-Anupshahr highway is only 10 metres wide with about 1.5 lakh vehicles a day",
       "hindi": "बुलंदशहर-अनूपशहर सड़क सिर्फ 10 मीटर चौड़ी है, रोज डेढ़ लाख गाड़ियां चलती हैं",
       "inference": false,
-      "basis": "Amar Ujala (8 Jul 2026, Bulandshahr edition): district's busiest state highway, 10 m wide after widening about eight years ago from 7 m; about 1.5 lakh vehicles daily; accidents during overtaking; jams for hours in Shravan and festivals when pilgrims go to the Anupshahar Ganga ghat. XEN says Rs 175 crore four-laning proposed. Note: the Bulandshahr end of the road lies outside AC 67 (district-level for that stretch)",
+      "basis": "Amar Ujala (8 Jul 2026, Bulandshahr edition): the state highway is 10 m wide now; it was widened from 7 m about eight years ago; about 1.5 lakh vehicles use it daily. PWD has sent a Rs 175 crore four-laning proposal. The road runs between Bulandshahr and Anupshahr; AC membership of the Bulandshahr end is not confirmed, so this is partly district-level",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -138,10 +138,10 @@
     },
     {
       "rank": 5,
-      "english": "Vegetable farmers struggle to reach the Anupshahr and Bulandshahr mandis through morning traffic",
-      "hindi": "सुबह के जाम में सब्जी किसान अनूपशहर और बुलंदशहर की मंडी तक नहीं पहुंच पाते",
+      "english": "Morning traffic jams make it hard for vegetable farmers to reach the Anupshahr and Bulandshahr mandis",
+      "hindi": "सुबह के जाम में सब्जी किसानों को मंडी जाने में परेशानी",
       "inference": false,
-      "basis": "Amar Ujala (8 Jul 2026, Bulandshahr edition): article states that morning traffic makes it hard for vegetable farmers from nearby villages to reach the Bulandshahr and Anupshahr mandis. No farmer quoted; the claim is the article's own",
+      "basis": "Amar Ujala (8 Jul 2026, Bulandshahr edition): thousands of farmers from villages near the highway bring vegetables daily to the Bulandshahr and Anupshahr mandis; heavy morning traffic causes them significant trouble. No farmer quoted; the claim is the article's own. District-level along the highway",
       "sources": [
         {
           "outlet": "Amar Ujala",
@@ -151,6 +151,12 @@
       ]
     }
   ],
-  "ac_specific_negatives": 4,
-  "notes": "Scarce local coverage: the search index had almost no Anupshahr-specific Hindi reporting on water, power, sugarcane dues, stray cattle, health (CHC), schools or jobs, so those topics are absent rather than shown to be fine. Anupshahr town is inside AC 67 under the namesake rule; Ahar and Sirora are inside per the Wikipedia extent. Negative 4 is partly district-level (Bulandshahr end of the highway). Positives 3-5 are weak or unconfirmed: 3 is statewide and not named for Anupshahr, 4 is a plan not running as of Dec 2025, 5 is a proposal, not a delivered benefit. Field check: whether the bridge repair finished after the 15-day closure (article gave no end date); whether hourly buses still run; the Walipura canal car accident near Bulandshahr was not used because it is undated and its location is unclear. Population figures on Wikipedia are 2001 census. A Patrika flood article sits under a bijnor-news URL path but its content concerns Anupshahr, Bulandshahr district."
+  "ac_specific_negatives": 3,
+  "notes": "Search coverage: about 15 searches in Hindi and English, including Roman-spelling Amar Ujala terms, water, power, sugarcane, health, schools, drains, Ganga ghats and bridge repair status. No Anupshahr-specific 2024-2026 reporting on water, power, sugarcane dues, CHC, schools or jobs was found, so those topics are absent rather than shown to be fine. Narora appeared in Ganga flood results but is not in the AC 67 extent and was not used. Jahangirabad-side ghat search returned nothing. Bridge repair completion and whether the 15-day closure ended not found. Whether hourly buses still run after Oct 2025 not verified. Wikipedia AC page is the source for extent; it lists Serora (not Sirora) and Ahar. Population figures on Wikipedia are 2001 census. Field check needed on: bridge status, bus frequency, Shikarpur buses, Ganga flood damage in Ahar and Serora villages.",
+  "round2": {
+    "verified_sources": 8,
+    "removed_sources": 0,
+    "ac_specific_negatives": 3,
+    "changes": "Opened all 8 unique item URLs and checked claims. Removed unsupported details from bases: Pos1 and Pos5 extra claims, Neg2 'parking' and 5 km claim, Neg3 Bijnor barrage/2.5 ft/fodder/'under control' claims and Jahnavi platform, Neg4 'busiest highway' and overtaking/Shravan claims and unverified 'outside AC' claim, Neg5 corrected from 'cannot reach' to 'trouble reaching'. Neg2 and Neg3 kept as AC-specific (Anupshahr town, Ahar and Serora). Lowered ac_specific_negatives from 4 to 3 (Neg4 and Neg5 are district-level). Neg2 Hindi unchanged. Pos3 now flagged as statewide. Pos4 and Pos5 kept as flagged inference because no delivered Anupshahr benefit was found to replace them. Re-ranked: negatives unchanged in order. Hindi trimmed to 13 words or fewer where needed"
+  }
 }
