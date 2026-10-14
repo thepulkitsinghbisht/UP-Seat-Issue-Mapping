@@ -26,7 +26,7 @@
     {
       "rank": 2,
       "english": "Power came back in about three hours after the VCB fire",
-      "hindi": "वीसीबी जली तो भी करीब तीन घंटे में बिजली लौट आई",
+      "hindi": "वीसीबी जलने पर भी करीब तीन घंटे में बिजली लौट आई",
       "inference": false,
       "basis": "Amar Ujala (30 Jun 2026): a technical fault set fire to a VCB machine around 10:24 PM on the Monday night, cutting supply in Dibai for about three hours; power returned once the fault was fixed. Dibai consumers had faced low voltage, tripping and undeclared cuts for the three days before it. A single restoration, not a lasting fix",
       "sources": [
@@ -53,16 +53,16 @@
     },
     {
       "rank": 4,
-      "english": "*Farmers can sell their crop at the Dibai mandi",
-      "hindi": "*डिबाई की मंडी में किसान अपनी फसल बेच पाते हैं",
+      "english": "*A mandi operates in Dibai",
+      "hindi": "*डिबाई में मंडी चलती है",
       "inference": true,
       "basis": "Inference: Amar Ujala (2 Sep 2026) names Mandi Hardev as a spot where waterlogging blocked traffic in Dibai, which implies a mandi operates there; no source found on crop sales, procurement or prices at the Dibai mandi (searches this round returned only other districts). Field check needed",
       "sources": []
     },
     {
       "rank": 5,
-      "english": "*Dibai has a government hospital people can use for treatment",
-      "hindi": "*डिबाई में सरकारी अस्पताल में इलाज होता है",
+      "english": "*Dibai has a community health centre",
+      "hindi": "*डिबाई में सामुदायिक स्वास्थ्य केंद्र है",
       "inference": true,
       "basis": "Inference: a search result listed a Community Health Centre Dibai on the Bulandshahr district hospital page, but that page returned HTTP 503 when fetched, so it is not cited. No 2026 report on services at the Dibai facility was found. Field check needed; replaces an earlier tehsil-office item, which was a geography fact and not a benefit",
       "sources": []
@@ -132,7 +132,7 @@
     },
     {
       "rank": 5,
-      "english": "Garbage heaps line Bulandshahr streets in the morning",
+      "english": "Garbage heaps are found on the streets in the morning",
       "hindi": "सुबह सड़कों पर कचरे के ढेर लगे मिलते हैं",
       "inference": false,
       "basis": "District-level, not AC-specific: Amar Ujala (1 Oct 2026), in an article on cleanliness in Bulandshahr, says garbage heaps are found on the streets in the morning. Dibai nagar palika is named only in a list of district bodies, with no Dibai-specific figure, so this is not counted in ac_specific_negatives",
@@ -145,7 +145,7 @@
       ]
     }
   ],
-  "notes": "Identity verified on the Wikipedia list (67 Anupshahr, 68 Debai, 69 Shikarpur; reservation None; Bulandshahr). Wikipedia Debai AC page: extent is Debai Tehsil, plus Bagsara, Bibiyana, Mau, Dubka, Suratgarh urf Lodhai and Rajour of Anupshahar KC. These are named in the extent text; none is used in an item. Named places used: Dibai town (namesake, inside), Mahadev Chauraha, Paith Chauraha, Holi Gate, Bada Bazar, Railway Road, Mandi Hardev (all reported as Dibai locations in the 2 Sep 2026 article), and Dibai nagar (venue in Janmat). The Bhimpur sub-station named in an earlier draft is not in the article and was removed. Power evidence is the strongest local story and is verified (Amar Ujala 30 Jun, 1 Jul and 13 Jul 2026). The 1 Jul and 13 Jul articles give residents' accounts and official explanations, not verified outage logs. Positive 1 (cane) is district-level. Positive 3 is a scheme event held in Dibai; the article does not say how many couples were from Dibai. Positives 4 and 5 are unsourced inferences and need a field check. The district hospital page returned HTTP 503 and was not cited. No 2026 bypass status report was found. Searches for Dibai mandi procurement, substation commissioning, road or drain completion, and a theft-recovery item returned nothing for Dibai. The 15-hour supply and inverter report from an earlier draft was not found and is not used.",
+  "notes": "Identity verified on the Wikipedia list (67 Anupshahr, 68 Debai, 69 Shikarpur; reservation None; Bulandshahr). Wikipedia Debai AC page: extent is Debai Tehsil, plus Bagsara, Bibiyana, Mau, Dubka, Suratgarh urf Lodhai and Rajour of Anupshahar KC. These are named in the extent text; none is used in an item. Named places used: Dibai town (namesake, inside), Mahadev Chauraha, Paith Chauraha, Holi Gate, Bada Bazar, Railway Road, Mandi Hardev (all reported as Dibai locations in the 2 Sep 2026 article), and Dibai nagar (venue in Janmat). The Bhimpur sub-station named in an earlier draft is not in the article and was removed. Power evidence is the strongest local story and is verified (Amar Ujala 30 Jun, 1 Jul and 13 Jul 2026). The 1 Jul and 13 Jul articles give residents' accounts and official explanations, not verified outage logs. Positive 1 (cane) is district-level. Positive 3 is a scheme event held in Dibai; the article does not say how many couples were from Dibai. Positives 4 and 5 are unsourced inferences and need a field check. The district hospital page returned HTTP 503 and was not cited. No 2026 bypass status report was found. Searches for Dibai mandi procurement, substation commissioning, road or drain completion, and a theft-recovery item returned nothing for Dibai. The 15-hour supply and inverter report from an earlier draft was not found and is not used. Round 3 voice pass. P1 is district-level (Bulandshahr mills; no Dibai mill named). P4 weak positive: the basis shows only that a mandi operates in Dibai, with no crop-sale evidence, so the sale claim was removed. P5 weak positive: only a CHC listing is found, with no service report. N5 is district-level, not AC-specific.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 0,

@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "*Syana to Garh road is set to be widened",
-      "hindi": "*स्याना से गढ़ तक की सड़क चौड़ी होने वाली है",
+      "english": "*Approval has been given to widen the Syana to Garh road",
+      "hindi": "*स्याना से गढ़ तक की सड़क चौड़ी करने की मंजूरी मिल गई है",
       "inference": true,
       "basis": "Inference: Amar Ujala (11 Dec 2025) says the Syana-Garh road (SH-65, km 6 to 24, 19 km, Rs 59 crore) was approved by the CM on the Sadar MLA's proposal. Amar Ujala (24 Jan 2026) says the 19 km Bulandshahr-Syana highway widening (7 m to 10 m, Rs 58.91 crore) had its tender completed and work would begin in February. Searches in Oct 2026 found no report that work started or finished. The two reports name the road differently, the Rs 90 crore headline does not match the roughly Rs 100 crore sum of the items, and the km 6-24 stretch's membership in Syana AC is unconfirmed",
       "sources": [
@@ -43,8 +43,8 @@
     },
     {
       "rank": 3,
-      "english": "*Sanitation staff were sent to drain water from waterlogged spots in Syana",
-      "hindi": "*जलभराव वाली जगहों से पानी निकालने के लिए सफाईकर्मी भेजे गए",
+      "english": "*I hear sanitation workers were sent to drain water from waterlogged spots",
+      "hindi": "*सुना है, जलभराव वाली जगहों से पानी निकालने सफाईकर्मी भेजे गए",
       "inference": true,
       "basis": "Inference: Syana Executive Officer Sevaram Rajbhar is quoted (Amar Ujala, 23 Aug 2026) saying sanitation workers were sent to waterlogged places to drain the water. This is the official's claim only; residents in the same article complained of silt in the drains and asked for a permanent drainage system",
       "sources": [
@@ -57,8 +57,8 @@
     },
     {
       "rank": 4,
-      "english": "*Nagar Palika says drains were cleaned earlier and sanitation staff are working continuously",
-      "hindi": "*पहले नालियों की सफाई हो चुकी है, सफाईकर्मी लगातार काम पर हैं",
+      "english": "*I hear drains were cleaned earlier and sanitation workers are working continuously",
+      "hindi": "*सुना है पहले नालियों की सफाई हो चुकी है, सफाईकर्मी लगातार लगे हैं",
       "inference": true,
       "basis": "Inference: Syana Nagar Palika EO Sewaram Rajbhar is quoted (Amar Ujala, 3 Jul 2026, Bugrasi and Syana report) saying drains had been cleaned earlier and sanitation workers were continuously at work. This is the official's claim only; the same article reports drains overflowing and Syana shops flooded",
       "sources": [
@@ -153,8 +153,8 @@
     },
     {
       "rank": 5,
-      "english": "Khurja's GT road has potholes and waterlogging because it has no drain",
-      "hindi": "खुर्जा में जीटी रोड पर नाली नहीं, इसलिए गड्ढे और जलभराव",
+      "english": "On Khurja's GT road there are no drains, so there are potholes and standing water",
+      "hindi": "खुर्जा के जीटी रोड पर नाली नहीं, गड्ढे और पानी भरा रहता है",
       "inference": false,
       "basis": "District-level, not Syana AC. Amar Ujala (30 Sep 2026), Khurja, Bulandshahr district: about 7 km of GT road built for about Rs 14 crore has waterlogging at several points, potholes, and no drain; PWD says only renovation and widening were sanctioned",
       "sources": [
@@ -167,7 +167,7 @@
     }
   ],
   "ac_specific_negatives": 3,
-  "notes": "Identity confirmed from the Wikipedia Syana Assembly constituency page: No. 66, Syana, Bulandshahr district, reserved status None, extent Syana Tehsil. The statewide list page was also opened and gives the same name, district and reserved status. Negatives 1 to 3 are confirmed inside Syana town or the highway into it. Positives are all flagged inference: no completed or verified-started AC-specific benefit was found. Shikarpur reports (waterlogging, mandi maize loss) were excluded because Shikarpur is not confirmed inside Syana Tehsil. Bugrasi and Naveen Mandi were excluded because their AC membership is unconfirmed. Bulandshahr city items (Charu drowning, Kala Aam-Syana Adda road, Bhuteshwar temple drain) were excluded as city, not AC. The Syana-Garh road is named SH-65 km 6 to 24 in the Dec 2025 report and as the Bulandshahr-Syana state highway in the Jan 2026 report; the two reports differ on the name and the Rs 90 crore headline does not match the Rs 100 crore sum of its items. No Syana water supply, CHC, stray-cattle, or school report was found in the searches; the Hindi and English queries returned nothing AC-specific on those topics. Field check: whether the Syana-Garh widening has actually started; drain status in Syana market and Kotwali Road; and whether power cuts during rain are regular. Round 2: no Syana benefit delivered in 2024-2026 was found, so all five positives remain inference. Searches for CHC, sugar mill payments, water supply and the Syana-Garh road start returned nothing AC-specific. Bulandshahr city drain item (Aug 14) removed as city, not AC. Khurja negative kept as district-level context, not counted in ac_specific_negatives. Field check still needed on whether Syana-Garh widening has started and on the km 6-24 stretch's AC membership.",
+  "notes": "Identity confirmed from the Wikipedia Syana Assembly constituency page: No. 66, Syana, Bulandshahr district, reserved status None, extent Syana Tehsil. The statewide list page was also opened and gives the same name, district and reserved status. Negatives 1 to 3 are confirmed inside Syana town or the highway into it. Positives are all flagged inference: no completed or verified-started AC-specific benefit was found. Shikarpur reports (waterlogging, mandi maize loss) were excluded because Shikarpur is not confirmed inside Syana Tehsil. Bugrasi and Naveen Mandi were excluded because their AC membership is unconfirmed. Bulandshahr city items (Charu drowning, Kala Aam-Syana Adda road, Bhuteshwar temple drain) were excluded as city, not AC. The Syana-Garh road is named SH-65 km 6 to 24 in the Dec 2025 report and as the Bulandshahr-Syana state highway in the Jan 2026 report; the two reports differ on the name and the Rs 90 crore headline does not match the Rs 100 crore sum of its items. No Syana water supply, CHC, stray-cattle, or school report was found in the searches; the Hindi and English queries returned nothing AC-specific on those topics. Field check: whether the Syana-Garh widening has actually started; drain status in Syana market and Kotwali Road; and whether power cuts during rain are regular. Round 2: no Syana benefit delivered in 2024-2026 was found, so all five positives remain inference. Searches for CHC, sugar mill payments, water supply and the Syana-Garh road start returned nothing AC-specific. Bulandshahr city drain item (Aug 14) removed as city, not AC. Khurja negative kept as district-level context, not counted in ac_specific_negatives. Field check still needed on whether Syana-Garh widening has started and on the km 6-24 stretch's AC membership. Round 3 voice pass. P1 is now the approval already given, not a forecast. P3 and P4 are recast as hearsay of the official claim. P5 weak positive: weather comment from a Krishi Vigyan Kendra meteorologist, not a delivered benefit; no better Syana item found. N5 is Khurja (district-level, not Syana AC) and was reworded.",
   "round2": {
     "verified_sources": 7,
     "removed_sources": 1,

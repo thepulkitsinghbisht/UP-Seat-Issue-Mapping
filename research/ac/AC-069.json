@@ -16,7 +16,7 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Widening work on the Anupshahr road has started at last",
+      "english": "Widening work on the Anupshahr road has started",
       "hindi": "अनूपशहर वाली सड़क का चौड़ीकरण शुरू हो गया है",
       "inference": false,
       "basis": "Amar Ujala (12 May 2025), opened and checked: widening of the Anupshahr-Shikarpur road has begun; cost Rs 31.28 crore; work started after the first instalment of over Rs 10 crore. The article says the road connects Shikarpur and Khurja; it does not name the stretch or give a completion date. Route-level, so AC membership of the stretch is not confirmed.",
@@ -30,8 +30,8 @@
     },
     {
       "rank": 2,
-      "english": "*2.90 crore is to be spent on repairing broken town roads and drains",
-      "hindi": "*टूटी सड़कें और नालियां बनाने के लिए 2.90 करोड़ खर्च होंगे",
+      "english": "*2.90 crore is to be spent on town roads, drains and culverts",
+      "hindi": "*सड़कों, नालियों और पुलियों पर 2.90 करोड़ खर्च होंगे",
       "inference": true,
       "basis": "Inference: Amar Ujala (30 Sep 2026), opened and checked: Shikarpur Nagar Palika Parishad will spend Rs 2.90 crore on 20 works, mainly roads, drains and culverts, funded from the 15th Finance Commission, State Finance Commission and municipal funds. No start or completion date is given, so this is planned spending, not delivered work.",
       "sources": [
@@ -58,8 +58,8 @@
     },
     {
       "rank": 4,
-      "english": "*Compensation is said to reach our accounts within seven days of the deed",
-      "hindi": "*बैनामे के सात दिन में मुआवजा खाते में आने की बात है",
+      "english": "*I hear compensation reaches accounts within seven days of the deed",
+      "hindi": "*सुना है बैनामे के सात दिन में मुआवजा खाते में आ जाता है",
       "inference": true,
       "basis": "Inference: ETV Bharat (2 Jul 2026), opened and checked: SDM Ravindra Pratap Singh says payment is sent to farmers' accounts within 7 days of the official sale deed; 62 deeds are done so far, and about 6 km of the Bulandshahr-Jewar expressway route is affected in Shikarpur tehsil. This is an official claim. The article has no farmer confirmation and gives no amount, so delivery is not verified.",
       "sources": [
@@ -183,5 +183,5 @@
     }
   ],
   "ac_specific_negatives": 4,
-  "notes": "Identity verified: Wikipedia list row 69 is Shikarpur, Bulandshahr, reserved None; the AC article's extent is 'Shikarpur Tehsil; PC Katiyawali of Jahangirabad KC of Anupshahr Tehsil'. Under the namesake rule the town of Shikarpur (Nagar Palika) is inside the AC. Syana and Anupshahr places are excluded because they are not confirmed inside this AC. The current MLA is unconfirmed and no MLA name or party appears in any statement. Electoral figures are excluded. Searches for completed Shikarpur works in 2024-2026 found only planned or tendered works, so positives 2-5 are flagged as inference. One Statesman report of inaugurated Shikarpur-constituency projects could not be opened (HTTP 403) and is not cited. Field check: drain status at Balaji Market and the Kotwali turn; CHC prescription and pharmacy practice; the Mangraul and Chitsaun feeders; whether the Anupshahr-Shikarpur widening and the Khurja-Shikarpur renovation have started; whether Jakhaita is in Shikarpur tehsil; and completed Shikarpur projects from the local press."
+  "notes": "Identity verified: Wikipedia list row 69 is Shikarpur, Bulandshahr, reserved None; the AC article's extent is 'Shikarpur Tehsil; PC Katiyawali of Jahangirabad KC of Anupshahr Tehsil'. Under the namesake rule the town of Shikarpur (Nagar Palika) is inside the AC. Syana and Anupshahr places are excluded because they are not confirmed inside this AC. The current MLA is unconfirmed and no MLA name or party appears in any statement. Electoral figures are excluded. Searches for completed Shikarpur works in 2024-2026 found only planned or tendered works, so positives 2-5 are flagged as inference. One Statesman report of inaugurated Shikarpur-constituency projects could not be opened (HTTP 403) and is not cited. Field check: drain status at Balaji Market and the Kotwali turn; CHC prescription and pharmacy practice; the Mangraul and Chitsaun feeders; whether the Anupshahr-Shikarpur widening and the Khurja-Shikarpur renovation have started; whether Jakhaita is in Shikarpur tehsil; and completed Shikarpur projects from the local press. Round 3 voice pass. P2 weak positive: planned spending with no start date. P3 weak positive: planned pipelines, tenders complete, no start date. P5 weak positive: planned repair, not reported as done. P4 is an official claim, recast as hearsay."
 }

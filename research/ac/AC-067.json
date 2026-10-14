@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "english": "*Rs 493 crore paid to 9,18,091 UP farmers hit by floods and rain losses",
+      "english": "*Rs 493 crore came into the accounts of farmers hit by floods",
       "hindi": "*बाढ़ से नुकसान वाले किसानों के खाते में 493 करोड़ रुपये आए",
       "inference": true,
       "basis": "Inference: All India Radio (12 Oct 2026): Rs 493 crore to 9,18,091 farmers for losses from floods, heavy rain, hailstorm and cyclone; event organised in Gorakhpur. Neither Anupshahr nor Bulandshahr is named, so local receipt is not confirmed. Statewide; weak positive pending field check",
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "*Bulandshahr-Anupshahr highway four-lane proposal has gone to the state for approval",
-      "hindi": "*बुलंदशहर-अनूपशहर सड़क को चार लेन करने का प्रस्ताव शासन को भेजा गया",
+      "english": "*I hear a four-lane proposal for the Bulandshahr-Anupshahr road has been sent to the state",
+      "hindi": "*सुना है बुलंदशहर-अनूपशहर सड़क को चार लेन करने का प्रस्ताव भेजा गया है",
       "inference": true,
       "basis": "Inference: Amar Ujala (8 Jul 2026, Ghaziabad): PWD has sent a Rs 175 crore four-lane proposal to the state; approval expected within about two months. An announcement only, not a delivered benefit; listed because no other planned benefit for Anupshahr was found in sources checked",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 3,
-  "notes": "Search coverage: about 15 searches in Hindi and English, including Roman-spelling Amar Ujala terms, water, power, sugarcane, health, schools, drains, Ganga ghats and bridge repair status. No Anupshahr-specific 2024-2026 reporting on water, power, sugarcane dues, CHC, schools or jobs was found, so those topics are absent rather than shown to be fine. Narora appeared in Ganga flood results but is not in the AC 67 extent and was not used. Jahangirabad-side ghat search returned nothing. Bridge repair completion and whether the 15-day closure ended not found. Whether hourly buses still run after Oct 2025 not verified. Wikipedia AC page is the source for extent; it lists Serora (not Sirora) and Ahar. Population figures on Wikipedia are 2001 census. Field check needed on: bridge status, bus frequency, Shikarpur buses, Ganga flood damage in Ahar and Serora villages.",
+  "notes": "Search coverage: about 15 searches in Hindi and English, including Roman-spelling Amar Ujala terms, water, power, sugarcane, health, schools, drains, Ganga ghats and bridge repair status. No Anupshahr-specific 2024-2026 reporting on water, power, sugarcane dues, CHC, schools or jobs was found, so those topics are absent rather than shown to be fine. Narora appeared in Ganga flood results but is not in the AC 67 extent and was not used. Jahangirabad-side ghat search returned nothing. Bridge repair completion and whether the 15-day closure ended not found. Whether hourly buses still run after Oct 2025 not verified. Wikipedia AC page is the source for extent; it lists Serora (not Sirora) and Ahar. Population figures on Wikipedia are 2001 census. Field check needed on: bridge status, bus frequency, Shikarpur buses, Ganga flood damage in Ahar and Serora villages. Round 3 voice pass. P2 weak positive: the start is announced for 8 Apr 2026, with no progress or completion report found. P4 weak positive: a bus plan with no start date. P5 weak positive: a proposal awaiting approval, not a delivered benefit. P3 is statewide; Anupshahr is not named in the source.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 0,

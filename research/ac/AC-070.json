@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Khurja's medical college has started teaching MBBS, and many treatments are now available locally",
-      "hindi": "खुर्जा में मेडिकल कॉलेज शुरू, कई इलाज अब यहीं होते हैं",
+      "english": "Khurja's medical college has started, and many treatments now happen here",
+      "hindi": "खुर्जा में मेडिकल कॉलेज शुरू हुआ, अब कई इलाज यहीं हो जाते हैं",
       "inference": false,
       "basis": "Acting principal Dr. Sanjay Mishra says the Kalyan Singh Government Medical College (named for Khurja) started about two years ago and now teaches MBBS. The article says residents earlier went to Meerut or Noida for many treatments and that many services are now local. The article's dateline is Bulandshahr (district-level ground report); the college itself is named Khurja.",
       "sources": [
@@ -25,7 +25,7 @@
     {
       "rank": 2,
       "english": "A new 660 MW power unit has started at Khurja, and people expect jobs from it",
-      "hindi": "खुर्जा में 660 मेगावाट का नया बिजली यूनिट शुरू हुआ, रोजगार की उम्मीद है",
+      "hindi": "खुर्जा का 660 मेगावाट बिजली यूनिट चालू हुआ, रोजगार की उम्मीद है",
       "inference": false,
       "basis": "Amar Ujala (30 May 2025): PM inaugurated the first 660 MW unit virtually on 30 May 2025; the article's timeline gives operations from 26 January 2025. Project executive director says more than about 5,000 people will get employment (a forward projection, not a count). Article places the plant at Dashehra village in the Khurja area. THDC's own page says the plant land lies in four villages of Khurja Tehsil, which is the AC's Wikipedia extent, but does not name Dashehra. AC membership at village level unconfirmed.",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "ODOP scheme and government promotion are helping pottery traders grow their business",
-      "hindi": "ओडीओपी और सरकारी प्रचार से बर्तनों के कारोबार को फायदा है",
+      "english": "ODOP scheme and government support are helping pottery traders grow their business",
+      "hindi": "ओडीओपी और सरकारी मदद से बर्तनों के कारोबार को फायदा हो रहा है",
       "inference": false,
       "basis": "Trader Anshul Goyal says government support and ODOP promotion are helping pottery reach markets and grow; his account, no sales figures. District-level: the article's dateline is Bulandshahr and the fetched ODOP section does not name Khurja.",
       "sources": [
@@ -53,7 +53,7 @@
     {
       "rank": 4,
       "english": "Road and drain work has started in Chaman Vihar colony of Khurja city",
-      "hindi": "खुर्जा की चमन विहार कॉलोनी में सड़क और नाली का काम शुरू हुआ है",
+      "hindi": "चमन विहार कॉलोनी में सड़क और नाली का काम शुरू हुआ है",
       "inference": false,
       "basis": "Amar Ujala (11 Sep 2026), dateline Khurja: Nagar Palika Adhyaksh inaugurated the start on Thursday of about 200 m cemented road and drain in Ward 22 Chaman Vihar colony, about Rs 22 lakh for this colony. Headline says Rs 1.10 crore and body Rs 1.20 crore for four colonies; the body's breakdown adds to 1.20 crore. Work has started; other road works in the report are still future.",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "Government has sanctioned road and drain work for 21 colonies in Khurja city",
-      "hindi": "खुर्जा नगर की 21 कॉलोनियों में सड़क और नाली के लिए पैसा मंजूर हो गया है",
+      "english": "Money has been sanctioned for road and drain work in 21 colonies of Khurja",
+      "hindi": "21 कॉलोनियों में सड़क और नाली के लिए पैसा मंजूर हो गया है",
       "inference": false,
       "basis": "Amar Ujala (28 May 2026): about Rs 2.78 crore proposal for road and drain work in 21 colonies approved, budget sanction received, departmental tender nearly complete; DUDA work still in future tense, so construction has not started. Headline says 2.78 lakh, body says crore. Sanction only, not a completed work; kept because four searches found no completed Khurja road, drain or other project in 2026.",
       "sources": [
@@ -82,7 +82,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "We get only 6 to 8 hours of power cuts every day in Khurja",
+      "english": "We face 6 to 8 hours of power cuts every day in Khurja",
       "hindi": "खुर्जा में रोज 6 से 8 घंटे बिजली कटौती झेलनी पड़ती है",
       "inference": false,
       "basis": "Amar Ujala district-wide article (13 Jul 2026, Bulandshahr). Its table of average daily outages gives Khurja's own row as 6 to 8 hours (district-level article, Khurja row). Causes listed: summer overload, tripping and low voltage in the city, dilapidated lines and faults in rural areas. Chief Engineer says the system will be restored soon.",
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "There are no drains on GT Road in Khurja, so water collects and the road breaks up",
-      "hindi": "खुर्जा में जीटी रोड पर नाली नहीं, पानी भरता है और सड़क टूट रही है",
+      "english": "There are no drains on the GT road, so water collects and the road is breaking up",
+      "hindi": "जीटी रोड पर नाली नहीं, पानी भरता है और सड़क टूट रही है",
       "inference": false,
       "basis": "Amar Ujala (Khurja dateline, 30 Sep 2026): 7 km GT Road stretch from Agwal Cut to Kailash Hospital Cut, renovated for about Rs 14 crore, broke within about a year and a half; no drains, waterlogging at Dadu Pottery, Naveen Sabzi Mandi and other points; a pottery entrepreneur says waterlogging hurts business. PWD XEN says only renovation and widening were sanctioned and drain work depends on other departments submitting proposals.",
       "sources": [
@@ -110,8 +110,8 @@
     },
     {
       "rank": 3,
-      "english": "Gandhi Marg in Khurja jams from morning to evening after the dividers were removed",
-      "hindi": "खुर्जा में गांधी मार्ग पर डिवाइडर हटने से सुबह से शाम तक जाम लगता है",
+      "english": "Jams on Gandhi Marg run from morning to evening since the dividers were removed",
+      "hindi": "गांधी मार्ग पर डिवाइडर हटने से सुबह से शाम तक जाम रहता है",
       "inference": false,
       "basis": "Amar Ujala (Khurja dateline, 6 May 2026): temporary dividers at Padam Singh Gate and Kabari Bazar crossings removed after vehicles broke cement barricades. A shopkeeper says jams run from about 10 AM to 8 PM; shopkeepers say sales fell up to 40 percent (their claim); ambulances and school vehicles have trouble getting through. Nagar Palika EO says the damaged barricades were sent for budget approval.",
       "sources": [
@@ -124,8 +124,8 @@
     },
     {
       "rank": 4,
-      "english": "The 1919 government hospital building in Khurja is dilapidated and its chhajja could fall any time",
-      "hindi": "खुर्जा के जटिया अस्पताल की 1919 की इमारत जर्जर है, छज्जे कभी भी गिर सकते हैं",
+      "english": "The 1919 building of Jatiya hospital in Khurja is dilapidated and its walls have weakened",
+      "hindi": "जटिया अस्पताल की 1919 की इमारत जर्जर है, दीवारें कमजोर हो गई हैं",
       "inference": false,
       "basis": "Amar Ujala (7 Sep 2026; district-wide report with a Khurja focus): Sri Lakshman Das Jatiya Rajkiya Chikitsalaya Khurja building dates to 1919, walls and lintels deteriorating; old staff quarters dilapidated with chhajjas that could fall. A chhajja of a roughly 100-year-old building on Subhash Marg fell on 19 July 2026 with no major accident. ADM says process under way to build new buildings.",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "Khurja Junction has no drinking water and little shade for passengers, and the station upgrade is unfinished",
-      "hindi": "खुर्जा जंक्शन पर न पीने का पानी है, न छांव, यात्री परेशान हैं",
+      "english": "Khurja Junction has no working drinking water and little shade, and passengers face trouble",
+      "hindi": "खुर्जा जंक्शन पर पीने का पानी नहीं, छांव भी कम, यात्री परेशान",
       "inference": false,
       "basis": "Amar Ujala (4 Jun 2026; byline Ghaziabad Bureau, filed under Bulandshahr news; about Khurja Junction): Amrit Station 2.0 redevelopment (Rs 12.5 crore, virtual foundation Feb 2024) not finished; platforms 1 to 5 lack working drinking water, coolers on 1 to 4 broken. A commuter says the tin shed covers only about 30 m of the 600 m platform 3-4 stretch (his claim). Station Superintendent says old sheds will be removed after station work and a letter has gone out for cooler repairs.",
       "sources": [
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 5,
-  "notes": "AC identity confirmed: Wikipedia list row 70, Khurja, SC, Bulandshahr; Khurja Assembly constituency page gives extent Khurja Tehsil. Open gaps: (1) 660 MW plant village-level membership unconfirmed (see P2). (2) P5 is a sanction, not completed work; searches found no completed Khurja project. (3) N1 is the Khurja row of a district table; no Khurja-only outage source found. (4) P3's Khurja link is not stated in the fetched text. Excluded per earlier notes: Kali river report (river-level) and the Bulandshahr city CT scan item.",
+  "notes": "AC identity confirmed: Wikipedia list row 70, Khurja, SC, Bulandshahr; Khurja Assembly constituency page gives extent Khurja Tehsil. Open gaps: (1) 660 MW plant village-level membership unconfirmed (see P2). (2) P5 is a sanction, not completed work; searches found no completed Khurja project. (3) N1 is the Khurja row of a district table; no Khurja-only outage source found. (4) P3's Khurja link is not stated in the fetched text. Excluded per earlier notes: Kali river report (river-level) and the Bulandshahr city CT scan item. Round 3 voice pass. P5 weak positive: a sanction only, with no work started. N5 leaves out the unfinished station upgrade to keep the statement short; the basis still holds it. N4 leaves out the chhajja detail, which the basis places on old staff quarters.",
   "round2": {
     "verified_sources": 10,
     "removed_sources": 0,
