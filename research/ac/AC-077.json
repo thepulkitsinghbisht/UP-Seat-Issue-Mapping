@@ -1,0 +1,116 @@
+{
+  "ac_no": 77,
+  "ac_name": "Iglas",
+  "ac_name_hindi": "इगलास",
+  "reserved": "SC",
+  "district": "Aligarh",
+  "region": "Paschim UP",
+  "summary": "Recent complaints centre on paddy mandi stoppages in Iglas town, a road-accident dispute at Iglas tehsil and the narrow Mursan-Iglas road, while the few recent appreciations are sanctioned small bridges and police foot patrols, with most positives flagged as inference because local coverage was thin.",
+  "identity_source": "https://en.wikipedia.org/wiki/Iglas_Assembly_constituency",
+  "ac_specific_negatives": 3,
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Small bridges in Iglas got about Rs 7 crore sanctioned and tenders are out",
+      "hindi": "इगलास के छोटे पुलों के लिए सात करोड़ मंजूर, टेंडर भी निकल गए",
+      "inference": false,
+      "basis": "Amar Ujala Aligarh (10 Oct 2026): PWD headquarters sanctioned about Rs 7 crore for six small bridges; tenders have been issued for all of them, per the SE. The article names an Igalas-Gorai road bridge (Rs 2.17 crore, km 3) and an Igalas-Mursan road bridge (Rs 2.11 crore, km 5) as Igalas constituency works. Sanction and tender stage only, no construction completion reported",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-10", "url": "https://www.amarujala.com/uttar-pradesh/aligarh/work-on-six-bridges-and-four-parks-in-aligarh-2026-10-10"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The SSP himself walked the patrol in Iglas and assured people of safety",
+      "hindi": "इगलास में एसएसपी खुद पैदल गश्त पर निकले, सुरक्षा का भरोसा दिलाया",
+      "inference": false,
+      "basis": "Amar Ujala Aligarh (29 Sep 2026): the foot patrol took place on 28 Sep; the SSP visited main markets and sensitive areas (not named in the article), talked to people and assured them of safety; a women's police team also asked women about safety. This is an action taken, not a report of residents' appreciation",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-29", "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-algaugdhha-esaesapa-na-igalsa-ma-kaya-pathal-gashata-2026-09-29"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "*Relief from jams is expected once the Mursan-Iglas road is widened",
+      "hindi": "*मुरसान-इगलास सड़क चौड़ी होने की मंजूरी मिल गई, जाम से राहत की आस",
+      "inference": true,
+      "basis": "Inference: Amar Ujala Hathras (11 Oct 2026) reports the Rs 5.84 crore widening proposal was approved and says residents of nearby villages expect relief. Financial sanction is still pending and no work has started, so this is not a delivered benefit. The stretch runs from Mursan (Hathras side) toward Iglas, so AC membership of the stretch is unconfirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/hathras/widening-of-mursan-iglas-road-2026-10-11"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*State subsidy of Rs 100 per quintal is available for potatoes stored in cold storage",
+      "hindi": "*आलू भंडारण पर सौ रुपये प्रति क्विंटल अनुदान मिल रहा है",
+      "inference": true,
+      "basis": "Inference: Amar Ujala Mirzapur (14 Sep 2026), citing the District Horticulture Officer there, reports a Rs 100 per quintal storage subsidy for FY 2026-27, capped at 200 quintals and Rs 20,000 per farmer, applied for online. The article does not confirm it applies in Aligarh or Iglas, so this is district-independent and not AC-specific",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-09-14", "url": "https://www.amarujala.com/uttar-pradesh/mirzapur/per-quintal-will-be-provided-for-potatoes-stored-in-cold-storage-mirzapur-news-c-192-1-svns1034-161159-2026-09-14"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Iglas has more than 25 cold storage centres for farm produce",
+      "hindi": "*इगलास में 25 से ज्यादा कोल्ड स्टोरेज केंद्र हैं",
+      "inference": true,
+      "basis": "Inference: the Wikipedia Iglas town article says there are over 25 cold storage centres in Iglas for storing agricultural produce. The page is undated and this is an infrastructure fact rather than a reported benefit, so the item is flagged. Not verified against a recent local report",
+      "sources": [
+        {"outlet": "Wikipedia", "date": "undated", "url": "https://en.wikipedia.org/wiki/Iglas"}
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Rain has shut the Iglas mandi and paddy purchase is stuck",
+      "hindi": "बारिश से इगलास मंडी बंद, धान की खरीद रुकी पड़ी है",
+      "inference": false,
+      "basis": "Amar Ujala Aligarh (13 Oct 2026, 2:13 PM): rain stopped paddy loading at the Iglas mandi; traders cannot buy paddy from farmers; the mandi space is short; the trader association said the mandi would stay closed on Tuesday and reopen Wednesday. The article records traders' problems, not farmers' complaints",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-13", "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-brasha-ka-karanae-igalsa-mada-aaja-btha-thhana-ldaga-raka-2026-10-13"}
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "After a Hathras road accident, the victim's family had to sit on dharna at the tehsil for help",
+      "hindi": "हाथरस रोड हादसे के बाद पीड़ित परिवार मदद के लिए धरने पर बैठे",
+      "inference": false,
+      "basis": "Amar Ujala Aligarh (13 Oct 2026): villagers of Badhakhurd held a dharna at the Iglas tehsil office demanding withdrawal of a police report filed after a trailer was set on fire and the road blocked, and financial help for the family of Shivkumar alias Shiva, who died in a road accident on 23 Sep on the Hathras road, and for an injured youth. Badhakhurd village is not confirmed inside this AC, so not counted as AC-specific",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-13", "url": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-tharaja-raparata-ka-samapata-karana-aarathaka-mathatha-ka-garamanae-na-igalsa-tahasal-ma-kaya-paratharashana-2026-10-13"}
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "The narrow Mursan-Iglas road jams whenever heavy vehicles meet head-on",
+      "hindi": "मुरसान-इगलास की संकरी सड़क पर भारी वाहन आमने-सामने आते ही जाम लग जाता है",
+      "inference": false,
+      "basis": "Amar Ujala Hathras (11 Oct 2026): the road is narrow so vehicle pressure is constant, and a jam forms when heavy vehicles meet head-on. Rs 5.84 crore widening is approved but final financial sanction is pending and no work has started. The stretch runs from Mursan (Hathras side) toward Iglas, so AC membership is unconfirmed and not counted as AC-specific",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2026-10-11", "url": "https://www.amarujala.com/uttar-pradesh/hathras/widening-of-mursan-iglas-road-2026-10-11"}
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "Cattle damage crops in the Iglas area",
+      "hindi": "गोवंश से फसलों का नुकसान होता है",
+      "inference": false,
+      "basis": "Amar Ujala election page for Iglas (SC) constituency, 2022 election: the 'major local issues' list includes crop damage by cattle (गोवंश द्वारा फसलों का नुकसान). The source is from the 2022 election cycle and is not a current report; current status not confirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2022", "url": "https://www.amarujala.com/election/vidhan-sabha-elections/uttar-pradesh/constituencies/iglas-44"}
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "Farmers have raised the demand for a potato processing unit in Iglas",
+      "hindi": "इगलास में आलू प्रोसेसिंग यूनिट की मांग उठ रही है",
+      "inference": false,
+      "basis": "Amar Ujala election page for Iglas (SC) constituency, 2022 election: the 'major local issues' list includes the demand for a potato processing unit (आलू प्रोसेसिंग यूनिट की मांग). The source is from the 2022 election cycle, so the current status of the demand is not confirmed",
+      "sources": [
+        {"outlet": "Amar Ujala", "date": "2022", "url": "https://www.amarujala.com/election/vidhan-sabha-elections/uttar-pradesh/constituencies/iglas-44"}
+      ]
+    }
+  ],
+  "notes": "Identity: Wikipedia List of constituencies of UP lists No. 77 as Iglas, SC, with the Aligarh-district block of rows 71-77; the Iglas AC article gives district Aligarh and covers the city of Iglas (no tehsil/village extent given). Iglas AC article, town article and 2022 AU election page give conflicting population figures, not used. Recent local coverage was thin: most searches returned other districts. Two of five negatives (cattle, potato unit) rely on the 2022 election-cycle AU issues list and are not current. Positives 3-5 are inference-flagged (not delivered local benefits or not AC-specific). Excluded: a Hathras city rail-gate overbridge proposal at the Iglas Road gate (Hathras city, different AC); an undated Newstrack report of a CMO inspection praising Iglas CHC (page returned 403, not read); a 2024 Iglas poultry-farm assault story (crime, not a voter issue). Field check suggested: Iglas mandi paddy status after rain, Iglas tehsil dharna outcome, status of the six bridges' tenders, Mursan-Iglas road sanction, and whether Badhakhurd and Lakhtoi villages fall inside the AC."
+}
