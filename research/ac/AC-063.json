@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Direct flights now run from Jewar airport, including to Hyderabad and Bengaluru.",
-      "hindi": "जेवर एयरपोर्ट से अब सीधी उड़ानें मिल रही हैं, हैदराबाद और बेंगलुरु के लिए",
+      "english": "Direct flights from Jewar airport to Hyderabad and Bengaluru are now available",
+      "hindi": "जेवर एयरपोर्ट से अब हैदराबाद और बेंगलुरु की सीधी उड़ानें मिल रही हैं",
       "inference": false,
       "basis": "Daily Pioneer (16 Jun 2026): IndiGo's first commercial flight from Lucknow landed on Monday, the day before the report (the article gives no calendar date). IndiGo starts with eight daily flights to Hyderabad, Amritsar, Bengaluru and Jammu; Akasa Air starts four daily flights to Bengaluru and Navi Mumbai. District-level airport facility, not a village-level benefit.",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "A new modular operation theatre is ready at the Jewar CHC.",
-      "hindi": "जेवर सीएचसी में नया मॉड्यूलर ऑपरेशन थिएटर तैयार हो गया है",
+      "english": "A new modular operation theatre has been built and is ready at Jewar CHC",
+      "hindi": "जेवर सीएचसी में नया मॉड्यूलर ऑपरेशन थिएटर बनकर तैयार हो गया",
       "inference": false,
       "basis": "Amar Ujala (5 Oct 2026): the modular OT at Jewar CHC 'तैयार हो गया है' (has been completed) with central AC, an air filter and a 5 kW power backup. The article says patients will get better facilities once it starts operating, and gives no start date, so it is not yet operating. Chief Medical Superintendent Dr. Sarfe Jaya is quoted. The article's dateline is Yamuna City, not Jewar.",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "The airport rehabilitation colonies have been built and look modern.",
-      "hindi": "एयरपोर्ट की पुनर्वास कॉलोनियां बन गई हैं और देखने में आधुनिक लगती हैं",
+      "english": "The airport rehabilitation colonies have been built",
+      "hindi": "एयरपोर्ट की पुनर्वास कॉलोनियां बन गई हैं",
       "inference": false,
       "basis": "Chetna Manch (21 Apr 2026), reporter's observation that the R&R colonies 'दिखने में आधुनिक हैं' (look modern). The same article reports waterlogging and job shortages in them, so this is a looks-only positive. Dayanatpur and Raunera are the only villages named; neither is confirmed inside the AC.",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "335 families who chose airport jobs over cash are still waiting for permanent jobs.",
-      "hindi": "335 परिवारों ने नौकरी चुनी थी, अब भी स्थायी नौकरी का इंतजार",
+      "english": "335 families chose jobs over cash and are still waiting for permanent jobs",
+      "hindi": "335 परिवारों ने नकद छोड़कर नौकरी चुनी, अब भी स्थायी नौकरी का इंतजार",
       "inference": false,
       "basis": "Daily Jagran (3 Dec 2025): 335 farmer families opted for jobs instead of a one-time cash settlement of Rs 5.5 lakh; the villages named include Rohi, Dayanatpur Kheda, Nangla Chhitar, Nangla Ganeshi, Nangla Phool Khan and Nangla Sharif Khan; the youths say they have been unemployed for six to seven years and protested on being offered third-party placement. AC membership unconfirmed: Rohi is named, but its tehsil was not confirmed from an opened source, and the families come from several villages.",
       "sources": [
@@ -110,7 +110,7 @@
     },
     {
       "rank": 3,
-      "english": "Aliyabad roads have turned into ponds for about three years, and complaints to the pradhan have had no effect.",
+      "english": "Aliyabad roads have turned into ponds for about three years, complaints have had no effect",
       "hindi": "आलियाबाद में तीन साल से सड़कें पोखर बनी हैं, शिकायत का असर नहीं",
       "inference": false,
       "basis": "Amar Ujala video report (15 Sep 2026, by Anuj Kumar): Aliyabad, also called Mehdipur, 'in Jewar'. The stretch from the panchayat building to the graveyard is waterlogged; villagers say it has been bad for about three years and complained repeatedly to the pradhan and secretary without construction. AC membership unconfirmed: the headline places it in Jewar, but its tehsil or AC was not confirmed from an opened source. Based on the page summary; the full text was cut off.",
@@ -152,7 +152,7 @@
     }
   ],
   "ac_specific_negatives": 1,
-  "notes": "AC 63 Jewar, Gautam Buddh Nagar, reserved None (Wikipedia list No. 63 and Jewar AC page). Jewar town is the namesake and counts as inside. SHORTFALL: only 1 of the 5 negatives (Jewar CHC) is confirmed inside the AC, below the 3 required. The village items (Aliyabad, Myana) and the Rohi job item are reported under Jewar or with Rohi named, but no opened source confirmed their tehsil or AC. Further Jewar-town searches in Hindi returned nothing usable. Business Today was not reachable (403) and has been dropped. Aaj Tak (403) and the housing.com notification page (406) and gbnagar.nic.in (503) could not be opened. Aliyabad and Myana items rely on Amar Ujala video-report pages whose full text was cut off, so they use the summary. The 335-families item is from Daily Jagran (3 Dec 2025), which is older than the 2026 target. Positive 4 (rehab colonies look modern) is a looks-only observation. Positives 1 and 4 come from a farmers' feature with unnamed allegations. Positive 5 is an inference. Field check: Myana school waterlogging, Aliyabad road, Jewar CHC radiologist post, Rohi job group, and the tehsil membership of Myana, Aliyabad and Rohi.",
+  "notes": "AC 63 Jewar, Gautam Buddh Nagar, reserved None (Wikipedia list No. 63 and Jewar AC page). Jewar town is the namesake and counts as inside. SHORTFALL: only 1 of the 5 negatives (Jewar CHC) is confirmed inside the AC, below the 3 required. The village items (Aliyabad, Myana) and the Rohi job item are reported under Jewar or with Rohi named, but no opened source confirmed their tehsil or AC. Further Jewar-town searches in Hindi returned nothing usable. Business Today was not reachable (403) and has been dropped. Aaj Tak (403) and the housing.com notification page (406) and gbnagar.nic.in (503) could not be opened. Aliyabad and Myana items rely on Amar Ujala video-report pages whose full text was cut off, so they use the summary. The 335-families item is from Daily Jagran (3 Dec 2025), which is older than the 2026 target. Positive 4 (rehab colonies look modern) is a looks-only observation. Positives 1 and 4 come from a farmers' feature with unnamed allegations. Positive 5 is an inference. Field check: Myana school waterlogging, Aliyabad road, Jewar CHC radiologist post, Rohi job group, and the tehsil membership of Myana, Aliyabad and Rohi. P5 weak positive: forecast of jobs only; the basis gives expectations, not outcomes or Jewar-specific figures.",
   "round2": {
     "verified_sources": 9,
     "removed_sources": 1,

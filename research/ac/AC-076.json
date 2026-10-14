@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Three new high-capacity pumps started running to drain Shahjamal rainwater",
-      "hindi": "शाहजमाल के जलभराव के लिए तीन नए पंप चालू हुए हैं",
+      "english": "Three new high-capacity pumps are running to drain Shahjamal rainwater",
+      "hindi": "शाहजमाल का पानी निकालने के लिए तीन नए पंप चल रहे हैं",
       "inference": false,
       "basis": "ETV Bharat (5 Aug 2026): the corporation decided to install three pumps of 10,000 litres per minute each, reported running by late night, adding about 30,000 litres per minute of drainage capacity; the Municipal Commissioner called freeing the Shahjamal area from waterlogging the top priority. The article does not name the pumping station site. Shahjamal polling parts are on the AC 76 ERO/AERO list (parts 146, 150-156, 185), so AC membership is confirmed",
       "sources": [
@@ -48,8 +48,8 @@
     },
     {
       "rank": 3,
-      "english": "Bad road in Panchavati Colony is being rebuilt after a student's video",
-      "hindi": "पंचवटी कॉलोनी की खराब सड़क का निर्माण शुरू हो गया है",
+      "english": "Bad road in Panchavati Colony began being rebuilt after a student's video",
+      "hindi": "पंचवटी कॉलोनी की खराब सड़क छात्र के वीडियो के बाद बननी शुरू हुई",
       "inference": false,
       "basis": "ETV Bharat (14 Aug 2026): after a Panchavati Colony student posted a video of the road on 29 Jul 2026, the Nagar Nigam started work at about Rs 45 lakh in ward 24 (Devsaini area), with a two-month target. Construction started, not completed. The article names no assembly constituency. District-level item: Panchavati Colony is on neither the AC 76 nor the AC 75 ERO/AERO list, so AC membership is unconfirmed",
       "sources": [
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "english": "*A faulty pump was repaired in the waterlogged Shahjamal area",
-      "hindi": "*शाहजमाल में खराब पंप की मरम्मत हो गई है",
+      "hindi": "*शाहजमाल में खराब पंप ठीक हो गया है",
       "inference": true,
       "basis": "Inference: Amar Ujala (4 Aug 2026) quotes the Water Department general manager that a faulty pump has been repaired, in a report on Shahjamal waterlogging. The article does not say which pump or station it is, or confirm that it is in the Shahjamal area. Field check needed",
       "sources": [
@@ -92,7 +92,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Shahjamal streets stay waterlogged for days, people wade through dirty water",
+      "english": "Shahjamal streets stay waterlogged with dirty water for several days",
       "hindi": "शाहजमाल में कई दिनों से सड़क पर गंदा पानी भरा रहता है",
       "inference": false,
       "basis": "Amar Ujala (4 Aug 2026): waterlogging for several days on a route in Shahjamal; on Monday people had to walk through dirty water and a vehicle carried the procession's alam. Shahjamal, Babri Mandi, Phool Chauraha and Charkhwalan Chauraha are named. The Water Department general manager said a faulty pump was repaired and a new 1,000 kilolitre pumping station (about Rs 16 crore) is proposed at Charkhwalan Chauraha. AC membership: Shahjamal parts are on the AC 76 ERO/AERO list (parts 146, 150-156, 185)",
@@ -111,7 +111,7 @@
     },
     {
       "rank": 2,
-      "english": "Rain water enters shops on Ramghat and Khair Road and stays a day or more",
+      "english": "Rain water gets into shops on Ramghat and Khair Road",
       "hindi": "रामघाट और खैर रोड पर बारिश में दुकानों तक पानी घुस जाता है",
       "inference": false,
       "basis": "Amar Ujala (4 Jul 2026, city-level reporting): the drains report lists localities along the Ramghat Road route where water enters homes and shops (including Shahjamal Eidgah Road, Gular Road and Khair Road); Gular Road, Khair Road and Melrose Bypass were still waterlogged 36 hours after Wednesday's rain. AC membership: Khair Road parts (AC 76 list parts 19-24 and 128-129) are in AC 76 only; Ramghat Road has parts in both AC 76 (parts 110-112) and AC 75 Koil, so the Ramghat stretch is shared. The flooding list is city-level, not AC-only",
@@ -130,7 +130,7 @@
     },
     {
       "rank": 3,
-      "english": "Power trips and cuts hit Khair Road, Sasni Gate and Ramghat areas, appliances at risk",
+      "english": "Power keeps going off and tripping on Khair Road, Sasni Gate and Ramghat",
       "hindi": "खैर रोड, सासनी गेट और रामघाट में बिजली बार-बार जाती है",
       "inference": false,
       "basis": "Amar Ujala (14 Aug 2026): power went off in the Khair Road area around 10 PM; residents of Sasni Gate, Medical Road and others had no supply for hours; resident Satish Maheshwari said power had been tripping repeatedly since morning in ADA Colony, Avantika Phase-1 and Ramghat Road and warned appliances could be damaged. The Superintending Engineer (Urban) said teams were sent and supply restored. AC membership: Khair Road (AC 76 parts 19-24, 128-129) and Sasni Gate (parts 321-328) are on the AC 76 ERO/AERO list, and not on the AC 75 list. Medical Road is on neither list and is not counted",
@@ -163,8 +163,8 @@
     },
     {
       "rank": 5,
-      "english": "Power cuts on Ramghat Road also left people without drinking water",
-      "hindi": "रामघाट रोड पर बिजली गई, पानी का भी संकट हुआ",
+      "english": "Power cuts on Ramghat Road also left people short of drinking water",
+      "hindi": "रामघाट रोड पर बिजली गई तो पीने के पानी की भी दिक्कत हुई",
       "inference": false,
       "basis": "Amar Ujala (22 Aug 2026): supply was cut from morning to late night on Friday; Choudhary Vihar-Ramghat Road was among the affected areas; the article says the outage also caused a drinking water shortage; the Superintending Engineer (Urban) said supply was restored once faults were fixed. The Maris Road feeder is not used here, because Maris Road polling parts are in AC 75 (Koil). Ramghat Road parts are in both AC 76 and AC 75, and the article does not say which stretch, so AC membership is unconfirmed and this item is not counted as AC-specific",
       "sources": [

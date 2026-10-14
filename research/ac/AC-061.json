@@ -29,8 +29,8 @@
     },
     {
       "rank": 2,
-      "english": "Sewer projects for Chhajarsi and Baraula villages have been launched",
-      "hindi": "छजारसी और बरौला में सीवर परियोजना का शिलान्यास हो गया",
+      "english": "Foundation stone for sewer work in Chhajarsi and Baraula has been laid",
+      "hindi": "छजारसी और बरौला में सीवर का शिलान्यास हो गया",
       "inference": false,
       "basis": "Foundation stones laid 14 May 2026 (Do Took Media): Rs 165.13 lakh sewer maintenance work in Chhajarsi with a 1,280 m sewer line in three lanes; Rs 978.68 lakh for a 10 MLD sewage sump well in Baraula. The article gives no completion date. Chhajarsi and Baraula are named in the AC Wikipedia extent.",
       "sources": [
@@ -48,8 +48,8 @@
     },
     {
       "rank": 3,
-      "english": "Road and drain projects worth Rs 4.23 crore have been started in Chhajarsi and Chotpur",
-      "hindi": "छजारसी और चोटपुर में 4.23 करोड़ की सड़क-नाली योजनाएं शुरू हुईं",
+      "english": "Road and drain work worth Rs 4.23 crore has started in Chhajarsi and Chotpur",
+      "hindi": "छजारसी और चोटपुर में 4.23 करोड़ की सड़क-नाली का काम शुरू हुआ",
       "inference": false,
       "basis": "About Rs 4.23 crore for 16 road and drain projects in Chhajarsi, Chotpur, Bahlolpur and Garhi Chaukhandi, funded from MLA fund, Accelerated Economic Development Scheme and Rajya Sabha MP fund. The article says foundation stones were laid and projects inaugurated, without saying which ones; completion status unconfirmed. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
       "sources": [
@@ -68,7 +68,7 @@
     {
       "rank": 4,
       "english": "A Rs 9.82 crore pond is being built in Sorkha, half the work is done",
-      "hindi": "सोरखा में 9.82 करोड़ का तालाब, आधा काम हो चुका है",
+      "hindi": "सोरखा में 9.82 करोड़ का तालाब बन रहा है, आधा काम हो गया",
       "inference": false,
       "basis": "Pushkaneer pond in village Sorkha Jahidabad, cost about Rs 9.82 crore, about 50% of work complete, expected to finish in about four months; aim is water conservation and groundwater recharge (UP Ki Baat, page dated 11 Aug 2026). Sorkha Jahidabad is named in the AC Wikipedia extent.",
       "sources": [
@@ -86,8 +86,8 @@
     },
     {
       "rank": 5,
-      "english": "A new panchayat ghar has been built and opened in Naya Bans, Sector 15",
-      "hindi": "नया बांस गांव में नया पंचायत घर बनकर तैयार हो गया",
+      "english": "The panchayat ghar in Naya Bans village, Sector 15, is built and ready",
+      "hindi": "सेक्टर-15 के नया बांस गांव में पंचायत घर बनकर तैयार हो गया",
       "inference": false,
       "basis": "New panchayat ghar in Naya Bans village, Sector 15, Noida, inaugurated on a Saturday reported 12 Sep 2026 (Chetna Manch). The article gives two costs, about Rs 230.86 lakh and about Rs 328.78 lakh for the building, and does not reconcile them. Sector 15 is in Noida city (AC extent: 'It consists of the city of Noida'); Naya Bans is not named in the Wikipedia list.",
       "sources": [
@@ -107,8 +107,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Sorkha's sewer line laid 20 years ago never started; roads flood in light rain",
-      "hindi": "सोरखा में सीवर लाइन 20 साल से शुरू नहीं, सड़कें जलभराव से बेहाल",
+      "english": "Sorkha's sewer line has not started in 20 years, and roads flood in rain",
+      "hindi": "सोरखा में 20 साल से सीवर लाइन शुरू नहीं, बारिश में सड़कें डूबतीं",
       "inference": false,
       "basis": "Sorkha village, Sector-115 Noida (Amar Ujala, 30 Apr 2026): without a sewer line, light rain floods main roads; Bharatiya Kisan Union Kranti state president warned of agitation and called the authority's chaupal a formality. Amar Ujala video (3 Jan 2025): villagers say a sewer line laid about 20 years ago has still not started, and the main road is too damaged for sanitation tankers. The two sources describe the sewer situation differently (no line vs. laid but not started); the statement follows the video. Sorkha Jahidabad is named in the AC Wikipedia extent.",
       "sources": [
@@ -131,8 +131,8 @@
     },
     {
       "rank": 2,
-      "english": "Power cut for floodplain homes in Chhajarsi and Chotpur, residents want 24-hour supply",
-      "hindi": "डूब क्षेत्र में सैकड़ों बिजली कनेक्शन काटे, 24 घंटे बिजली की मांग",
+      "english": "In the Chhajarsi-Chotpur floodplain, hundreds of power connections were cut, we want 24-hour power",
+      "hindi": "छजारसी-चोटपुर के डूब क्षेत्र में सैकड़ों कनेक्शन काट दिए, 24 घंटे बिजली चाहिए",
       "inference": false,
       "basis": "ETV Bharat (1 Sep 2026): residents of the Chijarsi, Chotpur and Behlolpur floodplain say hundreds of connections were cut over the past four days; they demand 24-hour power and permanent meters. The electricity department gave no statement in the article. Chhajarsi and Chotpur are named in the AC Wikipedia extent.",
       "sources": [
@@ -169,8 +169,8 @@
     },
     {
       "rank": 4,
-      "english": "VIP visits jam Mahamaya flyover to Sector 51 for hours",
-      "hindi": "वीआईपी दौरे पर महामाया फ्लाईओवर से सेक्टर-51 तक घंटों जाम",
+      "english": "During a VIP visit, the jam from Mahamaya flyover to Sector 51 lasted for hours",
+      "hindi": "वीआईपी दौरे पर महामाया फ्लाईओवर से सेक्टर-51 तक घंटों जाम लगा",
       "inference": false,
       "basis": "Amar Ujala (24 Sep 2026): VIP movement in the city caused jams from Mahamaya Flyover to Sector 51, also Dalit Prerna Sthal, Chilla Border and Sector 37 to 51; peak jams 7-10 am and 4-9 pm. One dated event; 'whenever VIPs pass' is not established. TNP News (16 Sep 2026) is an election-framed piece on the 2027 polls; used only for its statement that traffic and parking have long been a local issue in the Noida seat. Noida city is covered by the AC extent.",
       "sources": [
@@ -193,8 +193,8 @@
     },
     {
       "rank": 5,
-      "english": "Sector 31 has open drains and waterlogging",
-      "hindi": "सेक्टर-31 में नाले खुले हैं और जलभराव की शिकायत है",
+      "english": "Drains in Sector 31 are open and water collects",
+      "hindi": "सेक्टर-31 में नाले खुले पड़े हैं और पानी भरता है",
       "inference": false,
       "basis": "Review meeting at Sector-27 club (Do Took Media, 1 Apr 2026): officials were directed to cover drains in Sector 31, clear waterlogging and clean the UGR in C-Block of Sector-31. The article does not name the assembly seat; Sector 31 is in Noida city, covered by the AC extent.",
       "sources": [

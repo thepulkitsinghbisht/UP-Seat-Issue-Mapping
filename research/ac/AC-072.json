@@ -39,8 +39,8 @@
     },
     {
       "rank": 3,
-      "english": "Paddy was bought from farmers at Harduaganj sub-mandi.",
-      "hindi": "हरदुआगंज उप मंडी में किसानों से धान खरीदा गया",
+      "english": "Farmers' paddy has already been bought at Harduaganj sub-mandi.",
+      "hindi": "हरदुआगंज उप मंडी में किसानों का धान खरीदा जा चुका है",
       "inference": false,
       "basis": "Subkuz (13 Oct 2026) says the wet paddy kept at Harduaganj sub-mandi had already been bought from farmers. Weak positive: shows procurement took place, not that prices or payment were good.",
       "sources": [
@@ -77,8 +77,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "A three-kilometre link road from the Jawan area to the Barauli-Aligarh road has been broken for three years; potholes fill with rain.",
-      "hindi": "तीन साल से लिंक सड़क टूटी पड़ी है, बारिश में गड्ढों में पानी भरता है",
+      "english": "The road has been broken for three years, and rainwater fills its potholes.",
+      "hindi": "तीन साल से सड़क टूटी है, गड्ढों में बारिश का पानी भरता है",
       "inference": false,
       "basis": "Amar Ujala (30 Mar 2026): link road from a nagar panchayat (photo caption: Jawan) to the Barauli-Aligarh road, about 3 km, broken for three years; serves about six villages including Sumera and Faridpur. Gram pradhan says complaints were made many times with no action. AC membership: Wikipedia's Barauli extent lists Jawan Sikanderpur; the article itself does not name the nagar panchayat.",
       "sources": [
@@ -106,7 +106,7 @@
     {
       "rank": 3,
       "english": "The Sadhu Ashram road in Kheda Bujurg is badly broken, and people keep falling and getting hurt on it.",
-      "hindi": "खेड़ा बुजुर्ग का साधु आश्रम मार्ग बेहद जर्जर, आए दिन लोग गिरकर चोटिल",
+      "hindi": "खेड़ा बुजुर्ग साधु आश्रम मार्ग जर्जर है, आए दिन लोग चोटिल होते हैं",
       "inference": false,
       "basis": "Amar Ujala (26 Oct 2024): former Kheda Bujurg pradhan Chandrabhan Singh says 'साधु आश्रम मार्ग बेहद जर्जर है' and 'आए दिन लोग गिरकर चोटिल हो रहे हैं'. The article places Kheda Bujurg in its Barauli section; it covers three ACs, and no later report was found for this road.",
       "sources": [
@@ -119,7 +119,7 @@
     },
     {
       "rank": 4,
-      "english": "Roads from Memdi to Chhaleser, Mujaffara to Godha and Gopalpur to Kasimpur are listed as broken.",
+      "english": "The Memdi-Chhaleser, Mujaffara-Godha and Gopalpur-Kasimpur roads are broken.",
       "hindi": "मेमडी-छलेसर, मुजफ्फरा-गोधा, गोपालपुर-कासिमपुर सड़कें जर्जर हैं",
       "inference": false,
       "basis": "Amar Ujala (26 Oct 2024) lists these three roads under its own heading 'बरौली विधानसभा की जर्जर सड़कें' (dilapidated roads of Barauli assembly), with no speaker or individual description. Weak: a list, not a quote; field check needed. The article covers three ACs.",
@@ -140,7 +140,7 @@
       "sources": []
     }
   ],
-  "notes": "Thin local coverage. AC check: Wikipedia's Barauli (UP) extent begins 'KCs Barauli', includes 'PCs Harduaganj' and 'Harduaganj NP', and lists Jawan Sikanderpur; Kheda Bujurg, Khair and Lodha are not named there. Oct 2024 Amar Ujala article covers three ACs; its Barauli section supplies the Kheda Bujurg and Memdi/Mujaffara/Gopalpur road items. Positives are weak: P1 is a 2026 inauguration, P2 an MLA-linked shed reported in 2024, P3 shows only procurement, P4 is district-level and not confirmed in Barauli, P5 is an inference. Excluded: the Aug 2026 plaque-vandalism story (not appreciation, politics and police case); the 2022 handpump fluoride report (district-level, old); the 1,600 m Hinsail-Nagla Sarua road (foundation only); the 12-road Rs 21 crore tender (Kol and Atrauli ACs only); the Sep 2026 Sumera-area road story (no AC named; only the Jawan photo caption points to this area); the Aligarh ring road and Harduaganj boundary expansion (plans, not benefits). Field check priorities: Jawan link road, Kheda Bujurg Sadhu Ashram road, Memdi/Mujaffara/Gopalpur roads, Harduaganj sub-mandi storage and payment, Harduaganj-Pipli-Bhamraula road status, and the cattle inference.",
+  "notes": "Thin local coverage. AC check: Wikipedia's Barauli (UP) extent begins 'KCs Barauli', includes 'PCs Harduaganj' and 'Harduaganj NP', and lists Jawan Sikanderpur; Kheda Bujurg, Khair and Lodha are not named there. Oct 2024 Amar Ujala article covers three ACs; its Barauli section supplies the Kheda Bujurg and Memdi/Mujaffara/Gopalpur road items. Positives are weak: P1 is a 2026 inauguration, P2 an MLA-linked shed reported in 2024, P3 shows only procurement, P4 is district-level and not confirmed in Barauli, P5 is an inference. Excluded: the Aug 2026 plaque-vandalism story (not appreciation, politics and police case); the 2022 handpump fluoride report (district-level, old); the 1,600 m Hinsail-Nagla Sarua road (foundation only); the 12-road Rs 21 crore tender (Kol and Atrauli ACs only); the Sep 2026 Sumera-area road story (no AC named; only the Jawan photo caption points to this area); the Aligarh ring road and Harduaganj boundary expansion (plans, not benefits). Field check priorities: Jawan link road, Kheda Bujurg Sadhu Ashram road, Memdi/Mujaffara/Gopalpur roads, Harduaganj sub-mandi storage and payment, Harduaganj-Pipli-Bhamraula road status, and the cattle inference. Edit pass: P3 weak positive: shows procurement only, not price or payment. N1 now names only the road and the three years; the link-road and Jawan details are left out of the statement.",
   "round2": {
     "verified_sources": 8,
     "removed_sources": 2,

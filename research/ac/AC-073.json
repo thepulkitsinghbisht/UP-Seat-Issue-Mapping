@@ -18,7 +18,7 @@
     {
       "rank": 1,
       "english": "Digital libraries and cremation grounds in village panchayats have been inaugurated",
-      "hindi": "गांवों में डिजिटल लाइब्रेरी और शमशान घाट का लोकार्पण हुआ है",
+      "hindi": "गांवों में डिजिटल लाइब्रेरी और शमशान घाट का उद्घाटन हो गया",
       "inference": false,
       "basis": "Amar Ujala (19 Apr 2026, verified): the state minister inaugurated about Rs 5 crore of projects in Atrauli block: 33 kshetra panchayat works (Rs 2.5 crore), digital libraries in 33 gram panchayats (Rs 1.32 crore), cremation grounds in 4 gram panchayats (Rs 1.20 crore). The article names no villages, so each work's exact AC membership is not confirmed. Block-level, and the works are delivered (inaugurated), not just planned.",
       "sources": [
@@ -57,8 +57,8 @@
     },
     {
       "rank": 5,
-      "english": "Municipal board has started a cleanliness and greening drive in town",
-      "hindi": "नगर पालिका ने सफाई और हरियाली का अभियान शुरू किया है",
+      "english": "A cleanliness and greening drive has started in town",
+      "hindi": "शहर में सफाई और हरियाली का अभियान शुरू हुआ है",
       "inference": false,
       "basis": "Amar Ujala (28 May 2026, verified): Atrauli municipal board installed Green Atrauli-Clean Atrauli cutouts and lighting at the Avantibai crossing and an I Love Atrauli selfie point at the roadways bus stand; the chairman says a tree-planting drive will run in every ward (no dates). The article quotes no residents by name and reports no measurable results. Campaign stage, so the weakest positive here.",
       "sources": [
@@ -69,8 +69,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Power comes for only 4-5 hours instead of 10, and the maize is drying up",
-      "hindi": "बिजली 10 की जगह 4-5 घंटे मिलती है, मक्का सूख रहा है",
+      "english": "Power comes for only 4-5 hours instead of 10, and the maize is at risk",
+      "hindi": "बिजली 10 की जगह 4-5 घंटे मिलती है, मक्का खतरे में है",
       "inference": false,
       "basis": "Amar Ujala (28 May 2026, verified): for about 15 days farmers on the Paneha feeder (Atrauli area; Rajatau and Nahal named) got 4-5 hours instead of 10, with repeated trips and no daytime irrigation; maize at risk; farmers demand 12 hours. The JE blames overloading and says it will be resolved soon. Second source, Aligarh Media (18 Jul 2026, local outlet, verified): Panehra village (Atrauli) faced a power crisis and low voltage, and villagers gave a memorandum to the DM on 15 Jul. AC membership: Nahal Panehra is named under Atrauli vidhan sabha in the 11 Oct 2026 Amar Ujala report. Panehra village's own AC membership is not separately confirmed.",
       "sources": [
@@ -80,7 +80,7 @@
     },
     {
       "rank": 2,
-      "english": "Atrauli-Ganiyavli-Gazipur road is full of potholes and waterlogs in rain",
+      "english": "Atrauli-Ganiyavli-Gazipur road is full of potholes and gets waterlogged in rain",
       "hindi": "अतरौली-गनियावली-गाजीपुर सड़क पर गड्ढे हैं, बारिश में पानी भर जाता है",
       "inference": false,
       "basis": "Amar Ujala (26 May 2026, verified): the Atrauli-Ganiyavli-Gazipur road is in poor condition; the Yuva Pahal president says large potholes and waterlogging disrupt travel in rains, hitting school children, patients and farmers. The BDO says a complaint letter will go to PWD. A dharna on the same demand was held on 1 Jan 2023 with no action since. The road starts in Atrauli town, so AC membership follows the namesake-town rule.",
@@ -101,7 +101,7 @@
     {
       "rank": 4,
       "english": "We queue for urea from morning, but get only two bags",
-      "hindi": "यूरिया के लिए लाइन में लगते हैं, मिलती हैं बस दो बोरी",
+      "hindi": "यूरिया के लिए लाइन में लगते हैं, मिलती है बस दो बोरी",
       "inference": false,
       "basis": "Amar Ujala (5 Aug 2025, verified): at the Atrauli PCF centre and cooperative society, farmers from Gaziapur, Harchandpur and Khera queued from about 5 am in rain; they needed 5-10 bags and got two each; there was a scuffle with police; private shops also lacked urea. The secretary says distribution matched the stock. Dated 2025; no later urea report for Atrauli was found. The PCF centre is in Atrauli town, so it counts under the namesake-town rule.",
       "sources": [
@@ -119,5 +119,5 @@
       ]
     }
   ],
-  "notes": "Identity (verified): Wikipedia Atrauli Assembly constituency page gives No. 73, Atrauli, district Aligarh, reserved None, electors 4,04,658 (2022), part of the Aligarh Lok Sabha seat. Its extent lists KCs Atrauli, Dadon, Bijoli, PCs Gaonkhera, Ganiyawali, Jujharka, Gobli, Chendauli Buzurg, Bhavigarh, Koreh Raghupura, Fazalpur, Rehmapur, Gajipur, Tebthu, Madapur, Utara, Puraini Ismailpur of Barala KC and Atrauli MB. Naori, Rajatau, Nahal, Paneha and Chaunchai are not in the extent list; their AC membership rests on the 11 Oct 2026 Amar Ujala report naming Atrauli vidhan sabha roads (Nahal Panehra, Chauchai). Region Braj follows the repo mapping used for AC-071; the Wikipedia page says North India. Weaknesses: (1) positives are thin: one 2026 inaugurated package (block-level), two road items at tender or sanction stage, a 2023 pond now dry, and a municipal campaign at cutout stage; no sourced voter appreciation of a delivered road or bridge was found. (2) Dated sources: block roads Nov 2024, urea Aug 2025, bridge proposal May 2025; status after those dates is unverified. (3) The Kali bridge is now a 2025 proposal, not a 2022 construction site; the 2022 Wire claims could not be verified and were removed. (4) Searches for Atrauli-specific health, water (JJM), stray cattle, markets, schools and flooding returned nothing usable, so none were used. (5) Found but not used: Kaudiyaganj Kali bridge (17.75 crore, different AC), Khair Road and Ghaziabad/Gonda/Muzaffarnagar items, Atrauli block 2026 district-wide bitumen shortage and tree-felling reports (district-level, no Atrauli AC detail). Field check recommended on the Kali bridge sanction, the Paneha feeder hours, and Naoari's AC membership."
+  "notes": "Identity (verified): Wikipedia Atrauli Assembly constituency page gives No. 73, Atrauli, district Aligarh, reserved None, electors 4,04,658 (2022), part of the Aligarh Lok Sabha seat. Its extent lists KCs Atrauli, Dadon, Bijoli, PCs Gaonkhera, Ganiyawali, Jujharka, Gobli, Chendauli Buzurg, Bhavigarh, Koreh Raghupura, Fazalpur, Rehmapur, Gajipur, Tebthu, Madapur, Utara, Puraini Ismailpur of Barala KC and Atrauli MB. Naori, Rajatau, Nahal, Paneha and Chaunchai are not in the extent list; their AC membership rests on the 11 Oct 2026 Amar Ujala report naming Atrauli vidhan sabha roads (Nahal Panehra, Chauchai). Region Braj follows the repo mapping used for AC-071; the Wikipedia page says North India. Weaknesses: (1) positives are thin: one 2026 inaugurated package (block-level), two road items at tender or sanction stage, a 2023 pond now dry, and a municipal campaign at cutout stage; no sourced voter appreciation of a delivered road or bridge was found. (2) Dated sources: block roads Nov 2024, urea Aug 2025, bridge proposal May 2025; status after those dates is unverified. (3) The Kali bridge is now a 2025 proposal, not a 2022 construction site; the 2022 Wire claims could not be verified and were removed. (4) Searches for Atrauli-specific health, water (JJM), stray cattle, markets, schools and flooding returned nothing usable, so none were used. (5) Found but not used: Kaudiyaganj Kali bridge (17.75 crore, different AC), Khair Road and Ghaziabad/Gonda/Muzaffarnagar items, Atrauli block 2026 district-wide bitumen shortage and tree-felling reports (district-level, no Atrauli AC detail). Field check recommended on the Kali bridge sanction, the Paneha feeder hours, and Naoari's AC membership. Edit pass: P2 weak positive: tender stage only, no road completed. P3 weak positive: a 2024 sanction, completion not confirmed. P5 weak positive: campaign start only, no results reported. N1 says the maize is at risk, as the basis states, not drying up."
 }

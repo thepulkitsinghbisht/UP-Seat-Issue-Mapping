@@ -39,8 +39,8 @@
     },
     {
       "rank": 3,
-      "english": "Police checked the Ram Barat procession route in Chharra before the festival",
-      "hindi": "*त्योहार की सवारी के लिए पुलिस ने छर्रा का रूट देखा, सुरक्षा का इंतज़ाम हुआ",
+      "english": "*Security arrangements were made for the festival procession in Chharra",
+      "hindi": "*त्योहार की सवारी के लिए छर्रा में सुरक्षा का इंतज़ाम हुआ",
       "inference": true,
       "basis": "Inference: Amar Ujala (10 Oct 2026, checked on the video page; headline and summary only) reports the SSP inspected the Ram Barat procession route in Chharra, the Ravan dahan site, and gave security instructions to organisers. The report does not record any resident's praise; appreciation is inferred. A security check is not a delivered benefit, so this is a weak positive.",
       "sources": [
@@ -53,8 +53,8 @@
     },
     {
       "rank": 4,
-      "english": "*Sanctioned road money for Chharra's 79 roads could mean repairs are coming",
-      "hindi": "*छर्रा की 79 सड़कों के लिए पैसा मंज़ूर हुआ है, मरम्मत का इंतज़ार है",
+      "english": "*Rs 216 crore budget is set aside for 79 roads in Chharra",
+      "hindi": "*छर्रा की 79 सड़कों के लिए 216 करोड़ रुपये का बजट है",
       "inference": true,
       "basis": "Inference: Amar Ujala (14 Sep 2026, checked) budget list gives Rs 216 crore for 79 roads of 250 km in the Chharra assembly area. This is a budget allocation, not a started or completed work; no resident praise is reported. Weak positive.",
       "sources": [
@@ -67,8 +67,8 @@
     },
     {
       "rank": 5,
-      "english": "*The Atrauli-Kasganj state road is our route to towns beyond Chharra",
-      "hindi": "*अतरौली-कासगंज राज्य मार्ग से छर्रा से बाहर के शहरों तक जाना होता है",
+      "english": "*The Atrauli-Kasganj state road takes us to towns beyond Chharra",
+      "hindi": "*अतरौली-कासगंज राज्य मार्ग से छर्रा के बाहर के शहरों तक जाते हैं",
       "inference": true,
       "basis": "Inference: Amar Ujala (14 Sep 2026) calls the Atrauli-Kasganj road a state highway that passes Pali Morh and Chharra Adda. The article does not say residents rely on it or praise it; the appreciation is inferred and this is the weakest positive in the set.",
       "sources": [
@@ -97,8 +97,8 @@
     },
     {
       "rank": 2,
-      "english": "A porter lost his leg in a fight at the Chharra mandi, and the case is still disputed",
-      "hindi": "छर्रा मंडी में व्यापारियों से झगड़े में पल्लेदार का पैर कटा, इंसाफ़ का इंतज़ार है",
+      "english": "A porter at the Chharra mandi is alleged to have been assaulted by traders, and his family awaits justice",
+      "hindi": "छर्रा मंडी में पल्लेदार पर व्यापारियों के हमले का आरोप, इंसाफ़ का इंतज़ार",
       "inference": false,
       "basis": "Amar Ujala (28 Sep 2026, checked): porter Raju was injured on 22 Sep at the Chharra Krishi Utpadan Mandi Samiti; the family alleges assault by two traders; FIR against 8 named persons and about 90 people in all (about 30 women); villagers allege police were not taking the case seriously (allegation only). Traders' version not in article. Police gave a different time for the incident (about 10:30 pm) than the family (about 8 pm).",
       "sources": [
@@ -125,8 +125,8 @@
     },
     {
       "rank": 4,
-      "english": "The Galibpur link road is full of deep potholes and hard to use in rain",
-      "hindi": "गालिबपुर की सड़क में गहरे गड्ढे हैं, बारिश में निकलना मुश्किल हो जाता है",
+      "english": "The Galibpur road has deep potholes and is hard to use in rain",
+      "hindi": "गालिबपुर की सड़क में गहरे गड्ढे हैं, बारिश में निकलना मुश्किल",
       "inference": false,
       "basis": "Amar Ujala (14 Sep 2026, checked), reporter narration under PWD: 'नानऊ चौराहे से छर्रा-सांकरा जाने वाली सड़क भी जर्जर हो चुकी है'. Nanau Chauraha is on GT road in Akarabad, and Akarabad KC is listed in the AC's Wikipedia extent, so the start of the road is inside AC 74. Sankra is not confirmed. PWD SE Prabhat Kumar Chaudhary said tenders would be finalised soon.",
       "sources": [
@@ -139,8 +139,8 @@
     },
     {
       "rank": 5,
-      "english": "*Aligarh is 40 km away and the only way there is by road, so care is hard to reach",
-      "hindi": "*इलाज के लिए अलीगढ़ 40 किमी दूर है, और वहां सिर्फ सड़क से जाते हैं",
+      "english": "*For treatment, Aligarh is 40 km away and it can only be reached by road",
+      "hindi": "*इलाज के लिए अलीगढ़ 40 किमी दूर, सिर्फ सड़क से जा सकते हैं",
       "inference": true,
       "basis": "Inference: Wikipedia (Chharra Rafatpur, undated, checked) says the town is 40 km from Aligarh and 'The only way to commute to this place is by road'. The article names no hospital or health service; the health-access claim is inferred from distance and road-only access. Chharra Rafatpur is the Chharra nagar panchayat in the AC's extent.",
       "sources": [
@@ -152,7 +152,7 @@
       ]
     }
   ],
-  "notes": "Local evidence is thin: about 33 searches in Hindi and English (about 8 more this round) found only a few 2026 Amar Ujala items on Chharra; nothing on water, power, drainage, schools or hospitals in Chharra town. AC 74 extent (Wikipedia AC page, checked this round): Chharra KC incl. Chharra NP (Atrauli tehsil); Koil tehsil KCs Akarabad and Vijaygarh, NPs Jalali, Pilkhana, Kodiaganj, Vijaygarh. Three negatives are confirmed inside the AC: Chharra Adda road, Chharra mandi clash, Nanau Chauraha road. Galibpur road is unconfirmed (not in extent) and the Chharra Rafatpur health claim is inference. Positives are weak: P1, P3, P4 and P5 are inferred appreciation; P3 is a police security check and P4 is a budget allocation, not a delivered benefit. Not re-checked this round: the earlier note that the Wikipedia constituency-list row for 74 showed district 'Hathras' (the AC page says Aligarh). The Newstrack drainage report (Chharra Adda keyword) returned HTTP 403 earlier and was not cited. Verify on a field visit: Chharra NP water and drainage, Chharra Adda drain and the Chharra mandi, Nanau-Sankra and Pilkhana roads, Galibpur road membership, and the 216 crore 79-road allocation.",
+  "notes": "Local evidence is thin: about 33 searches in Hindi and English (about 8 more this round) found only a few 2026 Amar Ujala items on Chharra; nothing on water, power, drainage, schools or hospitals in Chharra town. AC 74 extent (Wikipedia AC page, checked this round): Chharra KC incl. Chharra NP (Atrauli tehsil); Koil tehsil KCs Akarabad and Vijaygarh, NPs Jalali, Pilkhana, Kodiaganj, Vijaygarh. Three negatives are confirmed inside the AC: Chharra Adda road, Chharra mandi clash, Nanau Chauraha road. Galibpur road is unconfirmed (not in extent) and the Chharra Rafatpur health claim is inference. Positives are weak: P1, P3, P4 and P5 are inferred appreciation; P3 is a police security check and P4 is a budget allocation, not a delivered benefit. Not re-checked this round: the earlier note that the Wikipedia constituency-list row for 74 showed district 'Hathras' (the AC page says Aligarh). The Newstrack drainage report (Chharra Adda keyword) returned HTTP 403 earlier and was not cited. Verify on a field visit: Chharra NP water and drainage, Chharra Adda drain and the Chharra mandi, Nanau-Sankra and Pilkhana roads, Galibpur road membership, and the 216 crore 79-road allocation. Edit pass: P3 weak positive: a police security arrangement, not a delivered benefit. P4 weak positive: budget allocation only, no work started. P5 weak positive: road geography only; the basis shows no resident appreciation. N2 no longer says a leg was lost (basis says injured; family alleges assault). Check before fielding: N3 source date is 2026-09-14 but its basis says 2 Jul 2026, and N4 source date is 2026-07-02 but its basis says 14 Sep 2026. N4 statement names the Galibpur road, while its basis describes the Nanau Chauraha to Chharra-Sankra road.",
   "round2": {
     "verified_sources": 5,
     "removed_sources": 0,

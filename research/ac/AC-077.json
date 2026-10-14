@@ -53,8 +53,8 @@
     },
     {
       "rank": 4,
-      "english": "*Iglas has more than 25 cold storage centres for farm produce",
-      "hindi": "*इगलास में 25 से ज्यादा कोल्ड स्टोरेज केंद्र हैं",
+      "english": "*Iglas has more than 25 cold storage centres where farm produce can be kept",
+      "hindi": "*इगलास में फसल रखने के लिए 25 से ज्यादा कोल्ड स्टोरेज हैं",
       "inference": true,
       "basis": "Inference: the Wikipedia Iglas town article says there are over 25 cold storage centres in Iglas for storing agricultural produce. The page is undated and this is an infrastructure fact, not a reported benefit, so it stays flagged. Not verified against a recent local report",
       "sources": [
@@ -131,7 +131,7 @@
     {
       "rank": 4,
       "english": "Stray cattle damage crops across Aligarh district",
-      "hindi": "छुट्टा गोवंश से फसलों का नुकसान हो रहा है",
+      "hindi": "अलीगढ़ में छुट्टा गोवंश से फसलों का नुकसान हो रहा है",
       "inference": false,
       "basis": "District-level, not AC-specific. Amar Ujala Aligarh (5 May 2026): farmers at an indefinite sit-in at the Tappal block premises said stray cattle and nandi bulls are damaging crops and demanded a ban on stray animals. Tappal is not in Iglas AC, and the article does not mention Iglas",
       "sources": [
@@ -144,7 +144,7 @@
     },
     {
       "rank": 5,
-      "english": "After a Hathras road accident, the victim's family had to sit on dharna at the tehsil for help",
+      "english": "After a road accident, the victim's family sat on dharna at the tehsil seeking help",
       "hindi": "हादसे के बाद पीड़ित परिवार को मदद के लिए तहसील में धरना",
       "inference": false,
       "basis": "Amar Ujala Aligarh (13 Oct 2026): villagers of Badhakhurd held a dharna at the Iglas tehsil office demanding withdrawal of a police report filed after a trailer was set on fire and the road blocked, and financial help for the family of Shivkumar alias Shiva, killed in a road accident on the Hathras road on 23 Sep, and for a seriously injured youth. The tehsil office is in Iglas town (Iglas is a town and tehsil per Wikipedia), but Badhakhurd village is not confirmed inside this AC. Counted as AC-specific by place only; no outcome reported",
@@ -157,7 +157,7 @@
       ]
     }
   ],
-  "notes": "Identity: AC No. 77 Iglas, SC, district Aligarh confirmed on the Wikipedia AC page (which covers 'the city of Iglas' with no tehsil or village list); the page's category tags list Hathras district, an inconsistency not used. Iglas town article gives conflicting population figures, not used. Searches (about 30) in Hindi and English found no completed or started Iglas project in 2024-2026 local Hindi coverage, so positives remain flagged. Excluded: Hathras city NPP drains on 'Iglas Phatak' and 'Iglas Road' (wards 9 and 15, Hathras city, different AC); Mathura-Iglas road drain (Amar Ujala Aligarh, 4 Jul 2026: no cost or location in town); Gaumat-Bajna waterlogged road (Khair direction, Iglas not named); Iglas-related 2017 Congress rally potato-unit claim (political, dated); Newstrack Iglas CHC CMO inspection (page returned 403, not read); Newstrack Iglas street play (scheme awareness, not a positive); Public App listings (aggregator, not opened) including a July 2026 Kajrauth village power outage in Iglas tehsil. Field checks: Iglas mandi after reopening; Iglas tehsil dharna outcome; tender status and start of Iglas-Gorai and Iglas-Mursan bridges; Mursan-Iglas sanction and whether the stretch is inside the AC; whether Badhakhurd and Badhakalan villages fall inside the AC; Iglas-town cattle complaints; whether the UP potato cold-storage subsidy applies in Aligarh.",
+  "notes": "P1 weak positive: approval only; final financial sanction is pending and no work has started. P2 weak positive: tender stage only; no construction start reported. P3 weak positive: proposal only, awaiting approval. P4 weak positive: infrastructure fact from an undated Wikipedia page, not a reported benefit; Hindi reworded to the farm-storage use stated in the basis. P5 weak positive: police patrol, not a delivered benefit; no residents' appreciation reported. Identity: AC No. 77 Iglas, SC, district Aligarh confirmed on the Wikipedia AC page (which covers 'the city of Iglas' with no tehsil or village list); the page's category tags list Hathras district, an inconsistency not used. Iglas town article gives conflicting population figures, not used. Searches (about 30) in Hindi and English found no completed or started Iglas project in 2024-2026 local Hindi coverage, so positives remain flagged. Excluded: Hathras city NPP drains on 'Iglas Phatak' and 'Iglas Road' (wards 9 and 15, Hathras city, different AC); Mathura-Iglas road drain (Amar Ujala Aligarh, 4 Jul 2026: no cost or location in town); Gaumat-Bajna waterlogged road (Khair direction, Iglas not named); Iglas-related 2017 Congress rally potato-unit claim (political, dated); Newstrack Iglas CHC CMO inspection (page returned 403, not read); Newstrack Iglas street play (scheme awareness, not a positive); Public App listings (aggregator, not opened) including a July 2026 Kajrauth village power outage in Iglas tehsil. Field checks: Iglas mandi after reopening; Iglas tehsil dharna outcome; tender status and start of Iglas-Gorai and Iglas-Mursan bridges; Mursan-Iglas sanction and whether the stretch is inside the AC; whether Badhakhurd and Badhakalan villages fall inside the AC; Iglas-town cattle complaints; whether the UP potato cold-storage subsidy applies in Aligarh.",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 2,

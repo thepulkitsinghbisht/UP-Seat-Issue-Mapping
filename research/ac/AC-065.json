@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Emergency operations have started in the new medical college building, and patients are getting surgery here",
-      "hindi": "मेडिकल कॉलेज के नए भवन में इमरजेंसी का ऑपरेशन शुरू हो गया है",
+      "english": "Emergency surgeries are now being done in the new medical college building",
+      "hindi": "मेडिकल कॉलेज के नए भवन में अब इमरजेंसी के ऑपरेशन हो रहे हैं",
       "inference": false,
       "basis": "Amar Ujala, 30 May 2026, dateline Bulandshahr (verified): emergency operation theatre for seriously ill patients started in the new building of Kalyan Singh Rajkiya Medical College; acting principal Dr. Sanjay Mishra says 30 patients have been operated in the emergency OT so far; general and orthopaedic surgery first. The article names no street address, so the town (namesake rule) is the basis for AC membership.",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Dengue and malaria cases are far fewer than in earlier years",
-      "hindi": "डेंगू और मलेरिया के मरीज पहले के मुकाबले काफी कम हैं",
+      "english": "This year dengue and malaria patients are far fewer than before",
+      "hindi": "इस साल डेंगू और मलेरिया के मरीज पहले से काफी कम हैं",
       "inference": false,
       "basis": "Amar Ujala, 1 Oct 2026 (verified): 8 dengue and 16 malaria cases this year, against 77 dengue and 53 malaria cases in previous years. The article does not state whether these are district or city figures; they sit in a district-wide section, so treat this as a district-level claim, not a neighbourhood fact.",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "english": "*Nagar Palika says repairs of colony roads are in progress",
+      "english": "*I hear colony road repairs are in progress",
       "hindi": "*सुनने में आया है कि कॉलोनियों की सड़कों की मरम्मत चल रही है",
       "inference": true,
       "basis": "Inference: the only evidence is the Nagar Palika EO's own claim in the 3 Apr 2026 Amar Ujala article (verified): damaged roads surveyed, repairs in progress, all colony and mohalla roads to be fixed soon. Residents in the same article say repeated complaints were ignored, so this is not confirmed as a benefit. Field check needed.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "*Five new operation theatres in the medical college building should ease the rush for surgery",
-      "hindi": "*नए भवन में ऑपरेशन थियेटर बढ़ने से मरीजों को राहत मिलेगी",
+      "english": "*Work is under way on five new operation theatres in the new building",
+      "hindi": "*नए भवन में 5 ऑपरेशन थियेटर का काम चल रहा है",
       "inference": true,
       "basis": "Inference: a plan, not a delivered benefit. The 28 Mar 2026 Amar Ujala article (verified) says work is under way to start five operation rooms in the new building, expected from April, and that surgery was then done in one room in the old building. The 30 May 2026 article reports only the emergency and general/orthopaedic surgery start, not the five rooms. Field check needed.",
       "sources": [
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Potholes on the Kala Aam, Chandpur and Bhood roads make every journey dangerous, especially for two-wheelers",
-      "hindi": "कालाआम, चांदपुर रोड और भूड़ चौराहे पर गड्ढे ही गड्ढे, सफर खतरनाक है",
+      "english": "Potholes in many places on Kala Aam, Chandpur Road and Bhood crossing; in rain they turn to mud",
+      "hindi": "कालाआम, चांदपुर रोड और भूड़ चौराहे पर जगह-जगह गड्ढे, बारिश में कीचड़",
       "inference": false,
       "basis": "Amar Ujala, 14 Sep 2026 (verified), city (नगर) section: Kala Aam, Syana Adda, Bhood Chauraha and Chandpur Road named among main city routes 'जगह-जगह टूट चुकी हैं'; rain turns them to mud and waterlogging; residents say repairs happen but the road is soon back to its old state. The two-wheeler risk and poor streetlighting point is in the district-wide section, not the city section. The 500 km figure covers the whole district.",
       "sources": [
@@ -110,8 +110,8 @@
     },
     {
       "rank": 3,
-      "english": "The Kalaam crossing and colony lanes are broken, and residents say complaints have been ignored",
-      "hindi": "कालाआम चौराहे और कॉलोनियों की सड़कें टूटी हैं, शिकायत के बाद भी सुनवाई नहीं",
+      "english": "The Kalaam crossing and colony roads are broken, and residents say complaints were ignored",
+      "hindi": "कालाआम चौराहे और कॉलोनियों की सड़कें टूटी, शिकायत के बाद भी सुनवाई नहीं",
       "inference": false,
       "basis": "Amar Ujala, 3 Apr 2026, dateline Bulandshahr, Nagar Palika area (verified): deep potholes on the Kalaam roundabout that endanger drivers daily; Hari Enclave road fully broken up; Yamunapur road dust reaching homes; Devipura road work stopped halfway. Residents say 'बार-बार शिकायत करने के बावजूद भी जिम्मेदार अधिकारियों ने समस्या के समाधान की ओर ध्यान नहीं दिया'. EO Nagar Palika, Dr. Ashwani Kumar, says survey done and repairs in progress.",
       "sources": [
@@ -138,8 +138,8 @@
     },
     {
       "rank": 5,
-      "english": "*Rain water stands on our roads and lanes because drains are not cleaned properly",
-      "hindi": "*बारिश में सड़कों पर पानी भर जाता है, नालियां ठीक से साफ नहीं होतीं",
+      "english": "*In rain, water stands on the roads",
+      "hindi": "*बारिश में सड़कों पर पानी भर जाता है",
       "inference": true,
       "basis": "Inference: the 14 Sep 2026 Amar Ujala city-roads report (verified) says rain turns roads into mud and waterlogged stretches. It does not say drains are the cause. Bulandshahr city drain complaints were not found for 2025-26; the 8 May 2026 Sikandrabad board report is a different AC. Field check needed.",
       "sources": [
@@ -158,5 +158,5 @@
     "ac_specific_negatives": 4,
     "changes": "Opened all 7 distinct cited URLs; all open and support their items, with basis corrected where the article did not say what was claimed (dengue scope, two-wheeler point is in the district section, Kalaam 'accidents' and quoted line removed, positive 5 wording changed from roads to development works, medical college name). Identity source changed to the Bulandshahr AC Wikipedia page (No. 65, reserved None, extent includes Bulandshahr MB). Unsourced water negative replaced with the sourced 24 Aug 2026 town power-cut report (Yamunapuram, Kachahari Road); negatives re-ranked. Summary updated. Negatives 4 (town garbage, district article) is counted as AC-specific under the namesake rule. Positives 3-5 and negative 5 remain inference (no delivered city project or city drain report found)."
   },
-  "notes": "AC 65 confirmed as Bulandshahr, district Bulandshahr, reserved None; Wikipedia AC page extent includes 'Bulandshahr MB of Bulandshahr Tehsil', so the town counts under the namesake rule. Named villages were not used. Excluded as other ACs: Khurja road and waterlogging articles, Khurja Ahirpada water outage (Khurja); Shikarpur drainage (Shikarpur); Hapur waterlogging (Hapur); Anupshahar Degree College to Favvara Chowk road, Rs 1.64 crore, under construction (dateline Anupshahar); Dibai Rajghat Bangar village road (Dibai); Sikandrabad Rs 1.13 billion development plan, proposals only (dateline Sikandrabad); Syana-to-district-border road widening (Syana). Excluded for not being city-specific: 27 May 2026 power report (district-wide, its town areas are not Bulandshahr-only); 2 Mar 2026 Holi water and power schedule (urban 10-hour water supply, no complaints in the article). Excluded as unopenable: Aaj Tak Dec 2025 Durgapuram stray-bull report (returned HTTP 403); only a Sep 2026 bull death on the Anupshahar highway in Dibai was found for 2026. Excluded as dated: Patrika sugar-mill protest (2018). Excluded as not local: statewide cane-dues figures (The Quint). Searches this round: about 12 Hindi and English searches on city water, power, stray cattle, completed roads or parks, and water complaints. Still not found for AC 65: a delivered city project (no completed road, park, drain or tank inauguration in Bulandshahr town 2026), city-specific water supply complaints, city stray-cattle reports for 2026, and drainage cleaning. The medical college location is inferred from the Bulandshahr dateline and the district hospital complex. The field check should focus on water supply, stray cattle, drains and whether the medical college OT is running."
+  "notes": "AC 65 confirmed as Bulandshahr, district Bulandshahr, reserved None; Wikipedia AC page extent includes 'Bulandshahr MB of Bulandshahr Tehsil', so the town counts under the namesake rule. Named villages were not used. Excluded as other ACs: Khurja road and waterlogging articles, Khurja Ahirpada water outage (Khurja); Shikarpur drainage (Shikarpur); Hapur waterlogging (Hapur); Anupshahar Degree College to Favvara Chowk road, Rs 1.64 crore, under construction (dateline Anupshahar); Dibai Rajghat Bangar village road (Dibai); Sikandrabad Rs 1.13 billion development plan, proposals only (dateline Sikandrabad); Syana-to-district-border road widening (Syana). Excluded for not being city-specific: 27 May 2026 power report (district-wide, its town areas are not Bulandshahr-only); 2 Mar 2026 Holi water and power schedule (urban 10-hour water supply, no complaints in the article). Excluded as unopenable: Aaj Tak Dec 2025 Durgapuram stray-bull report (returned HTTP 403); only a Sep 2026 bull death on the Anupshahar highway in Dibai was found for 2026. Excluded as dated: Patrika sugar-mill protest (2018). Excluded as not local: statewide cane-dues figures (The Quint). Searches this round: about 12 Hindi and English searches on city water, power, stray cattle, completed roads or parks, and water complaints. Still not found for AC 65: a delivered city project (no completed road, park, drain or tank inauguration in Bulandshahr town 2026), city-specific water supply complaints, city stray-cattle reports for 2026, and drainage cleaning. The medical college location is inferred from the Bulandshahr dateline and the district hospital complex. The field check should focus on water supply, stray cattle, drains and whether the medical college OT is running. P3 weak positive: rests on the Nagar Palika EO's own claim that repairs are in progress; residents say earlier complaints were ignored. P5 weak positive: an approval only, with tenders still being prepared and no AC road named."
 }

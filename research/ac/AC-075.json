@@ -17,8 +17,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "* After a newspaper report, the stolen solar wire was replaced and water reached homes",
-      "hindi": "* खबर छपते ही पाइपलाइन ठीक हुई और घरों के नलों में पानी आने लगा",
+      "english": "*After a newspaper report, the stolen solar wire was replaced and water reached taps",
+      "hindi": "*खबर छपते ही सोलर तार बदला गया, नलों में पानी आने लगा",
       "inference": true,
       "basis": "Inference: Siyakhas village (Jawan block) is not named as part of Koil. Amar Ujala 15 Sep 2026 (verified): the solar wire of the tank and pipeline had been stolen; officials ordered new wire, it was replaced, and water began reaching the village taps that afternoon. The article does not mention Koil",
       "sources": [
@@ -27,8 +27,8 @@
     },
     {
       "rank": 2,
-      "english": "* CM inaugurated and laid foundation stones for development works in Koil",
-      "hindi": "* कोल में मुख्यमंत्री ने विकास कार्यों का लोकार्पण और शिलान्यास किया",
+      "english": "*Development works in Koil were inaugurated and their foundations laid",
+      "hindi": "*कोल में विकास कार्यों का लोकार्पण और शिलान्यास हुआ",
       "inference": true,
       "basis": "Inference: an event report, not a delivered benefit. Amar Ujala live blog 22 Jun 2026 (verified): the CM inaugurated and laid foundations for works in Aligarh Sadar, Koil assembly and the municipal corporation at Numaish Ground; no Koil project is named",
       "sources": [
@@ -37,7 +37,7 @@
     },
     {
       "rank": 3,
-      "english": "* 85 development projects worth over Rs 462 crore were inaugurated in Aligarh",
+      "english": "*85 development projects worth over Rs 462 crore were inaugurated in Aligarh",
       "hindi": "* अलीगढ़ में 462 करोड़ से ज्यादा की 85 विकास परियोजनाओं का लोकार्पण हुआ",
       "inference": true,
       "basis": "Inference: an event, not a delivered benefit. Sangrah Rajneeti (verified): 85 projects worth over Rs 462 crore for Aligarh, with the event covering Aligarh city and Koil assembly constituency; no Koil project is named. The article dateline is 23 Jun 2026 and it describes the event as Monday (22 Jun)",
@@ -47,8 +47,8 @@
     },
     {
       "rank": 4,
-      "english": "* A Rs 105 crore RCC drain plan for Aligarh city is approved but work has not begun",
-      "hindi": "* 105 करोड़ की आरसीसी ड्रेन योजना मंजूर हुई, काम अभी शुरू नहीं",
+      "english": "*In Aligarh, a Rs 105 crore RCC drain plan is approved but work has not begun",
+      "hindi": "*अलीगढ़ में 105 करोड़ की ड्रेन योजना मंजूर, काम अभी शुरू नहीं हुआ",
       "inference": true,
       "basis": "Inference: city-wide approval only; no Koil ward is named. Amar Ujala 6 Aug 2026 (verified): State Level Apex Committee approved Rs 105.28 crore for a 6.2 km RCC drain from Kwarsi crossing to Boneere nala; construction waits for the CM's final approval",
       "sources": [
@@ -69,7 +69,7 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "* Farmers say they get only four to five hours of power a day",
+      "english": "*Farmers say they get only four to five hours of power in 24 hours at Gangiri",
       "hindi": "* गंगीरी में 24 घंटे में सिर्फ चार-पांच घंटे बिजली मिल रही है",
       "inference": true,
       "basis": "Inference: district-level, Gangiri's Koil membership is not confirmed. Amar Ujala 21 Sep 2026 (verified): farmers sat in at Gangiri power station, saying the government orders more supply but they get four to five hours in 24. The report does not mention Koil or any assembly seat",
@@ -89,7 +89,7 @@
     },
     {
       "rank": 3,
-      "english": "* Gonda health centre building is crumbling and its campus floods in rain",
+      "english": "*The Gonda CHC building is dilapidated and more than 200 patients come to it daily",
       "hindi": "* गोंडा सीएचसी की इमारत जर्जर, रोज 200 से ज्यादा मरीज आते हैं",
       "inference": true,
       "basis": "Inference: district-level, Gonda's Koil membership is not confirmed. Amar Ujala 9 Oct 2026 (verified): Gonda CHC building dilapidated with cracks and falling plaster, over 200 OPD patients daily, and the campus about one foot below road level waterlogs in rain. The report names Aligarh only and does not mention Koil or any assembly seat",
@@ -99,8 +99,8 @@
     },
     {
       "rank": 4,
-      "english": "* Farmers waited a whole night at Dhanipur mandi and paddy still did not sell",
-      "hindi": "* धनीपुर मंडी में पूरी रात इंतजार, फिर भी धान नहीं बिका",
+      "english": "*Farmers waited a whole night at Dhanipur mandi and paddy still did not sell",
+      "hindi": "*धनीपुर मंडी में पूरी रात इंतज़ार किया, फिर भी धान नहीं बिका",
       "inference": true,
       "basis": "Inference: district-level, Dhanipur's tehsil and assembly seat are not confirmed. Amar Ujala 11 Oct 2026 (verified): farmers waited the whole night at Dhanipur mandi after it reopened, and paddy was still unsold by morning; the report does not name a tehsil or assembly seat",
       "sources": [
@@ -109,7 +109,7 @@
     },
     {
       "rank": 5,
-      "english": "Allegations of under-the-table dealings at the Koil tehsil registry office",
+      "english": "There is an allegation of transactions at the Koil tehsil registry office",
       "hindi": "कोल तहसील के रजिस्ट्री दफ्तर में लेनदेन का आरोप है",
       "inference": false,
       "basis": "Amar Ujala 1 Apr 2026 (verified): a seven-minute video circulating online alleges transactions at the Koil tehsil registry office; AIG (Stamp) has started an inquiry. Allegation only, no findings reported",
@@ -118,5 +118,5 @@
       ]
     }
   ],
-  "notes": "AC confirmed as No. 75 Koil, Aligarh district, reserved None, per the Wikipedia Koil constituency page. Extent (verified): Koil tehsil, KC Koil, PC Bhamola Mafi of Morthal KC, and Aligarh M Corp wards 7, 22, 28, 30-34, 36, 40-44, 47, 48, 49, 51, 52, 53, 57. The Wikipedia Koil tehsil page does not list its villages, so village membership is unconfirmed for every village in this file. Only 2 of 5 negatives (roads, registry) are Koil-named and sourced, which is below the 3-of-5 target. Repeated Hindi and English searches for other Koil-specific 2026 items (Koil tehsil villages, Koil wards, Gangiri power, Koil CHC, Koil roads completed, Koil drains) found none that name Koil. No Koil-specific delivered benefit was found, so all positives are events, approvals or statewide/district items and are flagged *. Checked and not used: the Aligarh power outage of 5 Aug 2026 and Karbala waterlogging of 4 Aug 2026 (city localities only, no Koil named); the Amar Ujala Aug 6 drain report names city roads and nalas only; a Koil tehsil land-map article (about four years old, 20 Koil tehsil villages) and a Gursikaran land dispute (old) were not used because their persistence is unknown; Kaudiyaganj boat-crossing report (Dec 2025) and Khair/Iglas items are in other tehsils or not confirmed inside Koil. Field check recommended: Gangiri power supply hours, Gonda CHC and Dhanipur mandi membership, Koil tehsil registry inquiry outcome, status of the six Koil road works, and any Koil-seat completed road, bridge or drain."
+  "notes": "AC confirmed as No. 75 Koil, Aligarh district, reserved None, per the Wikipedia Koil constituency page. Extent (verified): Koil tehsil, KC Koil, PC Bhamola Mafi of Morthal KC, and Aligarh M Corp wards 7, 22, 28, 30-34, 36, 40-44, 47, 48, 49, 51, 52, 53, 57. The Wikipedia Koil tehsil page does not list its villages, so village membership is unconfirmed for every village in this file. Only 2 of 5 negatives (roads, registry) are Koil-named and sourced, which is below the 3-of-5 target. Repeated Hindi and English searches for other Koil-specific 2026 items (Koil tehsil villages, Koil wards, Gangiri power, Koil CHC, Koil roads completed, Koil drains) found none that name Koil. No Koil-specific delivered benefit was found, so all positives are events, approvals or statewide/district items and are flagged *. Checked and not used: the Aligarh power outage of 5 Aug 2026 and Karbala waterlogging of 4 Aug 2026 (city localities only, no Koil named); the Amar Ujala Aug 6 drain report names city roads and nalas only; a Koil tehsil land-map article (about four years old, 20 Koil tehsil villages) and a Gursikaran land dispute (old) were not used because their persistence is unknown; Kaudiyaganj boat-crossing report (Dec 2025) and Khair/Iglas items are in other tehsils or not confirmed inside Koil. Field check recommended: Gangiri power supply hours, Gonda CHC and Dhanipur mandi membership, Koil tehsil registry inquiry outcome, status of the six Koil road works, and any Koil-seat completed road, bridge or drain. Edit pass: P1 basis says Siyakhas is not named as part of Koil, so this positive is not Koil-specific until confirmed. P2 weak positive: event only, no Koil project named. P3 weak positive: event only, city-wide, no Koil project named. P4 weak positive: approval only, city-wide, work not begun. P5 is statewide, not Koil. P2 no longer names the CM. N3 English drops the flooding detail to match the Hindi."
 }

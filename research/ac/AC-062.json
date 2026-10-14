@@ -10,8 +10,8 @@
   "positives": [
     {
       "rank": 1,
-      "english": "Dadri to Greater Noida overbridge has been built",
-      "hindi": "दादरी से ग्रेटर नोएडा के लिए ओवरब्रिज बन गया है",
+      "english": "The Dadri to Greater Noida overbridge is built, so it has been announced",
+      "hindi": "दादरी से ग्रेटर नोएडा ओवरब्रिज बन गया, ऐसा कहा गया है",
       "inference": false,
       "basis": "Amar Ujala (18 Sep 2026, updated same day): article lists a Dadri to Greater Noida overbridge among completed works, as stated by the local MLA at a press meeting; not independently verified. Completion date and cost not given. The article is Dadri-centred and does not name the vidhan sabha; Dadri town is inside AC 62 per the Wikipedia Dadri page extent.",
       "sources": [
@@ -24,8 +24,8 @@
     },
     {
       "rank": 2,
-      "english": "Road widening from Dadri towards Bulandshahr is moving fast",
-      "hindi": "दादरी से बुलंदशहर की ओर सड़क चौड़ीकरण तेजी से चल रहा है",
+      "english": "The Dadri-Bulandshahr road is being widened and work is moving fast",
+      "hindi": "दादरी-बुलंदशहर सड़क चौड़ी हो रही है, काम तेजी से चल रहा है",
       "inference": false,
       "basis": "ETV Bharat (19 Sep 2026, published 11:25 AM IST): widening of the road from Dadri via Chitehra to Bulandshahr and Sikandarabad is 'going fast' (तेजी से चल रहा है), with a median divider, two lanes each side and drains being built. Cost not stated. Under construction, not completed.",
       "sources": [
@@ -38,8 +38,8 @@
     },
     {
       "rank": 3,
-      "english": "CC road in Devla village has started, villagers had long demanded it",
-      "hindi": "देवला में सीसी रोड का काम शुरू हुआ, लंबे समय से मांग थी",
+      "english": "CC road work has started in Devla, a demand we had for a long time",
+      "hindi": "देवला में सीसी रोड का काम शुरू, हमारी लंबे समय से मांग थी",
       "inference": false,
       "basis": "Amar Ujala (26 Jun 2026, 7:55 PM IST): about 238 m CC road at Devla village, from the Dadri-Noida road to Aryavrat School, Rs 27 lakh; article says villagers had long demanded it. Work has just started, not completed. Article names Dadri as the assembly constituency.",
       "sources": [
@@ -52,8 +52,8 @@
     },
     {
       "rank": 4,
-      "english": "Rupwas bypass has been built to connect with GT Road",
-      "hindi": "रूपवास बाईपास बना, जीटी रोड से जोड़ा गया",
+      "english": "The Rupwas bypass is built and joined to GT Road, so it has been announced",
+      "hindi": "रूपवास बाईपास बनकर जीटी रोड से जुड़ गया, ऐसा कहा गया है",
       "inference": false,
       "basis": "Amar Ujala (18 Sep 2026): article says the Rupwas bypass was built to link with GT Road (जीटी रोड को जोड़ने के लिए रूपवास बाईपास का निर्माण कराया गया है), as stated by the local MLA; not independently verified. Cost and completion date not given.",
       "sources": [
@@ -66,8 +66,8 @@
     },
     {
       "rank": 5,
-      "english": "Canal bypass from Railway Road has eased travel towards Ghaziabad",
-      "hindi": "नहर बाईपास बनने से गाजियाबाद की ओर आने-जाने में राहत",
+      "english": "Railway Road to canal bypass has eased travel to Ghaziabad, so it has been announced",
+      "hindi": "रेलवे रोड से नहर बाईपास, गाजियाबाद जाने में राहत मिली, ऐसा कहा गया",
       "inference": false,
       "basis": "Amar Ujala (18 Sep 2026): article says the bypass from Railway Road to the canal has given relief to people travelling towards Ghaziabad (रेलवे रोड से नहर बाईपास बनने से गाजियाबाद की ओर आने-जाने वाले लोगों को राहत मिली है), as stated by the local MLA; not independently verified. Article is Dadri-centred; Railway Road is taken to be in Dadri town (inside AC 62 per Wikipedia extent).",
       "sources": [
@@ -82,8 +82,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Greater Noida West has no full government hospital, only Bisrakh CHC",
-      "hindi": "ग्रेटर नोएडा वेस्ट में पूरा सरकारी अस्पताल नहीं बिसरख सीएचसी ही सहारा",
+      "english": "Greater Noida West has no full government hospital, only Bisrakh CHC to rely on",
+      "hindi": "ग्रेटर नोएडा वेस्ट में पूरा सरकारी अस्पताल नहीं, बस बिसरख सीएचसी का सहारा",
       "inference": false,
       "basis": "NCR Khabar (last updated 26 Jun 2026): Bisrakh CHC, a 30-bed community health centre, is the only government facility for the area; district hospital in Noida 35-40 min away, GIMS 50-60 min. Resident association president quoted saying Greater Noida West is home to lakhs of people. Article states Greater Noida West falls under Dadri assembly (दादरी विधानसभा क्षेत्र के अंतर्गत आने वाले ग्रेटर नोएडा वेस्ट); Wikipedia extent says 'part of Greater Noida', without naming GNW.",
       "sources": [
@@ -96,8 +96,8 @@
     },
     {
       "rank": 2,
-      "english": "In rain, Greater Noida West basement parking fills with water (Eco Village-1)",
-      "hindi": "बारिश में बेसमेंट पार्किंग में पानी भर जाता है",
+      "english": "In rain, the basement parking at Eco Village-1 in Greater Noida West fills with water",
+      "hindi": "ईको विलेज-1 की बेसमेंट पार्किंग में बारिश का पानी भर जाता है",
       "inference": false,
       "basis": "ETV Bharat English (10 Jul 2026, 10:28 PM IST): residents of Eco Village-1 in Greater Noida West complained of waterlogging in the basement parking area, raising vehicle-safety concerns and water seeping from the basement ceiling. Replaces the earlier Tilpata item, whose AC membership could not be confirmed. AC 62 membership of Greater Noida West: Amar Ujala (25 Jul 2026) states Greater Noida West is currently part of Dadri vidhan sabha.",
       "sources": [
@@ -115,8 +115,8 @@
     },
     {
       "rank": 3,
-      "english": "Rain floods Dadri town, drainage has been a long-standing problem",
-      "hindi": "बारिश में दादरी नगर में पानी भर जाता है, निकासी नहीं",
+      "english": "In Dadri town rain waterlogs the road, and the drainage problem is long-standing",
+      "hindi": "दादरी नगर में बारिश में पानी भर जाता है, निकासी की समस्या पुरानी",
       "inference": false,
       "basis": "Raftar Today (page 'Last Updated: 7 Mar 2026'; original publication date not shown on the page): article describes waterlogging on rainy days on the GT Road to railway overbridge stretch in Dadri Nagar, a long-dilapidated road where residents faced waterlogging; officials and locals expect a drainage fix. Dadri Nagar is Dadri MB, inside AC 62 per Wikipedia extent.",
       "sources": [
@@ -129,7 +129,7 @@
     },
     {
       "rank": 4,
-      "english": "Greater Noida West lacks government school, cremation ground and parks",
+      "english": "Greater Noida West has not even one government school, cremation ground or park",
       "hindi": "ग्रेटर नोएडा वेस्ट में सरकारी स्कूल, श्मशान घाट और पार्क तक नहीं",
       "inference": false,
       "basis": "NCR Khabar (last updated 4 Jul 2026): residents say not even one government school is available, there is no public cremation ground, and parks, stadium and Ramlila ground are lacking; a resident says 7-8 years of demand for a government multi-specialty hospital. Article states Greater Noida West falls under Dadri vidhan sabha.",
@@ -148,8 +148,8 @@
     },
     {
       "rank": 5,
-      "english": "Society maintenance charges raised, residents fear services will be cut",
-      "hindi": "सोसाइटी का मेंटेनेंस बढ़ा, अब सुविधाएं कटने का डर",
+      "english": "In Greater Noida West, society maintenance has gone up and residents fear services will be cut",
+      "hindi": "ग्रेटर नोएडा वेस्ट में सोसाइटी का मेंटेनेंस बढ़ा, सुविधाएं कटने का डर",
       "inference": false,
       "basis": "NCR Khabar (last updated 6 Sep 2026; original publication date not shown): a Greater Noida West society's maintenance charges were raised; residents are unhappy; the maintenance company's email said services beyond the main facilities would be reduced; the article cites inflation, fuel prices and a guard salary rise as cost drivers. Article is filed under Dadri assembly. Source is a politics-heavy column; only the maintenance facts are used here.",
       "sources": [

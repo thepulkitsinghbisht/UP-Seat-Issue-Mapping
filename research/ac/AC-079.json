@@ -20,8 +20,8 @@
     },
     {
       "rank": 2,
-      "english": "A drinking water kiosk and a waiting room have been built near the bus stand",
-      "hindi": "बस स्टैंड पर प्याऊ और प्रतीक्षालय बन गया, गर्मी में राहत",
+      "english": "A drinking water kiosk and a waiting room have been built at the bus stand, giving relief in the heat",
+      "hindi": "बस स्टैंड पर प्याऊ और प्रतीक्षालय बन गए, गर्मी में राहत",
       "inference": false,
       "basis": "Amar Ujala video report (published 14 Jul 2026; the inauguration was on the Monday before, i.e. 13 Jul) says a pyau (free drinking water point) and a passenger waiting room near the Sadabad bus stand were inaugurated by the local MP and MLA, on the initiative of the Nagar Panchayat chairperson. The report says the facilities give travellers relief from heat and rain. Completed facility, so a delivered benefit. Town-level, inside the Nagar Panchayat.",
       "sources": [
@@ -40,8 +40,8 @@
     },
     {
       "rank": 4,
-      "english": "Complaints are heard at grievance days, and some are settled on the spot",
-      "hindi": "समाधान दिवस में शिकायतें सुनी गईं, कुछ का मौके पर हल हुआ",
+      "english": "At a grievance day, some complaints were settled on the spot",
+      "hindi": "समाधान दिवस में कुछ शिकायतें मौके पर ही निपट गईं",
       "inference": false,
       "basis": "Dainik Bhaskar (published 16 May 2026): a Sampoorna Samadhan Diwas joint hearing was held in Sadabad tehsil with the MLA, the DM and the SP. 235 complaints were received across the district, and 15 were resolved on the spot. District-level figures (the event covered all four tehsils); the article does not say how many complaints came from this AC.",
       "sources": [
@@ -51,7 +51,7 @@
     {
       "rank": 5,
       "english": "A power fault at the Marghat Road substation was repaired and supply came back the same day",
-      "hindi": "उपकेंद्र की खराबी उसी दिन ठीक हुई, बिजली वापस आ गई",
+      "hindi": "मारघाट रोड उपकेंद्र की खराबी उसी दिन ठीक हुई, बिजली आ गई",
       "inference": false,
       "basis": "Amar Ujala (16 Sep 2026): a cable box fault in the cold feeder at the 33/11 kV Marghat Road substation in Sadabad cut supply for about 2,000 consumers from about 8 AM; XEN said it was repaired and supply restored, about 1:30 PM. Single incident and an official account, so this is the weakest positive. The same incident is used in negative 2.",
       "sources": [
@@ -119,5 +119,5 @@
     "ac_specific_negatives": 4,
     "changes": "Opened all 8 unique cited URLs and checked each claim. Corrected the TDS basis (article says 'above 1800-2000', not a range), the market road claim (article says a large part was built overnight, not half), and the road positive (the 925 of 1,100 m figure is the concrete stretch, not the whole town stretch). Shortened Hindi lines to 13 words or fewer; reworded positive 1 to say most concrete work is done. Re-ranked positives (road widening first). Replaced the saline-water and Sadabad-Raya naming in statements with the Sadabad town/Mathura wording the sources use. Searched for sugarcane dues, stray cattle, hospital and local project reports for Sadabad 2024-26: none found. Searched AC extent: Wikipedia AC page gives no extent; a community wiki and the Hathras district page do not map villages to Sadabad AC; Prabhat Khabar and Hindi Wikipedia could not be read (410/404/403). Dropped the Patrika 2018 saline report (too old, names two ACs) and the Ucha Gaon police chowki (police station area, not AC-confirmed)."
   },
-  "notes": "Identity confirmed from the Wikipedia 'List of constituencies of the Uttar Pradesh Legislative Assembly' row: 79 Sadabad, district Hathras, reserved status None. The Sadabad Assembly constituency Wikipedia page gives no tehsils, villages or wards, so AC membership of the Sadabad town items rests on the namesake rule (Sadabad Nagar Panchayat town) and on news reports naming Sadabad town. A community wiki (bharatpedia, unverified, could not be opened) claims Sadabad tehsil plus KC Mursan and Mursan NP; the Hathras district Wikipedia page lists Sadabad as one of the three constituencies named in the district but does not map villages to it. Sadabad-area villages were not used because AC membership is unconfirmed. The MLA name differs between sources (Wikipedia AC page, Amar Ujala and Bhaskar reports, and an older listing), so no politician name is used in any statement. Road naming conflict: the Amar Ujala 31 May 2026 headline says Sadabad-Raya, the body says Sadabad-Mathura. The Mathura-side stretch is AC-unconfirmed (negative 5). No Sadabad-specific 2024-26 sugarcane dues or stray-cattle source was found. Field checks recommended: current status of the Marghat Road substation cable, the drain works, the Amrit 2.0 tanks (June 2026 target passed), the market road's next phase, and whether the Mathura-side stretch has started."
+  "notes": "P3 weak positive: partly built, and the June 2026 target has passed with no later update; the article says delivery is hard because of water quality. P4 weak positive: district-wide hearing figures (15 of 235 complaints settled on the spot), not AC-specific. P5 weak positive: a single outage fix, reported by the utility. Identity confirmed from the Wikipedia 'List of constituencies of the Uttar Pradesh Legislative Assembly' row: 79 Sadabad, district Hathras, reserved status None. The Sadabad Assembly constituency Wikipedia page gives no tehsils, villages or wards, so AC membership of the Sadabad town items rests on the namesake rule (Sadabad Nagar Panchayat town) and on news reports naming Sadabad town. A community wiki (bharatpedia, unverified, could not be opened) claims Sadabad tehsil plus KC Mursan and Mursan NP; the Hathras district Wikipedia page lists Sadabad as one of the three constituencies named in the district but does not map villages to it. Sadabad-area villages were not used because AC membership is unconfirmed. The MLA name differs between sources (Wikipedia AC page, Amar Ujala and Bhaskar reports, and an older listing), so no politician name is used in any statement. Road naming conflict: the Amar Ujala 31 May 2026 headline says Sadabad-Raya, the body says Sadabad-Mathura. The Mathura-side stretch is AC-unconfirmed (negative 5). No Sadabad-specific 2024-26 sugarcane dues or stray-cattle source was found. Field checks recommended: current status of the Marghat Road substation cable, the drain works, the Amrit 2.0 tanks (June 2026 target passed), the market road's next phase, and whether the Mathura-side stretch has started."
 }

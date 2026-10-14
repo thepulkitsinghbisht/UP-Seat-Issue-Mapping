@@ -12,7 +12,7 @@
     {
       "rank": 1,
       "english": "Khair-Jattari road widening has started and people hope it will ease the jams",
-      "hindi": "खैर-जट्टारी मार्ग का चौड़ीकरण शुरू हुआ, जाम से राहत की उम्मीद",
+      "hindi": "खैर-जट्टारी सड़क का चौड़ीकरण शुरू हो गया, जाम कम होने की उम्मीद है",
       "inference": false,
       "basis": "Article says construction began 13 April from Arrana Kante to Hamidpur Yamuna bridge, cost about Rs 88 crore, target one year; MLA inspected the work",
       "sources": [
@@ -25,8 +25,8 @@
     },
     {
       "rank": 2,
-      "english": "A four-bed cooling ward has been set up at Khair CHC for heatstroke patients",
-      "hindi": "खैर सीएचसी में लू से बचाव के लिए चार बेड का कूलिंग वार्ड बना है",
+      "english": "A four-bed cooling ward for heat relief has been set up at Khair CHC",
+      "hindi": "खैर सीएचसी में लू के लिए चार बेड का कूलिंग वार्ड बन गया",
       "inference": false,
       "basis": "Cooling ward built next to CHC emergency with four beds; CHC president said the heat relief room will run as a permanent arrangement",
       "sources": [
@@ -39,8 +39,8 @@
     },
     {
       "rank": 3,
-      "english": "Khair's registration office reopened after 25 days and registry work has resumed",
-      "hindi": "25 दिन बंद रहा खैर का निबंधन कार्यालय, अब रजिस्ट्री फिर शुरू हुई",
+      "english": "Khair's registration office reopened and 120 registrations were done on the first day",
+      "hindi": "खैर का निबंधन दफ्तर खुला, पहले ही दिन 120 रजिस्ट्री हुईं",
       "inference": false,
       "basis": "Registration work reopened on 3 July 2026 after the lawyers' protest ended; 120 registrations on the first day",
       "sources": [
@@ -53,8 +53,8 @@
     },
     {
       "rank": 4,
-      "english": "*A 10 km bypass on the Aligarh-Palwal road at Khair is proposed to ease jams",
-      "hindi": "*खैर में जाम से राहत के लिए अलीगढ़-पलवल मार्ग पर बाईपास का प्रस्ताव है",
+      "english": "*A bypass on the Aligarh-Palwal road is proposed at Khair to ease jams",
+      "hindi": "*खैर में जाम से राहत के लिए अलीगढ़-पलवल मार्ग पर बाईपास प्रस्तावित है",
       "inference": true,
       "basis": "Inference: only a proposal awaiting board approval on 13 Aug 2026, not a started or completed project; included because no completed Khair-specific relief was found. Source gives 10 km, 35 m wide, about Rs 70 crore",
       "sources": [
@@ -67,7 +67,7 @@
     },
     {
       "rank": 5,
-      "english": "*A Rs 362 crore plan for 114 roads totalling 169 km is planned for Khair constituency",
+      "english": "*A plan for 114 roads totalling 169 km has come for Khair constituency",
       "hindi": "*खैर की 114 सड़कों के लिए 169 किमी की योजना आई है",
       "inference": true,
       "basis": "Inference: a plan figure from an Aligarh-division roads article, not confirmed as sanctioned or started; only the Khair constituency mention is Khair-specific",
@@ -83,8 +83,8 @@
   "negatives": [
     {
       "rank": 1,
-      "english": "Five hours of jam at Khair mandi left school buses stuck and children reached school late",
-      "hindi": "खैर मंडी में पांच घंटे जाम, स्कूल बसें फंसीं, बच्चे देर से पहुंचे",
+      "english": "More than five hours of jam at Khair mandi made students reach school late",
+      "hindi": "खैर मंडी में पांच घंटे से ज़्यादा जाम, बच्चे देर से स्कूल पहुंचे",
       "inference": false,
       "basis": "Jam from about 4 AM on Friday 25 Sep 2026 at Khair mandi on the Aligarh-Palwal road lasted over five hours; private school managers said students were delayed 1.5 to 2 hours; CO said police were short-staffed; paddy arrivals rose because Igalas and Dhanipur mandis were closed",
       "sources": [
@@ -112,7 +112,7 @@
     {
       "rank": 3,
       "english": "Khair's registration office stayed shut for 25 days and registry work stopped",
-      "hindi": "25 दिन तक खैर का निबंधन कार्यालय बंद रहा, रजिस्ट्री का काम ठप रहा",
+      "hindi": "खैर का निबंधन दफ्तर 25 दिन बंद रहा, रजिस्ट्री का काम ठप रहा",
       "inference": false,
       "basis": "Khair tehsil registration work was shut 25 days; lawyers boycotted the office from 9 June 2026 in protest against privatisation of registration; reopened 3 July 2026",
       "sources": [
@@ -125,7 +125,7 @@
     },
     {
       "rank": 4,
-      "english": "Khair mandi gets heavy jams during crop purchases; the DM asked for a token system and alternate vehicle routes",
+      "english": "Khair mandi gets heavy jams during crop purchases",
       "hindi": "खैर मंडी में फसल खरीद के समय भारी जाम लगता है",
       "inference": false,
       "basis": "Mandi Samiti Khair (in Khair town, namesake rule). DM visited on 31 Oct 2025 and heard traders; jams during paddy, wheat and potato purchase; token system to be introduced and alternate vehicle routes asked for. Replaces the earlier millet item, which was tehsil-level and not AC-specific",
@@ -139,8 +139,8 @@
     },
     {
       "rank": 5,
-      "english": "Unannounced power cuts in the heat are troubling farmers, and they gave a memorandum at the substation",
-      "hindi": "अघोषित बिजली कटौती से गर्मी में किसान परेशान, बिजलीघर पर ज्ञापन दिया",
+      "english": "We farmers are troubled by power cuts in the heat and gave a memorandum at the substation",
+      "hindi": "हम किसान गर्मी में बिजली कटौती से परेशान हैं, बिजलीघर पर ज्ञापन दिया",
       "inference": false,
       "basis": "District-level: farmers and villagers gave a memorandum at Jattari substation to the SDO, warning of protest; article gives no hours and names no village; does not name Khair; AC membership of Jattari unconfirmed",
       "sources": [
@@ -152,7 +152,7 @@
       ]
     }
   ],
-  "notes": "AC 71 confirmed on the Wikipedia constituency list as Khair (SC), Aligarh district. The Wikipedia AC page (Khair Assembly constituency) gives constituency number 71, SC reservation, Aligarh district and 2012 electorate, but has no extent, tehsil or village list, so Khair town is treated as inside the AC under the namesake rule. Khair tehsil villages and blocks are not confirmed. Negatives 1, 2, 3 and 4 are Khair-town specific (mandi, Pathwari temple to Somna bypass road, tehsil registry office, Khair mandi purchase jams). Negative 5 (Jattari substation power cuts) is district-level and does not name Khair; AC membership of Jattari is unconfirmed, so it is not counted. Positives 4 and 5 are a proposed bypass awaiting board approval and a plan figure for 114 roads in Khair constituency; both are flagged as inference. No completed Khair-town benefit beyond the three in positives 1-3 was found. Positive 3 and negative 3 rest on the same article (registry closed, then reopened); this is one event seen from both sides. Positive 5 source names Khair constituency explicitly; the Pathwari road in negative 2 is named in the same article, which is district-wide. Patrika Khair memorandum (BKU Harpal faction, Tehsil Khair SDM) was re-checked: the page shows publication 16 Jul 2022, so it is not used. Excluded as electoral: the Jan 2026 Amar Ujala report on documents sought from 20,000 voters. Not used: Udayavani 2018 stray-cattle report (old), Amar Ujala Dec 2024 Anni village cow remains (old, village AC membership unconfirmed), and Khair Samadhan Diwas reports (dates or Khair-specific lines unverified). Searches this round (Khair town water, drainage, roads, CHC, encroachment and bus stand, power, Khair mandi 2026, Somna road) returned no further 2024-26 Khair-town items. Field check suggested: drinking water supply in Khair town, CHC staffing, stray cattle and gaushala status, whether Jattari substation serves AC 71 villages, and Khair mandi token system status.",
+  "notes": "AC 71 confirmed on the Wikipedia constituency list as Khair (SC), Aligarh district. The Wikipedia AC page (Khair Assembly constituency) gives constituency number 71, SC reservation, Aligarh district and 2012 electorate, but has no extent, tehsil or village list, so Khair town is treated as inside the AC under the namesake rule. Khair tehsil villages and blocks are not confirmed. Negatives 1, 2, 3 and 4 are Khair-town specific (mandi, Pathwari temple to Somna bypass road, tehsil registry office, Khair mandi purchase jams). Negative 5 (Jattari substation power cuts) is district-level and does not name Khair; AC membership of Jattari is unconfirmed, so it is not counted. Positives 4 and 5 are a proposed bypass awaiting board approval and a plan figure for 114 roads in Khair constituency; both are flagged as inference. No completed Khair-town benefit beyond the three in positives 1-3 was found. Positive 3 and negative 3 rest on the same article (registry closed, then reopened); this is one event seen from both sides. Positive 5 source names Khair constituency explicitly; the Pathwari road in negative 2 is named in the same article, which is district-wide. Patrika Khair memorandum (BKU Harpal faction, Tehsil Khair SDM) was re-checked: the page shows publication 16 Jul 2022, so it is not used. Excluded as electoral: the Jan 2026 Amar Ujala report on documents sought from 20,000 voters. Not used: Udayavani 2018 stray-cattle report (old), Amar Ujala Dec 2024 Anni village cow remains (old, village AC membership unconfirmed), and Khair Samadhan Diwas reports (dates or Khair-specific lines unverified). Searches this round (Khair town water, drainage, roads, CHC, encroachment and bus stand, power, Khair mandi 2026, Somna road) returned no further 2024-26 Khair-town items. Field check suggested: drinking water supply in Khair town, CHC staffing, stray cattle and gaushala status, whether Jattari substation serves AC 71 villages, and Khair mandi token system status. Edit pass: P3 now states the first-day count (120 registrations) and N3 the 25-day closure, so the two no longer restate the same fact; both kept. P4 weak positive: a proposal awaiting board approval, not a started or completed project. P5 weak positive: a plan figure, not confirmed as sanctioned or started. N1 no longer says school buses were stuck (not in basis). N5 drops 'unannounced' (not in basis).",
   "round2": {
     "verified_sources": 11,
     "removed_sources": 0,
