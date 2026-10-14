@@ -1,0 +1,150 @@
+{
+  "ac_no": 65,
+  "ac_name": "Bulandshahr",
+  "ac_name_hindi": "बुलंदशहर",
+  "reserved": "None",
+  "district": "Bulandshahr",
+  "region": "Paschim UP",
+  "summary": "Complaints centre on potholed city roads, broken colony lanes, waterlogging and garbage in Bulandshahr town, while the start of emergency surgery at the new medical college building is the main visible gain, though local evidence on water, power and stray cattle is thin.",
+  "identity_source": "https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Uttar_Pradesh_Legislative_Assembly",
+  "positives": [
+    {
+      "rank": 1,
+      "english": "Emergency operations have started in the new medical college building, and patients are getting surgery here",
+      "hindi": "मेडिकल कॉलेज के नए भवन में इमरजेंसी का ऑपरेशन शुरू हो गया है",
+      "inference": false,
+      "basis": "Amar Ujala, 30 May 2026, datelined Bulandshahr: emergency operation theatre for serious patients started in the new Kalyan Singh Government Medical College building; acting principal says 30 operations done so far, general and orthopaedic surgery first. The article does not state the exact street address, so the town (namesake rule) is the basis for AC membership.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-05-30",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/now-you-can-get-operation-done-in-emergency-facility-started-bulandshahr-news-c-133-1-bul1004-155995-2026-05-30"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "Dengue and malaria cases are far fewer than in earlier years",
+      "hindi": "डेंगू और मलेरिया के मरीज पहले के मुकाबले काफी कम हैं",
+      "inference": false,
+      "basis": "District-level, not city-specific: Amar Ujala, 1 Oct 2026, states dengue 8 cases this year versus 77 in earlier years, and malaria 16 versus 53. The paper presents these as district figures, so the statement is a district claim, not a neighbourhood fact.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-shines-in-the-statistics-while-cleanliness-struggles-on-the-streets-bulandshahr-news-c-133-1-bul1001-167046-2026-10-01"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "*Nagar Palika says repairs of colony roads are in progress",
+      "hindi": "*सुनने में आया है कि कॉलोनियों की सड़कों की मरम्मत चल रही है",
+      "inference": true,
+      "basis": "Inference: the only evidence is the Nagar Palika EO's own claim in the 3 Apr 2026 Amar Ujala article (damaged roads surveyed, repairs in progress, colony roads to be fixed soon). Residents in the same article say repeated complaints were ignored, so this is not confirmed as a benefit. Field check needed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/roads-from-kalaam-to-the-colonies-are-in-bad-shape-vehicles-swerve-in-potholes-bulandshahr-news-c-133-1-bul1001-151387-2026-04-03"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Five new operation theatres in the medical college building should ease the rush for surgery",
+      "hindi": "*नए भवन में ऑपरेशन थियेटर बढ़ने से मरीजों को राहत मिलेगी",
+      "inference": true,
+      "basis": "Inference: a plan, not a delivered benefit. The 28 Mar 2026 Amar Ujala article says five operation rooms were being set up in the new building and expected to run from April, and that surgery was then done in one room in the old building. The 30 May 2026 article shows only the emergency OT running. Field check needed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-03-28",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/relief-operations-will-start-soon-in-the-new-building-of-the-medical-college-bulandshahr-news-c-133-1-bul1004-151012-2026-03-28"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Road work worth about Rs 10 crore has been sanctioned for each assembly seat",
+      "hindi": "*हर विधानसभा में करीब 10 करोड़ की सड़कें मंजूर हुई हैं",
+      "inference": true,
+      "basis": "Inference, district-level: Amar Ujala, 29 Aug 2026, says about Rs 10 crore per assembly constituency was sanctioned for 39 roads across Bulandshahr district, with the first Rs 25 crore instalment released. Work had not started (tenders being prepared). The article does not name any road in AC 65, so AC membership is unconfirmed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-08-29",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/39-roads-in-the-district-will-be-constructed-at-a-cost-of-70-crore-bulandshahr-news-c-133-1-bul1001-164034-2026-08-29"
+        }
+      ]
+    }
+  ],
+  "negatives": [
+    {
+      "rank": 1,
+      "english": "Potholes on the Kala Aam, Chandpur and Bhood roads make every journey dangerous, especially for two-wheelers",
+      "hindi": "कालाआम, चांदपुर रोड और भूड़ चौराहे पर गड्ढे ही गड्ढे, सफर खतरनाक है",
+      "inference": false,
+      "basis": "Amar Ujala, 14 Sep 2026, under the Bulandshahr city (नगर) heading: Kala Aam to Syana Adda, Bhood Chauraha and Chandpur Road have potholes; 'कहीं गड्ढों में पानी भरा है तो कहीं सड़क की गिट्टियां बाहर निकल आई हैं'; two-wheelers at greatest risk at night with poor streetlighting; repairs soon undone. The 500 km figure in the article covers the whole district.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/500-kilometers-of-roads-riddled-with-potholes-every-journey-is-becoming-a-nightmare-bulandshahr-news-c-133-1-bul1033-165346-2026-09-14"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "english": "The Kalaam crossing and colony lanes are broken, and residents say complaints have been ignored",
+      "hindi": "कालाआम चौराहे और कॉलोनियों की सड़कें टूटी हैं, शिकायत के बाद भी सुनवाई नहीं",
+      "inference": false,
+      "basis": "Amar Ujala, 3 Apr 2026, datelined Bulandshahr, Nagar Palika area: deep potholes on the Kalaam roundabout with two-wheeler accidents; Hari Enclave road fully broken; Yamunapur road dust reaching homes; Devipura road half dug up and stalled. Residents say 'बार-बार शिकायत करने के बावजूद भी जिम्मेदार अधिकारियों ने समस्या के समाधान की ओर ध्यान नहीं दिया'. EO Nagar Palika, Dr. Ashwani Kumar, says survey done and repairs in progress.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-04-03",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/roads-from-kalaam-to-the-colonies-are-in-bad-shape-vehicles-swerve-in-potholes-bulandshahr-news-c-133-1-bul1001-151387-2026-04-03"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "english": "Garbage lies scattered in our mohallas even though the city is shown as clean on paper",
+      "hindi": "मोहल्लों में कूड़ा सड़कों पर बिखरा है, सफाई सिर्फ़ फाइलों में है",
+      "inference": false,
+      "basis": "District-level article, Amar Ujala, 1 Oct 2026: 'पर मोहल्लों में कूड़ा सड़कों पर बिखरा है'; garbage piles on Bulandshahr nagar palika and other town roads; many segregation centres locked; garbage vehicles run on paper and GPS. The article names the Bulandshahr nagar palika but gives no neighbourhood-level detail.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-10-01",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-shines-in-the-statistics-while-cleanliness-struggles-on-the-streets-bulandshahr-news-c-133-1-bul1001-167046-2026-10-01"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "english": "*Rain water stands on our roads and lanes because drains are not cleaned properly",
+      "hindi": "*बारिश में सड़कों पर पानी भर जाता है, नालियां ठीक से साफ नहीं होतीं",
+      "inference": true,
+      "basis": "Inference: the 14 Sep 2026 Amar Ujala city-roads report says rain turns roads into mud and 'waterlogged stretches' and that conditions worsen after rain. No Bulandshahr city report on drain cleaning was found, so the drainage cause is inferred. Field check needed.",
+      "sources": [
+        {
+          "outlet": "Amar Ujala",
+          "date": "2026-09-14",
+          "url": "https://www.amarujala.com/uttar-pradesh/bulandshahr/500-kilometers-of-roads-riddled-with-potholes-every-journey-is-becoming-a-nightmare-bulandshahr-news-c-133-1-bul1033-165346-2026-09-14"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "english": "*Drinking water supply in our area is irregular",
+      "hindi": "*पानी की सप्लाई अनियमित रहती है",
+      "inference": true,
+      "basis": "Inference, no source: searches in Hindi and English for Bulandshahr city water supply, pipelines and complaints in 2025-26 returned nothing specific. Water is a common voter complaint in UP towns, but this is not confirmed for AC 65. Field check needed.",
+      "sources": []
+    }
+  ],
+  "ac_specific_negatives": 3,
+  "notes": "AC 65 confirmed as Bulandshahr, district Bulandshahr, reserved None (Wikipedia list). Extent per the Bulandshahr Assembly constituency Wikipedia page includes 'Bulandshahr MB of Bulandshahr Tehsil', so the town counts under the namesake rule; the list of named villages (Luharli, Joligarh, Akhtayarpur, Sihi, Aulena and others) was not used in any item. Excluded as other ACs: Khurja GT Road waterlogging and road articles (Khurja), Shikarpur drainage and works (Shikarpur), Hapur waterlogging and Alok Colony (Hapur), and Anupshahr road project (Anupshahr). Excluded as dated: Patrika sugar-mill protest, dated 2018 in the article body. Excluded as not local: statewide cane-dues figures from The Quint. Not found for AC 65 after about 30 Hindi and English searches: city-specific water supply, power cuts, stray cattle, sugarcane dues, hospital complaints, or any Dainik Jagran or Hindustan report. The medical college location is inferred from the district hospital complex and Bulandshahr dateline, not stated as a street address. Positives 3 to 5 and negatives 4 to 5 are inference-flagged; the field check should focus on water supply, power, stray cattle and drainage in the city mohallas."
+}
